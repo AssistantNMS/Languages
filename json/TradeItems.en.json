@@ -1,0 +1,250 @@
+[
+	{
+		"Id": "trade1",
+		"Icon": "tradeItems/1.png",
+		"Name": "Acid",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Dilute acid for high current generation in diverse power cells.\nCrafted from Mordite and Fungal Mould.\n",
+		"BaseValueUnits": 188000
+	},
+	{
+		"Id": "trade2",
+		"Icon": "tradeItems/2.png",
+		"Name": "Heat Capacitor",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A thermal regulator produced from refined organic material. It is unique in its ability to produce, dissipate and distribute heat as required.\n",
+		"BaseValueUnits": 180000
+	},
+	{
+		"Id": "trade3",
+		"Icon": "tradeItems/3.png",
+		"Name": "Poly Fibre",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A connective fibre for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data.\nCrafted from Cactus Flesh and Star Bulbs.\n",
+		"BaseValueUnits": 130000
+	},
+	{
+		"Id": "trade4",
+		"Icon": "tradeItems/4.png",
+		"Name": "Circuit Board",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Stackable, semi-flexible circuit board made from a highly durable synthetic polymer.\nCrafted from Heat Capacitors and Poly Fibre.\n",
+		"BaseValueUnits": 916250
+	},
+	{
+		"Id": "trade5",
+		"Icon": "tradeItems/5.png",
+		"Name": "Glass",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use.\nCrafted from Frost Crystals.\n",
+		"BaseValueUnits": 13000
+	},
+	{
+		"Id": "trade6",
+		"Icon": "tradeItems/6.png",
+		"Name": "Unstable Gel",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A highly reactive gel, this substance is both energy-rich and dangerous to touch.\nCrafted from Cactus Flesh.\n",
+		"BaseValueUnits": 80000
+	},
+	{
+		"Id": "trade7",
+		"Icon": "tradeItems/7.png",
+		"Name": "Liquid Explosive",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink.\n",
+		"BaseValueUnits": 1000500
+	},
+	{
+		"Id": "trade8",
+		"Icon": "tradeItems/8.png",
+		"Name": "Lubricant",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts.\nCrafted from Coprite and Gamma Root.\n",
+		"BaseValueUnits": 160000
+	},
+	{
+		"Id": "trade9",
+		"Icon": "tradeItems/9.png",
+		"Name": "Living Glass",
+		"Group": "Advanced Agricultural Product",
+		"Description": "An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required.\n",
+		"BaseValueUnits": 696000
+	},
+	{
+		"Id": "trade10",
+		"Icon": "tradeItems/10.png",
+		"Name": "Enriched Carbon",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, taking ordinary carbon and boosting it with radioactive energy.\nCrafted from Radon and Condensed Carbon.\n",
+		"BaseValueUnits": 50000
+	},
+	{
+		"Id": "trade11",
+		"Icon": "tradeItems/11.png",
+		"Name": "Nitrogen Salt",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, this is a powerful organic fertiliser in an easily distributed form.\nCrafted from Nitrogen and Condensed Carbon.\n",
+		"BaseValueUnits": 50000
+	},
+	{
+		"Id": "trade12",
+		"Icon": "tradeItems/12.png",
+		"Name": "Thermic Condensate",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, holding the energy potential of heated atmospheric gas in a stable state until required. \nCrafted from Sulphurine and Condensed Carbon.\n",
+		"BaseValueUnits": 50000
+	},
+	{
+		"Id": "trade13",
+		"Icon": "tradeItems/13.png",
+		"Name": "Hot Ice",
+		"Group": "Manufactured Gas Product",
+		"Description": "A paradoxical material, made less mysterious by its relative ease of manufacture.\nCrafted from Enriched Carbon and Nitrogen Salt.\n",
+		"BaseValueUnits": 400000
+	},
+	{
+		"Id": "trade14",
+		"Icon": "tradeItems/14.png",
+		"Name": "Cryo-Pump",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced, self-regulating hybrid material, the Cryo-Pump distributes heat across itself with near perfect efficiency, making it vital in the creation of thermal regulators.\nCrafted from Hot Ice and Thermic Condensate.\n",
+		"BaseValueUnits": 1000000
+	},
+	{
+		"Id": "trade15",
+		"Icon": "tradeItems/15.png",
+		"Name": "Semiconductor",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced material useful in many electronic devices, with its own in-built temperature regulator.\nCrafted from Thermic Condensate and Nitrogen Salt.\n",
+		"BaseValueUnits": 320000
+	},
+	{
+		"Id": "trade16",
+		"Icon": "tradeItems/16.png",
+		"Name": "Organic Catalyst",
+		"Group": "Manufactured Gas Product",
+		"Description": "A catalytic material used in the creation of many organic fertilizers.\nCrafted from Thermic Condensate and Enriched Carbon.\n",
+		"BaseValueUnits": 320000
+	},
+	{
+		"Id": "trade17",
+		"Icon": "tradeItems/17.png",
+		"Name": "Superconductor",
+		"Group": "Manufactured Gas Product",
+		"Description": "A catalytic material used in the creation of many organic fertilizers.\nCrafted from Thermic Condensate and Enriched Carbon.\n",
+		"BaseValueUnits": 2000000
+	},
+	{
+		"Id": "trade18",
+		"Icon": "tradeItems/18.png",
+		"Name": "Fusion Accelerant",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced fuel source, made from a perfect blend of high potential energy organic materials.\nCrafted from Organic Catalyst and Nitrogen Salt.\n",
+		"BaseValueUnits": 1500000
+	},
+	{
+		"Id": "trade19",
+		"Icon": "tradeItems/19.png",
+		"Name": "Cryogenic Chamber",
+		"Group": "Advanced Crafted Product",
+		"Description": "A low temperature chamber, designed to prevent the natural decay of organic matter.\nCrafted from Living Glass and a Cryo-Pump.\n",
+		"BaseValueUnits": 3800000
+	},
+	{
+		"Id": "trade20",
+		"Icon": "tradeItems/20.png",
+		"Name": "Portable Reactor",
+		"Group": "Advanced Crafted Product",
+		"Description": "A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module.\nCrafted from Liquid Explosives and Fusion Accelerant.\n",
+		"BaseValueUnits": 4200000
+	},
+	{
+		"Id": "trade21",
+		"Icon": "tradeItems/21.png",
+		"Name": "Quantum Processor",
+		"Group": "Advanced Crafted Product",
+		"Description": "A highly advanced computational device, essential for the complex calculations involved in warp travel.\nCrafted from Circuit Boards and Superconductors.\n",
+		"BaseValueUnits": 5200000
+	},
+	{
+		"Id": "trade22",
+		"Icon": "tradeItems/22.png",
+		"Name": "Aronium",
+		"Group": "Alloy Metal",
+		"Description": "A lightweight and highly malleable alloy. Crafted from Paraffinium and Chlorine.\nIn high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities.\n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade23",
+		"Icon": "tradeItems/23.png",
+		"Name": "Dirty Bronze",
+		"Group": "Alloy Metal",
+		"Description": "A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favor of the popular term for its colour.\n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade24",
+		"Icon": "tradeItems/24.png",
+		"Name": "Grantine",
+		"Group": "Alloy Metal",
+		"Description": "Soft workable alloy favored by artisans throughout the known galaxy. \nA popular trading good, with many galactic shipping paths devoted to its sale and transport.\n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade25",
+		"Icon": "tradeItems/25.png",
+		"Name": "Herox",
+		"Group": "Alloy Metal",
+		"Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Ionised Cobalt and Ammonia.\nForms the backbone of galactic alloy trading. \n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade26",
+		"Icon": "tradeItems/26.png",
+		"Name": "Magno-Gold",
+		"Group": "Alloy Metal",
+		"Description": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from Ionised Cobalt and Phosphorus.\nEasily recognisable by its bright red glow and strong magnetic field.\n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade27",
+		"Icon": "tradeItems/27.png",
+		"Name": "Lemmium",
+		"Group": "Alloy Metal",
+		"Description": "Geodesite is a trade item that is used for crafting.\n",
+		"BaseValueUnits": 25000
+	},
+	{
+		"Id": "trade28",
+		"Icon": "tradeItems/28.png",
+		"Name": "Geodesite",
+		"Group": "Enriched Alloy Metal",
+		"Description": "Geodesite is a trade item that is used for crafting.\n",
+		"BaseValueUnits": 150000
+	},
+	{
+		"Id": "trade29",
+		"Icon": "tradeItems/29.png",
+		"Name": "Iridesite",
+		"Group": "Enriched Alloy Metal",
+		"Description": "Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields.\nCrafted from Aronium, Magno-Gold and Grantine.\n",
+		"BaseValueUnits": 150000
+	},
+	{
+		"Id": "trade30",
+		"Icon": "tradeItems/30.png",
+		"Name": "Fusion Ignitor",
+		"Group": "Highly Refined Technology",
+		"Description": "A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes.\nCrafted from Portable Reactor, Quantum Processors, and Geodesite.\n",
+		"BaseValueUnits": 15600000
+	},
+	{
+		"Id": "trade31",
+		"Icon": "tradeItems/31.png",
+		"Name": "Stasis Device",
+		"Group": "Highly Refined Technology",
+		"Description": "A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous.\nCrafted from Quantum Processors, Cryogenic Chambers, and Iridesite.\n",
+		"BaseValueUnits": 15600000
+	}
+]

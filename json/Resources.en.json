@@ -1,0 +1,488 @@
+[
+	{
+		"Id": "res1",
+		"Icon": "resources/1.png",
+		"Name": "Carbon",
+		"Abbrev": "C",
+		"Group": "Organic",
+		"Description": "The building block of all organic life. Of critical importance to space travellers, as Carbon is used to recharge mining equipment.\nThe Mining Laser will harvest Carbon from trees, plants, and all other forms of vegetable.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res2",
+		"Icon": "resources/2.png",
+		"Name": "Condensed Carbon",
+		"Abbrev": "C+",
+		"Group": "Organic",
+		"Description": "Advanced material, processed from regular carbon in a Refiner.\nThe increased molecule density offers a substantially improved energy-per-gram ratio.\nOccasionally found in crystalline form. Harvesting large crystals may require an Advanced Mining Laser.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res3",
+		"Icon": "resources/3.png",
+		"Name": "Oxygen",
+		"Abbrev": "O2",
+		"Group": "Organic",
+		"Description": "Integral to the atmospheric filtering technology at the heart of the exosuit life support system.\nExosuit material processing allows oxygen to be harvested directly from appropriate planetary flora.\nOther plantlife may be scanned with the Analysis Visor to reveal alternate oxygen supplies.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res4",
+		"Icon": "resources/4.png",
+		"Name": "Hexite",
+		"Abbrev": "X",
+		"Group": "Organic",
+		"Description": "An odourless, mineral-rich substance with a hexagonal crystalline structure, harvested from the faecal matter of a creature.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res5",
+		"Icon": "resources/5.png",
+		"Name": "Di-hydrogen",
+		"Abbrev": "H",
+		"Group": "High Energy",
+		"Description": "A stable, crystalline form of hydrogen remarkable both for its extreme energy density and its stability at atmospheric pressures.\nCommon to all worlds, Di-hydrogen is found in the form of large blue crystals. It is a key component of Starship Launch Fuel.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res6",
+		"Icon": "resources/6.png",
+		"Name": "Deuterium",
+		"Abbrev": "D",
+		"Group": "High Energy",
+		"Description": "A stable hydrogen isotope used heavily in both small-scale fusion reactors and neutron-scattering shield technology.\nDeuterium very rarely occurs naturally. Most of the galaxy's supply comes from the processing of Di-hydrogen in Refiners.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res7",
+		"Icon": "resources/7.png",
+		"Name": "Tritium",
+		"Abbrev": "H3",
+		"Group": "High Energy",
+		"Description": "Radioactive isotope commonly used to fuel the fusion reactor at the heart of starship Pulse Engines.\nAbundant in interstellar asteroid fields, Tritium can be mined from asteroids using starship weaponry.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res8",
+		"Icon": "resources/8.png",
+		"Name": "Ferrite Dust",
+		"Abbrev": "Fe",
+		"Group": "Metallic",
+		"Description": "An abundant mineral element, found in rock formations and other areas of geological interest. Easily extracted using a Mining Laser.\nTypically requires processing in a Refiner before use in construction or technology manufacture.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res9",
+		"Icon": "resources/9.png",
+		"Name": "Pure Ferrite",
+		"Abbrev": "Fe+",
+		"Group": "Metallic",
+		"Description": "Processed metal, free of dust and pebbles. Used to construct a wide variety of structures and technologies.\nTypically purified from Ferrite dust using a Refiner, but can occasionally be found in large deposits. Collection may require an Advanced Mining Laser.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res10",
+		"Icon": "resources/10.png",
+		"Name": "Magnetised Ferrite",
+		"Abbrev": "Fe++",
+		"Group": "Metallic",
+		"Description": "Highly processed metal, requiring several stages of processing in a Refiner.\nUsed in the creation of advanced structures and technologies. Avoid ingestion.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res11",
+		"Icon": "resources/11.png",
+		"Name": "Sodium",
+		"Abbrev": "Na",
+		"Group": "Catalytic",
+		"Description": "A powerful catalyst, useful for charging defensive technologies such as shields or  hazard protection.\nExosuit material handling technology allows automatic harvesting from appropriate sodium-rich flora.\nA vital ingredient in the creation of many advanced devices, products and components.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res12",
+		"Icon": "resources/12.png",
+		"Name": "Sodium Nitrate",
+		"Abbrev": "Na+",
+		"Group": "Catalytic",
+		"Description": "An advanced catalyst, useful for charging defensive technologies such as shields or hazard protection.\nCreated in a Refiner, or occasionally found in crystalline form on a planet's surface.\nOffers a substantially improved energy-per-gram ratio over regular Sodium.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res13",
+		"Icon": "resources/13.png",
+		"Name": "Cobalt",
+		"Abbrev": "Co",
+		"Group": "Subterranean",
+		"Description": "Mined from underground minerals, cobalt is found in plentiful supply in caves and caverns. Useful in the manufacture of Ion Batteries.\nIt is used in the creation of several technologies and structures, and can be processed in a Refiner to make the most of its inherent charge.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res14",
+		"Icon": "resources/14.png",
+		"Name": "Ionised Cobalt",
+		"Abbrev": "Co+",
+		"Group": "Subterranean",
+		"Description": "A highly energised form of Cobalt, this processed metal can be used to create an Advanced Ion Battery, a conveniently portable source of energy for the Exosuit.\nIn widespread use as a key component in the creation of advanced technologies and structures.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res15",
+		"Icon": "resources/15.png",
+		"Name": "Salt",
+		"Abbrev": "NaCl",
+		"Group": "Aquatic",
+		"Description": "A naturally occuring salt, found in abundance in underwater minerals.\nCan be processed in a Refiner to create Chlorine. This refined form is used in the manufacture of advanced products and technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res16",
+		"Icon": "resources/16.png",
+		"Name": "Chlorine",
+		"Abbrev": "Cl",
+		"Group": "Aquatic",
+		"Description": "A reactive element most easily harvested by processing the salt-infused minerals found in oceans.\nUsed in the manufacture of advanced technologies.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res17",
+		"Icon": "resources/17.png",
+		"Name": "Cyto-Phosphate",
+		"Abbrev": "Cy",
+		"Group": "Organic Compound",
+		"Description": "A blue-green organic compound produced during the metabolic cycle of deep-sea plantlife. Rich in soluble energy, cyto-phosphates are crucial in many submarine technologies.\nThe Mining Laser will harvest cyto-phosphate compounds from underwater flora.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res18",
+		"Icon": "resources/18.png",
+		"Name": "Copper",
+		"Abbrev": "Cu",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star. Such stellar material ends up forming deposits in the crust of local planets.\nCopper is found on planets orbiting yellow stars, and can be placed in a Refiner to create purified Chromatic Metal for use in the manufacture of advanced technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res19",
+		"Icon": "resources/19.png",
+		"Name": "Cadmium",
+		"Abbrev": "Cd",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star. Such stellar material ends up forming deposits in the crust of local planets.\nCadmium is found on planets orbiting red stars, and can be placed in a Refiner to create purified Chromatic Metal for use in the manufacture of advanced technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res20",
+		"Icon": "resources/20.png",
+		"Name": "Emeril",
+		"Abbrev": "Em",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star. Such stellar material ends up forming deposits in the crust of local planets.\nEmeril is found on planets orbiting green stars, and can be placed in a Refiner to create purified Chromatic Metal for use in the manufacture of advanced technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res21",
+		"Icon": "resources/21.png",
+		"Name": "Indium",
+		"Abbrev": "In",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star. Such stellar material ends up forming deposits in the crust of local planets.\nIndium is found on planets orbiting blue stars, and can be placed in a Refiner to create purified Chromatic Metal for use in the manufacture of advanced technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res22",
+		"Icon": "resources/22.png",
+		"Name": "Chromatic Metal",
+		"Abbrev": "Ch",
+		"Group": "Stellar",
+		"Description": "A processed metal alloy, created in a Refiner from stellar metals: Copper, Cadmium, Emeril and Indium. \nThe rarer the stellar metal, the more Chromatic Metal it will produce.\nThis valuable metal is used in the creation of many advanced technologies.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res23",
+		"Icon": "resources/23.png",
+		"Name": "Paraffinium",
+		"Abbrev": "Pf",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common materials after inspection with an Analysis Visor.\nTypically found on planets with a tropical environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res24",
+		"Icon": "resources/24.png",
+		"Name": "Pyrite",
+		"Abbrev": "Py",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common materials after inspection with an Analysis Visor.\nTypically found on planets with a desert environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res25",
+		"Icon": "resources/25.png",
+		"Name": "Ammonia",
+		"Abbrev": "NH3",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common materials after inspection with an Analysis Visor.\nTypically found on planets with a toxic environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res26",
+		"Icon": "resources/26.png",
+		"Name": "Uranium",
+		"Abbrev": "U",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an Analysis Visor.\nTypically found on planets with a radioactive environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res27",
+		"Icon": "resources/27.png",
+		"Name": "Dioxite",
+		"Abbrev": "C02",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an Analysis Visor.\nTypically found on planets with a frozen environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res28",
+		"Icon": "resources/28.png",
+		"Name": "Phosphorus",
+		"Abbrev": "P",
+		"Group": "Localised",
+		"Description": "Local mineral extract, typically found in large deposits or extracted from common minerals after inspection with an Analysis Visor.\nTypically found on planets with a scorched environment.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res29",
+		"Icon": "resources/29.png",
+		"Name": "Mordite",
+		"Abbrev": "Mo",
+		"Group": "Harvested",
+		"Description": "Despite much study, little is known about this haunting, crystalline compound.\nIt is released from the cadavers of dying creatures, but can also be specifically cultivated and harvested from the Mordite Root plant.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res30",
+		"Icon": "resources/30.png",
+		"Name": "Pugneum",
+		"Abbrev": "Pg",
+		"Group": "Anomalous",
+		"Description": "This oily, unsettling liquid leaks from the circuitry of Sentinels.\nPrized by the Vy'keen, Pugneum is thought to share some essential properties with Nanites. It hums in a sinister fashion upon contact with organic matter.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res31",
+		"Icon": "resources/31.png",
+		"Name": "Silver",
+		"Abbrev": "Ag",
+		"Group": "Asteroid",
+		"Description": "Valuable interstellar trading mineral, typically mined from asteroids. Occasionally found in underground planetary deposits.\nPrized by people in all systems for its lustre and shine.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res32",
+		"Icon": "resources/32.png",
+		"Name": "Gold",
+		"Abbrev": "Au",
+		"Group": "Asteroid",
+		"Description": "Highly valuable interstellar trading mineral, typically mined from asteroids. Occasionally found in underground planetary deposits.\nUniversally prized for its beauty and versatility.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res33",
+		"Icon": "resources/33.png",
+		"Name": "Platinum",
+		"Abbrev": "Pt",
+		"Group": "Asteroid",
+		"Description": "Extremely valuable interstellar trading mineral, typically mined from asteroids. Occasionally found in underground planetary deposits.\nUniversally prized for its hardiness and versatility.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res34",
+		"Icon": "resources/34.png",
+		"Name": "Sulphurine",
+		"Abbrev": "Su",
+		"Group": "Gas",
+		"Description": "A pungent atmospheric gas. High concentrations are extremely hazardous to organic life.\nWith the aid of specialised machinery, can be extracted from the atmospheres of Scorched and Desert planets.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res35",
+		"Icon": "resources/35.png",
+		"Name": "Radon",
+		"Abbrev": "Rn",
+		"Group": "Gas",
+		"Description": "A colourless, odourless gas with a relatively short half-life. \nFound in both Radioactive and Frozen atmospheres, this gas is produced by the decay of other high-energy elements.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res36",
+		"Icon": "resources/36.png",
+		"Name": "Nitrogen",
+		"Abbrev": "N",
+		"Group": "Gas",
+		"Description": "A reactive atmospheric gas found wherever there is organic life.\nNitrogen is readily harvested from the atmospheres of Lush and Toxic planets.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res37",
+		"Icon": "resources/37.png",
+		"Name": "Activated Copper",
+		"Abbrev": "Cu",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star.\nThis Copper has been activated by the extreme conditions in which it was formed, and is highly valuable.\nCopper is found on planets orbiting yellow stars, and can be placed in a Refiner to create purified Chromatic Metal.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res38",
+		"Icon": "resources/38.png",
+		"Name": "Activated Cadmium",
+		"Abbrev": "Cd",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star.\nThis Cadmium has been activated by the extreme conditions in which it was formed, and is highly valuable.\nCadmium is found on planets orbiting red stars, and can be placed in a Refiner to create purified Chromatic Metal.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res39",
+		"Icon": "resources/39.png",
+		"Name": "Activated Emeril",
+		"Abbrev": "Em",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star.\nThis Emeril has been activated by the extreme conditions in which it was formed, and is highly valuable.\nEmeril is found on planets orbiting green stars, and can be placed in a Refiner to create purified Chromatic Metal.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res40",
+		"Icon": "resources/40.png",
+		"Name": "Activated Indium",
+		"Abbrev": "In",
+		"Group": "Stellar",
+		"Description": "A chromatic metal, generated by fusion in the heart of a star.\nIndium is found on planets orbiting blue stars, and can be placed in a Refiner to create purified Chromatic Metal .\nThis Indium has been activated by the extreme conditions in which it was formed, and is highly valuable.\n",
+		"Rarity": "Rare"
+	},
+	{
+		"Id": "res41",
+		"Icon": "resources/41.png",
+		"Name": "Fungal Mould",
+		"Abbrev": "Ml",
+		"Group": "Agricultural",
+		"Description": "An oddly glowing substance, harvested from the gills of Fungal Clusters. \nThe host plant requires a toxic climate to thrive in the wild, but can be farmed in all environments with the aid of a Hydroponics Tray.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res42",
+		"Icon": "resources/42.png",
+		"Name": "Frost Crystal",
+		"Abbrev": "Fc",
+		"Group": "Agricultural",
+		"Description": "A beautiful blue crystal, this organic compound possesses both great hardiness and a shimmering translucence. It is harvested from the leaves of Frostwort.\nFrostwort requires frozen conditions  to thrive in the wild, but can be farmed in all environments with the aid of a Hydroponics Tray. \n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res43",
+		"Icon": "resources/43.png",
+		"Name": "Gamma Root",
+		"Abbrev": "Gr",
+		"Group": "Agricultural",
+		"Description": "A strange substance that seems to slowly shift the air around it. It is found in the roots of the Gamma Weed plant.\nGamma Weed requires high background radiation to thrive in the wild, but can be farmed in all environments with the aid of a Hydroponics Tray.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res44",
+		"Icon": "resources/44.png",
+		"Name": "Cactus Flesh",
+		"Abbrev": "Cc",
+		"Group": "Agricultural",
+		"Description": "Succulent, edible cactus flesh from the Echinocactus plant. As well as being juicy on the tongue, the flesh has many industrial uses. \nThe Echinocactus thrives only on desert planets, but can be farmed in all environments with the aid of a Hydroponics Tray.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res45",
+		"Icon": "resources/45.png",
+		"Name": "Solanium",
+		"Abbrev": "So",
+		"Group": "Agricultural",
+		"Description": "A powerful chemical that has resisted attempts at synthesis. It can be harvested from the bark of the Solar Vine.\nThe vine requires a hot climate to thrive in the wild, but can be farmed in all environments with the aid of a Hydroponics Tray. \n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res46",
+		"Icon": "resources/46.png",
+		"Name": "Star Bulb",
+		"Abbrev": "Sb",
+		"Group": "Agricultural",
+		"Description": "A beautiful gemstone, this prized product is the engorged, luminescent berry of the Star Bramble. \nThe host plant requires lush conditions to thrive in the wild, but can be farmed in all environments with the aid of a Hydroponic Tray.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res47",
+		"Icon": "resources/47.png",
+		"Name": "Marrow Bulb",
+		"Abbrev": "Mb",
+		"Group": "Agricultural",
+		"Description": "A glowing organic bulb, harvested from the Cave Marrow plant found growing underground.\nThe Cave Marrow has proved resistant to domestication, and no farmable cultivars are known to exist. As such, marrow bulbs must be harvested by hand in the wild.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res48",
+		"Icon": "resources/48.png",
+		"Name": "Kelp Sac",
+		"Abbrev": "Ke",
+		"Group": "Agricultural",
+		"Description": "A rubbery, luminescent sac harvested from underwater Candle Kelp plants.\nAgricultural science has not yet tamed the Candle Kelp. As such, these sacs cannot be farmed.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res49",
+		"Icon": "resources/49.png",
+		"Name": "Coprite",
+		"Abbrev": "Cr",
+		"Group": "Agricultural",
+		"Description": "A foul-smelling compound that can be harvested from the Coprite Flower, or less desirably from the faecal matter of some species.\nCreatures can be fed to encourage the formation and deposition of coprite crystals.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res50",
+		"Icon": "resources/50.png",
+		"Name": "Residual Goop",
+		"Abbrev": "Jn",
+		"Group": "Junk",
+		"Description": "A pulsating, foul smelling goop that builds up in poorly-maintained machinery.\nSkin contact is not advised.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res51",
+		"Icon": "resources/51.png",
+		"Name": "Runaway Mould",
+		"Abbrev": "Jn",
+		"Group": "Junk",
+		"Description": "An out of control mould growth that builds up in poorly-maintained machinery.\nLikely to be several different species of mould, merged together into one super-colony.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res52",
+		"Icon": "resources/52.png",
+		"Name": "Rusted Metal",
+		"Abbrev": "Jn",
+		"Group": "Junk",
+		"Description": "Handfuls of corroded metal, the result of years of poor maintenance.\nHandle with care.\n",
+		"Rarity": "Common"
+	},
+	{
+		"Id": "res53",
+		"Icon": "resources/53.png",
+		"Name": "Living Slime",
+		"Abbrev": "Jn",
+		"Group": "Junk",
+		"Description": "A heavy, oozing slime. It is moving gently, as if it has a heartbeat of its own.\nNutrient resource: unknown.\n",
+		"Rarity": "Uncommon"
+	},
+	{
+		"Id": "res54",
+		"Icon": "resources/54.png",
+		"Name": "Viscous Fluids",
+		"Abbrev": "Jn",
+		"Group": "Junk",
+		"Description": "An unnaturally thick liquid of dubious colour. Its origins are impossible to fathom.\nAppears to have some mild magnetic properties.\n",
+		"Rarity": "Uncommon"
+	}
+]

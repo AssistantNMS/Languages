@@ -1,0 +1,32 @@
+{
+  "title": "Alle Resepte",
+  "resourcesJson": "Resources.en",
+  "tradeItemsJson": "TradeItems.en",
+  "productsJson": "Products.en",
+  "refineryJson": "Refinery",
+  "loading": "Laai",
+  "about": "Oor",
+  "aboutContent": "Waarom het ek die moeite gedoen om dit op te bou? \r \n Op 'n dag het ek No Man's Sky gespeel en wou beplan oor watter landbouhulpbronne ek op 'n nuwe huis moet hê, het ek gedink dat dit makliker sou wees om 'n app van die Play Store af te laai as om die wiki op te stel op my tweede monitor. Ek het 'n app gekry en met 'n betaalmuur geslaan toe ek probeer om na die resepte vir vervaardigde materiale te kyk. Ek het geïrriteerd besluit om 'n app te maak wat almal gratis kan gebruik. Dit was ook 'n wonderlike verskoning om 'n bietjie met die Flutter-appontwikkeling te speel. \r\n \r\nP.S. Ek het ook 'n blog, Inside my Mind - deur Kurt Lourens. Ek het nog nie soveel daarvan gebruik nie, maar ek het artikels😋.",
+  "language": "Taal hulp",
+  "languageContent": "I need some help to translate this App into multiple Languages. I only know English and Afrikaans and a tiny amount of French. \r\nIf you are willing to help please let me know. \r\nI will be putting the names of those who contributed and want recognition on the website 😁",
+  "email": "Offer help",
+  "kurtsBlog": "Kurt's Blog",
+  "donation": "Donation",
+  "donationDescrip": "All features of the app are available to you, there are no PayWalls. However there are costs involved with making Apps and hosting websites, so donations help me out. If you like this App please give me a review in the Play Store and donate if you can. \nIf you can't donate then don't worry about it 😋",
+  
+  "buyMeACoffee": "Buy me a Cofee",
+  "paypal": "PayPal",
+  
+  "searchItems": "Soek Items",
+  "searchResources": "Soek Hulpbronne",
+  "searchProducts": "Soek Produkte",
+  "searchTradeItems": "Soek Handelsitems",
+  "resources": "Hulpbronne",
+  "tradeItems": "Handelsitems",
+  "products": "Produkte",
+  "craftedUsing": "Geskep met behulp van",
+  "viewAllResourcesRequired": "Kyk na alle benodigde bronne",
+  "allResourcesRequired": "Alle bronne benodig: ",
+  "noItems": "Geen items nie",
+  "refinedUsing": "Refined By"
+}

@@ -1,0 +1,352 @@
+[
+	{
+		"Id": "prod1",
+		"Icon": "products/1.png",
+		"Name": "Antimatter",
+		"Group": "Crafted Technology Component",
+		"Description": "Contained negative matter and baryogenesis antiparticles.\nThe vast energy potential of antimatter makes it highly valuable. 95% of existing antimatter consumption is in the powering of starship hyperdrives.\nWARNING: uncontained usage is not recommended.\n"
+	},
+	{
+		"Id": "prod2",
+		"Icon": "products/3.png",
+		"Name": "Antimatter Housing",
+		"Group": "Crafted Technology Component",
+		"Description": "Secure antimatter containment device, required before Antimatter can be safely secured as Warp Cells.\nRebound Oxygen forms a protective gas pocket, preventing the antimatter from reacting with the surrounding casing.\n"
+	},
+	{
+		"Id": "prod3",
+		"Icon": "products/3.png",
+		"Name": "Carbon Nanotubes",
+		"Group": "Crafted Technology Component",
+		"Description": "Metres and metres of high capacity carbon nanotubes.\nTheir high tensile strength and mild conductivity make these a key component in many advanced technologies.\n"
+	},
+	{
+		"Id": "prod4",
+		"Icon": "products/4.png",
+		"Name": "Cobalt Mirror",
+		"Group": "Crafted Technology Component",
+		"Description": "A specialist optical component.\nEmploying a polished cobalt surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields.\n"
+	},
+	{
+		"Id": "prod5",
+		"Icon": "products/5.png",
+		"Name": "Hermetic Seal",
+		"Group": "Crafted Technology Component",
+		"Description": "A high-performance carbon seal, able to withstand both the harsh interstellar environment and the rigours of intensive, high-energy industrial use.\nUser is advised to regularly check seal integrity after installation.\n"
+	},
+	{
+		"Id": "prod6",
+		"Icon": "products/6.png",
+		"Name": "Metal Plating",
+		"Group": "Crafted Technology Component",
+		"Description": "A lightweight metal product, heavily used in the manufacture of starship parts and deployable technology. A mainstay of the construction industries of all known primary species.\nCrafted from Ferrite Dust.\n"
+	},
+	{
+		"Id": "prod7",
+		"Icon": "products/7.png",
+		"Name": "Microprocessor",
+		"Group": "Crafted Technology Component",
+		"Description": "A compact, low-heat microchip. Assembled from processed Chromatic Metal, created from one of several specialised terrain metals.\nUsed in the creation of a wide range of advanced technologies.\n"
+	},
+	{
+		"Id": "prod8",
+		"Icon": "products/8.png",
+		"Name": "Oxygen Filter",
+		"Group": "Crafted Technology Component",
+		"Description": "A specialist technology component.\nThis small device can rapidly change the gaseous environment within a device, handling conditions from total vacuum to pure oxygen atmospheres.\n"
+	},
+	{
+		"Id": "prod9",
+		"Icon": "products/9.png",
+		"Name": "Salt Refractor",
+		"Group": "Crafted Technology Component",
+		"Description": "A specialist technology component, vital to the complex internals of modern laser systems. \nThis light-scattering device takes advantage of the unique optical properties of stabilised and polished salt, to both slow and refract passing photons.\n"
+	},
+	{
+		"Id": "prod10",
+		"Icon": "products/10.png",
+		"Name": "Sodium Diode",
+		"Group": "Crafted Technology Component",
+		"Description": "An advanced circuit component.\nThe refined sodium electrode within its vacuum tube gives this diode specialist surge-protection capabilities.\n"
+	},
+	{
+		"Id": "prod11",
+		"Icon": "products/11.png",
+		"Name": "Di-hydrogen Jelly",
+		"Group": "Portable Life Support Power",
+		"Description": "A faintly-glowing jelly. Its gentle light and soft wobble belie the fact that this sticky gel is both highly toxic and highly flammable. Skin contact is to be avoided at all costs.\nSynthesised from Di-hydrogen.\n"
+	},
+	{
+		"Id": "prod12",
+		"Icon": "products/12.png",
+		"Name": "Quad Servo",
+		"Group": "Anomalous Material",
+		"Description": "A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat.\n"
+	},
+	{
+		"Id": "prod13",
+		"Icon": "products/13.png",
+		"Name": "Fuel Oxidiser",
+		"Group": "Consumable Frigate Upgrade",
+		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel.\n"
+	},
+	{
+		"Id": "prod14",
+		"Icon": "products/14.png",
+		"Name": "Walker Brain",
+		"Group": "Anomalous Material",
+		"Description": "Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch.\nA sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder.\n"
+	},
+	{
+		"Id": "prod15",
+		"Icon": "products/15.png",
+		"Name": "Explosive Drones",
+		"Group": "Consumable Frigate Upgrade",
+		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous.\n"
+	},
+	{
+		"Id": "prod16",
+		"Icon": "products/16.png",
+		"Name": "Holographic Analyser",
+		"Group": "Consumable Frigate Upgrade",
+		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long.\n"
+	},
+	{
+		"Id": "prod17",
+		"Icon": "products/17.png",
+		"Name": "Mind Control Device",
+		"Group": "Consumable Frigate Upgrade",
+		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation.\n"
+	},
+	{
+		"Id": "prod18",
+		"Icon": "products/18.png",
+		"Name": "Mineral Compressor",
+		"Group": "Consumable Frigate Upgrade",
+		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mineral compressor allows fleet mining crews to liquidise the substances they extract, for both faster processing and easier transportation.\n"
+	},
+	{
+		"Id": "prod19",
+		"Icon": "products/19.png",
+		"Name": "Warp Cell",
+		"Group": "Hyperdrive Charging Unit",
+		"Description": "This antimatter-based fuel is one of the few power sources capable of meeting the incredible energy requirements of a starship hyperdrive.\nSecured within a robust housing, the cell is guarenteed[sic] paradox-free during FTL travel.\n"
+	},
+	{
+		"Id": "prod20",
+		"Icon": "products/20.png",
+		"Name": "Unstable Plasma",
+		"Group": "Plasma Launcher Recharge",
+		"Description": "Densely-packed fuel capsule for use in the Plasma Launcher.\nContained highly-pressurised electro-thermal energy for use in land disruption grenade technology.\n"
+	},
+	{
+		"Id": "prod21",
+		"Icon": "products/21.png",
+		"Name": "Advanced Ion Battery",
+		"Group": "Portable Energy Storage",
+		"Description": "Powerful energy storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed from Ionised Cobalt and Pure Ferrite, and occasionally found in cylindrical metal containers.\n"
+	},
+	{
+		"Id": "prod22",
+		"Icon": "products/22.png",
+		"Name": "Ion Battery",
+		"Group": "Portable Energy Storage",
+		"Description": "Convenient and optimised power storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed by fusing Ferrite Dust with underground Cobalt. Frequently found ready-made in cylindrical metal containers.\n"
+	},
+	{
+		"Id": "prod23",
+		"Icon": "products/23.png",
+		"Name": "Life Support Gel",
+		"Group": "Portable Life Support Power",
+		"Description": "Emergency life support fuel.\nSynthesised from rocket fuel crystals and carbon, this gel offers a temporary boost to Life Support systems.  Long-term impact on a user's lungs is currently unknown.\n"
+	},
+	{
+		"Id": "prod24",
+		"Icon": "products/24.png",
+		"Name": "Oxygen Capsule",
+		"Group": "Portable Life Support Power",
+		"Description": "Stabilised and secure life support filtration gas.\nEasily assembled form Oxygen and Ferrite Dust. Offers an efficient method for long-term live support power.\n"
+	},
+	{
+		"Id": "prod25",
+		"Icon": "products/25.png",
+		"Name": "Frigate Fuel (50 Tonnes)",
+		"Group": "Stabilised Di-hydrogen Fuel",
+		"Description": "A small barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships.\n"
+	},
+	{
+		"Id": "prod26",
+		"Icon": "products/26.png",
+		"Name": "Frigate Fuel (100 Tonnes)",
+		"Group": "Stabilised Di-hydrogen Fuel",
+		"Description": "A large barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships.\n"
+	},
+	{
+		"Id": "prod27",
+		"Icon": "products/27.png",
+		"Name": "Frigate Fuel (200 Tonnes)",
+		"Group": "Stabilised Di-hydrogen Fuel",
+		"Description": "A huge barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships.\n"
+	},
+	{
+		"Id": "prod28",
+		"Icon": "products/28.png",
+		"Name": "Starship Launch Fuel",
+		"Group": "Stabilised Di-hydrogen Fuel",
+		"Description": "Highly reactive solid-state fuel, required to fuel Starship Launch Thrusters.\nCreated from crystaline Di-hydrogen, found in blue deposits on all worlds.\n"
+	},
+	{
+		"Id": "prod29",
+		"Icon": "products/29.png",
+		"Name": "Hydrothermal Fuel Cell",
+		"Group": "Submarine Reactor Fuel",
+		"Description": "A high thermal energy fuel, contained within a standardised fuel cell. Used to fuel the Humboldt Drive that powers the Nautilon submarine.\nCreated with a mix of organic compounds (Carbon and cyto-phosphates) and localised mineral salts.\n"
+	},
+	{
+		"Id": "prod30",
+		"Icon": "products/30.png",
+		"Name": "Projectile Ammunition",
+		"Group": "Universal Ammo Module",
+		"Description": "Advanced munition fragments, constructed to fit Universal Multi-Tool Standard 07/FF1.\nEasily inserted into the Boltcaster, Pulse Spitter and Scatter Blaster via the Multi-Tool clip reloading system.\n"
+	},
+	{
+		"Id": "prod31",
+		"Icon": "products/31.png",
+		"Name": "AtlasPass v1",
+		"Group": "Access Card",
+		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to low level restricted areas and outpost systems.\n"
+	},
+	{
+		"Id": "prod32",
+		"Icon": "products/32.png",
+		"Name": "AtlasPass v2",
+		"Group": "Access Card",
+		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to mid-tier restricted areas and outpost systems.\n"
+	},
+	{
+		"Id": "prod33",
+		"Icon": "products/33.png",
+		"Name": "AtlasPass v3",
+		"Group": "Access Card",
+		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to high level restricted areas and outpost systems.\n"
+	},
+	{
+		"Id": "prod34",
+		"Icon": "products/34.png",
+		"Name": "Mind Arc",
+		"Group": "Advanced Crafted Product",
+		"Description": "A strange piece of technology, a gift from beyond the stars. It shimmers in way that suggests it is not fully in this world.\n"
+	},
+	{
+		"Id": "prod35",
+		"Icon": "products/35.png",
+		"Name": "Carbon Crystal",
+		"Group": "Concentrated Carbon Deposit",
+		"Description": "Hyper-compressed Carbon, this substance's dense nanostructure makes it highly valuable as both an energy source and technology component.\nSynthesised from Condensed Carbon.\n"
+	},
+	{
+		"Id": "prod36",
+		"Icon": "products/36.png",
+		"Name": "Chloride Lattice",
+		"Group": "Concentrated Chlorine Deposit",
+		"Description": "A tightly-bonded form of Chlorine. Rigidly-packed molecules offer unrivalled connectivity. Not known to form spontaneously: creation requires highly focused energy inputs.\nSynthesised from Chlorine.\n"
+	},
+	{
+		"Id": "prod37",
+		"Icon": "products/37.png",
+		"Name": "Destablised Sodium",
+		"Group": "Concentrated Sodium Deposit",
+		"Description": "Sodium is typically highly stable, but certain configurations retain the reactivity of its component ions. User is advised to wear Hazardous Material Gauntlets before handling.\nSynthesised from Sodium.\n"
+	},
+	{
+		"Id": "prod38",
+		"Icon": "products/38.png",
+		"Name": "Rare Metal Element",
+		"Group": "Concentrated Metal Deposit",
+		"Description": "A highly-prized metal product, this rare element is used in the manufacture of several advanced technologies.\nMetal is highly reactive and quickly bonds to exposed skin. User is advised to handle with extreme caution.\nSynthesised from Magnetised Ferrite.\n"
+	},
+	{
+		"Id": "prod39",
+		"Icon": "products/39.png",
+		"Name": "Superoxide Crystal",
+		"Group": "Concentrated Oxygen Deposit",
+		"Description": "A para-magnetic form of Oxygen, this rare substance has much to offer in the production of advanced technologies. Requires conversion prior to input into Life Support systems. Direct inhalation is NOT recommended.\nSynthesised from Oxygen.\n"
+	},
+	{
+		"Id": "prod40",
+		"Icon": "products/40.png",
+		"Name": "TetraCobalt",
+		"Group": "Concentrated Cobalt Deposit",
+		"Description": "A novel molecular form of Cobalt, requiring very high energy levels to create. Natural occurrence is extremely rare.\nSynthesised from Ionised Cobalt.\n"
+	},
+	{
+		"Id": "prod41",
+		"Icon": "products/41.png",
+		"Name": "Captured Nanode",
+		"Group": "Unique valuable curiosity",
+		"Description": "Atlas Seed containing zonally-shifted quasi-stellar substrate. Warning: do not allow matrix to commune with this dimensional space.\n"
+	},
+	{
+		"Id": "prod42",
+		"Icon": "products/42.png",
+		"Name": "Englobed Shade",
+		"Group": "Unique valuable curiosity",
+		"Description": "This Atlas Shell holds the remains of a parasitic space-borne lifeform, most likely of extra-dimensional origins.\n"
+	},
+	{
+		"Id": "prod43",
+		"Icon": "products/43.png",
+		"Name": "Noospheric Orb",
+		"Group": "Unique valuable curiosity",
+		"Description": "An Atlas Seed capable of resonating on humanoid telepathic frequencies; may attempt to subsume any subordinate intellect in close proximity.\n"
+	},
+	{
+		"Id": "prod44",
+		"Icon": "products/44.png",
+		"Name": "Dark Matter",
+		"Group": "Unique valuable curiosity",
+		"Description": "An Atlas Seed shell encompassing a void element harvested from the collapse state of the last universe. Toxic if ingested.\n"
+	},
+	{
+		"Id": "prod45",
+		"Icon": "products/45.png",
+		"Name": "Dawn's End",
+		"Group": "Unique valuable curiosity",
+		"Description": "Sculpted tau neutrino-boson matrix fixed within an irreplaceable Atlas Seed shell. May be semi-sentient.\n"
+	},
+	{
+		"Id": "prod46",
+		"Icon": "products/46.png",
+		"Name": "Photic Jade",
+		"Group": "Unique valuable curiosity",
+		"Description": "This irreplaceable Atlas Seed is a form of matter-adapted photons coalesced into physical solidity by unknown means.\n"
+	},
+	{
+		"Id": "prod47",
+		"Icon": "products/47.png",
+		"Name": "State Phasure",
+		"Group": "Unique valuable curiosity",
+		"Description": "For unknown reasons, this unique Atlas Seed has been phased out of alignment with this quantum reality. Contents cannot be determined.\n"
+	},
+	{
+		"Id": "prod48",
+		"Icon": "products/48.png",
+		"Name": "Novae Reclaiment",
+		"Group": "Unique valuable curiosity",
+		"Description": "Atlas Seed contains neutronium elements from a catastrophic supernova event that obliterated a sentient civilization in an earlier era.\n"
+	},
+	{
+		"Id": "prod49",
+		"Icon": "products/49.png",
+		"Name": "Modified Quanta",
+		"Group": "Unique valuable curiosity",
+		"Description": "This one-of-a-kind Atlas Seed holds an aesthetically pleasing mathematical construct salvaged from the simulation of an alternate reality.\n"
+	},
+	{
+		"Id": "prod50",
+		"Icon": "products/50.png",
+		"Name": "Heart of the Sun",
+		"Group": "Unique valuable curiosity",
+		"Description": "An Atlas Seed containing a time-locked quantum cilia suspended in a photonic shell. No others are known to exist.\n"
+	}
+]
