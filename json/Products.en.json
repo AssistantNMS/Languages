@@ -8,7 +8,7 @@
 	},
 	{
 		"Id": "prod2",
-		"Icon": "products/3.png",
+		"Icon": "products/2.png",
 		"Name": "Antimatter Housing",
 		"Group": "Crafted Technology Component",
 		"Description": "Secure antimatter containment device, required before Antimatter can be safely secured as Warp Cells.\nRebound Oxygen forms a protective gas pocket, preventing the antimatter from reacting with the surrounding casing.\n"
@@ -79,65 +79,65 @@
 	{
 		"Id": "prod12",
 		"Icon": "products/12.png",
-		"Name": "Quad Servo",
-		"Group": "Anomalous Material",
-		"Description": "A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat.\n"
-	},
-	{
-		"Id": "prod13",
-		"Icon": "products/13.png",
 		"Name": "Fuel Oxidiser",
 		"Group": "Consumable Frigate Upgrade",
 		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel.\n"
 	},
 	{
-		"Id": "prod14",
-		"Icon": "products/14.png",
-		"Name": "Walker Brain",
-		"Group": "Anomalous Material",
-		"Description": "Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch.\nA sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder.\n"
-	},
-	{
-		"Id": "prod15",
-		"Icon": "products/15.png",
+		"Id": "prod13",
+		"Icon": "products/13.png",
 		"Name": "Explosive Drones",
 		"Group": "Consumable Frigate Upgrade",
 		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous.\n"
 	},
 	{
-		"Id": "prod16",
-		"Icon": "products/16.png",
+		"Id": "prod14",
+		"Icon": "products/14.png",
 		"Name": "Holographic Analyser",
 		"Group": "Consumable Frigate Upgrade",
 		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long.\n"
 	},
 	{
-		"Id": "prod17",
-		"Icon": "products/17.png",
+		"Id": "prod15",
+		"Icon": "products/15.png",
 		"Name": "Mind Control Device",
 		"Group": "Consumable Frigate Upgrade",
 		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation.\n"
 	},
 	{
-		"Id": "prod18",
-		"Icon": "products/18.png",
+		"Id": "prod16",
+		"Icon": "products/16.png",
 		"Name": "Mineral Compressor",
 		"Group": "Consumable Frigate Upgrade",
 		"Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mineral compressor allows fleet mining crews to liquidise the substances they extract, for both faster processing and easier transportation.\n"
 	},
 	{
-		"Id": "prod19",
-		"Icon": "products/19.png",
+		"Id": "prod17",
+		"Icon": "products/17.png",
 		"Name": "Warp Cell",
 		"Group": "Hyperdrive Charging Unit",
 		"Description": "This antimatter-based fuel is one of the few power sources capable of meeting the incredible energy requirements of a starship hyperdrive.\nSecured within a robust housing, the cell is guarenteed[sic] paradox-free during FTL travel.\n"
 	},
 	{
-		"Id": "prod20",
-		"Icon": "products/20.png",
+		"Id": "prod18",
+		"Icon": "products/18.png",
+		"Name": "Warp Cell",
+		"Group": "Hyperdrive Charging Unit",
+		"Description": "This antimatter-based fuel is one of the few power sources capable of meeting the incredible energy requirements of a starship hyperdrive.\nSecured within a robust housing, the cell is guarenteed[sic] paradox-free during FTL travel.\n"
+	},
+	{
+		"Id": "prod19",
+		"Icon": "products/19.png",
 		"Name": "Unstable Plasma",
 		"Group": "Plasma Launcher Recharge",
 		"Description": "Densely-packed fuel capsule for use in the Plasma Launcher.\nContained highly-pressurised electro-thermal energy for use in land disruption grenade technology.\n"
+	},
+	{
+		"Id": "prod20",
+		"Icon": "products/20.png",
+		"Name": "Ion Battery",
+		"Group": "Portable Energy Storage",
+		"Description": "Convenient and optimised power storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed by fusing Ferrite Dust with underground Cobalt. Frequently found ready-made in cylindrical metal containers.\n"
 	},
 	{
 		"Id": "prod21",
@@ -149,9 +149,9 @@
 	{
 		"Id": "prod22",
 		"Icon": "products/22.png",
-		"Name": "Ion Battery",
+		"Name": "Starshield Ion Battery",
 		"Group": "Portable Energy Storage",
-		"Description": "Convenient and optimised power storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed by fusing Ferrite Dust with underground Cobalt. Frequently found ready-made in cylindrical metal containers.\n"
+		"Description": ""
 	},
 	{
 		"Id": "prod23",
@@ -212,141 +212,351 @@
 	{
 		"Id": "prod31",
 		"Icon": "products/31.png",
-		"Name": "AtlasPass v1",
-		"Group": "Access Card",
-		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to low level restricted areas and outpost systems.\n"
-	},
-	{
-		"Id": "prod32",
-		"Icon": "products/32.png",
-		"Name": "AtlasPass v2",
-		"Group": "Access Card",
-		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to mid-tier restricted areas and outpost systems.\n"
-	},
-	{
-		"Id": "prod33",
-		"Icon": "products/33.png",
-		"Name": "AtlasPass v3",
-		"Group": "Access Card",
-		"Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\nProvides access to high level restricted areas and outpost systems.\n"
-	},
-	{
-		"Id": "prod34",
-		"Icon": "products/34.png",
-		"Name": "Mind Arc",
-		"Group": "Advanced Crafted Product",
-		"Description": "A strange piece of technology, a gift from beyond the stars. It shimmers in way that suggests it is not fully in this world.\n"
-	},
-	{
-		"Id": "prod35",
-		"Icon": "products/35.png",
 		"Name": "Carbon Crystal",
 		"Group": "Concentrated Carbon Deposit",
 		"Description": "Hyper-compressed Carbon, this substance's dense nanostructure makes it highly valuable as both an energy source and technology component.\nSynthesised from Condensed Carbon.\n"
 	},
 	{
-		"Id": "prod36",
-		"Icon": "products/36.png",
+		"Id": "prod32",
+		"Icon": "products/32.png",
 		"Name": "Chloride Lattice",
 		"Group": "Concentrated Chlorine Deposit",
 		"Description": "A tightly-bonded form of Chlorine. Rigidly-packed molecules offer unrivalled connectivity. Not known to form spontaneously: creation requires highly focused energy inputs.\nSynthesised from Chlorine.\n"
 	},
 	{
-		"Id": "prod37",
-		"Icon": "products/37.png",
+		"Id": "prod33",
+		"Icon": "products/33.png",
 		"Name": "Destablised Sodium",
 		"Group": "Concentrated Sodium Deposit",
 		"Description": "Sodium is typically highly stable, but certain configurations retain the reactivity of its component ions. User is advised to wear Hazardous Material Gauntlets before handling.\nSynthesised from Sodium.\n"
 	},
 	{
-		"Id": "prod38",
-		"Icon": "products/38.png",
+		"Id": "prod34",
+		"Icon": "products/34.png",
 		"Name": "Rare Metal Element",
 		"Group": "Concentrated Metal Deposit",
 		"Description": "A highly-prized metal product, this rare element is used in the manufacture of several advanced technologies.\nMetal is highly reactive and quickly bonds to exposed skin. User is advised to handle with extreme caution.\nSynthesised from Magnetised Ferrite.\n"
 	},
 	{
-		"Id": "prod39",
-		"Icon": "products/39.png",
+		"Id": "prod35",
+		"Icon": "products/35.png",
 		"Name": "Superoxide Crystal",
 		"Group": "Concentrated Oxygen Deposit",
 		"Description": "A para-magnetic form of Oxygen, this rare substance has much to offer in the production of advanced technologies. Requires conversion prior to input into Life Support systems. Direct inhalation is NOT recommended.\nSynthesised from Oxygen.\n"
 	},
 	{
-		"Id": "prod40",
-		"Icon": "products/40.png",
+		"Id": "prod36",
+		"Icon": "products/36.png",
 		"Name": "TetraCobalt",
 		"Group": "Concentrated Cobalt Deposit",
 		"Description": "A novel molecular form of Cobalt, requiring very high energy levels to create. Natural occurrence is extremely rare.\nSynthesised from Ionised Cobalt.\n"
 	},
 	{
+		"Id": "prod37",
+		"Icon": "products/37.png",
+		"Name": "Albumen Pearl Orb",
+		"Group": "Base Building",
+		"Description": "A medium-sized, farmable Crystal Orb that yields an occasional harvest of valuable Albumen Pearls.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 80 mins\n"
+	},
+	{
+		"Id": "prod38",
+		"Icon": "products/38.png",
+		"Name": "Echinocactus",
+		"Group": "Base Building",
+		"Description": "Native to barren biomes and capable of withstanding long periods of drought, Echinocactus is an edible succulent that responds well to cultivation, yielding a large but occasional harvest.\nSuitable for hydroponic indoor planting. Ensure Barren climate before planting outdoors.\nApproximate growing time: 120 mins\n"
+	},
+	{
+		"Id": "prod39",
+		"Icon": "products/39.png",
+		"Name": "Gutrot Flower",
+		"Group": "Base Building",
+		"Description": "A foul-smelling, farmable flower that replicates the chemical structure of faecal matter. When planted inside, yields a harvest of Faecium.\nA good alternative to collecting Faecium by hand, which requires feeding creatures and then harvesting their droppings. Gutrot Flowers must be grown in a Hydroponics Tray.\nApproximate growing time: 4 hours\n"
+	},
+	{
+		"Id": "prod40",
+		"Icon": "products/40.png",
+		"Name": "Frostwort",
+		"Group": "Base Building",
+		"Description": "A large crystal flower with radiant blue blooms, found only in snowy biomes. Frostwort can be farmed and makes a reliable crop, and its adaptation to harsh conditions results in highly frequent harvests.\nSuitable for hydroponic indoor planting. Ensure Frozen climate before planting outdoors.\nApproximate growing time: 15 mins\n"
+	},
+	{
 		"Id": "prod41",
 		"Icon": "products/41.png",
-		"Name": "Captured Nanode",
-		"Group": "Unique valuable curiosity",
-		"Description": "Atlas Seed containing zonally-shifted quasi-stellar substrate. Warning: do not allow matrix to commune with this dimensional space.\n"
+		"Name": "Fungal Cluster",
+		"Group": "Base Building",
+		"Description": "A spherical fungus with internal gills, found only in toxic biomes. Fungal Clusters can be transplanted for cultivation, yielding a bountiful harvest.\nSuitable for hydroponic indoor planting. Ensure Toxic climate before planting outdoors.\nApproximate growing time: 30 mins\n"
 	},
 	{
 		"Id": "prod42",
 		"Icon": "products/42.png",
-		"Name": "Englobed Shade",
-		"Group": "Unique valuable curiosity",
-		"Description": "This Atlas Shell holds the remains of a parasitic space-borne lifeform, most likely of extra-dimensional origins.\n"
+		"Name": "Gamma Weed",
+		"Group": "Base Building",
+		"Description": "A luminous, leafy flowering plant that thrives in radioactive biomes and can be cultivated to yield a bountiful harvest.\nSuitable for hydroponicindoor planting. Ensure Radioactive climate before planting outdoors.\nApproximate growing time: 30 mins\n"
 	},
 	{
 		"Id": "prod43",
 		"Icon": "products/43.png",
-		"Name": "Noospheric Orb",
-		"Group": "Unique valuable curiosity",
-		"Description": "An Atlas Seed capable of resonating on humanoid telepathic frequencies; may attempt to subsume any subordinate intellect in close proximity.\n"
+		"Name": "Gravitino Host",
+		"Group": "Base Building",
+		"Description": "&nbsp;  Gravitino Host being farmedA strange, potentially parasitic plant that yields an occasional harvest of the highly tradable commodity, Gravitino Balls.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 60 mins\n"
 	},
 	{
 		"Id": "prod44",
 		"Icon": "products/44.png",
-		"Name": "Dark Matter",
-		"Group": "Unique valuable curiosity",
-		"Description": "An Atlas Seed shell encompassing a void element harvested from the collapse state of the last universe. Toxic if ingested.\n"
+		"Name": "Mordite Root",
+		"Group": "Base Building",
+		"Description": "An inedible tuber that produces a small yield of Mordite crystals.\nA peaceful alternative to the process of harvesting Mordite from the corpses of creatures. Mordite Root must be grown in a Hydroponics Tray.\nApproximate growing time: 60 mins\n"
 	},
 	{
 		"Id": "prod45",
 		"Icon": "products/45.png",
-		"Name": "Dawn's End",
-		"Group": "Unique valuable curiosity",
-		"Description": "Sculpted tau neutrino-boson matrix fixed within an irreplaceable Atlas Seed shell. May be semi-sentient.\n"
+		"Name": "NipNip",
+		"Group": "Base Building",
+		"Description": "&nbsp;  NipNip being farmedThis medicinal herb is known for its pungent buds, which are harvested to produce Gek Nip[sic]. NipNip thrives in dank environments, and often grows as a weed.\nSuitable for hydroponic planting indoors. Needs a tropical or humid climate before planting outdoors.\n"
 	},
 	{
 		"Id": "prod46",
 		"Icon": "products/46.png",
-		"Name": "Photic Jade",
-		"Group": "Unique valuable curiosity",
-		"Description": "This irreplaceable Atlas Seed is a form of matter-adapted photons coalesced into physical solidity by unknown means.\n"
+		"Name": "Solar Vine",
+		"Group": "Base Building",
+		"Description": "This 'living rock' is adapted to live in the extreme heat of scorched biomes. However, it can be farmed in most environments and, once established, yields a moderate harvest.\nSuitable for hydroponic indoor planting. Ensure Hot climate before planting outdoors.\nApproximate growing time: 120 mins\n"
 	},
 	{
 		"Id": "prod47",
 		"Icon": "products/47.png",
-		"Name": "State Phasure",
-		"Group": "Unique valuable curiosity",
-		"Description": "For unknown reasons, this unique Atlas Seed has been phased out of alignment with this quantum reality. Contents cannot be determined.\n"
+		"Name": "Star Bramble",
+		"Group": "Base Building",
+		"Description": "A medium-sized, farmable plant that yields an occasional harvest of valuable Star Bulbs.\nSuitable for hydroponic indoor planting. Ensure Lush climate before planting outdoors.\nApproximate growing time: 30 mins\n"
 	},
 	{
 		"Id": "prod48",
 		"Icon": "products/48.png",
-		"Name": "Novae Reclaiment",
-		"Group": "Unique valuable curiosity",
-		"Description": "Atlas Seed contains neutronium elements from a catastrophic supernova event that obliterated a sentient civilization in an earlier era.\n"
+		"Name": "Venom Urchin",
+		"Group": "Base Building",
+		"Description": "&nbsp;  Venom Urchin grown in a hydroponics tankA small, innocuous looking plant whose leaves periodically secrete a small amount of potent Sac Venom, a valuable trading commodity.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 40 mins\n"
 	},
 	{
 		"Id": "prod49",
 		"Icon": "products/49.png",
-		"Name": "Modified Quanta",
-		"Group": "Unique valuable curiosity",
-		"Description": "This one-of-a-kind Atlas Seed holds an aesthetically pleasing mathematical construct salvaged from the simulation of an alternate reality.\n"
+		"Name": "Acid",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Dilute acid for high current generation in diverse power cells.\nCrafted from Mordite and Fungal Mould.\n"
 	},
 	{
-		"Id": "prod50",
-		"Icon": "products/50.png",
-		"Name": "Heart of the Sun",
-		"Group": "Unique valuable curiosity",
-		"Description": "An Atlas Seed containing a time-locked quantum cilia suspended in a photonic shell. No others are known to exist.\n"
+		"Id": "prod51",
+		"Icon": "products/51.png",
+		"Name": "Heat Capacitor",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A thermal regulator produced from refined organic material. It is unique in its ability to produce, dissipate and distribute heat as required.\n"
+	},
+	{
+		"Id": "prod52",
+		"Icon": "products/52.png",
+		"Name": "Poly Fibre",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A connective fibre for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data.\nCrafted from Cactus Flesh and Star Bulbs.\n"
+	},
+	{
+		"Id": "prod53",
+		"Icon": "products/53.png",
+		"Name": "Circuit Board",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Stackable, semi-flexible circuit board made from a highly durable synthetic polymer.\nCrafted from Heat Capacitors and Poly Fibre.\n"
+	},
+	{
+		"Id": "prod54",
+		"Icon": "products/54.png",
+		"Name": "Glass",
+		"Group": "Advanced Agricultural Product",
+		"Description": "Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use.\nCrafted from Frost Crystals.\n"
+	},
+	{
+		"Id": "prod55",
+		"Icon": "products/55.png",
+		"Name": "Unstable Gel",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A highly reactive gel, this substance is both energy-rich and dangerous to touch.\nCrafted from Cactus Flesh.\n"
+	},
+	{
+		"Id": "prod56",
+		"Icon": "products/56.png",
+		"Name": "Liquid Explosive",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink.\n"
+	},
+	{
+		"Id": "prod57",
+		"Icon": "products/57.png",
+		"Name": "Lubricant",
+		"Group": "Advanced Agricultural Product",
+		"Description": "A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts.\nCrafted from Coprite and Gamma Root.\n"
+	},
+	{
+		"Id": "prod58",
+		"Icon": "products/58.png",
+		"Name": "Living Glass",
+		"Group": "Advanced Agricultural Product",
+		"Description": "An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required.\n"
+	},
+	{
+		"Id": "prod59",
+		"Icon": "products/59.png",
+		"Name": "Enriched Carbon",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, taking ordinary carbon and boosting it with radioactive energy.\nCrafted from Radon and Condensed Carbon.\n"
+	},
+	{
+		"Id": "prod60",
+		"Icon": "products/60.png",
+		"Name": "Nitrogen Salt",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, this is a powerful organic fertiliser in an easily distributed form.\nCrafted from Nitrogen and Condensed Carbon.\n"
+	},
+	{
+		"Id": "prod61",
+		"Icon": "products/61.png",
+		"Name": "Thermic Condensate",
+		"Group": "Enhanced Gas Product",
+		"Description": "A refined product, holding the energy potential of heated atmospheric gas in a stable state until required. \nCrafted from Sulphurine and Condensed Carbon.\n"
+	},
+	{
+		"Id": "prod62",
+		"Icon": "products/62.png",
+		"Name": "Hot Ice",
+		"Group": "Manufactured Gas Product",
+		"Description": "A paradoxical material, made less mysterious by its relative ease of manufacture.\nCrafted from Enriched Carbon and Nitrogen Salt.\n"
+	},
+	{
+		"Id": "prod63",
+		"Icon": "products/63.png",
+		"Name": "Cryo-Pump",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced, self-regulating hybrid material, the Cryo-Pump distributes heat across itself with near perfect efficiency, making it vital in the creation of thermal regulators.\nCrafted from Hot Ice and Thermic Condensate.\n"
+	},
+	{
+		"Id": "prod64",
+		"Icon": "products/64.png",
+		"Name": "Semiconductor",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced material useful in many electronic devices, with its own in-built temperature regulator.\nCrafted from Thermic Condensate and Nitrogen Salt.\n"
+	},
+	{
+		"Id": "prod65",
+		"Icon": "products/65.png",
+		"Name": "Organic Catalyst",
+		"Group": "Manufactured Gas Product",
+		"Description": "A catalytic material used in the creation of many organic fertilizers.\nCrafted from Thermic Condensate and Enriched Carbon.\n"
+	},
+	{
+		"Id": "prod66",
+		"Icon": "products/66.png",
+		"Name": "Superconductor",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced conductive material, the superconductor further enriches the field-warping power of the Semiconductor.\nCrafted from Enriched Carbon and Semiconductors.\n"
+	},
+	{
+		"Id": "prod67",
+		"Icon": "products/67.png",
+		"Name": "Fusion Accelerant",
+		"Group": "Manufactured Gas Product",
+		"Description": "An advanced fuel source, made from a perfect blend of high potential energy organic materials.\nCrafted from Organic Catalyst and Nitrogen Salt.\n"
+	},
+	{
+		"Id": "prod68",
+		"Icon": "products/68.png",
+		"Name": "Cryogenic Chamber",
+		"Group": "Advanced Crafted Product",
+		"Description": "A low temperature chamber, designed to prevent the natural decay of organic matter.\nCrafted from Living Glass and a Cryo-Pump.\n"
+	},
+	{
+		"Id": "prod69",
+		"Icon": "products/69.png",
+		"Name": "Portable Reactor",
+		"Group": "Advanced Crafted Product",
+		"Description": "A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module.\nCrafted from Liquid Explosives and Fusion Accelerant.\n"
+	},
+	{
+		"Id": "prod70",
+		"Icon": "products/70.png",
+		"Name": "Quantum Processor",
+		"Group": "Advanced Crafted Product",
+		"Description": "A highly advanced computational device, essential for the complex calculations involved in warp travel.\nCrafted from Circuit Boards and Superconductors.\n"
+	},
+	{
+		"Id": "prod71",
+		"Icon": "products/71.png",
+		"Name": "Aronium",
+		"Group": "Alloy Metal",
+		"Description": "A lightweight and highly malleable alloy. Crafted from Paraffinium and Chlorine.\nIn high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities.\n"
+	},
+	{
+		"Id": "prod72",
+		"Icon": "products/72.png",
+		"Name": "Dirty Bronze",
+		"Group": "Alloy Metal",
+		"Description": "A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favor of the popular term for its colour.\n"
+	},
+	{
+		"Id": "prod73",
+		"Icon": "products/73.png",
+		"Name": "Grantine",
+		"Group": "Alloy Metal",
+		"Description": "Soft workable alloy favored by artisans throughout the known galaxy. \nA popular trading good, with many galactic shipping paths devoted to its sale and transport.\n"
+	},
+	{
+		"Id": "prod74",
+		"Icon": "products/74.png",
+		"Name": "Herox",
+		"Group": "Alloy Metal",
+		"Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Ionised Cobalt and Ammonia.\nForms the backbone of galactic alloy trading. \n"
+	},
+	{
+		"Id": "prod75",
+		"Icon": "products/75.png",
+		"Name": "Magno-Gold",
+		"Group": "Alloy Metal",
+		"Description": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from Ionised Cobalt and Phosphorus.\nEasily recognisable by its bright red glow and strong magnetic field.\n"
+	},
+	{
+		"Id": "prod76",
+		"Icon": "products/76.png",
+		"Name": "Lemmium",
+		"Group": "Alloy Metal",
+		"Description": "Pure Ferrite alloy. Crafted from Pure Ferrite and Uranium. \nUsed extensively in starship freighter construction due to its sheer strength. A hardcore material popular on the Galactic Trade Network.\n"
+	},
+	{
+		"Id": "prod77",
+		"Icon": "products/77.png",
+		"Name": "Geodesite",
+		"Group": "Enriched Alloy Metal",
+		"Description": "Geodesite is a trade item that is used for crafting.\n"
+	},
+	{
+		"Id": "prod78",
+		"Icon": "products/78.png",
+		"Name": "Iridesite",
+		"Group": "Enriched Alloy Metal",
+		"Description": "Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields.\nCrafted from Aronium, Magno-Gold and Grantine.\n"
+	},
+	{
+		"Id": "prod79",
+		"Icon": "products/79.png",
+		"Name": "Fusion Ignitor",
+		"Group": "Highly Refined Technology",
+		"Description": "A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes.\nCrafted from Portable Reactor, Quantum Processors, and Geodesite.\n"
+	},
+	{
+		"Id": "prod80",
+		"Icon": "products/80.png",
+		"Name": "Stasis Device",
+		"Group": "Highly Refined Technology",
+		"Description": "A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous.\nCrafted from Quantum Processors, Cryogenic Chambers, and Iridesite.\n"
+	},
+	{
+		"Id": "prod81",
+		"Icon": "products/81.png",
+		"Name": "Crystal Sulphide",
+		"Group": "Compressed Mineral",
+		"Description": "Formed in the incredible, high-pressure furnace of planetary cores, these rich mineral deposits have an almost glass-like quality.\nHas a wide variety of industrial uses, taking advantage of both its mineral content and its extreme strength under pressure.\n"
 	}
 ]
