@@ -17,7 +17,7 @@
   "kurtsBlog": "Kurt's Blog",
   "donation": "Donation",
   "donationDescrip": "All features of the app are available to you, there are no PayWalls. However there are costs involved with making Apps and hosting websites, so donations help me out. If you like this App please give me a review in the Play Store and donate if you can. If you can't donate then don't worry about it 😋",
-  "noticeContent": "Please note that the upcoming Beyond update (14 August), will potentially cause a lot of these recipes to no longer be valid. I will be updating / adding the new recipes as fast as I can 😀",
+  "noticeContent": "This app is now Beyond ready!! Cooking to be added soon. Please Note, there are items missing: Starshield Battery and Warp Hypercores. They will be added as soon as possible.",
   "noticeAccept": "Accept",
   
   "buyMeACoffee": "Buy me a Coffee",
@@ -35,6 +35,8 @@
   "other": "Other",
   "curiosities": "Curiosities",
   "curiosity": "Curiosity",
+  "technology": "Technology",
+  "technologies": "Technologies",
   "craftedUsing": "Crafted using",
   "viewAllRawMaterialsRequired": "View All Raw Materials Required",
   "allRawMaterialsRequired": "All Raw Materials required: ",

@@ -95,7 +95,7 @@
         "Icon": "curiosities/14.png",
         "Name": "NipNip Buds",
         "Group": "Medical Substance",
-        "Description": "A pungent bud harvested from the NipNip plant, often used to produce Gek Nip[sic].\n"
+        "Description": "A pungent bud harvested from the NipNip plant, often used to produce Gek Nip.\n"
     },
     {
         "Id": "cur15",
@@ -107,29 +107,36 @@
     {
         "Id": "cur16",
         "Icon": "curiosities/16.png",
-        "Name": "Salvaged Technology",
-        "Group": "Damaged Data Unit",
-        "Description": "An old data bank, the last remains of some alien technology.\nUseless in its current form, a Blueprint Analyser will reveal any useful technology contained within.\n"
+        "Name": "Salvaged Data",
+        "Group": "Salvaged Technology",
+        "Description": "The salvageable heart of some ancient technology. Unreadable in its current form.\nThese databanks can be spent at a Construction Research Unit and used to research new Construction Blueprints.\n"
     },
-	{
-		"Id": "cur17",
-		"Icon": "curiosities/17.png",
-		"Name": "Living Pearl",
-		"Group": "Semi-Conscious Gemstone",
-		"Description": "Born in the hearts of enormous glowing molluscs found deep underwater.\nUnlike most pearls, this sample is no unliving calcite. Some trace of the mother-clam's consciousness remains within the gem, giving it a lingering, haunting beauty.\n"
-	},
-	{
-		"Id": "cur18",
-		"Icon": "curiosities/18.png",
-		"Name": "Hypnotic Eye",
-		"Group": "Horrific Sample",
-		"Description": "The eye is cold, almost frozen, to the touch. Nonetheless, it is impossible to escape the feeling it is somehow still alive.\nExtended exposure is not recommended. Do not stare back into the eye. Do not stare back. Do not stare back.\n"
-	},
-	{
-		"Id": "cur19",
-		"Icon": "curiosities/19.png",
-		"Name": "Hadal Core",
-		"Group": "Horrific Sample",
-		"Description": "A highly-pressurised fleshy orb.\nOne can feel it push back when touched, a flash of bioluminescence stirring in the inky black core of this mysterious object.\n"
-	}
+    {
+        "Id": "cur17",
+        "Icon": "curiosities/17.png",
+        "Name": "Living Pearl",
+        "Group": "Semi-Conscious Gemstone",
+        "Description": "Born in the hearts of enormous glowing molluscs found deep underwater.\nUnlike most pearls, this sample is no unliving calcite. Some trace of the mother-clam's consciousness remains within the gem, giving it a lingering, haunting beauty.\n"
+    },
+    {
+        "Id": "cur18",
+        "Icon": "curiosities/18.png",
+        "Name": "Hypnotic Eye",
+        "Group": "Horrific Sample",
+        "Description": "The eye is cold, almost frozen, to the touch. Nonetheless, it is impossible to escape the feeling it is somehow still alive.\nExtended exposure is not recommended. Do not stare back into the eye. Do not stare back. Do not stare back.\n"
+    },
+    {
+        "Id": "cur19",
+        "Icon": "curiosities/19.png",
+        "Name": "Hadal Core",
+        "Group": "Horrific Sample",
+        "Description": "A highly-pressurised fleshy orb.\nOne can feel it push back when touched, a flash of bioluminescence stirring in the inky black core of this mysterious object.\n"
+    },
+    {
+        "Id": "cur20",
+        "Icon": "curiosities/20.png",
+        "Name": "Soul Engine",
+        "Group": "Advanced Crafted Product",
+        "Description": "A powerful organic computing unit.\nA glitching beat drives this miracle circuit, performing cycle after cycle in an endless, furious loop of calculation.\n"
+    }
 ]

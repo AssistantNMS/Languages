@@ -17,7 +17,7 @@
   "kurtsBlog": "Blog do Kurt",
   "donation": "Doação",
   "donationDescrip": "Todas as funções desse APP estão de graça para você. Mas de qualquer maneira existem custos envolvidos com a criação do app e o host do site, então, qualquer doação me ajudaria demais. Se você gostou do APP, avalie na Play Store! Se você não puder doar, não se esquenta a cabeça! 😋",
-  "noticeContent": "Please note that the upcoming Beyond update (14 August), will potentially cause a lot of these recipes to no longer be valid. I will be updating / adding the new recipes as fast as I can 😀",
+  "noticeContent": "O APP já está atualizado para o Beyond!! Os alimentos serão logo adicionados. Veja que ainda temos itens faltando: Starshield Battery and Warp Hypercores. Eles serão adicionados assim que possível!",
   "noticeAccept": "Aceitar",
   
   "buyMeACoffee": "Me compre um Café",
@@ -36,6 +36,8 @@
   "curiosities": "Curiosidades",
   "curiosity": "Curiosidade",
   "craftedUsing": "Craftado Usando",
+  "technology": "Tecnologia",
+  "technologies": "Tecnologias",
   "viewAllRawMaterialsRequired": "Ver todos os Materiais necessários",
   "allRawMaterialsRequired": "Todos os materiais brutos necessários: ",
   "noItems": "Nenhum item",
