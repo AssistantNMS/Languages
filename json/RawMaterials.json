@@ -1,0 +1,277 @@
+[
+	{
+		"Id": "raw1",
+		"BaseValueUnits": 7.0,
+		"Added": 1.0
+	},
+	{
+		"Id": "raw2",
+		"BaseValueUnits": 24.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw3",
+		"BaseValueUnits": 34.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw4",
+		"BaseValueUnits": 654.0,
+		"Added": 1.59
+	},
+	{
+		"Id": "raw5",
+		"BaseValueUnits": 34.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw6",
+		"BaseValueUnits": 34.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw7",
+		"BaseValueUnits": 6.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw8",
+		"BaseValueUnits": 14.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw9",
+		"BaseValueUnits": 28.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw10",
+		"BaseValueUnits": 82.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw11",
+		"BaseValueUnits": 2.0,
+		"Added": 2.0
+	},
+	{
+		"Id": "raw12",
+		"BaseValueUnits": 41.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw13",
+		"BaseValueUnits": 82.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw14",
+		"BaseValueUnits": 198.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw15",
+		"BaseValueUnits": 401.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw16",
+		"BaseValueUnits": 299.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw17",
+		"BaseValueUnits": 602.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw18",
+		"BaseValueUnits": 201.0,
+		"Added": 1.7
+	},
+	{
+		"Id": "raw19",
+		"BaseValueUnits": 110.0,
+		"Added": 1.0
+	},
+	{
+		"Id": "raw20",
+		"BaseValueUnits": 234.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw21",
+		"BaseValueUnits": 275.0,
+		"Added": 1.0
+	},
+	{
+		"Id": "raw22",
+		"BaseValueUnits": 464.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw23",
+		"BaseValueUnits": 245.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw24",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw25",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw26",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw27",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw28",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw29",
+		"BaseValueUnits": 62.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw30",
+		"BaseValueUnits": 40.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw31",
+		"BaseValueUnits": 138.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw32",
+		"BaseValueUnits": 101.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw33",
+		"BaseValueUnits": 202.0,
+		"Added": 1.0
+	},
+	{
+		"Id": "raw34",
+		"BaseValueUnits": 303.0,
+		"Added": 1.0
+	},
+	{
+		"Id": "raw35",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw36",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw37",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw38",
+		"BaseValueUnits": 245.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw39",
+		"BaseValueUnits": 450.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw40",
+		"BaseValueUnits": 696.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw41",
+		"BaseValueUnits": 949.0,
+		"Added": 1.5
+	},
+	{
+		"Id": "raw42",
+		"BaseValueUnits": 16.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw43",
+		"BaseValueUnits": 12.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw44",
+		"BaseValueUnits": 16.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw45",
+		"BaseValueUnits": 28.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw46",
+		"BaseValueUnits": 70.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw47",
+		"BaseValueUnits": 32.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw48",
+		"BaseValueUnits": 41.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw49",
+		"BaseValueUnits": 41.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw50",
+		"BaseValueUnits": 30.0,
+		"Added": 1.1
+	},
+	{
+		"Id": "raw51",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw52",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw53",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw54",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	},
+	{
+		"Id": "raw55",
+		"BaseValueUnits": 20.0,
+		"Added": 1.3
+	}
+]

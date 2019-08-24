@@ -1,11 +1,11 @@
 {
   "title": "Alle Resepte",
-  "rawMaterialsJson": "RawMaterials.en",
-  "productsJson": "Products.en",
-  "otherItemsJson": "Others.en",
-  "curiosityJson": "Curiosity.en",
-  "refineryJson": "Refinery.en",
-  "technologiesJson": "Technology.en",
+  "rawMaterialsJson": "en/RawMaterials.lang",
+  "productsJson": "en/Products.lang",
+  "otherItemsJson": "en/Others.lang",
+  "curiosityJson": "en/Curiosity.lang",
+  "refineryJson": "en/Refinery.lang",
+  "technologiesJson": "en/Technology.lang",
   
   "loading": "Laai",
   "about": "Oor",

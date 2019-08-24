@@ -1,0 +1,44 @@
+[
+	{
+		"Id": "tech1",
+		"BaseValueUnits": 825.0,
+		"RequiredItems": [
+			{
+				"Id": "raw19",
+				"Quantity": 200
+			},
+			{
+				"Id": "prod7",
+				"Quantity": 1
+			}
+		]
+	},
+	{
+		"Id": "tech2",
+		"BaseValueUnits": 1856.0,
+		"RequiredItems": [
+			{
+				"Id": "raw20",
+				"Quantity": 200
+			},
+			{
+				"Id": "prod7",
+				"Quantity": 1
+			}
+		]
+	},
+	{
+		"Id": "tech3",
+		"BaseValueUnits": 2613.0,
+		"RequiredItems": [
+			{
+				"Id": "raw21",
+				"Quantity": 200
+			},
+			{
+				"Id": "prod7",
+				"Quantity": 1
+			}
+		]
+	}
+]

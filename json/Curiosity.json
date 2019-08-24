@@ -1,0 +1,219 @@
+[
+	{
+		"Id": "cur1",
+		"BaseValueUnits": 20000.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur2",
+		"BaseValueUnits": 35000.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur3",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur20",
+				"Quantity": 1
+			},
+			{
+				"Id": "prod82",
+				"Quantity": 3
+			},
+			{
+				"Id": "prod54",
+				"Quantity": 3
+			}
+		]
+	},
+	{
+		"Id": "cur4",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "raw22",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur5",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur4",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw9",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur6",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur5",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw14",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur7",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur6",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw10",
+				"Quantity": 5
+			}
+		]
+	},
+	{
+		"Id": "cur8",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur7",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw22",
+				"Quantity": 25
+			}
+		]
+	},
+	{
+		"Id": "cur9",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur8",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw18",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur10",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur9",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw19",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur11",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur10",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw20",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur12",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur11",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw21",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur13",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "cur12",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw32",
+				"Quantity": 100
+			}
+		]
+	},
+	{
+		"Id": "cur14",
+		"BaseValueUnits": 17776.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur15",
+		"BaseValueUnits": 61750.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur16",
+		"BaseValueUnits": 50000.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur17",
+		"BaseValueUnits": 4797.5,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur18",
+		"BaseValueUnits": 57000.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur19",
+		"BaseValueUnits": 92625.0,
+		"RequiredItems": []
+	},
+	{
+		"Id": "cur20",
+		"BaseValueUnits": 1000.0,
+		"RequiredItems": [
+			{
+				"Id": "prod6",
+				"Quantity": 3
+			},
+			{
+				"Id": "cur17",
+				"Quantity": 1
+			},
+			{
+				"Id": "raw20",
+				"Quantity": 120
+			}
+		]
+	},
+	{
+		"Id": "cur21",
+		"BaseValueUnits": 156950.0,
+		"RequiredItems": []
+	}
+]
