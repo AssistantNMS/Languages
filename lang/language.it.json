@@ -1,5 +1,5 @@
 {
-  "title": "Tutte le ricette",
+  "title": "Tutte le formule",
   "rawMaterialsJson": "en/RawMaterials.lang",
   "productsJson": "en/Products.lang",
   "otherItemsJson": "en/Others.lang",
@@ -17,7 +17,7 @@
   "kurtsBlog": "Blog di Kurt",
   "donation": "Donazione",
   "donationDescrip": "Tutte le funzionalita' dell'app sono disponibili senza alcun pagamento. Tuttavia sviluppare l'app e mantenere un sito comporta dei costi: le donazioni aiutano molto. Se ti piace quest'app lascia una recensione per favore e fa' una donazione, se puoi. Se non puoi, nessun problema 😋",
-  "noticeContent": "Quest'app è \"Beyond ready\"!! Le ricette di cucina saranno aggiunte presto. N.B. Alcuni oggetti sono mancanti: la Batteria scudo stellare e l'Ipernucleo di curvatura. Saranno aggiunti il prima possibile.",
+  "noticeContent": "Quest'app è \"Beyond ready\"! Le ricette di cucina saranno aggiunte presto. N.B. Alcuni oggetti sono mancanti: la Batteria scudo stellare e l'Ipernucleo di curvatura. Saranno aggiunti il prima possibile.",
   "noticeAccept": "Accetta",
   
   "buyMeACoffee": "Offrimi un caffe'",
