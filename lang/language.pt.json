@@ -48,5 +48,17 @@
   "similarRefinerRecipes": "Receitas de Refinação Semelhantes",
   "inputs": "Inputs",
   "output": "Output",
+  "help": "Help",
+  "close": "Close",
+  "apply": "Apply",
+  "edit": "Edit",
+  "delete": "Delete",
+  "deleteAll": "Delete All",
+  "cart": "Cart",
+  "cartContent": "Tap and hold to edit the quantity of an item or delete it",
+  "noCartItems": "No Items in Cart",
+  "quantity": "Quantity",
+  "cooking": "Cooking",
+  
   "translatedBy": "Gabriel Ubatuba"
 }

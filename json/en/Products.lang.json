@@ -255,84 +255,84 @@
     "Id": "prod37",
     "Icon": "products/37.png",
     "Name": "Albumen Pearl Orb",
-    "Group": "Base Building",
+    "Group": "Orb Plant",
     "Description": "A medium-sized, farmable Crystal Orb that yields an occasional harvest of valuable Albumen Pearls.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 80 mins\n"
   },
   {
     "Id": "prod38",
     "Icon": "products/38.png",
     "Name": "Echinocactus",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "Native to barren biomes and capable of withstanding long periods of drought, Echinocactus is an edible succulent that responds well to cultivation, yielding a large but occasional harvest.\nSuitable for hydroponic indoor planting. Ensure Barren climate before planting outdoors.\nApproximate growing time: 16 hours\n"
   },
   {
     "Id": "prod39",
     "Icon": "products/39.png",
     "Name": "Gutrot Flower",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "A foul-smelling, farmable flower that replicates the chemical structure of faecal matter. When planted inside, yields a harvest of Faecium.\nA good alternative to collecting Faecium by hand, which requires feeding creatures and then harvesting their droppings. Gutrot Flowers must be grown in a Hydroponics Tray.\nApproximate growing time: 4 hours\n"
   },
   {
     "Id": "prod40",
     "Icon": "products/40.png",
     "Name": "Frostwort",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "A large crystal flower with radiant blue blooms, found only in snowy biomes. Frostwort can be farmed and makes a reliable crop, and its adaptation to harsh conditions results in highly frequent harvests.\nSuitable for hydroponic indoor planting. Ensure Frozen climate before planting outdoors.\nApproximate growing time: 1 hour\n"
   },
   {
     "Id": "prod41",
     "Icon": "products/41.png",
     "Name": "Fungal Cluster",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "A spherical fungus with internal gills, found only in toxic biomes. Fungal Clusters can be transplanted for cultivation, yielding a bountiful harvest.\nSuitable for hydroponic indoor planting. Ensure Toxic climate before planting outdoors.\nApproximate growing time: 4 hours\n"
   },
   {
     "Id": "prod42",
     "Icon": "products/42.png",
     "Name": "Gamma Weed",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "A luminous, leafy flowering plant that thrives in radioactive biomes and can be cultivated to yield a bountiful harvest.\nSuitable for hydroponic indoor planting. Ensure Radioactive climate before planting outdoors.\nApproximate growing time: 4 hours\n"
   },
   {
     "Id": "prod43",
     "Icon": "products/43.png",
     "Name": "Gravitino Host",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "Gravitino Host being farmedA strange, potentially parasitic plant that yields an occasional harvest of the highly tradable commodity, Gravitino Balls.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 2 hours\n"
   },
   {
     "Id": "prod44",
     "Icon": "products/44.png",
     "Name": "Mordite Root",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "An inedible tuber that produces a small yield of Mordite crystals.\nA peaceful alternative to the process of harvesting Mordite from the corpses of creatures. Mordite Root must be grown in a Hydroponics Tray.\nApproximate growing time: 8 hours\n"
   },
   {
     "Id": "prod45",
     "Icon": "products/45.png",
     "Name": "NipNip",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "NipNip being farmedThis medicinal herb is known for its pungent buds, which are harvested to produce Gek Nip. NipNip thrives in dank environments, and often grows as a weed.\nSuitable for hydroponic planting indoors. Needs a tropical or humid climate before planting outdoors.\n"
   },
   {
     "Id": "prod46",
     "Icon": "products/46.png",
     "Name": "Solar Vine",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "This 'living rock' is adapted to live in the extreme heat of scorched biomes. However, it can be farmed in most environments and, once established, yields a moderate harvest.\nSuitable for hydroponic indoor planting. Ensure Hot climate before planting outdoors.\nApproximate growing time: 16 hours\n"
   },
   {
     "Id": "prod47",
     "Icon": "products/47.png",
     "Name": "Star Bramble",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "A medium-sized, farmable plant that yields an occasional harvest of valuable Star Bulbs.\nSuitable for hydroponic indoor planting. Ensure Lush climate before planting outdoors.\nApproximate growing time: 4 hours\n"
   },
   {
     "Id": "prod48",
     "Icon": "products/48.png",
     "Name": "Venom Urchin",
-    "Group": "Base Building",
+    "Group": "Plantable Seed",
     "Description": "Venom Urchin grown in a hydroponics tankA small, innocuous looking plant whose leaves periodically secrete a small amount of potent Sac Venom, a valuable trading commodity.\nSuitable for hydroponic indoor planting. Cannot be planted outdoors.\nApproximate growing time: 3 hours 20 mins\n"
   },
   {
@@ -508,7 +508,7 @@
     "Icon": "products/74.png",
     "Name": "Herox",
     "Group": "Alloy Metal",
-    "Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Ionised Cobalt and Ammonia.\nForms the backbone of galactic alloy trading. \n"
+    "Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Chlorine and Ammonia.\nForms the backbone of galactic alloy trading. \n"
   },
   {
     "Id": "prod75",
