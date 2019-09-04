@@ -7,6 +7,7 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "pt/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
+	"exploitJson": "en/Exploits.lang",
 
 	"loading": "Carregando",
 	"about": "Sobre",
@@ -20,7 +21,6 @@
 	"donationDescrip": "Todas as funções desse APP estão de graça para você. Mas de qualquer maneira existem custos envolvidos com a criação do app e o host do site, então, qualquer doação me ajudaria demais. Se você gostou do APP, avalie na Play Store! Se você não puder doar, não se esquenta a cabeça! 😋",
 	"noticeContent": "O APP já está atualizado para o Beyond!! Os alimentos serão logo adicionados. Veja que ainda temos itens faltando: Starshield Battery and Warp Hypercores. Eles serão adicionados assim que possível!",
 	"noticeAccept": "Aceitar",
-
 	"buyMeACoffee": "Me compre um Café",
 	"patreon": "Patreon",
 	"paypal": "PayPal",
@@ -62,6 +62,11 @@
 	"noCartItems": "No Items in Cart",
 	"quantity": "Quantity",
 	"cooking": "Cooking",
+	"cookingRecipe": "Cooking Recipe",
+	"viewXMore": "View All ({0} more)",
+	"exploits": "Exploits",
+	"outputs": "Outputs",
+	"steps": "Steps",
 
 	"translatedBy": "Gabriel Ubatuba"
 }

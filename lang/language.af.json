@@ -7,6 +7,7 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "en/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
+	"exploitJson": "en/Exploits.lang",
 
 	"loading": "Besig om te laai",
 	"about": "Meer inligting",
@@ -62,6 +63,11 @@
 	"noCartItems": "Geen items in die Mandjie nie",
 	"quantity": "Hoeveelheid",
 	"cooking": "Kook",
+	"cookingRecipe": "Kook",
+	"viewXMore": "View All ({0} more)",
+	"exploits": "Exploits",
+	"outputs": "Outputs",
+	"steps": "Steps",
 
 	"translatedBy": "Charl Meyers"
 }

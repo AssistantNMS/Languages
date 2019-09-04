@@ -1,0 +1,497 @@
+[
+	{
+		"Id": "raw1",
+		"Icon": "rawMaterials/1.png",
+		"Name": "Carbono",
+		"Abbrev": "C",
+		"Group": "Elemento Organico no Refinado",
+		"Rarity": "Common",
+		"Description": "Elemento valioso y abundante usado en la recarga de armamento, el equipamiento de extracción y el soporte vital del exotraje. Se halla en árboles, plantas y demás vegetación planetaria."
+	},
+	{
+		"Id": "raw2",
+		"Icon": "rawMaterials/2.png",
+		"Name": "Condensed Carbon",
+		"Abbrev": "C+",
+		"Group": "Elemento orgánico refinado",
+		"Rarity": "Uncommon",
+		"Description": "Material avanzado, procesado a partir de carbono normal en una refinería\nLa densidad molecular aumentada ofrece una relación de energía por gramos mejorada de forma sustancial.\nOcasionalmente, se encuentra en forma cristalina. Es posible que se necesite un láser de extracción avanzado para su recolección."
+	},
+	{
+		"Id": "raw3",
+		"Icon": "rawMaterials/3.png",
+		"Name": "Oxygen",
+		"Abbrev": "O2",
+		"Group": "Combustible líquido concentrado",
+		"Rarity": "Common",
+		"Description": "Vital para la tecnología de filtrado atmosférico principal del sistema de soporte vital  del exotraje.\nEl procesado de material del exotraje permite que se recolecte oxígeno directamente de la flora planetaria apropiada.\nEl TECHNOLOGY visor de análisis  puede escanear otra vegetación para revelar fuentes de oxígeno alternativas."
+	},
+	{
+		"Id": "raw4",
+		"Icon": "rawMaterials/4.png",
+		"Name": "Hexita",
+		"Abbrev": "X",
+		"Group": "Elemento Organico no Refinado",
+		"Rarity": "Uncommon",
+		"Description": "Una sustancia inodora, rica en minerales, con una estructura cristalina hexagonal, que se recolecta de la materia fecal de una criatura."
+	},
+	{
+		"Id": "raw5",
+		"Icon": "rawMaterials/5.png",
+		"Name": "Dihidrógeno",
+		"Abbrev": "H",
+		"Group": "Sustancia de gran energía",
+		"Rarity": "Common",
+		"Description": "Una forma estable y cristalina de hidrógeno singular debido a su extrema densidad de energía y a su aparente estabilidad bajo presiones atmosféricas.\nComún en todos los mundos, el dihidrógeno se encuentra en forma de grandes cristales azules . Es un componente clave de combustible de lanzamiento de nave espacial."
+	},
+	{
+		"Id": "raw6",
+		"Icon": "rawMaterials/6.png",
+		"Name": "Deuterio",
+		"Abbrev": "D",
+		"Group": "Sustancia de gran energía",
+		"Rarity": "Rare",
+		"Description": "Isótopo estable del hidrógeno muy usado en reactores de fusión de pequeña escala y tecnología de escudos de dispersión de neutrones.\nEl deuterio rara vez se encuentra en forma natural. La mayoría del suministro de la galaxia procede del procesamiento de dihidrógeno  en refinerías."
+	},
+	{
+		"Id": "raw7",
+		"Icon": "rawMaterials/7.png",
+		"Name": "Tritio",
+		"Abbrev": "H3",
+		"Group": "Elemento combustible rico en neutrones",
+		"Rarity": "Common",
+		"Description": "Isótopo radiactivo que se suele emplear como combustible para el reactor de fusión de los motores de pulso  de la nave.\nEl tritio, abundante en campos de asteroides interestelares, se puede extraer de los asteroides  usando el armamento de la nave."
+	},
+	{
+		"Id": "raw8",
+		"Icon": "rawMaterials/8.png",
+		"Name": "Polvo de ferrita",
+		"Abbrev": "Fe",
+		"Group": "Extracto de mineral metálico",
+		"Rarity": "Common",
+		"Description": "Elemento mineral abundante, que se halla en formaciones rocosas  y otras zonas de interés geológico. Se extrae fácilmente con un láser de extracción. \nPor lo general, precisa procesarse en una refinería  antes de utilizarse en la construcción o la fabricación de tecnología."
+	},
+	{
+		"Id": "raw9",
+		"Icon": "rawMaterials/9.png",
+		"Name": "Ferrita pura",
+		"Abbrev": "Fe+",
+		"Group": "Mineral metálico procesado",
+		"Rarity": "Uncommon",
+		"Description": "Metal procesado, libre de polvo e impurezas. Se utiliza para construir una amplia gama de estructuras  y tecnologías.\nPor lo general, se purifica a partir de polvo de ferrita en una refinería, pero, a veces, se puede encontrar en grandes depósitos. \nSu recolección puede requerir un  láser de extracción avanzado."
+	},
+	{
+		"Id": "raw10",
+		"Icon": "rawMaterials/10.png",
+		"Name": "Ferrita imantada",
+		"Abbrev": "Fe++",
+		"Group": "Elemento metálico cargado",
+		"Rarity": "Rare",
+		"Description": "Metal altamente procesado, que requiere varias fases de procesamiento en una refinería.\nSe utiliza en la creación de tecnologías y estructuras avanzadas. Evitar la ingesta."
+	},
+	{
+		"Id": "raw11",
+		"Icon": "rawMaterials/11.png",
+		"Name": "Polvo de silicato",
+		"Abbrev": "Si",
+		"Group": "Mineral abundante",
+		"Rarity": "Common",
+		"Description": "Un elemento mineral abundante que se encuentra en los estratos geológicos de todos los mundos rocosos. Se extrae fácilmente mediante un manipulador de terreno . Crea un túnel en cualquier parte para iniciar la extracción.\nProcésalo en una refinería  para crear vidrio."
+	},
+	{
+		"Id": "raw12",
+		"Icon": "rawMaterials/12.png",
+		"Name": "Sodio",
+		"Abbrev": "Na",
+		"Group": "Elemento catalítico sin refinar",
+		"Rarity": "Common",
+		"Description": "Un potente  catalizador , útil para cargar tecnologías defensivas  como escudos o protección contra peligros.\nLa tecnología de manejo de material del exotraje permite su recolección automática de la flora rica en sodio  apropiada.\nUn ingrediente vital en la creación de numerosos dispositivos, productos y componentes avanzados."
+	},
+	{
+		"Id": "raw13",
+		"Icon": "rawMaterials/13.png",
+		"Name": "Nitrato de sodio",
+		"Abbrev": "Na+",
+		"Group": "Elemento catalítico refinado",
+		"Rarity": "Uncommon",
+		"Description": "Un catalizador avanzado , útil para cargar tecnologías defensivas  como escudos o protección contra peligros.\nCreado en una refinería  o encontrado ocasionalmente en forma cristalina en la superficie de un planeta.\nOfrece una proporción de energía por gramo sustancialmente mejorada sobre el sodio normal."
+	},
+	{
+		"Id": "raw14",
+		"Icon": "rawMaterials/14.png",
+		"Name": "Cobalto",
+		"Abbrev": "Co",
+		"Group": "Mineral subterráneo",
+		"Rarity": "Common",
+		"Description": "El cobalto, que se extrae de minerales subterráneos, se encuentra en cuevas y otras cavernas subterráneas en grandes cantidades. Es útil en la fabricación de baterías de iones .\nSe utiliza en la creación de varias tecnologías y estructuras, y se puede procesar en una refinería  para aprovechar al máximo su carga inherente."
+	},
+	{
+		"Id": "raw15",
+		"Icon": "rawMaterials/15.png",
+		"Name": "Cobalto ionizado",
+		"Abbrev": "Co+",
+		"Group": "Mineral subterráneo procesado",
+		"Rarity": "Uncommon",
+		"Description": "Este metal procesado, una forma altamente energizada del cobalto, se puede utilizar para crear baterías de iones avanzadas , una fuente de energía portátil muy conveniente para el exotraje.\nTiene un uso extenso como componente clave en la creación de tecnologías y estructuras avanzadas."
+	},
+	{
+		"Id": "raw16",
+		"Icon": "rawMaterials/16.png",
+		"Name": "Sal",
+		"Abbrev": "NaCl",
+		"Group": "Extracto de mineral acuático",
+		"Rarity": "Uncommon",
+		"Description": "Una sal de origen natural que se encuentra en abundancia en minerales subacuáticos .\nSe puede procesar en una refinería  para crear cloro , que se utiliza en la fabricación de tecnologías y productos avanzados."
+	},
+	{
+		"Id": "raw17",
+		"Icon": "rawMaterials/17.png",
+		"Name": "Cloro",
+		"Abbrev": "Cl",
+		"Group": "Mineral acuático procesado",
+		"Rarity": "Rare",
+		"Description": "Un elemento reactivo que se puede recolectar procesando los minerales salinos que se encuentran en los océanos.\nSe utiliza en la fabricación de tecnologías avanzadas."
+	},
+	{
+		"Id": "raw18",
+		"Icon": "rawMaterials/18.png",
+		"Name": "Citofosfato",
+		"Abbrev": "Cy",
+		"Group": "Compuesto orgánico",
+		"Rarity": "Common",
+		"Description": "Un compuesto orgánico verde azulado producido durante el ciclo metabólico de la vegetación de las aguas profundas. Los citofosfatos, ricos en energía soluble, son cruciales para muchas tecnologías submarinas.\nEl láser de extracción  recolectará compuestos de citofosfatos de la flora submarina."
+	},
+	{
+		"Id": "raw19",
+		"Icon": "rawMaterials/19.png",
+		"Name": "Cobre",
+		"Abbrev": "Cu",
+		"Group": "Metal estelar refinado: amarillo",
+		"Rarity": "Uncommon",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella. Este material estelar acaba formando depósitos en la corteza de los planetas locales.\nEl cobre se encuentra en planetas que orbitan  estrellas amarillas , y se puede colocar en una refinería  para crear el metal cromático  purificado que se utiliza en la fabricación de tecnologías avanzadas."
+	},
+	{
+		"Id": "raw20",
+		"Icon": "rawMaterials/20.png",
+		"Name": "Cadmio",
+		"Abbrev": "Cd",
+		"Group": "Metal estelar refinado: rojo",
+		"Rarity": "Uncommon",
+		"Description": "Un metal cromático   generado por fusión en el núcleo de una estrella. Este material estelar acaba formando depósitos en la corteza de los planetas locales.\nEl cadmio se encuentra en planetas que orbitan estrellas rojas  y se puede colocar en una refinería  para crear un metal cromático  apto para muchos procesos tecnológicos."
+	},
+	{
+		"Id": "raw21",
+		"Icon": "rawMaterials/21.png",
+		"Name": "Emerilio",
+		"Abbrev": "Em",
+		"Group": "Metal estelar refinado: verde",
+		"Rarity": "Uncommon",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella.\nEl emerilio se encuentra en planetas que orbitan estrellas verdes , y se puede colocar en una refinería  para crear el metal cromático  purificado que se utiliza en la fabricación de tecnologías avanzadas."
+	},
+	{
+		"Id": "raw22",
+		"Icon": "rawMaterials/22.png",
+		"Name": "Indio",
+		"Abbrev": "In",
+		"Group": "Metal estelar refinado: azul",
+		"Rarity": "Uncommon",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella. Este material estelar acaba formando depósitos en la corteza de los planetas locales.\nEl indio se encuentra en planetas que orbitan estrellas azules , y se puede colocar en una refinería  para crear el metal cromático  purificado que se utiliza en la fabricación de tecnologías avanzadas."
+	},
+	{
+		"Id": "raw23",
+		"Icon": "rawMaterials/23.png",
+		"Name": "Metal cromático",
+		"Abbrev": "Ch",
+		"Group": "Metal estelar altamente refinado",
+		"Rarity": "Uncommon",
+		"Description": "Una aleación de metal procesada, creada en una refinería  de metales estelares : cobre , cadmio , emerilio  e indio.\nProducirá el metal estelar más raro , el metal más cromático.\nEste valioso metal se utiliza en la creación de muchas tecnologías avanzadas."
+	},
+	{
+		"Id": "raw24",
+		"Icon": "rawMaterials/24.png",
+		"Name": "Parafinio",
+		"Abbrev": "Pf",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el  visor de análisis.\nSuele encontrarse en planetas con un  ambiente tropical."
+	},
+	{
+		"Id": "raw25",
+		"Icon": "rawMaterials/25.png",
+		"Name": "Pirita",
+		"Abbrev": "Py",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el visor de análisis.\nSuele encontrarse en planetas con un  ambiente desértico."
+	},
+	{
+		"Id": "raw26",
+		"Icon": "rawMaterials/26.png",
+		"Name": "Amonio",
+		"Abbrev": "NH3",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el visor de análisis.\nSuele encontrarse en planetas con un  medio ambiente tóxico.\n"
+	},
+	{
+		"Id": "raw27",
+		"Icon": "rawMaterials/27.png",
+		"Name": "Uranio",
+		"Abbrev": "U",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el  visor de análisis \nSuele encontrarse en planetas con un  medio ambiente radiactivo.\n"
+	},
+	{
+		"Id": "raw28",
+		"Icon": "rawMaterials/28.png",
+		"Name": "Dioxita",
+		"Abbrev": "C02",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el  visor de análisis. \nSuele encontrarse en planetas con un  medio ambiente congelado"
+	},
+	{
+		"Id": "raw29",
+		"Icon": "rawMaterials/29.png",
+		"Name": "Fósforo",
+		"Abbrev": "P",
+		"Group": "Elemento de tierra localizado",
+		"Rarity": "Uncommon",
+		"Description": "Extracto de mineral local, que se encuentra, por lo general, en grandes depósitos o se extrae de minerales comunes tras una inspección con el visor de análisis. \nSuele encontrarse en planetas con un  ambiente abrasado."
+	},
+	{
+		"Id": "raw30",
+		"Icon": "rawMaterials/30.png",
+		"Name": "Mordita",
+		"Abbrev": "Mo",
+		"Group": "Sustancia recolectada",
+		"Rarity": "Uncommon",
+		"Description": "A pesar de muchos estudios, se sabe poco acerca de este compuesto cristalino e inquietante.\nSe libera de los cadáveres de criaturas moribundas, pero también se puede cultivar y recolectar específicamente de la raíz de la mordita."
+	},
+	{
+		"Id": "raw31",
+		"Icon": "rawMaterials/31.png",
+		"Name": "Pugneo",
+		"Abbrev": "Pg",
+		"Group": "Material Anomalo",
+		"Rarity": "Rare",
+		"Description": "Este Aceitoso, e inquietante liquido se fuga por los circuitos de los Sentinelas.\nValorado por los Vy'keen, El Pugneo se piensa que comparte una propiedades esenciales con los Nanitos. Zumba de una manera siniestra al contacto con materia organica.\n\n"
+	},
+	{
+		"Id": "raw32",
+		"Icon": "rawMaterials/32.png",
+		"Name": "Plata",
+		"Abbrev": "Ag",
+		"Group": "Mineral valioso de asteroide",
+		"Rarity": "Common",
+		"Description": "Mineral interestelar con valor comercial que se suele  extraer de los asteroides. Se encuentra ocasionalmente en depósitos planetarios subterráneos.\nApreciado en todos los sistemas por su lustre y su brillo."
+	},
+	{
+		"Id": "raw33",
+		"Icon": "rawMaterials/33.png",
+		"Name": "Oro",
+		"Abbrev": "Au",
+		"Group": "Mineral valioso de asteroide",
+		"Rarity": "Uncommon",
+		"Description": "Mineral interestelar con gran valor comercial que se suele  extraer de los asteroides. Se encuentra ocasionalmente en depósitos planetarios subterráneos.\nApreciado universalmente por su belleza y su versatilidad."
+	},
+	{
+		"Id": "raw34",
+		"Icon": "rawMaterials/34.png",
+		"Name": "Platino",
+		"Abbrev": "Pt",
+		"Group": "Mineral valioso de asteroide",
+		"Rarity": "Rare",
+		"Description": "Mineral interestelar con un inmenso valor comercial que se suele  extraer de los asteroides. Se encuentra ocasionalmente en depósitos planetarios subterráneos.\nApreciado universalmente por su durabilidad y su versatilidad."
+	},
+	{
+		"Id": "raw35",
+		"Icon": "rawMaterials/35.png",
+		"Name": "Sulfurina",
+		"Abbrev": "Su",
+		"Group": "Gas Atmosférico Comprimido",
+		"Rarity": "Uncommon",
+		"Description": "La  sulfurina  es un  gas  atmosférico penetrante. Las altas concentraciones son extremadamente peligrosas para la vida orgánica.\nCon la ayuda de un  recolector de atmósfera , se puede extraer de las atmósferas de planetas  abrasados  y yermos.\n\n"
+	},
+	{
+		"Id": "raw36",
+		"Icon": "rawMaterials/36.png",
+		"Name": "Radon",
+		"Abbrev": "Rn",
+		"Group": "Gas Atmosférico Comprimido",
+		"Rarity": "Uncommon",
+		"Description": "El  radón  es un  gas  incoloro e inodoro con una vida media relativamente corta. \nCon la ayuda de un  recolector de atmósfera , se puede extraer de las atmósferas de planetas  radiactivos  y  helados."
+	},
+	{
+		"Id": "raw37",
+		"Icon": "rawMaterials/37.png",
+		"Name": "Nitrogeno",
+		"Abbrev": "N",
+		"Group": "Gas Atmosférico Comprimido",
+		"Rarity": "Uncommon",
+		"Description": "El  nitrógeno  es un  gas  atmosférico reactivo que se encuentra donde exista vida orgánica.\nCon la ayuda de un  recolector de atmósfera , se puede extraer de las atmósferas de planetas  exuberantes  y  tóxicos."
+	},
+	{
+		"Id": "raw38",
+		"Icon": "rawMaterials/38.png",
+		"Name": "Cobre activado",
+		"Abbrev": "Cu",
+		"Group": "Metal estelar refinado: amarillo",
+		"Rarity": "Rare",
+		"Description": "Un metal cromático, generado por fusión en el núcleo de una estrella.\nEste cobre se activó a causa de las condiciones extremas en las que se formó y tiene un gran valor.\nEl cobre se encuentra en planetas que orbitan  estrellas amarillas, y se puede colocar en una  refinería  para crear el  metal cromático  purificado."
+	},
+	{
+		"Id": "raw39",
+		"Icon": "rawMaterials/39.png",
+		"Name": "Cadmio activado",
+		"Abbrev": "Cd",
+		"Group": "Metal estelar refinado: rojo",
+		"Rarity": "Rare",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella.\nEste cadmio se activó a causa de las condiciones extremas en las que se formó y tiene un gran valor.\nEl cadmio se encuentra en planetas que orbitan trellas rojas, y se puede colocar en una refinería  para crear el metal cromático  purificado."
+	},
+	{
+		"Id": "raw40",
+		"Icon": "rawMaterials/40.png",
+		"Name": "Emerilio activado",
+		"Abbrev": "Em",
+		"Group": "Metal estelar refinado: verde",
+		"Rarity": "Rare",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella.\nEste emerilio se activó a causa de las condiciones extremas en las que se formó y tiene un gran valor.\nEl emerilio se encuentra en planetas que orbitan  estrellas verdes, y se puede colocar en una refinería para crear el  metal cromático  purificado."
+	},
+	{
+		"Id": "raw41",
+		"Icon": "rawMaterials/41.png",
+		"Name": "Indio activado",
+		"Abbrev": "In",
+		"Group": "Metal estelar refinado: azul",
+		"Rarity": "Rare",
+		"Description": "Un metal cromático , generado por fusión en el núcleo de una estrella.\nEl indio se encuentra en planetas que orbitan  estrellas azules, y se puede colocar en una  refinería  para crear el metal cromático  purificado.\nEste indio se activó a causa de las condiciones extremas en las que se formó y tiene un gran valor."
+	},
+	{
+		"Id": "raw42",
+		"Icon": "rawMaterials/42.png",
+		"Name": "Moho fúngico",
+		"Abbrev": "Ml",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "\nSustancia con un brillo extraño extraída de las laminillas de los grupos fúngicos.\nLa planta huésped requiere un clima tóxico para prosperar en la naturaleza, pero puede cultivarse en todos los entornos con la ayuda de una  bandeja hidropónica."
+	},
+	{
+		"Id": "raw43",
+		"Icon": "rawMaterials/43.png",
+		"Name": "Cristal de escarcha",
+		"Abbrev": "Fc",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Compuesto orgánico con una preciosa estructura cristalina azul que posee una gran resistencia y una translucidez reluciente. Se obtiene de las hojas del  heliantemo.\nEl heliantemo necesita entornos congelados para prosperar en la naturaleza, pero puede cultivarse en todos los entornos con la ayuda de una bandeja hidropónica."
+	},
+	{
+		"Id": "raw44",
+		"Icon": "rawMaterials/44.png",
+		"Name": "Raíz de gamma",
+		"Abbrev": "Gr",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Sustancia extraña que parece cambiar lentamente el aire a su alrededor. Se encuentra en las  raíces de la hierba gamma.\nLa hierba gamma requiere alta radiación de fondo para prosperar en la naturaleza, pero puede cultivarse en todos los entornos con la ayuda de una bandeja hidropónica."
+	},
+	{
+		"Id": "raw45",
+		"Icon": "rawMaterials/45.png",
+		"Name": "Carne de cactus",
+		"Abbrev": "Cc",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Carne de cactus comestible y deliciosa del equinocactus. Además de ofrecer un toque jugoso al paladar, su carne posee muchos usos industriales.\nEl equinocactus solo prospera en planetas desiertos, pero puede cultivarse en todos los entornos con la ayuda de una hidropónica."
+	},
+	{
+		"Id": "raw46",
+		"Icon": "rawMaterials/46.png",
+		"Name": "Solanio",
+		"Abbrev": "So",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Sustancia química potente capaz de resistir intentos de síntesis. Se puede obtener de la corteza de la vid solar.\nLa vid requiere altas temperaturas para prosperar en la naturaleza, pero puede cultivarse en todos los entornos con la ayuda de una bandeja hidropónica."
+	},
+	{
+		"Id": "raw47",
+		"Icon": "rawMaterials/47.png",
+		"Name": "Bulbo estelar",
+		"Abbrev": "Sb",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Una hermosa gema. Este preciado producto es el luminoso e hinchado fruto de la zarza estelar.\nLa planta huésped requiere unas condiciones benignas para prosperar en la naturaleza, pero puede cultivarse en todos los entornos con la ayuda de una bandeja hidropónica ."
+	},
+	{
+		"Id": "raw48",
+		"Icon": "rawMaterials/48.png",
+		"Name": "Bulbo de médula",
+		"Abbrev": "Mb",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Bulbo orgánico brillante extraído de la calabaza de cueva   que crece bajo tierra. \nLa calabaza de cueva ha demostrado ser resistente a la domesticación, y no se conocen cultivos cultivables. Como tales, los bulbos de la calabaza deben cosecharse a mano en la naturaleza."
+	},
+	{
+		"Id": "raw49",
+		"Icon": "rawMaterials/49.png",
+		"Name": "Saco de algas marinas",
+		"Abbrev": "Ke",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Saco gomoso y luminiscente extraído de las algas marinas luminiscentes que hay bajo el agua.\nLa ciencia agrícola aún no ha domesticado las algas marinas. Como tales, estos sacos no se pueden cultivar."
+	},
+	{
+		"Id": "raw50",
+		"Icon": "rawMaterials/50.png",
+		"Name": "Hecesio",
+		"Abbrev": "Fa",
+		"Group": "Sustancia agrícola recolectada",
+		"Rarity": "Uncommon",
+		"Description": "Compuesto fétido que se puede extraer de la flor de pudretripas   o de las heces menos apetecibles de algunas especies.\nSe puede alimentar a las especies para favorecer que se formen cristales de hecesio con mayor facilidad."
+	},
+	{
+		"Id": "raw51",
+		"Icon": "rawMaterials/51.png",
+		"Name": "Pringue residual",
+		"Abbrev": "Jn",
+		"Group": "Chatarra",
+		"Rarity": "Common",
+		"Description": "Pringue fétida palpitante que se acumula en la maquinaria deficientemente mantenida.\nNo se recomienda el contacto con la piel."
+	},
+	{
+		"Id": "raw52",
+		"Icon": "rawMaterials/52.png",
+		"Name": "Moho desenfrenado",
+		"Abbrev": "Jn",
+		"Group": "Chatarra",
+		"Rarity": "Uncommon",
+		"Description": "Moho fuera de control que se acumula en la maquinaria deficientemente mantenida.\nProbablemente sean varias especies diferentes de mohos, fusionadas en una supercolonia."
+	},
+	{
+		"Id": "raw53",
+		"Icon": "rawMaterials/53.png",
+		"Name": "Metal oxidado",
+		"Abbrev": "Jn",
+		"Group": "Chatarra",
+		"Rarity": "Common",
+		"Description": "Puñados de metal corroído, distorsionado por los años de exposición al clima hostil.\nTratar con cuidado."
+	},
+	{
+		"Id": "raw54",
+		"Icon": "rawMaterials/54.png",
+		"Name": "Cieno vivo",
+		"Abbrev": "Jn",
+		"Group": "Chatarra",
+		"Rarity": "Uncommon",
+		"Description": "Cieno pesado supurante. Se mueve poco a poco, como si poseyera su propio latido.\nFuente de nutrientes: desconocida.\n"
+	},
+	{
+		"Id": "raw55",
+		"Icon": "rawMaterials/55.png",
+		"Name": "Fluidos viscosos",
+		"Abbrev": "Jn",
+		"Group": "Chatarra",
+		"Rarity": "Uncommon",
+		"Description": "Líquido extraño y espeso de color turbio. Resulta imposible desentrañar su procedencia.\nParece tener algunas propiedades magnéticas suaves."
+	}
+]

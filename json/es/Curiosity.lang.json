@@ -1,0 +1,149 @@
+[
+	{
+		"Id": "cur1",
+		"Icon": "curiosities/1.png",
+		"Name": "Servo cuádruple",
+		"Group": "Material anómalo",
+		"Description": "Un servobrazo motor de resortes recuperado del interior de una unidad de patrulla Centinela. A veces da sacudidas, como si experimentara el recuerdo del combate."
+	},
+	{
+		"Id": "cur2",
+		"Icon": "curiosities/2.png",
+		"Name": "Cerebro de caminante",
+		"Group": "Material anómalo",
+		"Description": "Este circuito, formado por cúmulos de nanitos cambiantes soldados sobre un filamento de púgneo, está extremadamente caliente al tacto.\nUna luz púrpura siniestra se filtra desde el interior de su cableado, cambiando de intensidad al mirar a quien lo sostiene."
+	},
+	{
+		"Id": "cur3",
+		"Icon": "curiosities/3.png",
+		"Name": "Arca mental",
+		"Group": "Producto creado avanzado",
+		"Description": "Una extraña pieza de tecnología, un regalo de más allá de las estrellas. Brilla de una forma que sugiere que no pertenece por completo a este mundo."
+	},
+	{
+		"Id": "cur4",
+		"Icon": "curiosities/4.png",
+		"Name": "Nánodo capturado",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Semilla del Atlas que contiene sustrato cuasiestelar desplazado por zona. Advertencia: no permitir que la matriz entre en comunión con este espacio dimensional."
+	},
+	{
+		"Id": "cur5",
+		"Icon": "curiosities/5.png",
+		"Name": "Sombra englobada",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Esta carcasa del Atlas contiene los restos de un ser vivo espacial parasitario; gran probabilidad de que posea orígenes extradimensionales."
+	},
+	{
+		"Id": "cur6",
+		"Icon": "curiosities/6.png",
+		"Name": "Orbe noosférico",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Semilla del Atlas capaz de resonar en frecuencias telepáticas humanoides; puede intentar absorber cualquier intelecto subordinado en proximidad cercana."
+	},
+	{
+		"Id": "cur7",
+		"Icon": "curiosities/7.png",
+		"Name": "Materia oscura",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Semilla del Atlas que envuelve un elemento de vacío cosechado a partir del estado de colapso del último universo. Tóxica si se ingiere."
+	},
+	{
+		"Id": "cur8",
+		"Icon": "curiosities/8.png",
+		"Name": "Fin del alba",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Matriz esculpida de neutrino-bosón tau, fijada dentro de una carcasa de semilla de Atlas irremplazable. Puede ser semisensible"
+	},
+	{
+		"Id": "cur9",
+		"Icon": "curiosities/9.png",
+		"Name": "Jade fótico",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Esta semilla del Atlas irremplazable es una forma de fotones adaptados a la materia fusionados en una solidez física mediante métodos desconocidos."
+	},
+	{
+		"Id": "cur10",
+		"Icon": "curiosities/10.png",
+		"Name": "Fáser de estado",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Por motivos desconocidos, esta semilla del Atlas única se desfasó de la alineación con esta realidad cuántica. No se puede determinar su contenido"
+	},
+	{
+		"Id": "cur11",
+		"Icon": "curiosities/11.png",
+		"Name": "Reclamo de nova",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Esta semilla del Atlas contiene elementos de neutronio de un evento catastrófico de supernova que arrasó a una civilización sensible en una época anterior."
+	},
+	{
+		"Id": "cur12",
+		"Icon": "curiosities/12.png",
+		"Name": "Quantum modificado",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Esta semilla del Atlas única en su género contiene un constructo matemático de gran valor estético rescatado de la simulación de una realidad alternativa."
+	},
+	{
+		"Id": "cur13",
+		"Icon": "curiosities/13.png",
+		"Name": "Corazón del sol",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Semilla del Atlas que contiene un cilio cuántico unitemporal suspendido en una carcasa fotónica. No se conoce que existan otras."
+	},
+	{
+		"Id": "cur14",
+		"Icon": "curiosities/14.png",
+		"Name": "Brotes de NipNip",
+		"Group": "Sustancia medicinal",
+		"Description": "Un brote fétido cosechado de la planta NipNip, a menudo se usa para producir Nip Gek."
+	},
+	{
+		"Id": "cur15",
+		"Icon": "curiosities/15.png",
+		"Name": "Núcleo larvario",
+		"Group": "Monstruosidad",
+		"Description": "Un orbe vibrante y gelatinoso, una esfera viscosa caliente al tacto. Su olor desencadena un miedo primitivo en los seres mortales, un remordimiento arraigado que te suplica que lo sueltes y huyas."
+	},
+	{
+		"Id": "cur16",
+		"Icon": "curiosities/16.png",
+		"Name": "Datos recuperados",
+		"Group": "Tecnología recuperada",
+		"Description": "El núcleo recuperable de una tecnología antigua. En su forma actual resulta ilegible.Estos bancos de datos se pueden consignar en una unidad de investigación de construcción   y usarse para investigar nuevos  planos de construcción  ."
+	},
+	{
+		"Id": "cur17",
+		"Icon": "curiosities/17.png",
+		"Name": "Perla viva",
+		"Group": "Piedra preciosa semiconsciente",
+		"Description": "Crece en el interior de los enormes moluscos brillantes que se encuentran en las profundidades submarinas.\nA diferencia de la mayoría de las perlas, esta muestra no se compone de calcita inerte. Ciertos vestigios de la consciencia de la almeja madre permanecen en el interior de la gema, lo que le proporciona una belleza persistente y cautivadora."
+	},
+	{
+		"Id": "cur18",
+		"Icon": "curiosities/18.png",
+		"Name": "Ojo hipnótico",
+		"Group": "Muestra horrorosa",
+		"Description": "El ojo es frío, casi helado, al tacto. No obstante, no se puede evitar sentir que de algún modo está vivo.\nNo se recomienda una exposición prolongada. No mirar fijamente al ojo. No mirar fijamente. No mirar fijamente."
+	},
+	{
+		"Id": "cur19",
+		"Icon": "curiosities/19.png",
+		"Name": "Núcleo hadal",
+		"Group": "Muestra horrorosa",
+		"Description": "Un orbe carnoso altamente presurizado.\nCuando se toca, se puede sentir cómo devuelve el movimiento. Un destello de bioluminiscencia que se estimula en el núcleo negruzco de este misterioso objeto."
+	},
+	{
+		"Id": "cur20",
+		"Icon": "curiosities/20.png",
+		"Name": "Motor anímico",
+		"Group": "Producto creado avanzado",
+		"Description": "Una potente unidad de computación orgánica.\nEste circuito milagroso que funciona a base de fallos produce un ciclo tras otro en un frenético bucle de cálculos sin fin."
+	},
+	{
+		"Id": "cur21",
+		"Icon": "curiosities/21.png",
+		"Name": "Cristal de tormenta",
+		"Group": "Curiosidad valiosa única",
+		"Description": "Un raro y muy valioso cúmulo de cristales de tormenta. Estas estructuras cristalinas medran en condiciones de tormenta y atraen de forma natural los relámpagos, volviéndose especialmente luminiscentes cuando están ionizados. Se encuentran exclusivamente en planetas de clima extremo."
+	}
+]

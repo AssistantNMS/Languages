@@ -7,6 +7,7 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "en/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
+	"exploitJson": "en/Exploits.lang",
 	
 	"loading": "Laden",
 	"about": "Over",
@@ -62,6 +63,11 @@
 	"noCartItems": "Lege Winkelwagen",
 	"quantity": "Hoeveelheid",
 	"cooking": "Koken",
+	"cookingRecipe": "Cooking Recipe",
+	"viewXMore": "View All ({0} more)",
+	"exploits": "Exploits",
+	"outputs": "Outputs",
+	"steps": "Steps",
   
 	"translatedBy": "Arnold van Ree"
 }

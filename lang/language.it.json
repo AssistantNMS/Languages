@@ -7,6 +7,7 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "en/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
+	"exploitJson": "en/Exploits.lang",
 
 	"loading": "Caricamento",
 	"about": "Info",
@@ -62,6 +63,11 @@
 	"noCartItems": "No Items in Cart",
 	"quantity": "Quantity",
 	"cooking": "Cooking",
+	"cookingRecipe": "Cooking Recipe",
+	"viewXMore": "View All ({0} more)",
+	"exploits": "Exploits",
+	"outputs": "Outputs",
+	"steps": "Steps",
 
 	"translatedBy": "Andrea Bodini"
 }

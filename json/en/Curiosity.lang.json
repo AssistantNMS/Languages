@@ -145,5 +145,33 @@
     "Name": "Storm Crystal",
     "Group": "Unique valuable curiosity",
     "Description": "A rare and highly valuable cluster of storm crystals. These crystalline structures thrive in stormy conditions, and naturally attract lighting strikes, becoming spectacularly luminescent when ionised. Exclusively found on extreme weather planets.\n"
+  },
+  {
+    "Id": "cur22",
+    "Icon": "curiosities/22.png",
+    "Name": "Albumen Pearl",
+    "Group": "Trade commodity",
+    "Description": "Gemstone formed over the course of centuries within the egg of a super-incubatory species.\nExtremely rare.\n"
+  },
+  {
+    "Id": "cur23",
+    "Icon": "curiosities/23.png",
+    "Name": "Gravitino Ball",
+    "Group": "Trade commodity",
+    "Description": "Supersymmetric particle cluster.\nExtremely rare and valuable. A product of divergent super-gravitational forces.\n"
+  },
+  {
+    "Id": "cur24",
+    "Icon": "curiosities/24.png",
+    "Name": "Sac Venom",
+    "Group": "Trade commodity",
+    "Description": "Stabilized poison sample initially produced by aquatic urchin creatures. A rare and expensive item on the Galactic Trade Network.\n"
+  },
+  {
+    "Id": "cur25",
+    "Icon": "curiosities/25.png",
+    "Name": "Vortex Cube",
+    "Group": "Trade commodity",
+    "Description": "Dense metal objects that, long ago, materialised within subterranean networks throughout the Galaxy.\nExtremely rare, and of high value.\n"
   }
 ]

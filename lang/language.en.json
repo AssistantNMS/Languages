@@ -7,6 +7,7 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "en/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
+	"exploitJson": "en/Exploits.lang",
 
 	"loading": "Loading",
 	"about": "About",
@@ -61,5 +62,12 @@
 	"cartContent": "Tap and hold to delete and item.",
 	"noCartItems": "No Items in Cart",
 	"quantity": "Quantity",
-	"cooking": "Cooking"
+	"cooking": "Cooking",
+	"cookingRecipe": "Cooking Recipe",
+	"viewXMore": "View All ({0} more)",
+	"exploits": "Exploits",
+	"outputs": "Outputs",
+	"steps": "Steps",
+
+	"translatedBy": "Kurt Lourens"
 }

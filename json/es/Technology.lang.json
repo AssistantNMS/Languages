@@ -1,0 +1,23 @@
+[
+	{
+		"Id": "tech1",
+		"Icon": "technology/1.png",
+		"Name": "Pase del Atlas v1",
+		"Group": "Tarjeta de Acceso",
+		"Description": "Pase de permiso y seguridad otorgado a determinados viajeros por muchas especies galácticas principales.\nProporciona acceso a zonas restringidas de nivel bajo y sistemas de puestos.\n"
+	},
+	{
+		"Id": "tech2",
+		"Icon": "technology/1.png",
+		"Name": "Pase del Atlas v2",
+		"Group": "Tarjeta de Acceso",
+		"Description": "Pase de permiso y seguridad otorgado a determinados viajeros por muchas especies galácticas principales. \nProporciona acceso a zonas restringidas de nivel medio y sistemas de puestos."
+	},
+	{
+		"Id": "tech3",
+		"Icon": "technology/1.png",
+		"Name": "AtlasPass v3",
+		"Group": "Tarjeta de Acceso",
+		"Description": "Pase de permiso y seguridad otorgado a determinados viajeros por muchas especies galácticas principales. \nProporciona acceso a zonas restringidas de nivel alto y sistemas de puestos.\n"
+	}
+]
