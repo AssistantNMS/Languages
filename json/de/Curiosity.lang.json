@@ -1,0 +1,149 @@
+[
+	{
+		"Id": "cur1",
+		"Icon": "curiosities/1.png",
+		"Name": "Vierfach-Servo",
+		"Group": "Anormales Material",
+		"Description": "Ein stark gefederter Motorarm, der aus dem Inneren einer Wächter-Patrouilleneinheit geborgen wurde. Manchmal zuckt er, als würde er das Echo eines Kampfes spüren.\n"
+	},
+	{
+		"Id": "cur2",
+		"Icon": "curiosities/2.png",
+		"Name": "Kampfläufergehirn",
+		"Group": "Anormales Material",
+		"Description": "Instabile Nanit-Haufen, die von Pugneum-Fasern zusammengehalten werden. Dieser Schaltkreis ist unglaublich heiß.\nEin düsteres, violettes Licht scheint zwischen der Verkabelung durch; die Intensität verändert sich, sobald er seinen Inhaber ansieht. \n"
+	},
+	{
+		"Id": "cur3",
+		"Icon": "curiosities/3.png",
+		"Name": "Gedankenbogen",
+		"Group": "Weiterentwickeltes Produkt",
+		"Description": "Eine seltsame Technologie, ein Geschenk von einem Ort jenseits der Sterne. Ihr Schimmer lässt darauf schließen, dass sie sich nicht komplett in dieser Wett befindet.\n"
+	},
+	{
+		"Id": "cur4",
+		"Icon": "curiosities/4.png",
+		"Name": "Gefangene Nanode",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Ein Atlas-Samen, der ein zonenförmig verschobenes, quasistellares Substrat enthält. Warnung: Die Matrix darf mit diesem dimensionalen Raum nicht kommunizieren.\n"
+	},
+	{
+		"Id": "cur5",
+		"Icon": "curiosities/5.png",
+		"Name": "Umhüllter Schatten",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Diese Atlas-Schale enthält die Überreste einer parasitären Weltall-Lebensform, höchstwahrscheinlich extradimensionaler Herkunft.\n"
+	},
+	{
+		"Id": "cur6",
+		"Icon": "curiosities/6.png",
+		"Name": "Noospherische Kugel",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Ein Atlas-Samen, der auf humanoiden Telepathie-Frequenzen schwingen kann. Versucht möglicherweise jegliche niedere Intelligenz in unmittelbarer Nähe zu sublimieren.\n"
+	},
+	{
+		"Id": "cur7",
+		"Icon": "curiosities/7.png",
+		"Name": "Dunkle Materie",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Eine Schale des Atlas-Samens, die ein leeres Element umgibt, das beim Zerfall des letzten Universums geerntet wurde. Wirkt beim Verschlucken toxisch.\n"
+	},
+	{
+		"Id": "cur8",
+		"Icon": "curiosities/8.png",
+		"Name": "Ende der Dämmerung",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Eine geformte Tau-Neutrino-Boson-Matrix in einer unersetzlichen Atlas-Samen-Schale. Könnte halb-fühlend sein.\n"
+	},
+	{
+		"Id": "cur9",
+		"Icon": "curiosities/9.png",
+		"Name": "Photischer Jade",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Dieser unersetzbare Atlas-Samen ist eine Form substanzangepasster Photonen, die durch unbekannte Vorgänge zu einer physischen Festigkeit verschmolzen sind.\n"
+	},
+	{
+		"Id": "cur10",
+		"Icon": "curiosities/10.png",
+		"Name": "Zustandsphase",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Aus unbekannten Gründen ist dieser einzigartige Atlas-Samen nicht phasengleich mit dieser Quantum-Realität. Die Inhalte können nicht bestimmt werden.\n"
+	},
+	{
+		"Id": "cur11",
+		"Icon": "curiosities/11.png",
+		"Name": "Novae-Regenerat",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Ein Atlas-Samen mit Neutronium-Elementen einer katastrophalen Supernova, die eine fühlende Zivilisation in einer vergangenen Ära ausgelöscht hat.\n"
+	},
+	{
+		"Id": "cur12",
+		"Icon": "curiosities/12.png",
+		"Name": "Modifizierte Quanten",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Dieser einzigartige Atlas-Samen enthält ein ästhetish ansprechendes, mathematisches Konstrukt, das von der Simulation einer alternativen Realität gerettet werden konnte.\n"
+	},
+	{
+		"Id": "cur13",
+		"Icon": "curiosities/13.png",
+		"Name": "Herz der Sonne",
+		"Group": "Einzigartige, wertvolle Rarität",
+		"Description": "Ein Atlas-Samen, der eine in eine photonische Hülle geschlossene Quantum-Zilie enthält, welche mit einer Zeitsperre versehen ist. Es ist die einzige ihrer Art.\n"
+	},
+	{
+		"Id": "cur14",
+		"Icon": "curiosities/14.png",
+		"Name": "NipNip-Knospen",
+		"Group": "Medizinische Substanz",
+		"Description": "Eine Knospe der NipNip-Pflanze mit strengem Geruch, aus der häufig GekNip hergestellt wird.\n"
+	},
+	{
+		"Id": "cur15",
+		"Icon": "curiosities/15.png",
+		"Name": "Larvenkern",
+		"Group": "Monstrosität",
+		"Description": "Eine pulsierende, geleeartige Kugel, die sich warm anfühlt. Der strenge Geruch erfüllt sterbliche Wesen mit einer Urangst, die tief in ihnen verwurzelt ist. Sie sorgt dafür, dass man sie fallen lassen und fliehen möchte.\n"
+	},
+	{
+		"Id": "cur16",
+		"Icon": "curiosities/16.png",
+		"Name": "Geborgene Daten",
+		"Group": "Wiederhergestellte Technologie",
+		"Description": "Das wiederverwertbare Herzstück einer uralten Technologie. In der aktuellen Form nicht auslesbar.\nDiese Datenbanken können bei einer Konstruktionsforschungsstation eingesetzt und zur Erforschung neuer Konstruktionsbaupläne verwendet werden.\n"
+	},
+	{
+		"Id": "cur17",
+		"Icon": "curiosities/17.png",
+		"Name": "Lebende Perle",
+		"Group": "Halbbewusster Edelstein",
+		"Description": "Geboren in den Herzen riesiger leuchtender Mollusken in den Untiefen des Ozeans.\nIm Gegensatz zu den meisten Perlen besteht dieses Exemplar nicht aus leblosem Calcit. Spuren des Bewusstseins der Muttermuschel bleiben in der Perle bestehen, was ihr eine nachhaltige, unvergessliche Schönheit verleiht.\n"
+	},
+	{
+		"Id": "cur18",
+		"Icon": "curiosities/18.png",
+		"Name": "Hypnotisches Auge",
+		"Group": "Schreckliche Probe",
+		"Description": "Das Auge fühlt sich kalt, beinahe gefroren an. Nichtsdestotrotz wird man das Gefühl nicht los, dass es irgendwie am Leben ist.\nEs wird nicht empfohlen, sich dem Blick längere Zeit auszusetzen. Erwidere nicht den Blick des Auges. Erwidere nicht den Blick. Erwidere nicht den Blick.\n"
+	},
+	{
+		"Id": "cur19",
+		"Icon": "curiosities/19.png",
+		"Name": "Hadal-Kern",
+		"Group": "Schreckliche Probe",
+		"Description": "Eine unter hohem Druck stehende, fleischige Kugel.\nMan kann spüren, wie sie die Berührung erwidert, wenn man sie anfasst. Ein biolumineszierender Blitz erhellt den tiefschwarzen Kern dieses mysteriösen Objekts.\n"
+	},
+	{
+		"Id": "cur20",
+		"Icon": "curiosities/20.png",
+		"Name": "Seelen-Engine",
+		"Group": "Weiterentwickeltes Produkt",
+		"Description": "Eine leistungsstarke organische Recheneinheit.\nDieser wundersame Schaltkreis wird von einem seltsamen Rhytmus angetrieben und führt in einer unendlichen Abfolge von Zyklen Berechnungen durch.\n"
+	},
+	{
+		"Id": "cur21",
+		"Icon": "curiosities/21.png",
+		"Name": "Sturmkristall",
+		"Group": "Einzigartige wertvolle Kuriosität",
+		"Description": "Ein seltener und sehr wertvoller Klumpen Sturmkristalle. Diese kristallenen Strukturen blühen unter stürmischen Bedingungen auf, ziehen Blitzschläge auf natürliche Art an und leuchten bei der Ionisierung prachtvoll. Ausschließlich auf Planeten mit extremem Wetter zu finden.\n"
+	}
+]
