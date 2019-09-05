@@ -8,6 +8,7 @@
 	"technologiesJson": "en/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
 	"exploitJson": "en/Exploits.lang",
+	"buildingsJson": "en/Buildings.lang",
 	
 	"loading": "Загрузка",
 	"about": "О приложении",
@@ -68,6 +69,9 @@
 	"exploits": "Exploits",
 	"outputs": "Outputs",
 	"steps": "Steps",
+	"building": "Building",
+	"buildings": "Buildings",
+	"searchBuildings": "Search Buildings",
 
 	"translatedBy": "Kradre"
 }

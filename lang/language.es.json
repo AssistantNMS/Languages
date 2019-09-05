@@ -8,6 +8,7 @@
 	"technologiesJson": "es/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
 	"exploitJson": "en/Exploits.lang",
+	"buildingsJson": "en/Buildings.lang",
 	
 	"loading": "Cargando",
 	"about": "Acerca",
@@ -67,6 +68,9 @@
 	"exploits": "Exploits",
 	"outputs": "Outputs",
 	"steps": "Steps",
+	"building": "Building",
+	"buildings": "Buildings",
+	"searchBuildings": "Search Buildings",
 
 	"translatedBy": "Baltazar Beta"
 }
