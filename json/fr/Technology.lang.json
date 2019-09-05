@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "tech1",
+    "Icon": "technology/1.png",
+    "Name": "Passe Atlas v1",
+    "Group": "Carte d'accès",
+    "Description": "Carte d'accès et de sécurité accordée à des voyageurs spécifiques par de nombreuses espèces galactiques dominantes.\nAutorise l'accès aux zones et aux systèmes d'avant-postes de faible sécurité.\n"
+  },
+  {
+    "Id": "tech2",
+    "Icon": "technology/1.png",
+    "Name": "Passe Atlas v2",
+    "Group": "Carte d'accès",
+    "Description": "Carte d'accès et de sécurité accordée à des voyageurs spécifiques par de nombreuses espèces galactiques dominantes.\nAutorise l'accès aux zones de sécurité et aux systèmes d'avant-postes intermédiaires.\n"
+  },
+  {
+    "Id": "tech3",
+    "Icon": "technology/1.png",
+    "Name": "Passe Atlas v3",
+    "Group": "Carte d'accès",
+    "Description": "Carte d'accès et de sécurité accordée à des voyageurs spécifiques par de nombreuses espèces galactiques dominantes.\nAutorise l'accès aux zones et aux systèmes d'avant-postes haute sécurité.\n"
+  }
+]
