@@ -481,5 +481,12 @@
 		"Name": "Panel de cableado",
 		"Group": "Plataforma de tecnología universal",
 		"Description": "Una placa base prefabricada, diseñada para su uso en una amplia gama de componentes tecnológicos.\nEl módulo presenta un procesador de nanitos integrado, lo que permite su rápida configuración para un gran abanico de usos."
+	},
+	{
+		"Id": "prod83",
+		"Icon": "products/83.png",
+		"Name": "Seda estelar",
+		"Group": "Producto de intercambio",
+		"Description": "Varias madejas de seda estelar.\nLa seda estelar se teje en enormes telares solares en órbita alrededor de planetas de comercio. El impacto de rayos cósmicos activa el patrón del tejido, que se puede usar en el procesamiento de materiales avanzados.\n"
 	}
 ]

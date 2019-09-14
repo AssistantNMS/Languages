@@ -64,6 +64,8 @@
 	"noCartItems": "Keine Items im Einkaufswagen.",
 	"quantity": "Anzahl",
 	"cooking": "Kochen",
+	"ingredients": "Ingredients",
+	"cookToCreate": "Cook {0} to Create",
 	"cookingRecipe": "Kochrezepte",
 	"viewXMore": "Alle anzeigen ({0} weitere)",
 	"exploits": "Exploits",
@@ -72,6 +74,10 @@
 	"building": "Gebäude",
 	"buildings": "Gebäude",
 	"searchBuildings": "Gebäude suchen",
+	"blueprintFrom": "Blueprint from",
+	"unknown": "Unknown",
+	"manufacturingFacility": "Manufacturing Facility",
+	"manufacturingFacilityOrPolo": "Manufacturing Facility or Polo on the Space Anomaly",
 
 	"translatedBy": ""
 }

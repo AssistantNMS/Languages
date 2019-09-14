@@ -64,7 +64,9 @@
 	"noCartItems": "Geen items in die Mandjie nie",
 	"quantity": "Hoeveelheid",
 	"cooking": "Kook",
-	"cookingRecipe": "Kook",
+	"ingredients": "Ingredients",
+	"cookToCreate": "Kook om {0} te maak",
+	"cookingRecipe": "Cook Using",
 	"viewXMore": "View All ({0} more)",
 	"exploits": "Exploits",
 	"outputs": "Outputs",
@@ -72,6 +74,10 @@
 	"building": "Building",
 	"buildings": "Buildings",
 	"searchBuildings": "Search Buildings",
+	"blueprintFrom": "Blueprint from",
+	"unknown": "Unknown",
+	"manufacturingFacility": "Manufacturing Facility",
+	"manufacturingFacilityOrPolo": "Manufacturing Facility or Polo on the Space Anomaly",
 
 	"translatedBy": "Charl Meyers"
 }

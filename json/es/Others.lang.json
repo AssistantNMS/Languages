@@ -1,9 +1,9 @@
 [
-	{
-		"Id": "other1",
-		"Icon": "other/1.png",
-		"Name": "Cúmulo de nanitos",
-		"Group": "Divisa tecnológica",
-		"Description": "Densa miasma de nanitos   que ondula en su potencialidad. \nEstos cúmulos son estables, pero la espuma de nanito no restringida puede producir reacciones descontroladas no deseables en presencia de materia orgánica.\nSe usa en la construcción de tecnologías avanzadas. Muy valioso para mercaderes especialistas."
-	}
+  {
+    "Id": "other1",
+    "Icon": "other/1.png",
+    "Name": "Cúmulo de Nanites",
+    "Group": "Divisa Tecnológica",
+    "Description": "Un denso miasma de Nanites, ondulando en su potencialidad. Estos grupos son estables, pero la espuma irrestricta de nanites puede producir reaciones desbocadas indeseables en presencia de materia orgánica.\nSe utiliza en la construcción de tecnologías avanzadas. Posee gran valor para comerciantes especializados.\n"
+  }
 ]

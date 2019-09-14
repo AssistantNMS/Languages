@@ -64,7 +64,9 @@
 	"noCartItems": "Нет предметов в корзине",
 	"quantity": "Количество",
 	"cooking": "Готовка",
-	"cookingRecipe": "Cooking Recipe",
+	"ingredients": "Ingredients",
+	"cookToCreate": "Cook {0} to Create",
+	"cookingRecipe": "Cook Using",
 	"viewXMore": "View All ({0} more)",
 	"exploits": "Exploits",
 	"outputs": "Outputs",
@@ -72,6 +74,11 @@
 	"building": "Building",
 	"buildings": "Buildings",
 	"searchBuildings": "Search Buildings",
+	"blueprintFrom": "Blueprint from",
+	"unknown": "Unknown",
+	"manufacturingFacility": "Manufacturing Facility",
+	"manufacturingFacilityOrPolo": "Manufacturing Facility or Polo on the Space Anomaly",
+	
 
 	"translatedBy": "Kradre"
 }

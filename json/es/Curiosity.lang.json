@@ -145,5 +145,33 @@
 		"Name": "Cristal de tormenta",
 		"Group": "Curiosidad valiosa única",
 		"Description": "Un raro y muy valioso cúmulo de cristales de tormenta. Estas estructuras cristalinas medran en condiciones de tormenta y atraen de forma natural los relámpagos, volviéndose especialmente luminiscentes cuando están ionizados. Se encuentran exclusivamente en planetas de clima extremo."
+	},
+	{
+		"Id": "cur22",
+		"Icon": "curiosities/22.png",
+		"Name": "Perla Albuminosa",
+		"Group": "Producto de intercambio",
+		"Description": "Piedra preciosa formada durante el transcurso de siglos dentro del huevo de una especie superincubadora.\nExtremadamente rara."
+	},
+	{
+		"Id": "cur23",
+		"Icon": "curiosities/23.png",
+		"Name": "Orbe de Gravitino",
+		"Group": "Producto de intercambio",
+		"Description": "Cúmulo de partículas supersimétricas.\nExtremadamente raro y valioso. Producto de fuerzas supergravitacionales divergentes."
+	},
+	{
+		"Id": "cur24",
+		"Icon": "curiosities/24.png",
+		"Name": "Saco de Veneno",
+		"Group": "Producto de intercambio",
+		"Description": "Muestra de veneno estabilizada originalmente producida por erizos acuáticos.Objeto raro y costoso en la Red de Comercio Galáctico."
+	},
+	{
+		"Id": "cur25",
+		"Icon": "curiosities/25.png",
+		"Name": "Cubo Vorticial",
+		"Group": "Producto de intercambio",
+		"Description": "Objetos de metal densos que, hace mucho tiempo, se materializaron en las redes subterráneas de toda la galaxia.\nExtremadamente raros y de gran valor.\n"
 	}
 ]

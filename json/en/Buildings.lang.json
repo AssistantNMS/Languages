@@ -802,7 +802,7 @@
     "Icon": "building/115.png",
     "Name": "Save Beacon",
     "Group": "Portable waypoint marker",
-    "Description": "Once activated, beacons provide a permanent navigational waypoint, facilitating repeat visits to specific locations.\n"
+    "Description": "Once activated, beacons provide a permanent navigational waypoint, facilitating repeat visits to specific locations.\nAllows user to record their progress at any time.\n"
   },
   {
     "Id": "build116",

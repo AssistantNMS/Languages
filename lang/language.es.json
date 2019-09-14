@@ -7,8 +7,8 @@
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "es/Technology.lang",
 	"cookingJson": "en/Cooking.lang",
-	"exploitJson": "en/Exploits.lang",
-	"buildingsJson": "en/Buildings.lang",
+	"exploitJson": "es/Exploits.lang",
+	"buildingsJson": "es/Buildings.lang",
 	
 	"loading": "Cargando",
 	"about": "Acerca",
@@ -59,18 +59,24 @@
 	"delete": "Borrar",
 	"deleteAll": "Borrar Todo",
 	"cart": "Carrito",
-	"cartContent": "Toque y mantenga presionado para borrar el articulo.",
-	"noCartItems": "No hay articulos en el carrito",
+	"cartContent": "Toque y mantenga para borrar un ítem.",
+	"noCartItems": "No hay Ítems en el Carrito",
 	"quantity": "Cantidad",
 	"cooking": "Cocina",
-	"cookingRecipe": "Cooking Recipe",
-	"viewXMore": "View All ({0} more)",
+	"ingredients": "Ingredients",
+	"cookToCreate": "Cook {0} to Create",
+	"cookingRecipe": "Receta de Cocina",
+	"viewXMore": "Ver Todo ({0} más)",
 	"exploits": "Exploits",
-	"outputs": "Outputs",
-	"steps": "Steps",
+	"outputs": "Salidas",
+	"steps": "Pasos",
 	"building": "Building",
 	"buildings": "Buildings",
 	"searchBuildings": "Search Buildings",
-
-	"translatedBy": "Baltazar Beta"
+	"blueprintFrom": "Blueprint from",
+	"unknown": "Unknown",
+	"manufacturingFacility": "Manufacturing Facility",
+	"manufacturingFacilityOrPolo": "Manufacturing Facility or Polo on the Space Anomaly",
+	
+	"translatedBy": "Baltazar Beta & Adrian Ortiz"
 }
