@@ -77,6 +77,12 @@
 	"unknown": "Unknown",
 	"manufacturingFacility": "Manufacturing Facility",
 	"manufacturingFacilityOrPolo": "Manufacturing Facility or Polo on the Space Anomaly",
+	"portalLibrary": "Portal Library",
+	"savedPortalCoordinates": "Saved Portal Coordinates",
+	"noPortalItems": "No Portal saved",
+	"portalName": "Portal Name",
+	"add": "Add",
+	"errorEnterValidName": "Please Enter a valid name",
 
 	"translatedBy": "Gabriel Ubatuba"
 }
