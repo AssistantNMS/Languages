@@ -9,6 +9,7 @@
 	"cookingJson": "en/Cooking.lang",
 	"exploitJson": "en/Exploits.lang",
 	"buildingsJson": "en/Buildings.lang",
+	"guidesJson": "en/Guides.lang",
 
 	"loading": "Loading",
 	"about": "About",
@@ -84,6 +85,11 @@
 	"portalName": "Portal Name",
 	"add": "Add",
 	"errorEnterValidName": "Please Enter a valid name",
+	"search": "Advanced Search",
+	"searchGuide": "Search Guides",
+	"guides": "Guides",
+	"minutes": "min",
+	"itemName": "Item Name",
 
 	"translatedBy": ""
 }

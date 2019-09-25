@@ -9,6 +9,7 @@
 	"cookingJson": "en/Cooking.lang",
 	"exploitJson": "es/Exploits.lang",
 	"buildingsJson": "es/Buildings.lang",
+	"guidesJson": "en/Guides.lang",
 	
 	"loading": "Cargando",
 	"about": "Acerca",
@@ -83,6 +84,11 @@
 	"portalName": "Portal Name",
 	"add": "Add",
 	"errorEnterValidName": "Please Enter a valid name",
+	"search": "Advanced Search",
+	"searchGuide": "Search Guides",
+	"guides": "Guides",
+	"minutes": "min",
+	"itemName": "Item Name",
 	
 	"translatedBy": "Baltazar Beta & Adrian Ortiz"
 }
