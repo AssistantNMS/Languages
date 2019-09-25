@@ -4,174 +4,174 @@
     "Icon": "curiosities/1.png",
     "Name": "Quad Servo",
     "Group": "Anomalous Material",
-    "Description": "A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat.\n"
+    "Description": "A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat."
   },
   {
     "Id": "cur2",
     "Icon": "curiosities/2.png",
     "Name": "Walker Brain",
     "Group": "Anomalous Material",
-    "Description": "Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch.\nA sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder.\n"
+    "Description": "Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch.\nA sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder."
   },
   {
     "Id": "cur3",
     "Icon": "curiosities/3.png",
     "Name": "Mind Arc",
     "Group": "Advanced Crafted Product",
-    "Description": "A strange piece of technology, a gift from beyond the stars. It shimmers in way that suggests it is not fully in this world.\n"
+    "Description": "A strange piece of technology, a gift from beyond the stars. It shimmers in way that suggests it is not fully in this world."
   },
   {
     "Id": "cur4",
     "Icon": "curiosities/4.png",
     "Name": "Captured Nanode",
     "Group": "Unique valuable curiosity",
-    "Description": "Atlas Seed containing zonally-shifted quasi-stellar substrate. Warning: do not allow matrix to commune with this dimensional space.\n"
+    "Description": "Atlas Seed containing zonally-shifted quasi-stellar substrate. Warning: do not allow matrix to commune with this dimensional space."
   },
   {
     "Id": "cur5",
     "Icon": "curiosities/5.png",
     "Name": "Englobed Shade",
     "Group": "Unique valuable curiosity",
-    "Description": "This Atlas Shell holds the remains of a parasitic space-borne lifeform, most likely of extra-dimensional origins.\n"
+    "Description": "This Atlas Shell holds the remains of a parasitic space-borne lifeform, most likely of extra-dimensional origins."
   },
   {
     "Id": "cur6",
     "Icon": "curiosities/6.png",
     "Name": "Noospheric Orb",
     "Group": "Unique valuable curiosity",
-    "Description": "An Atlas Seed capable of resonating on humanoid telepathic frequencies; may attempt to subsume any subordinate intellect in close proximity.\n"
+    "Description": "An Atlas Seed capable of resonating on humanoid telepathic frequencies; may attempt to subsume any subordinate intellect in close proximity."
   },
   {
     "Id": "cur7",
     "Icon": "curiosities/7.png",
     "Name": "Dark Matter",
     "Group": "Unique valuable curiosity",
-    "Description": "An Atlas Seed shell encompassing a void element harvested from the collapse state of the last universe. Toxic if ingested.\n"
+    "Description": "An Atlas Seed shell encompassing a void element harvested from the collapse state of the last universe. Toxic if ingested."
   },
   {
     "Id": "cur8",
     "Icon": "curiosities/8.png",
     "Name": "Dawn's End",
     "Group": "Unique valuable curiosity",
-    "Description": "Sculpted tau neutrino-boson matrix fixed within an irreplaceable Atlas Seed shell. May be semi-sentient.\n"
+    "Description": "Sculpted tau neutrino-boson matrix fixed within an irreplaceable Atlas Seed shell. May be semi-sentient."
   },
   {
     "Id": "cur9",
     "Icon": "curiosities/9.png",
     "Name": "Photic Jade",
     "Group": "Unique valuable curiosity",
-    "Description": "This irreplaceable Atlas Seed is a form of matter-adapted photons coalesced into physical solidity by unknown means.\n"
+    "Description": "This irreplaceable Atlas Seed is a form of matter-adapted photons coalesced into physical solidity by unknown means."
   },
   {
     "Id": "cur10",
     "Icon": "curiosities/10.png",
     "Name": "State Phasure",
     "Group": "Unique valuable curiosity",
-    "Description": "For unknown reasons, this unique Atlas Seed has been phased out of alignment with this quantum reality. Contents cannot be determined.\n"
+    "Description": "For unknown reasons, this unique Atlas Seed has been phased out of alignment with this quantum reality. Contents cannot be determined."
   },
   {
     "Id": "cur11",
     "Icon": "curiosities/11.png",
     "Name": "Novae Reclaiment",
     "Group": "Unique valuable curiosity",
-    "Description": "Atlas Seed contains neutronium elements from a catastrophic supernova event that obliterated a sentient civilization in an earlier era.\n"
+    "Description": "Atlas Seed contains neutronium elements from a catastrophic supernova event that obliterated a sentient civilization in an earlier era."
   },
   {
     "Id": "cur12",
     "Icon": "curiosities/12.png",
     "Name": "Modified Quanta",
     "Group": "Unique valuable curiosity",
-    "Description": "This one-of-a-kind Atlas Seed holds an aesthetically pleasing mathematical construct salvaged from the simulation of an alternate reality.\n"
+    "Description": "This one-of-a-kind Atlas Seed holds an aesthetically pleasing mathematical construct salvaged from the simulation of an alternate reality."
   },
   {
     "Id": "cur13",
     "Icon": "curiosities/13.png",
     "Name": "Heart of the Sun",
     "Group": "Unique valuable curiosity",
-    "Description": "An Atlas Seed containing a time-locked quantum cilia suspended in a photonic shell. No others are known to exist.\n"
+    "Description": "An Atlas Seed containing a time-locked quantum cilia suspended in a photonic shell. No others are known to exist."
   },
   {
     "Id": "cur14",
     "Icon": "curiosities/14.png",
     "Name": "NipNip Buds",
     "Group": "Medical Substance",
-    "Description": "A pungent bud harvested from the NipNip plant, often used to produce Gek Nip.\n"
+    "Description": "A pungent bud harvested from the NipNip plant, often used to produce Gek Nip."
   },
   {
     "Id": "cur15",
     "Icon": "curiosities/15.png",
     "Name": "Larval Core",
     "Group": "Monstrosity",
-    "Description": "A pulsating jellied orb, this gooey sphere is warm to the touch. Its stench triggers a primal fear in mortal beings, a deep-seated gnawing that begs you to drop it and flee.\n"
+    "Description": "A pulsating jellied orb, this gooey sphere is warm to the touch. Its stench triggers a primal fear in mortal beings, a deep-seated gnawing that begs you to drop it and flee."
   },
   {
     "Id": "cur16",
     "Icon": "curiosities/16.png",
     "Name": "Salvaged Data",
     "Group": "Salvaged Technology",
-    "Description": "The salvageable heart of some ancient technology. Unreadable in its current form.\nThese databanks can be spent at a Construction Research Unit and used to research new Construction Blueprints.\n"
+    "Description": "The salvageable heart of some ancient technology. Unreadable in its current form.\nThese databanks can be spent at a Construction Research Unit and used to research new Construction Blueprints."
   },
   {
     "Id": "cur17",
     "Icon": "curiosities/17.png",
     "Name": "Living Pearl",
     "Group": "Semi-Conscious Gemstone",
-    "Description": "Born in the hearts of enormous glowing molluscs found deep underwater.\nUnlike most pearls, this sample is no unliving calcite. Some trace of the mother-clam's consciousness remains within the gem, giving it a lingering, haunting beauty.\n"
+    "Description": "Born in the hearts of enormous glowing molluscs found deep underwater.\nUnlike most pearls, this sample is no unliving calcite. Some trace of the mother-clam's consciousness remains within the gem, giving it a lingering, haunting beauty."
   },
   {
     "Id": "cur18",
     "Icon": "curiosities/18.png",
     "Name": "Hypnotic Eye",
     "Group": "Horrific Sample",
-    "Description": "The eye is cold, almost frozen, to the touch. Nonetheless, it is impossible to escape the feeling it is somehow still alive.\nExtended exposure is not recommended. Do not stare back into the eye. Do not stare back. Do not stare back.\n"
+    "Description": "The eye is cold, almost frozen, to the touch. Nonetheless, it is impossible to escape the feeling it is somehow still alive.\nExtended exposure is not recommended. Do not stare back into the eye. Do not stare back. Do not stare back."
   },
   {
     "Id": "cur19",
     "Icon": "curiosities/19.png",
     "Name": "Hadal Core",
     "Group": "Horrific Sample",
-    "Description": "A highly-pressurised fleshy orb.\nOne can feel it push back when touched, a flash of bioluminescence stirring in the inky black core of this mysterious object.\n"
+    "Description": "A highly-pressurised fleshy orb.\nOne can feel it push back when touched, a flash of bioluminescence stirring in the inky black core of this mysterious object."
   },
   {
     "Id": "cur20",
     "Icon": "curiosities/20.png",
     "Name": "Soul Engine",
     "Group": "Advanced Crafted Product",
-    "Description": "A powerful organic computing unit.\nA glitching beat drives this miracle circuit, performing cycle after cycle in an endless, furious loop of calculation.\n"
+    "Description": "A powerful organic computing unit.\nA glitching beat drives this miracle circuit, performing cycle after cycle in an endless, furious loop of calculation."
   },
   {
     "Id": "cur21",
     "Icon": "curiosities/21.png",
     "Name": "Storm Crystal",
     "Group": "Unique valuable curiosity",
-    "Description": "A rare and highly valuable cluster of storm crystals. These crystalline structures thrive in stormy conditions, and naturally attract lighting strikes, becoming spectacularly luminescent when ionised. Exclusively found on  extreme weather planets.\n"
+    "Description": "A rare and highly valuable cluster of storm crystals. These crystalline structures thrive in stormy conditions, and naturally attract lighting strikes, becoming spectacularly luminescent when ionised. Exclusively found on  extreme weather planets."
   },
   {
     "Id": "cur22",
     "Icon": "curiosities/22.png",
     "Name": "Albumen Pearl",
     "Group": "Trade commodity",
-    "Description": "Gemstone formed over the course of centuries within the egg of a super-incubatory species.\nExtremely rare.\n"
+    "Description": "Gemstone formed over the course of centuries within the egg of a super-incubatory species.\nExtremely rare."
   },
   {
     "Id": "cur23",
     "Icon": "curiosities/23.png",
     "Name": "Gravitino Ball",
     "Group": "Trade commodity",
-    "Description": "Supersymmetric particle cluster.\nExtremely rare and valuable. A product of divergent super-gravitational forces.\n"
+    "Description": "Supersymmetric particle cluster.\nExtremely rare and valuable. A product of divergent super-gravitational forces."
   },
   {
     "Id": "cur24",
     "Icon": "curiosities/24.png",
     "Name": "Sac Venom",
     "Group": "Trade commodity",
-    "Description": "Stabilized poison sample initially produced by aquatic urchin creatures. A rare and expensive item on the Galactic Trade Network.\n"
+    "Description": "Stabilized poison sample initially produced by aquatic urchin creatures. A rare and expensive item on the Galactic Trade Network."
   },
   {
     "Id": "cur25",
     "Icon": "curiosities/25.png",
     "Name": "Vortex Cube",
     "Group": "Trade commodity",
-    "Description": "Dense metal objects that, long ago, materialised within subterranean networks throughout the Galaxy.\nExtremely rare, and of high value.\n"
+    "Description": "Dense metal objects that, long ago, materialised within subterranean networks throughout the Galaxy.\nExtremely rare, and of high value."
   }
 ]

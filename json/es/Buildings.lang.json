@@ -1258,5 +1258,166 @@
 		"Name": "Túnel de vidrio vertical",
 		"Group": "Módulos de construcción acuática",
 		"Description": "Túneles de vidrio presurizados y reforzados para la construcción en aguas profundas.El revestimiento de nanominerales avanzados asegura un alto rendimiento en aguas profundas, sin comprometer la visibilidad."
+	},
+	{
+		"Id": "build181",
+		"Icon": "building/181.png",
+		"Name": "Light",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build182",
+		"Icon": "unknown.png",
+		"Name": "Lab Lamp",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build183",
+		"Icon": "building/183.png",
+		"Name": "Biofuel Reactor",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build184",
+		"Icon": "unknown.png",
+		"Name": "Mineral Extractor",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build185",
+		"Icon": "unknown.png",
+		"Name": "Wall Switch",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build186",
+		"Icon": "building/186.png",
+		"Name": "Solar Panel",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build187",
+		"Icon": "building/187.png",
+		"Name": "Battery",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build188",
+		"Icon": "unknown.png",
+		"Name": "Gas Extractor",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build189",
+		"Icon": "unknown.png",
+		"Name": "Supply Depot",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build190",
+		"Icon": "unknown.png",
+		"Name": "Supply Pipe",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build191",
+		"Icon": "unknown.png",
+		"Name": "Floor switch",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build192",
+		"Icon": "unknown.png",
+		"Name": "Proximity Switch",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build193",
+		"Icon": "unknown.png",
+		"Name": "Button",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build194",
+		"Icon": "unknown.png",
+		"Name": "Power Inverter",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build195",
+		"Icon": "unknown.png",
+		"Name": "Auto Switch",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build196",
+		"Icon": "building/196.png",
+		"Name": "Electromagnetic Generator",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build197",
+		"Icon": "building/197.png",
+		"Name": "Nutrient Processor",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build198",
+		"Icon": "building/198.png",
+		"Name": "Livestock Unit",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build199",
+		"Icon": "unknown.png",
+		"Name": "Noise box",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build200",
+		"Icon": "unknown.png",
+		"Name": "Sphere Creator",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build201",
+		"Icon": "unknown.png",
+		"Name": "Short-Range Teleporter",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build202",
+		"Icon": "building/202.png",
+		"Name": "Antimatter Reactor",
+		"Group": "",
+		"Description": ""
+	},
+	{
+		"Id": "build203",
+		"Icon": "building/203.png",
+		"Name": "Automated Feeder",
+		"Group": "",
+		"Description": ""
 	}
 ]

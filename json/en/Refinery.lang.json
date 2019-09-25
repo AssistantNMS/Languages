@@ -101,13 +101,13 @@
   },
   {
     "Id": "ref21",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "0.2 sec/unit output",
+    "Operation": "Inefficient Burn"
   },
   {
     "Id": "ref22",
-    "Time": "0.2 sec/unit output",
-    "Operation": "Inefficient Burn"
+    "Time": "0.3 sec/unit output",
+    "Operation": "Burn Plantlife"
   },
   {
     "Id": "ref23",
@@ -116,68 +116,68 @@
   },
   {
     "Id": "ref24",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "120 sec/unit output",
+    "Operation": "Carbon Crystallisation"
   },
   {
     "Id": "ref25",
-    "Time": "120 sec/unit output",
+    "Time": "200 sec/unit output",
     "Operation": "Carbon Crystallisation"
   },
   {
     "Id": "ref26",
-    "Time": "200 sec/unit output",
-    "Operation": "Carbon Crystallisation"
-  },
-  {
-    "Id": "ref27",
     "Time": "120 sec/unit output",
     "Operation": "Chlorine Latticing"
   },
   {
-    "Id": "ref28",
+    "Id": "ref27",
     "Time": "200 sec/unit output",
     "Operation": "Chlorine Latticing"
   },
   {
-    "Id": "ref29",
+    "Id": "ref28",
     "Time": "2 sec/unit output",
     "Operation": "Chloride De-latticing"
   },
   {
-    "Id": "ref30",
+    "Id": "ref29",
     "Time": "0.9 sec/unit output",
     "Operation": "Concentrate Salt"
   },
   {
-    "Id": "ref31",
+    "Id": "ref30",
     "Time": "0.9 sec/unit output",
     "Operation": "Chlorine Expansion"
   },
   {
-    "Id": "ref32",
+    "Id": "ref31",
     "Time": "0.9 sec/unit output",
     "Operation": "Dissolve Natural Salts"
   },
   {
-    "Id": "ref33",
+    "Id": "ref32",
     "Time": "0.9 sec/unit output",
     "Operation": "Bonded Chlorine Extraction"
   },
   {
-    "Id": "ref34",
+    "Id": "ref33",
     "Time": "0.9 sec/unit output",
     "Operation": "Pugneum Washing"
   },
   {
-    "Id": "ref35",
+    "Id": "ref34",
     "Time": "0.9 sec/unit output",
     "Operation": "Dissolve Natural Salts"
   },
   {
-    "Id": "ref36",
+    "Id": "ref35",
     "Time": "0.9 sec/unit output",
     "Operation": "Efficient Salt Evaporation"
+  },
+  {
+    "Id": "ref36",
+    "Time": "0.9 sec/unit output",
+    "Operation": "Extract Chromatic Material"
   },
   {
     "Id": "ref37",
@@ -217,7 +217,7 @@
   {
     "Id": "ref44",
     "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Operation": "Chromatic Metal Fusion"
   },
   {
     "Id": "ref45",
@@ -256,17 +256,17 @@
   },
   {
     "Id": "ref52",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
-  },
-  {
-    "Id": "ref53",
     "Time": "? sec/unit output",
     "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
-    "Id": "ref54",
+    "Id": "ref53",
     "Time": "0.9 sec/unit output",
+    "Operation": "RECIPE_3INPUT_STELLAR2"
+  },
+  {
+    "Id": "ref54",
+    "Time": "? sec/unit output",
     "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
@@ -276,28 +276,28 @@
   },
   {
     "Id": "ref56",
-    "Time": "? sec/unit output",
-    "Operation": "RECIPE_3INPUT_STELLAR2"
-  },
-  {
-    "Id": "ref57",
     "Time": "0.3 sec/unit output",
     "Operation": "Deionise Mineral"
   },
   {
-    "Id": "ref58",
+    "Id": "ref57",
     "Time": "2 sec/unit output",
     "Operation": "Carbon Melting"
   },
   {
-    "Id": "ref59",
+    "Id": "ref58",
     "Time": "0.4 sec/unit output",
     "Operation": "Condense Carbon"
   },
   {
-    "Id": "ref60",
+    "Id": "ref59",
     "Time": "0.6 sec/unit output",
     "Operation": "Algal Processing"
+  },
+  {
+    "Id": "ref60",
+    "Time": "0.9 sec/unit output",
+    "Operation": "Oxygenate Carbon"
   },
   {
     "Id": "ref61",
@@ -307,7 +307,7 @@
   {
     "Id": "ref62",
     "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Carbon"
+    "Operation": "Feed Microbes"
   },
   {
     "Id": "ref63",
@@ -321,43 +321,43 @@
   },
   {
     "Id": "ref65",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
-  },
-  {
-    "Id": "ref66",
     "Time": "? sec/unit output",
     "Operation": "Chromatic Expansion"
   },
   {
-    "Id": "ref67",
+    "Id": "ref66",
     "Time": "120 sec/unit output",
     "Operation": "Sodium Destabilization"
   },
   {
-    "Id": "ref68",
+    "Id": "ref67",
     "Time": "200 sec/unit output",
     "Operation": "Sodium Destabilization"
   },
   {
-    "Id": "ref69",
+    "Id": "ref68",
     "Time": "0.6 sec/unit output",
+    "Operation": "Di-hydrogen Cycling"
+  },
+  {
+    "Id": "ref69",
+    "Time": "1 sec/unit output",
     "Operation": "Di-hydrogen Cycling"
   },
   {
     "Id": "ref70",
     "Time": "1 sec/unit output",
-    "Operation": "Di-hydrogen Cycling"
-  },
-  {
-    "Id": "ref71",
-    "Time": "1 sec/unit output",
     "Operation": "Tritium Cycling"
   },
   {
-    "Id": "ref72",
+    "Id": "ref71",
     "Time": "240 sec/unit output",
     "Operation": "Condense Di-hydrogen"
+  },
+  {
+    "Id": "ref72",
+    "Time": "0.9 sec/unit output",
+    "Operation": "Environmental Element Transfer"
   },
   {
     "Id": "ref73",
@@ -367,7 +367,7 @@
   {
     "Id": "ref74",
     "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Operation": "Advanced Carbon Processing"
   },
   {
     "Id": "ref75",
@@ -377,12 +377,12 @@
   {
     "Id": "ref76",
     "Time": "0.9 sec/unit output",
-    "Operation": "Advanced Carbon Processing"
+    "Operation": "Floral Titration"
   },
   {
     "Id": "ref77",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "90 sec/unit output",
+    "Operation": "Alloy Latticing"
   },
   {
     "Id": "ref78",
@@ -421,13 +421,13 @@
   },
   {
     "Id": "ref85",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "0.9 sec/unit output",
+    "Operation": "Chromatic Expansion"
   },
   {
     "Id": "ref86",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Expansion"
+    "Time": "90 sec/unit output",
+    "Operation": "High-Speed Sublimation"
   },
   {
     "Id": "ref87",
@@ -446,23 +446,23 @@
   },
   {
     "Id": "ref90",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
-  },
-  {
-    "Id": "ref91",
     "Time": "0.6 sec/unit output",
     "Operation": "Assisted Decomposition"
   },
   {
-    "Id": "ref92",
+    "Id": "ref91",
     "Time": "0.2 sec/unit output",
     "Operation": "Assisted Decomposition"
   },
   {
-    "Id": "ref93",
+    "Id": "ref92",
     "Time": "0.9 sec/unit output",
     "Operation": "Oxygenate Microbes"
+  },
+  {
+    "Id": "ref93",
+    "Time": "0.9 sec/unit output",
+    "Operation": "Runaway Decomposition"
   },
   {
     "Id": "ref94",
@@ -471,13 +471,13 @@
   },
   {
     "Id": "ref95",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Runaway Decomposition"
+    "Time": "0.6 sec/unit output",
+    "Operation": "Encourage Growth"
   },
   {
     "Id": "ref96",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "0.9 sec/unit output",
+    "Operation": "Ferrite Dust Extraction"
   },
   {
     "Id": "ref97",
@@ -501,43 +501,43 @@
   },
   {
     "Id": "ref101",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
-  },
-  {
-    "Id": "ref102",
     "Time": "1.5 sec/unit output",
     "Operation": "Recycle Waste Materials"
   },
   {
-    "Id": "ref103",
+    "Id": "ref102",
     "Time": "0.9 sec/unit output",
     "Operation": "Ferrite Dust Extraction"
   },
   {
-    "Id": "ref104",
+    "Id": "ref103",
     "Time": "0.6 sec/unit output",
+    "Operation": "Encourage Growth"
+  },
+  {
+    "Id": "ref104",
+    "Time": "0.9 sec/unit output",
     "Operation": "Encourage Growth"
   },
   {
     "Id": "ref105",
     "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
-  },
-  {
-    "Id": "ref106",
-    "Time": "0.9 sec/unit output",
     "Operation": "Organic Expansion"
   },
   {
-    "Id": "ref107",
+    "Id": "ref106",
     "Time": "0.6 sec/unit output",
+    "Operation": "Encourage Growth"
+  },
+  {
+    "Id": "ref107",
+    "Time": "0.9 sec/unit output",
     "Operation": "Encourage Growth"
   },
   {
     "Id": "ref108",
     "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Operation": "Organic Expansion"
   },
   {
     "Id": "ref109",
@@ -546,18 +546,18 @@
   },
   {
     "Id": "ref110",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
-  },
-  {
-    "Id": "ref111",
     "Time": "0.6 sec/unit output",
     "Operation": "Encourage Growth"
   },
   {
-    "Id": "ref112",
+    "Id": "ref111",
     "Time": "0.9 sec/unit output",
     "Operation": "Encourage Growth"
+  },
+  {
+    "Id": "ref112",
+    "Time": "30 sec/unit output",
+    "Operation": "Polish Crystals"
   },
   {
     "Id": "ref113",
@@ -567,7 +567,7 @@
   {
     "Id": "ref114",
     "Time": "1 sec/unit output",
-    "Operation": "Extreme Polishing"
+    "Operation": "Extreme Polishing <--- Doesn't seem to work in Beyond"
   },
   {
     "Id": "ref115",
