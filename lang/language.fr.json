@@ -90,6 +90,11 @@
 	"guides": "Guides",
 	"minutes": "min",
 	"itemName": "Nom de l'article",
+	"type": "Type",
+	"group": "Group",
+	"rarity": "Rarity",
+	"minValue": "Min Value",
+	"maxValue": "Max Value",
 
 	"translatedBy": "Faskis & Frédéric"
 }

@@ -90,6 +90,11 @@
 	"guides": "Guides",
 	"minutes": "min",
 	"itemName": "Item Name",
+	"type": "Type",
+	"group": "Group",
+	"rarity": "Rarity",
+	"minValue": "Min Value",
+	"maxValue": "Max Value",
 
 	"translatedBy": ""
 }
