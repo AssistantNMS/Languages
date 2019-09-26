@@ -8,11 +8,13 @@
 		"heading": "Heading",
 		"items": [{
 			"type": "text",
-			"content": "Hello",
-			"image": "",
+			"content": "Hello"
+		}, {
+			"type": "link",
+			"name": "google",
+			"content": "https://google.com"
 		}, {
 			"type": "image",
-			"content": "",
 			"image": "assets/test/test.png"
 		}]
 	}]

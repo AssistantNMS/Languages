@@ -4,31 +4,40 @@
 	"author": "KaeAl",
 	"minutes": 20,
 	"date": "2019-09-22",
-	"tags": ["Portal", "Glyph"],
+	"tags": [
+		"Portal",
+		"Glyph"
+	],
 	"sections": [
+		{
+			"heading": "Items needed",
+			"items": [
+				{
+					"type": "text",
+					"content": "1,600 nanites (you will obtain some of not all of these during this guide)\nNavigation data or exocraft with scanner upgrades installed\n1 Gek relic/Korvax casing, or Vy'Keen dagger. Determined by the dominant race of the system where you are going to locate a portal in.\nMaterials to recharge portal terminal. "
+				}
+			]
+		},
 		{
 			"items": [
 				{
 					"type": "text",
-					"content": "Items needed: \n1,600 nanites (you will obtain some of not all of these during this guide)\nNavigation data or exocraft with scanner upgrades installed\n1 Gek relic/Korvax casing, or Vy'Keen dagger. Determined by the dominant race of the system where you are going to locate a portal in.\nMaterials to recharge portal terminal."
+					"content": "Portals are a means of long distance transportation, they can be used to travel across the galaxy. You will need the portal address of your destination and that consists of a series of 12 symbols known as Glyphs. There are a total of 16 Glyphs. "
 				},
 				{
 					"type": "text",
-					"content": "Portals are a means of long distance transportation, they can be used to travel across the galaxy. You will need the portal address of your destination and that consists of a series of 12 symbols known as Glyphs. There are a total of 16 Glyphs."
+					"content": "There are currently two ways of obtaining the Glyphs. The first is to progress through the mainline story. To avoid spoilers, this guide will not cover that method. The second way is by talking to traveler NPCs and visiting their graves. You will recognize travelers by their appearance. They are not any of the three main species (Gek, Vy'Keen, Korvax) and they have a glow over their body. You will need to talk to them, complete the first interaction, and then talk to them again. During the second conversation you will need to ask them where they came from. This will cost 100 nanites, but if you're lucky you were giving at least this many during your first interaction with them. Then you need to travel to the location they give you. "
 				},
 				{
 					"type": "text",
-					"content": "There are currently two ways of obtaining the Glyphs. The first is to progress through the mainline story. To avoid spoilers, this guide will not cover that method. The second way is by talking to traveler NPCs and visiting their graves. You will recognize travelers by their appearance. They are not any of the three main species (Gek, Vy'Keen, Korvax) and they have a glow over their body. You will need to talk to them, complete the first interaction, and then talk to them again. During the second conversation you will need to ask them where they came from. This will cost 100 nanites, but if you're lucky you were giving at least this many during your first interaction with them. Then you need to travel to the location they give you."
-				},
-				{
-					"type": "text",
-					"content": "Interact with the grave and after that is complete, you will receive a glyph along with your progress out of the 16."
+					"content": "Interact with the grave and after that is complete, you will receive a glyph along with your progress out of the 16. "
 				},
 				{
 					"type": "text",
 					"content": "You will need to repeat this process 16 times to complete the set. In my experience there seems to only be 1 grave per system. So if you locate multiple travelers in the same system they will send you to the same grave. If you talk to a second traveler while you have one active they will not show you to a grave and you will miss out on the extra Glyph. You must complete one at a time and then start the next traveler. They will send you to the same grave but you will be able to unlock an additional Glyph."
 				}
-			]
+			],
+			"heading": "Obtaining Glyphs"
 		},
 		{
 			"heading": "Locating portals",
