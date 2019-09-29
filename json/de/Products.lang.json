@@ -18,7 +18,7 @@
 		"Icon": "products/3.png",
 		"Name": "Kohlenstoff-Nanorohr",
 		"Group": "Hergestellte Technologiekomponente",
-		"Description": "Viele Meter an Hochleistungs-Kohlenstoff-Nanoröhren.\nIhre Hohe Dehnbarkeit und schwache Leitfähigkeit machen sie zu Schlüsselkomponenten in vielen fortschrittlichen Technologien.\n"
+		"Description": "Viele Meter an Hochleistungs-Kohlenstoff-Nanoröhren.\nIhre hohe Dehnbarkeit und schwache Leitfähigkeit machen sie zu Schlüsselkomponenten in vielen fortschrittlichen Technologien.\n"
 	},
 	{
 		"Id": "prod4",
@@ -32,7 +32,7 @@
 		"Icon": "products/5.png",
 		"Name": "Hermetisches Siegel",
 		"Group": "Hergestellte Technologiekomponente",
-		"Description": "Ein leistungsstarkes Kohlenstoffsiegel, das sowohl der rauen interstellaren Umgebung widersteht, als auch den harten Bedingungenvon intensivem Betrieb bei hoher Energiemenge.\nDem Benutzer wird empfohlen, die Unversehrtheit des Siegels nach der Einrichtung regelmäßig zu überprüfen.\n"
+		"Description": "Ein leistungsstarkes Kohlenstoffsiegel, das sowohl der rauen interstellaren Umgebung widersteht als auch den harten Bedingungen von intensivem Betrieb bei hoher Energiemenge.\nDem Benutzer wird empfohlen, die Unversehrtheit des Siegels nach der Einrichtung regelmäßig zu überprüfen.\n"
 	},
 	{
 		"Id": "prod6",
@@ -102,7 +102,7 @@
 		"Icon": "products/15.png",
 		"Name": "Gedankenkontrollgerät",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
-		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDas Gedankenkontrollgerät verbindet sich mit den Handels- und Kommunikationssystemen der Schiffs, wodurch der Flottenkommandant bei Verhandlungen die Oberhand gewinnt.\n"
+		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDas Gedankenkontrollgerät verbindet sich mit den Handels- und Kommunikationssystemen des Schiffs, wodurch der Flottenkommandant bei Verhandlungen die Oberhand gewinnt.\n"
 	},
 	{
 		"Id": "prod16",
@@ -149,7 +149,7 @@
 	{
 		"Id": "prod22",
 		"Icon": "products/22.png",
-		"Name": "Starshield Battery",
+		"Name": "Sternenschildbatterie",
 		"Group": "Tragbarer Energiespeicher",
 		"Description": "Eine Energiespeichereinheit, die für den Einsatz in den Verteidigungssystemen von Raumschiffen optimiert wurde.\nKondensatoren, die mit Tritium betrieben werden, sorgen für eine schnelle Entladung des Deflektorschilds. Bei kleineren Geräten würde es damit zu einer Überladung kommen."
 	},
@@ -242,7 +242,7 @@
 		"Icon": "products/35.png",
 		"Name": "Superoxid-Kristall",
 		"Group": "Konzentrierte Sauerstoffablagerung",
-		"Description": "Bei dieser Substanz handelt es sich um eine Ieicht magnetische Form des Sauerstoffs, die häufig bei der Produktion fortgeschrittener Technologien zum Einsatz kommt. Muss umgewandelt werden, bevor sie in Lebenserhaltungssysteme eingespeist werden kann. Direktes Einatmen wird NICHT ernpfohlen.\nWird aus Sauerstoff synthetisiert."
+		"Description": "Bei dieser Substanz handelt es sich um eine leicht magnetische Form des Sauerstoffs, die häufig bei der Produktion fortgeschrittener Technologien zum Einsatz kommt. Muss umgewandelt werden, bevor sie in Lebenserhaltungssysteme eingespeist werden kann. Direktes Einatmen wird NICHT empfohlen.\nWird aus Sauerstoff synthetisiert."
 	},
 	{
 		"Id": "prod36",
@@ -284,7 +284,7 @@
 		"Icon": "products/54.png",
 		"Name": "Glas",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
-		"Description": "Bruchsicheres, kratzerresistentes Glas mit elner selbstreinigenden, UV-gehärteten Schicht für allgemeine Konstruktionszwecke.\nAus Silikat-Pulver. Extrahiere Silikat mit elnem Terrainmanipulator aus der Erde.\nKann aus Frostkristallen hergestellt werden, die aus Pflanzen in gefrorenen Welten extrahiert werden."
+		"Description": "Bruchsicheres, kratzerresistentes Glas mit einer selbstreinigenden, UV-gehärteten Schicht für allgemeine Konstruktionszwecke.\nAus Silikat-Pulver. Extrahiere Silikat mit einem Terrainmanipulator aus der Erde.\nKann aus Frostkristallen hergestellt werden, die aus Pflanzen in gefrorenen Welten extrahiert werden."
 	},
 	{
 		"Id": "prod55",
@@ -298,7 +298,7 @@
 		"Icon": "products/56.png",
 		"Name": "Flüssigsprengstoff",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
-		"Description": "Ein hochexplosiver Sprengstoff zum allgemeinen Gebrauch, der für einen leichteren Transport sowie eine Ieichtere Handhabung in flüssiger Form hergestellt wird. Nicht trinken.\nAus Säure und instabilem Gel hergestellt."
+		"Description": "Ein hochexplosiver Sprengstoff zum allgemeinen Gebrauch, der für einen leichteren Transport sowie eine leichtere Handhabung in flüssiger Form hergestellt wird. Nicht trinken.\nAus Säure und instabilem Gel hergestellt."
 	},
 	{
 		"Id": "prod57",
@@ -326,7 +326,7 @@
 		"Icon": "products/60.png",
 		"Name": "Stickstoffsalz",
 		"Group": "Verbessertes Gasprodukt",
-		"Description": "Bei diesem verfeinerten Produkt handelt es sich um einen organischen Dünger, der sich dank seiner Form Ieicht verteilen Iässt.\nAus Stickstoff und verdichtetem KohIenstoff hergestellt."
+		"Description": "Bei diesem verfeinerten Produkt handelt es sich um einen organischen Dünger, der sich dank seiner Form leicht verteilen lässt.\nAus Stickstoff und verdichtetem Kohlenstoff hergestellt."
 	},
 	{
 		"Id": "prod61",
@@ -338,7 +338,7 @@
 	{
 		"Id": "prod62",
 		"Icon": "products/62.png",
-		"Name": "Heisses Eis",
+		"Name": "Heißes Eis",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Ein paradoxes Material, das durch seine einfache Herstellung nicht mehr so mysteriös wirkt.\nAus angereichertem Kohlenstoff und Stickstoffsalz hergestellt."
 	},
@@ -347,7 +347,7 @@
 		"Icon": "products/63.png",
 		"Name": "Kryopumpe",
 		"Group": "Gefertigtes Gasprodukt",
-		"Description": "Die Kryopumpe ist ein fortgeschrittenes, sich selbst regulierendes Hybridmaterial, das in sich selbst Hitze mit nahezu perfekter Effizienz verteilen kann, was es zu einem essentiellen Bestandtteil für die Herstellung von Wärmereglern macht.\nAus heißem Eis und thermischem Kondensat hergestellt."
+		"Description": "Die Kryopumpe ist ein fortgeschrittenes, sich selbst regulierendes Hybridmaterial, das in sich selbst Hitze mit nahezu perfekter Effizienz verteilen kann, was es zu einem essentiellen Bestandteil für die Herstellung von Wärmereglern macht.\nAus heißem Eis und thermischem Kondensat hergestellt."
 	},
 	{
 		"Id": "prod64",
@@ -368,14 +368,14 @@
 		"Icon": "products/66.png",
 		"Name": "Supraleiter",
 		"Group": "Gefertigtes Gasprodukt",
-		"Description": "Der Supraleiter ist ein fortgeschrittenes, Ieitfähiges Material, das die Warp-Leistung des Halbleiters verstärkt.\nAus angereichertem Kohlenstoff und Halbleitern hergestellt."
+		"Description": "Der Supraleiter ist ein fortgeschrittenes, leitfähiges Material, das die Warp-Leistung des Halbleiters verstärkt.\nAus angereichertem Kohlenstoff und Halbleitern hergestellt."
 	},
 	{
 		"Id": "prod67",
 		"Icon": "products/67.png",
 		"Name": "Fusionsbeschleuniger",
 		"Group": "Gefertigtes Gasprodukt",
-		"Description": "Elne fortgeschrittene Treibstoffquelle, die aus einer perfekten Mischung hochenergetischer, organischer Materialien besteht.\nAus einem organischen Katalysator und Stickstoffsalz hergestellt."
+		"Description": "Eine fortgeschrittene Treibstoffquelle, die aus einer perfekten Mischung hochenergetischer, organischer Materialien besteht.\nAus einem organischen Katalysator und Stickstoffsalz hergestellt."
 	},
 	{
 		"Id": "prod68",
@@ -389,7 +389,7 @@
 		"Icon": "products/69.png",
 		"Name": "Tragbarer Reaktor",
 		"Group": "Weiterentwickeltes Produkt",
-		"Description": "Ein kleiner, selbstgesteuerter Atomreaktor. Erzeugt substellare Energielevel in einem problemlosen, weitgehend kompatiblen Treibstoffmodul.\nAus Flüssigsprengstoff und Fusionsbeschleuniger hergestelIt."
+		"Description": "Ein kleiner, selbstgesteuerter Atomreaktor. Erzeugt substellare Energielevel in einem problemlosen, weitgehend kompatiblen Treibstoffmodul.\nAus Flüssigsprengstoff und Fusionsbeschleuniger hergestellt."
 	},
 	{
 		"Id": "prod70",
@@ -408,7 +408,7 @@
 	{
 		"Id": "prod72",
 		"Icon": "products/72.png",
-		"Name": "Strassenköterbronze",
+		"Name": "Straßenköterbronze",
 		"Group": "Metalllegierung",
 		"Description": "Eine beliebte Metalllegierung, die in den unterschiedlichsten Bereichen zur Anwendung kommt. Die Straßenköterbronze hat ihren wissenschaftlichen Namen zugunsten der landläufigen Bezeichnung ihrer Farbe abgelegt.\nAus reinem Ferrit und Pyrit hergestellt."
 	},
