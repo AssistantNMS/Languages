@@ -2,6 +2,7 @@
 	"title": "How to create a Guide and publish it",
 	"shortTitle": "Creating Guides",
 	"author": "Kurt Lourens",
+	"image": "assets/guide/HowToMakeAGuide/guide.jpg",
 	"minutes": 10,
 	"date": "2019-09-25T09:59:14.882Z",
 	"tags": [
@@ -94,6 +95,19 @@
 				{
 					"type": "text",
 					"content": "Your Guide will then be read and checked, there may be some suggestions made. Once approved your Guide will be added on the next release."
+				}
+			]
+		},
+		{
+			"heading": "Questions",
+			"items": [
+				{
+					"type": "text",
+					"content": "Please ask lots of questions! So we can make this guide even better!"
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/HowToMakeAGuide/site.jpg"
 				}
 			]
 		}
