@@ -1,177 +1,268 @@
 [
   {
     "Id": "cur1",
-    "Icon": "curiosities/1.png",
     "Name": "Servo-bras de quadrupède",
     "Group": "Matériau anormal",
     "Description": "Un bras motorisé à ressort récupéré sur une unité de patrouille sentinelle. Il est agité de soubresauts ponctuels, tels des échos de combats.\n"
   },
   {
     "Id": "cur2",
-    "Icon": "curiosities/2.png",
     "Name": "Cerveau de marcheur",
     "Group": "Matériau anormal",
     "Description": "Ce circuit déplaçant des amas de nanites liés par un filament de pugnéum est brûlant au toucher.\nUne lueur violette sinistre à l'intensité variable émane de ses câbles. Il semble observer l'être qui le tient.\n"
   },
   {
     "Id": "cur3",
-    "Icon": "curiosities/3.png",
     "Name": "Arc d'esprit",
     "Group": "Advanced Crafted Product",
     "Description": "Une technologie étrange, un cadeau venu d'au-delà des étoiles. Sa manière de scintiller laisse entendre qu'il ne se trouve pas vraiment dans ce monde.\n"
   },
   {
     "Id": "cur4",
-    "Icon": "curiosities/4.png",
     "Name": "Nanode captif",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une graine d'Atlas contenant un substrat quasi stellaire localement décalé. Attention : ne laissez pas la matrice s'associer avec cet espace dimensionnel.\n"
   },
   {
     "Id": "cur5",
-    "Icon": "curiosities/5.png",
     "Name": "Ombre englobée",
     "Group": "Curiosité unique et précieuse",
     "Description": "Cette graine d'Atlas contient les restes d'une forme de vie parasite apparue dans l'espace. Très probablement d'origine extradimensionnelle.\n"
   },
   {
     "Id": "cur6",
-    "Icon": "curiosities/6.png",
     "Name": "Orbe noosphérique",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une graine d'Atlas capable d'entrer en résonnance avec les fréquences télépathiques humaines. Peut tenter de prendre possession de toute intelligence inférieure à proximité.\n"
   },
   {
     "Id": "cur7",
-    "Icon": "curiosities/7.png",
     "Name": "Matière noire",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une graine d'Atlas comprenant un élément de vide récolté dans les restes du précédent univers. Impropre à la consommation.\n"
   },
   {
     "Id": "cur8",
-    "Icon": "curiosities/8.png",
     "Name": "Fin de l'aube",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une matrice neutrino-boson sculptée dans une graine d'Atlas unique. Pourrait être à demi-consciente.\n"
   },
   {
     "Id": "cur9",
-    "Icon": "curiosities/9.png",
     "Name": "Jade photique",
     "Group": "Curiosité unique et précieuse",
     "Description": "Cette graine d'Atlas unique est constituée de photons adaptés à la matière et qui ont été amalgamés en une forme physique et solide par des processus inconnus.\n"
   },
   {
     "Id": "cur10",
-    "Icon": "curiosities/10.png",
     "Name": "Phasure d'état",
     "Group": "Curiosité unique et précieuse",
     "Description": "Pour des raisons inconnues, cette graine d'Atlas a été déphasée de sa réalité quantique. Contenu impossible à déterminer.\n"
   },
   {
     "Id": "cur11",
-    "Icon": "curiosities/11.png",
     "Name": "Réaffirmation novae",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une graine d'Atlas contenant des éléments de neutronium issus d'une terrible supernova, qui a anéanti une civilisation évoluée du passé.\n"
   },
   {
     "Id": "cur12",
-    "Icon": "curiosities/12.png",
     "Name": "Quanta modifiés",
     "Group": "Curiosité unique et précieuse",
     "Description": "Cette graine d'Atlas unique en son genre dispose d'une construction mathématique à l'esthétique agréable, issue de la simulation d'une réalité alternative.\n"
   },
   {
     "Id": "cur13",
-    "Icon": "curiosities/13.png",
     "Name": "Coeur de soleil",
     "Group": "Curiosité unique et précieuse",
     "Description": "Une graine d'Atlas contenant des cils quantiques bloqués dans le temps et suspendus dans une coque photonique. C'est probablement la seule existante.\n"
   },
   {
     "Id": "cur14",
-    "Icon": "curiosities/14.png",
     "Name": "Fleur de NipNip",
     "Group": "Substance médicale",
     "Description": "Cette plante médicinale est connue pour ses bourgeons piquants, qui sont récoltés pour produire du Gek Nip.\n"
   },
   {
     "Id": "cur15",
-    "Icon": "curiosities/15.png",
     "Name": "Noyau larvaire",
     "Group": "Monstruosité",
     "Description": "Cette sphère gélatineuse et palpitante est tiède au toucher. Sa puanteur suscite chez les êtres mortels une terreur primaire instinctive qui les exhorte à la lâcher et à fuir\n"
   },
   {
     "Id": "cur16",
-    "Icon": "curiosities/16.png",
     "Name": "Données récupérées",
     "Group": "Technologie récupérée",
     "Description": "The salvageable heart of some ancient technology. Unreadable in its current form.\nThese databanks can be spent at a Construction Research Unit and used to research new Construction Blueprints.\n"
   },
   {
     "Id": "cur17",
-    "Icon": "curiosities/17.png",
     "Name": "Perle vivante",
     "Group": "Gemme semi-consciente",
     "Description": "A vu le jour dans le cœur d'immenses mollusques lumineux vivant au fond de l'océan\nContrairement aux autres perles, ce spécimen n'est pas une calcite inerte. Une partie de la conscience du coquillage subsiste dans la gemme, ce qui lui donne une beauté persistante et envoûtante.\n"
   },
   {
     "Id": "cur18",
-    "Icon": "curiosities/18.png",
     "Name": "Oeil hypnotique",
     "Group": "Échantillon atroce",
     "Description": "Cet œil est froid, presque glacé au toucher. Pourtant, on ne peut pas s'empêcher de penser qu'il est toujours en vie.\nIl est déconseillé de rester trop longtemps à proximité. Ne pas regarder l'œil. Ne pas regarder. Ne pas regarder.\n"
   },
   {
     "Id": "cur19",
-    "Icon": "curiosities/19.png",
     "Name": "Noyau hadal",
     "Group": "Échantillon atroce",
     "Description": "Orbe charnu sous haute pression\nOn peut le sentir résister quand on le touche et voir un éclat bioluminescent étinceler dans le noyau d'encre noire de cet objet mystérieux.\n"
   },
   {
     "Id": "cur20",
-    "Icon": "curiosities/20.png",
     "Name": "Soul Engine",
     "Group": "Advanced Crafted Product",
     "Description": "A powerful organic computing unit.\nA glitching beat drives this miracle circuit, performing cycle after cycle in an endless, furious loop of calculation.\n"
   },
   {
     "Id": "cur21",
-    "Icon": "curiosities/21.png",
     "Name": "Cristal tempête",
     "Group": "Curiosité unique et précieuse",
     "Description": "Amas rare et très précieux de cristaux tempête. Ces structures cristallines s'épanouissent dans des conditions orageuses et attirent naturellement la foudre, ce qui les rend spectaculairement luminescentes une fois ionisées. Se trouvent exclusivement sur les planètes au climat extrême.\n"
   },
   {
     "Id": "cur22",
-    "Icon": "curiosities/22.png",
     "Name": "Albumen Pearl",
     "Group": "Trade commodity",
     "Description": "Gemstone formed over the course of centuries within the egg of a super-incubatory species.\nExtremely rare.\n"
   },
   {
     "Id": "cur23",
-    "Icon": "curiosities/23.png",
     "Name": "Gravitino Ball",
     "Group": "Trade commodity",
     "Description": "Supersymmetric particle cluster.\nExtremely rare and valuable. A product of divergent super-gravitational forces.\n"
   },
   {
     "Id": "cur24",
-    "Icon": "curiosities/24.png",
     "Name": "Sac Venom",
     "Group": "Trade commodity",
     "Description": "Stabilized poison sample initially produced by aquatic urchin creatures. A rare and expensive item on the Galactic Trade Network.\n"
   },
   {
     "Id": "cur25",
-    "Icon": "curiosities/25.png",
     "Name": "Vortex Cube",
     "Group": "Trade commodity",
     "Description": "Dense metal objects that, long ago, materialised within subterranean networks throughout the Galaxy.\nExtremely rare, and of high value.\n"
+  },
+  {
+    "Id": "cur26",
+    "Name": "Atlas Stone",
+    "Group": "Very high value curiosity",
+    "Description": "A spherical gem that seems to pulsate with red light from its centre.\n \nAn extremely rare item often associated with ancient monolithic sites."
+  },
+  {
+    "Id": "cur27",
+    "Name": "Hex Core",
+    "Group": "Contained Reality Glitch",
+    "Description": "This strange energy orb constantly vibrates, emitting a low-frequency drone. Slight variations in the pattern repeat over and over, almost as if it is attempting to relay a message."
+  },
+  {
+    "Id": "cur28",
+    "Name": "Geode",
+    "Group": "Valuable Mineral Deposit",
+    "Description": "An unusually vibrant and potentially valuable lump of rock.\n\nSelect in the Inventory (INVENTORY) and crack open with FE_ALT1."
+  },
+  {
+    "Id": "cur29",
+    "Name": "Crystal Fragment",
+    "Group": "Concentrated Element Shard",
+    "Description": "A crystalline shard with an unusually dense structure. Potentially highly valuable.\n\nSelect in the Inventory (INVENTORY) and crack open with FE_ALT1."
+  },
+  {
+    "Id": "cur30",
+    "Name": "Tritium Hypercluster",
+    "Group": "Energetic Fragment",
+    "Description": "A shard of pure crystalised Tritium.\n\nSelect in the Inventory (INVENTORY) and crack open with FE_ALT1."
+  },
+  {
+    "Id": "cur31",
+    "Name": "Gold Nugget",
+    "Group": "Valuable Ore",
+    "Description": "A highly valuable ore chunk, ready to be processed into Gold.\n\nSelect in the Inventory (INVENTORY) and crack open with FE_ALT1."
+  },
+  {
+    "Id": "cur32",
+    "Name": "Crystal Sulphide",
+    "Group": "Compressed Mineral",
+    "Description": "Formed in the incredible, high-pressure furnace of planetary cores, these rich mineral deposits have an almost glass-like quality.\n\nHas a wide variety of industrial uses, taking advantage of both its mineral content and its extreme strength under pressure."
+  },
+  {
+    "Id": "cur33",
+    "Name": "Vy'keen Tablet",
+    "Group": "Communion of Hirk",
+    "Description": "A stone tablet bearing line after line of intricate runes. The words are unintelligible, an ancient dialect forgotten by all but the oldest of the Vy'keen elders.\n\nThe hand that carved this stone must have been extraordinary. The stonework is precise, delicate - and yet perfectly conveys the unyielding aggression its writer clearly possessed.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur34",
+    "Name": "Divergence Cube",
+    "Group": "Anomalous Data Unit",
+    "Description": "A glitching, pulsing data unit. It does not seem to belong in this reality.\n\nThe cube gives the impression of a silent scream, the frozen cries of hundreds of lost minds trapped within.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur35",
+    "Name": "Gek Relic",
+    "Group": "Medium value curiosity",
+    "Description": "A metal statuette of a creature with a coin placed in its beak.\n \nPopular with many traders who see it as an emblem of fair commerce and peace.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur36",
+    "Name": "GekNip",
+    "Group": "Trade commodity",
+    "Description": "Edible product much beloved by the Gek.\n \nAllows beaked traders to release delightfully scented packets of gas for a prolonged period of time.\n \nGekNip gas packets are considered an art form, and the truest representation of the Gek soul.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur37",
+    "Name": "Vy'keen Effigy",
+    "Group": "Medium value curiosity",
+    "Description": "A small wooden icon carved into the shape of a Sentinel drone.\n \nUsed by warriors to enter a temporary trance-like state that eliminates their kind's need for sleep.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur38",
+    "Name": "Vy'keen Dagger",
+    "Group": "Trade commodity",
+    "Description": "Largely ceremonial weapon. A vital part of Vy'keen tradition and culture.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur39",
+    "Name": "Korvax Casing",
+    "Group": "High value curiosity",
+    "Description": "The metallic shell of a disconnected electronic lifeform that was too distant from its kind to be refreshed with a new entity.\n \nHighly prized by all species, not least its own.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur40",
+    "Name": "Korvax Convergence Cube",
+    "Group": "Trade commodity",
+    "Description": "Device used by the Korvax for the storage of historical and cultural information.",
+    "Additional": ""
+  },
+  {
+    "Id": "cur41",
+    "Name": "AtlasPass v1",
+    "Group": "Access Card",
+    "Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\n\nProvides access to low level restricted areas and outpost systems."
+  },
+  {
+    "Id": "cur42",
+    "Name": "AtlasPass v2",
+    "Group": "Access Card",
+    "Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\n \nProvides access to mid-tier restricted areas and outpost systems."
+  },
+  {
+    "Id": "cur43",
+    "Name": "AtlasPass v3",
+    "Group": "Access Card",
+    "Description": "Security and permissions pass granted to specific travellers by many primary galactic species.\n \nProvides access to high level restricted areas and outpost systems."
   }
 ]

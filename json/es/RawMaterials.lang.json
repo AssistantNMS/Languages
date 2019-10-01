@@ -1,7 +1,6 @@
 [
 	{
 		"Id": "raw1",
-		"Icon": "rawMaterials/1.png",
 		"Name": "Carbono",
 		"Abbrev": "C",
 		"Group": "Elemento Organico no Refinado",
@@ -10,7 +9,6 @@
 	},
 	{
 		"Id": "raw2",
-		"Icon": "rawMaterials/2.png",
 		"Name": "Condensed Carbon",
 		"Abbrev": "C+",
 		"Group": "Elemento orgánico refinado",
@@ -19,7 +17,6 @@
 	},
 	{
 		"Id": "raw3",
-		"Icon": "rawMaterials/3.png",
 		"Name": "Oxygen",
 		"Abbrev": "O2",
 		"Group": "Combustible líquido concentrado",
@@ -28,7 +25,6 @@
 	},
 	{
 		"Id": "raw4",
-		"Icon": "rawMaterials/4.png",
 		"Name": "Hexita",
 		"Abbrev": "X",
 		"Group": "Elemento Organico no Refinado",
@@ -37,7 +33,6 @@
 	},
 	{
 		"Id": "raw5",
-		"Icon": "rawMaterials/5.png",
 		"Name": "Dihidrógeno",
 		"Abbrev": "H",
 		"Group": "Sustancia de gran energía",
@@ -46,7 +41,6 @@
 	},
 	{
 		"Id": "raw6",
-		"Icon": "rawMaterials/6.png",
 		"Name": "Deuterio",
 		"Abbrev": "D",
 		"Group": "Sustancia de gran energía",
@@ -55,7 +49,6 @@
 	},
 	{
 		"Id": "raw7",
-		"Icon": "rawMaterials/7.png",
 		"Name": "Tritio",
 		"Abbrev": "H3",
 		"Group": "Elemento combustible rico en neutrones",
@@ -64,7 +57,6 @@
 	},
 	{
 		"Id": "raw8",
-		"Icon": "rawMaterials/8.png",
 		"Name": "Polvo de ferrita",
 		"Abbrev": "Fe",
 		"Group": "Extracto de mineral metálico",
@@ -73,7 +65,6 @@
 	},
 	{
 		"Id": "raw9",
-		"Icon": "rawMaterials/9.png",
 		"Name": "Ferrita pura",
 		"Abbrev": "Fe+",
 		"Group": "Mineral metálico procesado",
@@ -82,7 +73,6 @@
 	},
 	{
 		"Id": "raw10",
-		"Icon": "rawMaterials/10.png",
 		"Name": "Ferrita imantada",
 		"Abbrev": "Fe++",
 		"Group": "Elemento metálico cargado",
@@ -91,7 +81,6 @@
 	},
 	{
 		"Id": "raw11",
-		"Icon": "rawMaterials/11.png",
 		"Name": "Polvo de silicato",
 		"Abbrev": "Si",
 		"Group": "Mineral abundante",
@@ -100,7 +89,6 @@
 	},
 	{
 		"Id": "raw12",
-		"Icon": "rawMaterials/12.png",
 		"Name": "Sodio",
 		"Abbrev": "Na",
 		"Group": "Elemento catalítico sin refinar",
@@ -109,7 +97,6 @@
 	},
 	{
 		"Id": "raw13",
-		"Icon": "rawMaterials/13.png",
 		"Name": "Nitrato de sodio",
 		"Abbrev": "Na+",
 		"Group": "Elemento catalítico refinado",
@@ -118,7 +105,6 @@
 	},
 	{
 		"Id": "raw14",
-		"Icon": "rawMaterials/14.png",
 		"Name": "Cobalto",
 		"Abbrev": "Co",
 		"Group": "Mineral subterráneo",
@@ -127,7 +113,6 @@
 	},
 	{
 		"Id": "raw15",
-		"Icon": "rawMaterials/15.png",
 		"Name": "Cobalto ionizado",
 		"Abbrev": "Co+",
 		"Group": "Mineral subterráneo procesado",
@@ -136,7 +121,6 @@
 	},
 	{
 		"Id": "raw16",
-		"Icon": "rawMaterials/16.png",
 		"Name": "Sal",
 		"Abbrev": "NaCl",
 		"Group": "Extracto de mineral acuático",
@@ -145,7 +129,6 @@
 	},
 	{
 		"Id": "raw17",
-		"Icon": "rawMaterials/17.png",
 		"Name": "Cloro",
 		"Abbrev": "Cl",
 		"Group": "Mineral acuático procesado",
@@ -154,7 +137,6 @@
 	},
 	{
 		"Id": "raw18",
-		"Icon": "rawMaterials/18.png",
 		"Name": "Citofosfato",
 		"Abbrev": "Cy",
 		"Group": "Compuesto orgánico",
@@ -163,7 +145,6 @@
 	},
 	{
 		"Id": "raw19",
-		"Icon": "rawMaterials/19.png",
 		"Name": "Cobre",
 		"Abbrev": "Cu",
 		"Group": "Metal estelar refinado: amarillo",
@@ -172,7 +153,6 @@
 	},
 	{
 		"Id": "raw20",
-		"Icon": "rawMaterials/20.png",
 		"Name": "Cadmio",
 		"Abbrev": "Cd",
 		"Group": "Metal estelar refinado: rojo",
@@ -181,7 +161,6 @@
 	},
 	{
 		"Id": "raw21",
-		"Icon": "rawMaterials/21.png",
 		"Name": "Emerilio",
 		"Abbrev": "Em",
 		"Group": "Metal estelar refinado: verde",
@@ -190,7 +169,6 @@
 	},
 	{
 		"Id": "raw22",
-		"Icon": "rawMaterials/22.png",
 		"Name": "Indio",
 		"Abbrev": "In",
 		"Group": "Metal estelar refinado: azul",
@@ -199,7 +177,6 @@
 	},
 	{
 		"Id": "raw23",
-		"Icon": "rawMaterials/23.png",
 		"Name": "Metal cromático",
 		"Abbrev": "Ch",
 		"Group": "Metal estelar altamente refinado",
@@ -208,7 +185,6 @@
 	},
 	{
 		"Id": "raw24",
-		"Icon": "rawMaterials/24.png",
 		"Name": "Parafinio",
 		"Abbrev": "Pf",
 		"Group": "Elemento de tierra localizado",
@@ -217,7 +193,6 @@
 	},
 	{
 		"Id": "raw25",
-		"Icon": "rawMaterials/25.png",
 		"Name": "Pirita",
 		"Abbrev": "Py",
 		"Group": "Elemento de tierra localizado",
@@ -226,7 +201,6 @@
 	},
 	{
 		"Id": "raw26",
-		"Icon": "rawMaterials/26.png",
 		"Name": "Amonio",
 		"Abbrev": "NH3",
 		"Group": "Elemento de tierra localizado",
@@ -235,7 +209,6 @@
 	},
 	{
 		"Id": "raw27",
-		"Icon": "rawMaterials/27.png",
 		"Name": "Uranio",
 		"Abbrev": "U",
 		"Group": "Elemento de tierra localizado",
@@ -244,7 +217,6 @@
 	},
 	{
 		"Id": "raw28",
-		"Icon": "rawMaterials/28.png",
 		"Name": "Dioxita",
 		"Abbrev": "C02",
 		"Group": "Elemento de tierra localizado",
@@ -253,7 +225,6 @@
 	},
 	{
 		"Id": "raw29",
-		"Icon": "rawMaterials/29.png",
 		"Name": "Fósforo",
 		"Abbrev": "P",
 		"Group": "Elemento de tierra localizado",
@@ -262,7 +233,6 @@
 	},
 	{
 		"Id": "raw30",
-		"Icon": "rawMaterials/30.png",
 		"Name": "Mordita",
 		"Abbrev": "Mo",
 		"Group": "Sustancia recolectada",
@@ -271,7 +241,6 @@
 	},
 	{
 		"Id": "raw31",
-		"Icon": "rawMaterials/31.png",
 		"Name": "Pugneo",
 		"Abbrev": "Pg",
 		"Group": "Material Anomalo",
@@ -280,7 +249,6 @@
 	},
 	{
 		"Id": "raw32",
-		"Icon": "rawMaterials/32.png",
 		"Name": "Plata",
 		"Abbrev": "Ag",
 		"Group": "Mineral valioso de asteroide",
@@ -289,7 +257,6 @@
 	},
 	{
 		"Id": "raw33",
-		"Icon": "rawMaterials/33.png",
 		"Name": "Oro",
 		"Abbrev": "Au",
 		"Group": "Mineral valioso de asteroide",
@@ -298,7 +265,6 @@
 	},
 	{
 		"Id": "raw34",
-		"Icon": "rawMaterials/34.png",
 		"Name": "Platino",
 		"Abbrev": "Pt",
 		"Group": "Mineral valioso de asteroide",
@@ -307,7 +273,6 @@
 	},
 	{
 		"Id": "raw35",
-		"Icon": "rawMaterials/35.png",
 		"Name": "Sulfurina",
 		"Abbrev": "Su",
 		"Group": "Gas Atmosférico Comprimido",
@@ -316,7 +281,6 @@
 	},
 	{
 		"Id": "raw36",
-		"Icon": "rawMaterials/36.png",
 		"Name": "Radon",
 		"Abbrev": "Rn",
 		"Group": "Gas Atmosférico Comprimido",
@@ -325,7 +289,6 @@
 	},
 	{
 		"Id": "raw37",
-		"Icon": "rawMaterials/37.png",
 		"Name": "Nitrogeno",
 		"Abbrev": "N",
 		"Group": "Gas Atmosférico Comprimido",
@@ -334,7 +297,6 @@
 	},
 	{
 		"Id": "raw38",
-		"Icon": "rawMaterials/38.png",
 		"Name": "Cobre activado",
 		"Abbrev": "Cu",
 		"Group": "Metal estelar refinado: amarillo",
@@ -343,7 +305,6 @@
 	},
 	{
 		"Id": "raw39",
-		"Icon": "rawMaterials/39.png",
 		"Name": "Cadmio activado",
 		"Abbrev": "Cd",
 		"Group": "Metal estelar refinado: rojo",
@@ -352,7 +313,6 @@
 	},
 	{
 		"Id": "raw40",
-		"Icon": "rawMaterials/40.png",
 		"Name": "Emerilio activado",
 		"Abbrev": "Em",
 		"Group": "Metal estelar refinado: verde",
@@ -361,7 +321,6 @@
 	},
 	{
 		"Id": "raw41",
-		"Icon": "rawMaterials/41.png",
 		"Name": "Indio activado",
 		"Abbrev": "In",
 		"Group": "Metal estelar refinado: azul",
@@ -370,7 +329,6 @@
 	},
 	{
 		"Id": "raw42",
-		"Icon": "rawMaterials/42.png",
 		"Name": "Moho fúngico",
 		"Abbrev": "Ml",
 		"Group": "Sustancia agrícola recolectada",
@@ -379,7 +337,6 @@
 	},
 	{
 		"Id": "raw43",
-		"Icon": "rawMaterials/43.png",
 		"Name": "Cristal de escarcha",
 		"Abbrev": "Fc",
 		"Group": "Sustancia agrícola recolectada",
@@ -388,7 +345,6 @@
 	},
 	{
 		"Id": "raw44",
-		"Icon": "rawMaterials/44.png",
 		"Name": "Raíz de gamma",
 		"Abbrev": "Gr",
 		"Group": "Sustancia agrícola recolectada",
@@ -397,7 +353,6 @@
 	},
 	{
 		"Id": "raw45",
-		"Icon": "rawMaterials/45.png",
 		"Name": "Carne de cactus",
 		"Abbrev": "Cc",
 		"Group": "Sustancia agrícola recolectada",
@@ -406,7 +361,6 @@
 	},
 	{
 		"Id": "raw46",
-		"Icon": "rawMaterials/46.png",
 		"Name": "Solanio",
 		"Abbrev": "So",
 		"Group": "Sustancia agrícola recolectada",
@@ -415,7 +369,6 @@
 	},
 	{
 		"Id": "raw47",
-		"Icon": "rawMaterials/47.png",
 		"Name": "Bulbo estelar",
 		"Abbrev": "Sb",
 		"Group": "Sustancia agrícola recolectada",
@@ -424,7 +377,6 @@
 	},
 	{
 		"Id": "raw48",
-		"Icon": "rawMaterials/48.png",
 		"Name": "Bulbo de médula",
 		"Abbrev": "Mb",
 		"Group": "Sustancia agrícola recolectada",
@@ -433,7 +385,6 @@
 	},
 	{
 		"Id": "raw49",
-		"Icon": "rawMaterials/49.png",
 		"Name": "Saco de algas marinas",
 		"Abbrev": "Ke",
 		"Group": "Sustancia agrícola recolectada",
@@ -442,7 +393,6 @@
 	},
 	{
 		"Id": "raw50",
-		"Icon": "rawMaterials/50.png",
 		"Name": "Hecesio",
 		"Abbrev": "Fa",
 		"Group": "Sustancia agrícola recolectada",
@@ -451,7 +401,6 @@
 	},
 	{
 		"Id": "raw51",
-		"Icon": "rawMaterials/51.png",
 		"Name": "Pringue residual",
 		"Abbrev": "Jn",
 		"Group": "Chatarra",
@@ -460,7 +409,6 @@
 	},
 	{
 		"Id": "raw52",
-		"Icon": "rawMaterials/52.png",
 		"Name": "Moho desenfrenado",
 		"Abbrev": "Jn",
 		"Group": "Chatarra",
@@ -469,7 +417,6 @@
 	},
 	{
 		"Id": "raw53",
-		"Icon": "rawMaterials/53.png",
 		"Name": "Metal oxidado",
 		"Abbrev": "Jn",
 		"Group": "Chatarra",
@@ -478,7 +425,6 @@
 	},
 	{
 		"Id": "raw54",
-		"Icon": "rawMaterials/54.png",
 		"Name": "Cieno vivo",
 		"Abbrev": "Jn",
 		"Group": "Chatarra",
@@ -487,11 +433,34 @@
 	},
 	{
 		"Id": "raw55",
-		"Icon": "rawMaterials/55.png",
 		"Name": "Fluidos viscosos",
 		"Abbrev": "Jn",
 		"Group": "Chatarra",
 		"Rarity": "Uncommon",
 		"Description": "Líquido extraño y espeso de color turbio. Resulta imposible desentrañar su procedencia.\nParece tener algunas propiedades magnéticas suaves."
+	},
+	{
+		"Id": "raw56",
+		"Name": "Nanite Cluster",
+		"Abbrev": "∞",
+		"Group": "Technological Currency",
+		"Rarity": "Rare",
+		"Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\n\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
+	},
+	{
+		"Id": "raw57",
+		"Name": "Quicksilver",
+		"Abbrev": "-",
+		"Group": "Reward Item",
+		"Rarity": "Rare",
+		"Description": "Currency or faction standing, given as a reward."
+	},
+	{
+		"Id": "raw58",
+		"Name": "Units",
+		"Abbrev": "-",
+		"Group": "Reward Item",
+		"Rarity": "Rare",
+		"Description": "Currency or faction standing, given as a reward."
 	}
 ]
