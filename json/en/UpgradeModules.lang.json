@@ -1,0 +1,800 @@
+[
+  {
+    "Id": "upgrade1",
+    "Name": "Mining Beam Module (C)",
+    "Group": "Mining Beam Upgrade",
+    "Description": "A moderate upgrade for the Mining Beam. Use FE_ALT1 to begin upgrade installation process.\n\nUpgrades Mining Laser core optics, increasing device effectiveness.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade2",
+    "Name": "Mining Beam Module (B)",
+    "Group": "Significant Mining Beam Upgrade",
+    "Description": "A significant upgrade for the Mining Beam. Use FE_ALT1 to begin upgrade installation process.\n\nUpgrades the Mining Laser's primary crystal chamber, boosting core beam energy while decreasing unwanted heat spill.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade3",
+    "Name": "Mining Beam Module (A)",
+    "Group": "Powerful Mining Beam Upgrade",
+    "Description": "An extremely powerful upgrade for the Mining Beam. Use FE_ALT1 to begin upgrade installation process.\n\nUpgrades the Mining Laser's core components. Power output and heat tolerance are significantly increased.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade4",
+    "Name": "Mining Beam Module (S)",
+    "Group": "Supreme Mining Beam Upgrade",
+    "Description": "A supremely powerful upgrade for the Mining Beam. Use FE_ALT1 to begin upgrade installation process.\n\nUpgrades the Mining Laser's core components. Power output and heat tolerance are significantly increased.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade5",
+    "Name": "Scanner Module (C)",
+    "Group": "Scanning System Upgrade",
+    "Description": "A moderate upgrade for the Multi-Tool Scanning Systems. Use FE_ALT1 to begin upgrade installation process.\n\nInternal chip upgrades improve scan radius, as well as significantly increasing the value of discovery data.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade6",
+    "Name": "Scanner Module (B)",
+    "Group": "Significant Scanning System Upgrade",
+    "Description": "A significant upgrade for the Multi-Tool Scanning Systems. Use FE_ALT1 to begin upgrade installation process.\n\nInternal chip upgrades improve scan radius, as well as dramatically increasing the value of discovery data.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade7",
+    "Name": "Scanner Module (A)",
+    "Group": "Powerful Scanning System Upgrade",
+    "Description": "An extremely powerful upgrade for the Multi-Tool Scanning Systems. Use FE_ALT1 to begin upgrade installation process.\n\nInternal chip upgrades improve scan radius, as well as massively increasing the value of discovery data.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade8",
+    "Name": "Scanner Module (S)",
+    "Group": "Supreme Scanning System Upgrade",
+    "Description": "A supremely powerful upgrade for the Multi-Tool Scanning Systems. Use FE_ALT1 to begin upgrade installation process.\n\nInternal chip upgrades improve scan radius, as well as massively increasing the value of discovery data.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade9",
+    "Name": "Boltcaster Module (C)",
+    "Group": "Boltcaster Upgrade",
+    "Description": "A moderate upgrade for the Boltcaster. Use FE_ALT1 to begin upgrade installation process.\n\nUpgrades the Boltcaster, decreasing reload times and increasing damage.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade10",
+    "Name": "Boltcaster Module (B)",
+    "Group": "Significant Boltcaster Upgrade",
+    "Description": "A significant upgrade for the Boltcaster. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases projectile damage and decreases reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade11",
+    "Name": "Boltcaster Module (A)",
+    "Group": "Powerful Boltcaster Upgrade",
+    "Description": "An extremely powerful upgrade for the Boltcaster. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases projectile damage, fire rate and clip size. Decreases reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade12",
+    "Name": "Boltcaster Module (S)",
+    "Group": "Supreme Boltcaster Upgrade",
+    "Description": "A supremely powerful upgrade for the Boltcaster. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases projectile damage, fire rate and clip size. Decreases reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade13",
+    "Name": "Plasma Launcher Module (C)",
+    "Group": "Plasma Launcher Upgrade",
+    "Description": "A moderate upgrade for the Plasma Launcher. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to explosion damage and radius, as well as increasing the maximum number of pre-explosion bounces.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade14",
+    "Name": "Plasma Launcher Module (B)",
+    "Group": "Significant Plasma Launcher Upgrade",
+    "Description": "A significant upgrade for the Plasma Launcher. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to explosion damage and radius, as well as increasing the maximum number of pre-explosion bounces.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade15",
+    "Name": "Plasma Launcher Module (A)",
+    "Group": "Powerful Plasma Launcher Upgrade",
+    "Description": "An extremely powerful upgrade for the Plasma Launcher. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to explosion damage and radius, as well as increasing the maximum number of pre-explosion bounces.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade16",
+    "Name": "Plasma Launcher Module (S)",
+    "Group": "Supreme Plasma Launcher Upgrade",
+    "Description": "A supremely powerful upgrade for the Plasma Launcher. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to explosion damage and radius, as well as increasing the maximum number of pre-explosion bounces.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade17",
+    "Name": "Geology Cannon Module (C)",
+    "Group": "Geology Cannon Upgrade",
+    "Description": "A moderate upgrade for the Geology Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases both explosion damage and crater radius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade18",
+    "Name": "Geology Cannon Module (B)",
+    "Group": "Significant Geology Cannon Upgrade",
+    "Description": "A significant upgrade for the Geology Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases both explosion damage and crater radius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade19",
+    "Name": "Geology Cannon Module (A)",
+    "Group": "Powerful Geology Cannon Upgrade",
+    "Description": "An extremely powerful upgrade for the Geology Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases both explosion damage and crater radius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade20",
+    "Name": "Geology Cannon Module (S)",
+    "Group": "Supreme Geology Cannon Upgrade",
+    "Description": "A supremely powerful upgrade for the Geology Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases both explosion damage and crater radius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade21",
+    "Name": "Blaze Javelin Module (C)",
+    "Group": "Blaze Javelin Upgrade",
+    "Description": "A moderate upgrade for the Blaze Javelin. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases laser damage and decreases recharge times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade22",
+    "Name": "Blaze Javelin Module (B)",
+    "Group": "Significant Blaze Javelin Upgrade",
+    "Description": "A significant upgrade for the Blaze Javelin. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly increases laser damage and decreases recharge times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade23",
+    "Name": "Blaze Javelin Module (A)",
+    "Group": "Powerful Blaze Javelin Upgrade",
+    "Description": "An extremely powerful upgrade for the Blaze Javelin. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically increases laser damage and decreases recharge times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade24",
+    "Name": "Blaze Javelin Module (S)",
+    "Group": "Supreme Blaze Javelin Upgrade",
+    "Description": "A supremely powerful upgrade for the Blaze Javelin. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically increases laser damage and decreases recharge times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade25",
+    "Name": "Scatter Blaster Module (C)",
+    "Group": "Scatter Blaster Upgrade",
+    "Description": "A moderate upgrade for the Scatter Blaster. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases weapon damage and decreases reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade26",
+    "Name": "Scatter Blaster Module (B)",
+    "Group": "Significant Scatter Blaster Upgrade",
+    "Description": "A significant upgrade for the Scatter Blaster. Use FE_ALT1 to begin upgrade installation process.\n\nOverhauls internal mechanisms to increase clip size and bullets per shot. In addition, increases weapon damage and decreases reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade27",
+    "Name": "Scatter Blaster Module (A)",
+    "Group": "Powerful Scatter Blaster Upgrade",
+    "Description": "An extremely powerful upgrade for the Scatter Blaster. Use FE_ALT1 to begin upgrade installation process.\n\nOffers significant improvements to weapon damage and reload times. Increases total clip size and offers substantial improvements to rate of fire.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade28",
+    "Name": "Scatter Blaster Module (S)",
+    "Group": "Supreme Scatter Blaster Upgrade",
+    "Description": "A supremely powerful upgrade for the Scatter Blaster. Use FE_ALT1 to begin upgrade installation process.\n\nOffers significant improvements to weapon damage and reload times. Increases total clip size and offers substantial improvements to rate of fire.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade29",
+    "Name": "Pulse Spitter Module (C)",
+    "Group": "Pulse Spitter Upgrade",
+    "Description": "A moderate upgrade for the Pulse Spitter. Use FE_ALT1 to begin upgrade installation process.\n\nOverloads internal charge systems to increase fire rate and decrease reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade30",
+    "Name": "Pulse Spitter Module (B)",
+    "Group": "Significant Pulse Spitter Upgrade",
+    "Description": "A significant upgrade for the Pulse Spitter. Use FE_ALT1 to begin upgrade installation process.\n\nAmplifies core optics to increase clip size and fire rate, as well as decreasing reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade31",
+    "Name": "Pulse Spitter Module (A)",
+    "Group": "Powerful Pulse Spitter Upgrade",
+    "Description": "An extremely powerful upgrade for the Pulse Spitter. Use FE_ALT1 to begin upgrade installation process.\n\nLocalised spacetime distortion significantly increases clip size and fire rate, as well as decreasing reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade32",
+    "Name": "Pulse Spitter Module (S)",
+    "Group": "Supreme Pulse Spitter Upgrade",
+    "Description": "A supremely powerful upgrade for the Pulse Spitter. Use FE_ALT1 to begin upgrade installation process.\n\nLocalised spacetime distortion significantly increases clip size and fire rate, as well as decreasing reload times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade33",
+    "Name": "Life Support Module (B)",
+    "Group": "Significant Life Support Upgrade",
+    "Description": "A significant upgrade for the Life Support System. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases life support power.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade34",
+    "Name": "Life Support Module (A)",
+    "Group": "Powerful Life Support Upgrade",
+    "Description": "An extremely powerful upgrade for the Life Support System. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases life support power and offers limited solar-energy power-offsetting, decreasing power use during daylight.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade35",
+    "Name": "Life Support Module (S)",
+    "Group": "Supreme Life Support Upgrade",
+    "Description": "A supremely powerful upgrade for the Life Support System. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases life support power and offers limited solar-energy power-offsetting, decreasing power use during daylight.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade36",
+    "Name": "Movement Module (C)",
+    "Group": "Movement System Upgrade",
+    "Description": "A moderate upgrade for the Exosuit Movement Systems. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to jetpack tank capacity and life support drain rates, as well as increasing Exosuit speed boost duration.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade37",
+    "Name": "Movement Module (B)",
+    "Group": "Significant Movement System Upgrade",
+    "Description": "A significant upgrade for the Exosuit Movement Systems. Use FE_ALT1 to begin upgrade installation process.\n\nDelivers powerful improvements to jetpack tank capacity and life support drain rates, as well as increasing Exosuit speed boost duration.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade38",
+    "Name": "Movement Module (A)",
+    "Group": "Powerful Movement System Upgrade",
+    "Description": "An extremely powerful upgrade for the Exosuit Movement Systems. Use FE_ALT1 to begin upgrade installation process.\n\nOffers dramatic improvements to jetpack tank capacity and life support drain rates, as well as increasing Exosuit speed boost duration.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade39",
+    "Name": "Movement Module (S)",
+    "Group": "Supreme Movement System Upgrade",
+    "Description": "A supremely powerful upgrade for the Exosuit Movement Systems. Use FE_ALT1 to begin upgrade installation process.\n\nOffers dramatic improvements to jetpack tank capacity and life support drain rates, as well as increasing Exosuit speed boost duration.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade40",
+    "Name": "Shield Module (C)",
+    "Group": "Defensive Systems Upgrade",
+    "Description": "A moderate upgrade for the Exosuit Defensive Systems. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases Exosuit shield strength.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade41",
+    "Name": "Shield Module (B)",
+    "Group": "Significant Defensive Systems Upgrade",
+    "Description": "A significant upgrade for the Exosuit Defensive Systems. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly increases Exosuit shield strength, as well as increasing core health.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade42",
+    "Name": "Shield Module (A)",
+    "Group": "Powerful Defensive Systems Upgrade",
+    "Description": "An extremely powerful upgrade for the Exosuit Defensive Systems. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically increases Exosuit shield strength, as well as increasing core health.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade43",
+    "Name": "Shield Module (S)",
+    "Group": "Supreme Defensive Systems Upgrade",
+    "Description": "A supremely powerful upgrade for the Exosuit Defensive Systems. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically increases Exosuit shield strength, as well as increasing core health.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade44",
+    "Name": "Underwater Protection Module (B)",
+    "Group": "Underwater Oxygen Upgrade",
+    "Description": "A significant upgrade for the Exosuit Aeration Membrane. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times underwater.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade45",
+    "Name": "Underwater Protection Module (A)",
+    "Group": "Significant Underwater Oxygen Upgrade",
+    "Description": "An extremely powerful upgrade for the Exosuit Aeration Membrane. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times underwater.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade46",
+    "Name": "Underwater Protection Module (S)",
+    "Group": "Powerful Underwater Oxygen Upgrade",
+    "Description": "A supremely powerful upgrade for the Exosuit Aeration Membrane. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times underwater.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade47",
+    "Name": "Radiation Protection Module (B)",
+    "Group": "Significant Hazard Protection Upgrade",
+    "Description": "A significant upgrade for the Exosuit Radiation Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in radioactive environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade48",
+    "Name": "Radiation Protection Module (A)",
+    "Group": "Powerful Hazard Protection Upgrade",
+    "Description": "An extremely powerful upgrade for the Exosuit Radiation Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in radioactive environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade49",
+    "Name": "Radiation Protection Module (S)",
+    "Group": "Supreme Hazard Protection Upgrade",
+    "Description": "A supremely powerful upgrade for the Exosuit Radiation Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in radioactive environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade50",
+    "Name": "Toxic Protection Module (B)",
+    "Group": "Significant Hazard Protection Upgrade",
+    "Description": "A significant upgrade for the Exosuit Toxin Filtering System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in toxic environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade51",
+    "Name": "Toxic Protection Module (A)",
+    "Group": "Powerful Hazard Protection Upgrade",
+    "Description": "An extremely powerful upgrade for the Exosuit Toxin Filtering System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in toxic environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade52",
+    "Name": "Toxic Protection Module (S)",
+    "Group": "Supreme Hazard Protection Upgrade",
+    "Description": "A supremely powerful upgrade for the Exosuit Toxin Filtering System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in toxic environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade53",
+    "Name": "Thermal Protection Module (B)",
+    "Group": "Significant Hazard Protection Upgrade",
+    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade54",
+    "Name": "Thermal Protection Module (A)",
+    "Group": "Powerful Hazard Protection Upgrade",
+    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade55",
+    "Name": "Thermal Protection Module (S)",
+    "Group": "Supreme Hazard Protection Upgrade",
+    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade56",
+    "Name": "Thermal Protection Module (B)",
+    "Group": "Significant Hazard Protection Upgrade",
+    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade57",
+    "Name": "Thermal Protection Module (A)",
+    "Group": "Powerful Hazard Protection Upgrade",
+    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade58",
+    "Name": "Thermal Protection Module (S)",
+    "Group": "Supreme Hazard Protection Upgrade",
+    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade59",
+    "Name": "Pulse Engine Module (C)",
+    "Group": "Pulse Engine Upgrade",
+    "Description": "A moderate upgrade for the Starship Pulse Engine. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to starship maneuverability and speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade60",
+    "Name": "Pulse Engine Module (B)",
+    "Group": "Significant Pulse Engine Upgrade",
+    "Description": "A significant upgrade for the Starship Pulse Engine. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to starship maneuverability and speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade61",
+    "Name": "Pulse Engine Module (A)",
+    "Group": "Powerful Pulse Engine Upgrade",
+    "Description": "An extremely powerful upgrade for the Starship Pulse Engine. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to starship maneuverability and speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade62",
+    "Name": "Pulse Engine Module (S)",
+    "Group": "Supreme Pulse Engine Upgrade",
+    "Description": "A supremely powerful upgrade for the Starship Pulse Engine. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to starship maneuverability and speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade63",
+    "Name": "Hyperdrive Module (C)",
+    "Group": "Hyperdrive Upgrade",
+    "Description": "A moderate upgrade for the Hyperdrive. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to warp-drive efficiency and jump distance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade64",
+    "Name": "Hyperdrive Module (B)",
+    "Group": "Significant Hyperdrive Upgrade",
+    "Description": "A significant upgrade for the Hyperdrive. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to warp-drive efficiency and jump distance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade65",
+    "Name": "Hyperdrive Module (A)",
+    "Group": "Powerful Hyperdrive Upgrade",
+    "Description": "An extremely powerful upgrade for the Hyperdrive. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to warp-drive efficiency and jump distance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade66",
+    "Name": "Hyperdrive Module (S)",
+    "Group": "Supreme Hyperdrive Upgrade",
+    "Description": "A supremely powerful upgrade for the Hyperdrive. Use FE_ALT1 to begin upgrade installation process.\n\nOffers improvements to warp-drive efficiency and jump distance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade67",
+    "Name": "Starship Shield Module (C)",
+    "Group": "Starship Shield Upgrade",
+    "Description": "A moderate upgrade for the Starship Defensive Shielding. Use FE_ALT1 to begin upgrade installation process.\n\nImproves ship strength for increased combat endurance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade68",
+    "Name": "Starship Shield Module (B)",
+    "Group": "Significant Starship Shield Upgrade",
+    "Description": "A significant upgrade for the Starship Defensive Shielding. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves ship strength for increased combat endurance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade69",
+    "Name": "Starship Shield Module (A)",
+    "Group": "Powerful Starship Shield Upgrade",
+    "Description": "An extremely powerful upgrade for the Starship Defensive Shielding. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves ship strength for increased combat endurance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade70",
+    "Name": "Starship Shield Module (S)",
+    "Group": "Supreme Starship Shield Upgrade",
+    "Description": "A supremely powerful upgrade for the Starship Defensive Shielding. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves ship strength for increased combat endurance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade71",
+    "Name": "Photon Cannon Module (C)",
+    "Group": "Starship Weapon Upgrade",
+    "Description": "A moderate upgrade for the Starship Photon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nImproves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade72",
+    "Name": "Photon Cannon Module (B)",
+    "Group": "Significant Starship Weapon Upgrade",
+    "Description": "A significant upgrade for the Starship Photon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade73",
+    "Name": "Photon Cannon Module (A)",
+    "Group": "Powerful Starship Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Starship Photon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade74",
+    "Name": "Photon Cannon Module (S)",
+    "Group": "Supreme Starship Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Starship Photon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade75",
+    "Name": "Phase Beam Module (C)",
+    "Group": "Starship Weapon Upgrade",
+    "Description": "A moderate upgrade for the Starship Phase Beam. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases combat effectiveness via improvements to both damage and overheat tolerance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade76",
+    "Name": "Phase Beam Module (B)",
+    "Group": "Significant Starship Weapon Upgrade",
+    "Description": "A significant upgrade for the Starship Phase Beam. Use FE_ALT1 to begin upgrade installation process.\n\nIncreases combat effectiveness via significant improvements to both damage and overheat tolerance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade77",
+    "Name": "Phase Beam Module (A)",
+    "Group": "Powerful Starship Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Starship Phase Beam. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically increases combat effectiveness via large improvements to both damage and overheat tolerance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade78",
+    "Name": "Phase Beam Module (S)",
+    "Group": "Supreme Starship Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Starship Phase Beam. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically increases combat effectiveness via large improvements to both damage and overheat tolerance.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade79",
+    "Name": "Positron Module (C)",
+    "Group": "Starship Weapon Upgrade",
+    "Description": "A moderate upgrade for the Positron Ejector. Use FE_ALT1 to begin upgrade installation process.\n\nImproves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade80",
+    "Name": "Positron Module (B)",
+    "Group": "Significant Starship Weapon Upgrade",
+    "Description": "A significant upgrade for the Positron Ejector. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade81",
+    "Name": "Positron Module (A)",
+    "Group": "Powerful Starship Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Positron Ejector. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade82",
+    "Name": "Positron Module (S)",
+    "Group": "Supreme Starship Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Positron Ejector. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade83",
+    "Name": "Infra-Knife Module (C)",
+    "Group": "Starship Weapon Upgrade",
+    "Description": "A moderate upgrade for the Infra-Knife Accelerator. Use FE_ALT1 to begin upgrade installation process.\n\nImproves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade84",
+    "Name": "Infra-Knife Module (B)",
+    "Group": "Significant Starship Weapon Upgrade",
+    "Description": "A significant upgrade for the Infra-Knife Accelerator. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade85",
+    "Name": "Infra-Knife Module (A)",
+    "Group": "Powerful Starship Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Infra-Knife Accelerator. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade86",
+    "Name": "Infra-Knife Module (S)",
+    "Group": "Supreme Starship Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Infra-Knife Accelerator. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade87",
+    "Name": "Cyclotron Module (C)",
+    "Group": "Starship Weapon Upgrade",
+    "Description": "A moderate upgrade for the Cyclotron Ballista. Use FE_ALT1 to begin upgrade installation process.\n\nImproves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade88",
+    "Name": "Cyclotron Module (B)",
+    "Group": "Significant Starship Weapon Upgrade",
+    "Description": "A significant upgrade for the Cyclotron Ballista. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade89",
+    "Name": "Cyclotron Module (A)",
+    "Group": "Powerful Starship Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Cyclotron Ballista. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade90",
+    "Name": "Cyclotron Module (S)",
+    "Group": "Supreme Starship Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Cyclotron Ballista. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and overheat times.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade91",
+    "Name": "Exocraft Cannon Module (C)",
+    "Group": "Exocraft Weapon Upgrade",
+    "Description": "A moderate upgrade for the Exocraft Mounted Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nImproves damage, fire rate and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade92",
+    "Name": "Exocraft Cannon Module (B)",
+    "Group": "Significant Exocraft Weapon Upgrade",
+    "Description": "A significant upgrade for the Exocraft Mounted Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves damage, fire rate and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade93",
+    "Name": "Exocraft Cannon Module (A)",
+    "Group": "Powerful Exocraft Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Exocraft Mounted Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade94",
+    "Name": "Exocraft Cannon Module (S)",
+    "Group": "Supreme Exocraft Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Exocraft Mounted Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves damage, fire rate and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade95",
+    "Name": "Exocraft Laser Module (C)",
+    "Group": "Exocraft Weapon Upgrade",
+    "Description": "A moderate upgrade for the Exocraft Mining Laser. Use FE_ALT1 to begin upgrade installation process.\n\nImproves mining power and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade96",
+    "Name": "Exocraft Laser Module (B)",
+    "Group": "Significant Exocraft Weapon Upgrade",
+    "Description": "A significant upgrade for the Exocraft Mining Laser. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves mining power and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade97",
+    "Name": "Exocraft Laser Module (A)",
+    "Group": "Powerful Exocraft Weapon Upgrade",
+    "Description": "An extremely powerful upgrade for the Exocraft Mining Laser. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves mining power and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade98",
+    "Name": "Exocraft Laser Module (S)",
+    "Group": "Supreme Exocraft Weapon Upgrade",
+    "Description": "A supremely powerful upgrade for the Exocraft Mining Laser. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves mining power and fuel efficiency.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade99",
+    "Name": "Exocraft Boost Module (C)",
+    "Group": "Exocraft Boost Upgrade",
+    "Description": "A moderate upgrade for the Exocraft Acceleration Module. Use FE_ALT1 to begin upgrade installation process.\n\nImproves boost tank capacity and boost power.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade100",
+    "Name": "Exocraft Boost Module (B)",
+    "Group": "Significant Exocraft Boost Upgrade",
+    "Description": "A significant upgrade for the Exocraft Acceleration Module. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves boost tank capacity and boost power.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade101",
+    "Name": "Exocraft Boost Module (A)",
+    "Group": "Powerful Exocraft Boost Upgrade",
+    "Description": "An extremely powerful upgrade for the Exocraft Acceleration Module. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves boost tank capacity and boost power.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade102",
+    "Name": "Exocraft Boost Module (S)",
+    "Group": "Supreme Exocraft Boost Upgrade",
+    "Description": "A supremely powerful upgrade for the Exocraft Acceleration Module. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves boost tank capacity and boost power.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade103",
+    "Name": "Exocraft Engine Module (C)",
+    "Group": "Exocraft Engine Upgrade",
+    "Description": "A moderate upgrade for the Exocraft Engine. Use FE_ALT1 to begin upgrade installation process.\n\nImproves fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade104",
+    "Name": "Exocraft Engine Module (B)",
+    "Group": "Significant Exocraft Engine Upgrade",
+    "Description": "A significant upgrade for the Exocraft Engine. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade105",
+    "Name": "Exocraft Engine Module (A)",
+    "Group": "Powerful Exocraft Engine Upgrade",
+    "Description": "An extremely powerful upgrade for the Exocraft Engine. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade106",
+    "Name": "Exocraft Engine Module (S)",
+    "Group": "Supreme Exocraft Engine Upgrade",
+    "Description": "A supremely powerful upgrade for the Exocraft Engine. Use FE_ALT1 to begin upgrade installation process.\n\nDramatically improves fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade107",
+    "Name": "Humboldt Drive Module (C)",
+    "Group": "Submarine Drive Upgrade",
+    "Description": "A moderate upgrade for the Humboldt Drive. Use FE_ALT1 to begin upgrade installation process.\n\nCan improve acceleration, fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade108",
+    "Name": "Humboldt Drive Module (B)",
+    "Group": "Significant Submarine Drive Upgrade",
+    "Description": "A significant upgrade for the Humboldt Drive. Use FE_ALT1 to begin upgrade installation process.\n\nCan significantly improve acceleration, fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade109",
+    "Name": "Humboldt Drive Module (A)",
+    "Group": "Powerful Submarine Drive Upgrade",
+    "Description": "An extremely powerful upgrade for the Humboldt Drive. Use FE_ALT1 to begin upgrade installation process.\n\nCan dramatically improve acceleration, fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade110",
+    "Name": "Humboldt Drive Module (S)",
+    "Group": "Supreme Submarine Drive Upgrade",
+    "Description": "A supremely powerful upgrade for the Humboldt Drive. Use FE_ALT1 to begin upgrade installation process.\n\nCan dramatically improve acceleration, fuel efficiency and top speed.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade111",
+    "Name": "Nautilon Cannon Module (C)",
+    "Group": "Nautilon Cannon Upgrade",
+    "Description": "A moderate upgrade for the Nautilon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nCan improve damage and fire rate.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade112",
+    "Name": "Nautilon Cannon Module (B)",
+    "Group": "Significant Nautilon Cannon Upgrade",
+    "Description": "A significant upgrade for the Nautilon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nCan significantly improve damage and fire rate.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade113",
+    "Name": "Nautilon Cannon Module (A)",
+    "Group": "Powerful Nautilon Cannon Upgrade",
+    "Description": "An extremely powerful upgrade for the Nautilon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nCan dramatically improve damage and fire rate.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade114",
+    "Name": "Nautilon Cannon Module (S)",
+    "Group": "Supreme Nautilon Cannon Upgrade",
+    "Description": "A supremely powerful upgrade for the Nautilon Cannon. Use FE_ALT1 to begin upgrade installation process.\n\nCan dramatically improve damage and fire rate.",
+    "Additional": ""
+  }
+]

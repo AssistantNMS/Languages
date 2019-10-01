@@ -1,492 +1,410 @@
 [
   {
     "Id": "prod1",
-    "Icon": "products/1.png",
     "Name": "Antimatter",
     "Group": "Crafted Technology Component",
-    "Description": "Contained negative matter and baryogenesis antiparticles.\nThe vast energy potential of antimatter makes it highly valuable. 95% of existing antimatter consumption is in the powering of starship hyperdrives.\nWARNING: uncontained usage is not recommended."
+    "Description": "Contained negative matter and baryogenesis antiparticles.\n \nThe vast energy potential of antimatter makes it highly valuable. 95% of existing antimatter consumption is in the powering of starship hyperdrives.\n\nWARNING: uncontained usage is not recommended."
   },
   {
     "Id": "prod2",
-    "Icon": "products/2.png",
     "Name": "Antimatter Housing",
     "Group": "Crafted Technology Component",
-    "Description": "Secure antimatter containment device, required before Antimatter can be safely secured as Warp Cells.\nRebound Oxygen forms a protective gas pocket, preventing the antimatter from reacting with the surrounding casing."
+    "Description": "Secure antimatter containment device, required before Antimatter can be safely secured as Warp Cells.\n\nRebound Oxygen forms a protective gas pocket, preventing the antimatter from reacting with the surrounding casing."
   },
   {
     "Id": "prod3",
-    "Icon": "products/3.png",
     "Name": "Carbon Nanotubes",
     "Group": "Crafted Technology Component",
-    "Description": "Metres and metres of high capacity carbon nanotubes.\nTheir high tensile strength and mild conductivity make these a key component in many advanced technologies."
+    "Description": "Metres and metres of high capacity carbon nanotubes.\n\nTheir high tensile strength and mild conductivity make these a key component in many advanced technologies."
   },
   {
     "Id": "prod4",
-    "Icon": "products/4.png",
     "Name": "Cobalt Mirror",
     "Group": "Crafted Technology Component",
-    "Description": "A specialist optical component.\nEmploying a polished cobalt surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields."
+    "Description": "A specialist optical component.\n\nEmploying a polished cobalt surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields."
   },
   {
     "Id": "prod5",
-    "Icon": "products/5.png",
     "Name": "Hermetic Seal",
     "Group": "Crafted Technology Component",
-    "Description": "A high-performance carbon seal, able to withstand both the harsh interstellar environment and the rigours of intensive, high-energy industrial use.\nUser is advised to regularly check seal integrity after installation."
+    "Description": "A high-performance carbon seal, able to withstand both the harsh interstellar environment and the rigours of intensive, high-energy industrial use.\n\nUser is advised to regularly check seal integrity after installation."
   },
   {
     "Id": "prod6",
-    "Icon": "products/6.png",
     "Name": "Metal Plating",
     "Group": "Crafted Technology Component",
-    "Description": "A lightweight metal product, heavily used in the manufacture of starship parts and deployable technology. A mainstay of the construction industries of all known primary species.\nCrafted from Ferrite Dust."
+    "Description": "A lightweight metal product, heavily used in the manufacture of starship parts and deployable technology. A mainstay of the construction industries of all known primary species.\n\nCrafted from Ferrite Dust."
   },
   {
     "Id": "prod7",
-    "Icon": "products/7.png",
     "Name": "Microprocessor",
     "Group": "Crafted Technology Component",
-    "Description": "A compact, low-heat microchip. Assembled from processed Chromatic Metal, created from one of several specialised terrain metals.\nUsed in the creation of a wide range of advanced technologies."
+    "Description": "A compact, low-heat microchip. Assembled from processed Chromatic Metal, created from one of several specialised terrain metals.\n\nUsed in the creation of a wide range of advanced technologies."
   },
   {
     "Id": "prod8",
-    "Icon": "products/8.png",
     "Name": "Oxygen Filter",
     "Group": "Crafted Technology Component",
-    "Description": "A specialist technology component.\nThis small device can rapidly change the gaseous environment within a device, handling conditions from total vacuum to pure oxygen atmospheres."
+    "Description": "A specialist technology component.\n\nThis small device can rapidly change the gaseous environment within a device, handling conditions from total vacuum to pure oxygen atmospheres."
   },
   {
     "Id": "prod9",
-    "Icon": "products/9.png",
     "Name": "Salt Refractor",
     "Group": "Crafted Technology Component",
-    "Description": "A specialist technology component, vital to the complex internals of modern laser systems. \nThis light-scattering device takes advantage of the unique optical properties of stabilised and polished salt, to both slow and refract passing photons."
+    "Description": "A specialist technology component, vital to the complex internals of modern laser systems. \n\nThis light-scattering device takes advantage of the unique optical properties of stabilised and polished salt, to both slow and refract passing photons."
   },
   {
     "Id": "prod10",
-    "Icon": "products/10.png",
     "Name": "Sodium Diode",
     "Group": "Crafted Technology Component",
-    "Description": "An advanced circuit component.\nThe refined sodium electrode within its vacuum tube gives this diode specialist surge-protection capabilities."
+    "Description": "An advanced circuit component.\n\nThe refined sodium electrode within its vacuum tube gives this diode specialist surge-protection capabilities."
   },
   {
     "Id": "prod11",
-    "Icon": "products/11.png",
     "Name": "Di-hydrogen Jelly",
     "Group": "Portable Life Support Power",
-    "Description": "A faintly-glowing jelly. Its gentle light and soft wobble belie the fact that this sticky gel is both highly toxic and highly flammable. Skin contact is to be avoided at all costs.\nSynthesised from Di-hydrogen."
+    "Description": "A faintly-glowing jelly. Its gentle light and soft wobble belie the fact that this sticky gel is both highly toxic and highly flammable. Skin contact is to be avoided at all costs.\n\nSynthesised from Di-hydrogen."
   },
   {
     "Id": "prod12",
-    "Icon": "products/12.png",
     "Name": "Fuel Oxidiser",
     "Group": "Consumable Frigate Upgrade",
-    "Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel."
+    "Description": "A temporary frigate upgrade that lasts for one expedition.\n\nThis powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel."
   },
   {
     "Id": "prod13",
-    "Icon": "products/13.png",
     "Name": "Explosive Drones",
     "Group": "Consumable Frigate Upgrade",
-    "Description": "A temporary frigate upgrade that lasts for one expedition.\nThis pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous."
+    "Description": "A temporary frigate upgrade that lasts for one expedition.\n\nThis pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous."
   },
   {
     "Id": "prod14",
-    "Icon": "products/14.png",
     "Name": "Holographic Analyser",
     "Group": "Consumable Frigate Upgrade",
-    "Description": "A temporary frigate upgrade that lasts for one expedition.\nThis powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long."
+    "Description": "A temporary frigate upgrade that lasts for one expedition.\n\nThis powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long."
   },
   {
     "Id": "prod15",
-    "Icon": "products/15.png",
     "Name": "Mind Control Device",
     "Group": "Consumable Frigate Upgrade",
-    "Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation."
+    "Description": "A temporary frigate upgrade that lasts for one expedition.\n\nThe mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation."
   },
   {
     "Id": "prod16",
-    "Icon": "products/16.png",
     "Name": "Mineral Compressor",
     "Group": "Consumable Frigate Upgrade",
-    "Description": "A temporary frigate upgrade that lasts for one expedition.\nThe mineral compressor allows fleet mining crews to liquidise the substances they extract, for both faster processing and easier transportation."
+    "Description": "A temporary frigate upgrade that lasts for one expedition.\n\nThe mineral compressor allows fleet mining crews to liquidise the substances they extract, for both faster processing and easier transportation."
   },
   {
     "Id": "prod17",
-    "Icon": "products/17.png",
     "Name": "Warp Cell",
     "Group": "Hyperdrive Charging Unit",
-    "Description": "This antimatter-based fuel is one of the few power sources capable of meeting the incredible energy requirements of a starship hyperdrive.\nSecured within a robust housing, the cell is guarenteed paradox-free during FTL travel."
+    "Description": "This antimatter-based fuel is one of the few power sources capable of meeting the incredible energy requirements of a starship hyperdrive.\n\nSecured within a robust housing, the cell is guarenteed paradox-free during FTL travel."
   },
   {
     "Id": "prod18",
-    "Icon": "products/18.png",
     "Name": "Warp Hypercore",
     "Group": "Hyperdrive Charging Unit",
-    "Description": "A high-capacity antimatter-based fuel, this cell harnesses an internal black hole generator to power starship hyperdrives across multiple warp jumps.\nCell walls are specially designed to reflect any reality paradoxes back towards the heart of the unit, where they generate additional power."
+    "Description": "A high-capacity antimatter-based fuel, this cell harnesses an internal black hole generator to power starship hyperdrives across multiple warp jumps.\n\nCell walls are specially designed to reflect any reality paradoxes back towards the heart of the unit, where they generate additional power."
   },
   {
     "Id": "prod19",
-    "Icon": "products/19.png",
     "Name": "Unstable Plasma",
     "Group": "Plasma Launcher Recharge",
-    "Description": "Densely-packed fuel capsule for use in the Plasma Launcher.\nContained highly-pressurised electro-thermal energy for use in land disruption grenade technology."
+    "Description": "Densely-packed fuel capsule for use in the Plasma Launcher.\n \nContained highly-pressurised electro-thermal energy for use in land disruption grenade technology."
   },
   {
     "Id": "prod20",
-    "Icon": "products/20.png",
     "Name": "Ion Battery",
     "Group": "Portable Energy Storage",
-    "Description": "Convenient and optimised power storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed by fusing Ferrite Dust with underground Cobalt. Frequently found ready-made in cylindrical metal containers."
+    "Description": "Convenient and optimised power storage unit. Used in a wide variety of defensive and hazard protection systems.\n \nConstructed by fusing Ferrite Dust with underground Cobalt. Frequently found ready-made in cylindrical metal containers."
   },
   {
     "Id": "prod21",
-    "Icon": "products/21.png",
     "Name": "Advanced Ion Battery",
     "Group": "Portable Energy Storage",
-    "Description": "Powerful energy storage unit. Used in a wide variety of defensive and hazard protection systems.\nConstructed from Ionised Cobalt and Pure Ferrite, and occasionally found in cylindrical metal containers."
+    "Description": "Powerful energy storage unit. Used in a wide variety of defensive and hazard protection systems.\n\nConstructed from Ionised Cobalt and Pure Ferrite, and occasionally found in cylindrical metal containers."
   },
   {
     "Id": "prod22",
-    "Icon": "products/22.png",
     "Name": "Starshield Battery",
     "Group": "Portable Energy Storage",
-    "Description": "A power storage unit optimised for use in starship defensive systems.\nTritium-fuelled capacitors provide quick-release charge for the Deflector Shield, but would overload smaller-scale equipment."
+    "Description": "A power storage unit optimised for use in starship defensive systems.\n \nTritium-fuelled capacitors provide quick-release charge for the Deflector Shield, but would overload smaller-scale equipment."
   },
   {
     "Id": "prod23",
-    "Icon": "products/23.png",
     "Name": "Life Support Gel",
     "Group": "Portable Life Support Power",
-    "Description": "Emergency life support fuel.\nSynthesised from rocket fuel crystals and carbon, this gel offers a temporary boost to Life Support systems. Long-term impact on a user's lungs is currently unknown."
+    "Description": "Emergency life support fuel.\n\nSynthesised from rocket fuel crystals and carbon, this gel offers a temporary boost to life support systems. Long-term impact on user's lungs is currently unknown."
   },
   {
     "Id": "prod24",
-    "Icon": "products/24.png",
     "Name": "Oxygen Capsule",
     "Group": "Portable Life Support Power",
-    "Description": "Stabilised and secure life support filtration gas.\nEasily assembled form Oxygen and Ferrite Dust. Offers an efficient method for long-term live support power."
+    "Description": "Stablised and secure life support filtration gas.\n\nEasily assembled from Oxygen and Ferrite Dust. Offers an efficient method for long-term life support power."
   },
   {
     "Id": "prod25",
-    "Icon": "products/25.png",
     "Name": "Frigate Fuel (50 Tonnes)",
     "Group": "Stabilised Di-hydrogen Fuel",
-    "Description": "A small barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
+    "Description": "A small barrel of frigate fuel.\n\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
   },
   {
     "Id": "prod26",
-    "Icon": "products/26.png",
     "Name": "Frigate Fuel (100 Tonnes)",
     "Group": "Stabilised Di-hydrogen Fuel",
-    "Description": "A large barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
+    "Description": "A large barrel of frigate fuel.\n\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
   },
   {
     "Id": "prod27",
-    "Icon": "products/27.png",
     "Name": "Frigate Fuel (200 Tonnes)",
     "Group": "Stabilised Di-hydrogen Fuel",
-    "Description": "A huge barrel of frigate fuel.\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
+    "Description": "A huge barrel of frigate fuel.\n\nThis viscous gel is highly toxic to the touch. A refined fuel, it powers the interstellar engines of large trading ships."
   },
   {
     "Id": "prod28",
-    "Icon": "products/28.png",
     "Name": "Starship Launch Fuel",
     "Group": "Stabilised Di-hydrogen Fuel",
-    "Description": "Highly reactive solid-state fuel, required to fuel Starship Launch Thrusters.\nCreated from crystaline Di-hydrogen, found in blue deposits on all worlds."
+    "Description": "Highly reactive solid-state fuel, required to fuel Starship Launch Thrusters.\n\nCreated from crystallised Di-hydrogen, found in blue deposits on all worlds."
   },
   {
     "Id": "prod29",
-    "Icon": "products/29.png",
     "Name": "Hydrothermal Fuel Cell",
     "Group": "Submarine Reactor Fuel",
-    "Description": "A high thermal energy fuel, contained within a standardised fuel cell. Used to fuel the Humboldt Drive that powers the Nautilon submarine.\nCreated with a mix of organic compounds (Carbon and cyto-phosphates) and localised mineral salts."
+    "Description": "A high thermal energy fuel, contained within a standardised fuel cell. Used to fuel the Humboldt Drive that powers the Nautilon submarine.\n\nCreated with a mix of organic compounds (Carbon and cyto-phosphates) and localised mineral salts."
   },
   {
     "Id": "prod30",
-    "Icon": "products/30.png",
     "Name": "Projectile Ammunition",
     "Group": "Universal Ammo Module",
-    "Description": "Advanced munition fragments, constructed to fit Universal Multi-Tool Standard 07/FF1.\nEasily inserted into the Boltcaster, Pulse Spitter and Scatter Blaster via the Multi-Tool clip reloading system."
+    "Description": "Advanced munition fragments, constructed to fit Universal Multi-Tool Standard 07/FF1.\n\nEasily inserted into the Boltcaster, Pulse Spitter and Scatter Blaster via the Multi-Tool clip reloading system."
   },
   {
     "Id": "prod31",
-    "Icon": "products/31.png",
     "Name": "Carbon Crystal",
     "Group": "Concentrated Carbon Deposit",
-    "Description": "Hyper-compressed Carbon, this substance's dense nanostructure makes it highly valuable as both an energy source and technology component.\nSynthesised from Condensed Carbon."
+    "Description": "Hyper-compressed carbon, this substance's dense nanostructure makes it highly valuable as both an energy source and a technology component.\n\nSynthesised from Condensed Carbon."
   },
   {
     "Id": "prod32",
-    "Icon": "products/32.png",
     "Name": "Chloride Lattice",
     "Group": "Concentrated Chlorine Deposit",
-    "Description": "A tightly-bonded form of Chlorine. Rigidly-packed molecules offer unrivalled connectivity. Not known to form spontaneously: creation requires highly focused energy inputs.\nSynthesised from Chlorine."
+    "Description": "A tightly-bonded form of Chlorine. Rigidly-packed molecules offer unrivalled conductivity. Not known to form spontaneously: creation requires highly-focused energy inputs.\n\nSynthesised from Chlorine."
   },
   {
     "Id": "prod33",
-    "Icon": "products/33.png",
     "Name": "Destablised Sodium",
     "Group": "Concentrated Sodium Deposit",
-    "Description": "Sodium is typically highly stable, but certain configurations retain the reactivity of its component ions. User is advised to wear Hazardous Material Gauntlets before handling.\nSynthesised from Sodium."
+    "Description": "Sodium is typically highly stable, but certain configurations retain the reactivity of its component ions. User is advised to wear Hazardous Material Gauntlets before handling.\n\nSynthesised from Sodium."
   },
   {
     "Id": "prod34",
-    "Icon": "products/34.png",
     "Name": "Rare Metal Element",
     "Group": "Concentrated Metal Deposit",
-    "Description": "A highly-prized metal product, this rare element is used in the manufacture of several advanced technologies.\nMetal is highly reactive and quickly bonds to exposed skin. User is advised to handle with extreme caution.\nSynthesised from Magnetised Ferrite."
+    "Description": "A highly-prized metal product, this rare element is used in the manufacture of several advanced technologies.\n\nMetal is highly reactive and quickly bonds to exposed skin. User is advised to handle with extreme caution.\n\nSynthesised from Magnetised Ferrite."
   },
   {
     "Id": "prod35",
-    "Icon": "products/35.png",
     "Name": "Superoxide Crystal",
     "Group": "Concentrated Oxygen Deposit",
-    "Description": "A para-magnetic form of Oxygen, this rare substance has much to offer in the production of advanced technologies. Requires conversion prior to input into Life Support systems. Direct inhalation is NOT recommended.\nSynthesised from Oxygen."
+    "Description": "A para-magnetic form of Oxygen, this rare substance has much to offer in the production of advanced technologies. Requires conversion prior to input into Life Support systems. Direct inhalation is NOT recommended.\n\nSynthesised from Oxygen."
   },
   {
     "Id": "prod36",
-    "Icon": "products/36.png",
     "Name": "TetraCobalt",
     "Group": "Concentrated Cobalt Deposit",
-    "Description": "A novel molecular form of Cobalt, requiring very high energy levels to create. Natural occurrence is extremely rare.\nSynthesised from Ionised Cobalt."
+    "Description": "A novel molecular form of Cobalt, requiring very high energy levels to create. Natural occurrence is extremely rare.\n\nSynthesised from Ionised Cobalt."
   },
   {
     "Id": "prod49",
-    "Icon": "products/49.png",
     "Name": "Acid",
     "Group": "Advanced Agricultural Product",
-    "Description": "Dilute acid for high current generation in diverse power cells.\nCrafted from Mordite and Fungal Mould."
+    "Description": "Dilute acid for high current generation in diverse power cells.\n\nCrafted from Mordite and Fungal Mould."
   },
   {
     "Id": "prod51",
-    "Icon": "products/51.png",
     "Name": "Heat Capacitor",
     "Group": "Advanced Agricultural Product",
-    "Description": "A thermal regulator produced from refined organic material. It is unique in its ability to produce, dissipate and distribute heat as required."
+    "Description": "A thermal regulator produced from refined organic material. It is unique it its ability to produce, dissipate and distribute heat as required.\n\nCrafted from Solanium and Frost Crystals."
   },
   {
     "Id": "prod52",
-    "Icon": "products/52.png",
     "Name": "Poly Fibre",
     "Group": "Advanced Agricultural Product",
-    "Description": "A connective fibre for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data.\nCrafted from Cactus Flesh and Star Bulbs."
+    "Description": "A connective fibre for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data.\n\nCrafted from Cactus Flesh and Star Bulbs."
   },
   {
     "Id": "prod53",
-    "Icon": "products/53.png",
     "Name": "Circuit Board",
     "Group": "Advanced Agricultural Product",
-    "Description": "Stackable, semi-flexible circuit board made from a highly durable synthetic polymer.\nCrafted from Heat Capacitors and Poly Fibre."
+    "Description": "Stackable, semi-flexible circuit board made from a highly durable synthetic polymer.\n\nCrafted from Heat Capacitors and Poly Fibre."
   },
   {
     "Id": "prod54",
-    "Icon": "products/54.png",
     "Name": "Glass",
     "Group": "Advanced Agricultural Product",
-    "Description": "Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use.\nCrafted from Frost Crystals."
+    "Description": "Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use.\n\nRefined from Silicate powder. Extract silicate from the earth with a Terrain Manipulator.\n\nCan be crafted from Frost Crystals extracted from plants on frozen worlds."
   },
   {
     "Id": "prod55",
-    "Icon": "products/55.png",
     "Name": "Unstable Gel",
     "Group": "Advanced Agricultural Product",
-    "Description": "A highly reactive gel, this substance is both energy-rich and dangerous to touch.\nCrafted from Cactus Flesh."
+    "Description": "A highly reactive gel, this substance is both energy-rich and dangerous to touch.\n\nCrafted from Cactus Flesh."
   },
   {
     "Id": "prod56",
-    "Icon": "products/56.png",
     "Name": "Liquid Explosive",
     "Group": "Advanced Agricultural Product",
-    "Description": "A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink."
+    "Description": "A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink.\n\nCrafted from Acid and Unstable Gel."
   },
   {
     "Id": "prod57",
-    "Icon": "products/57.png",
     "Name": "Lubricant",
     "Group": "Advanced Agricultural Product",
-    "Description": "A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts.\nCrafted from Coprite and Gamma Root."
+    "Description": "A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts.\n\nCrafted from Faecium and Gamma Root."
   },
   {
     "Id": "prod58",
-    "Icon": "products/58.png",
     "Name": "Living Glass",
     "Group": "Advanced Agricultural Product",
-    "Description": "An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required."
+    "Description": "An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required.\n\nCrafted from Lubricant and Glass."
   },
   {
     "Id": "prod59",
-    "Icon": "products/59.png",
     "Name": "Enriched Carbon",
     "Group": "Enhanced Gas Product",
-    "Description": "A refined product, taking ordinary carbon and boosting it with radioactive energy.\nCrafted from Radon and Condensed Carbon."
+    "Description": "A refined product, taking ordinary carbon and boosting it with radioactive energy.\n\nCrafted from Radon and Condensed Carbon."
   },
   {
     "Id": "prod60",
-    "Icon": "products/60.png",
     "Name": "Nitrogen Salt",
     "Group": "Enhanced Gas Product",
-    "Description": "A refined product, this is a powerful organic fertiliser in an easily distributed form.\nCrafted from Nitrogen and Condensed Carbon."
+    "Description": "A refined product, this is a powerful organic fertiliser in an easily distributed form.\n\nCrafted from Nitrogen and Condensed Carbon."
   },
   {
     "Id": "prod61",
-    "Icon": "products/61.png",
     "Name": "Thermic Condensate",
     "Group": "Enhanced Gas Product",
-    "Description": "A refined product, holding the energy potential of heated atmospheric gas in a stable state until required. \nCrafted from Sulphurine and Condensed Carbon."
+    "Description": "A refined product, holding the energy potential of heated atmospheric gas in a stable state until required.\n\nCrafted from Sulphurine and Condensed Carbon."
   },
   {
     "Id": "prod62",
-    "Icon": "products/62.png",
     "Name": "Hot Ice",
     "Group": "Manufactured Gas Product",
-    "Description": "A paradoxical material, made less mysterious by its relative ease of manufacture.\nCrafted from Enriched Carbon and Nitrogen Salt."
+    "Description": "A paradoxical material, made less mysterious by its relative ease of manufacture.\n\nCrafted from Enriched Carbon and Nitrogen Salt."
   },
   {
     "Id": "prod63",
-    "Icon": "products/63.png",
     "Name": "Cryo-Pump",
     "Group": "Manufactured Gas Product",
-    "Description": "An advanced, self-regulating hybrid material, the Cryo-Pump distributes heat across itself with near perfect efficiency, making it vital in the creation of thermal regulators.\nCrafted from Hot Ice and Thermic Condensate."
+    "Description": "An advanced, self-regulating hybrid material, the Cryo-Pump distributes heat across itself with near perfect efficiency, making it vital in the creation of thermal regulators.\n\nCrafted from Hot Ice and Thermic Condensate"
   },
   {
     "Id": "prod64",
-    "Icon": "products/64.png",
     "Name": "Semiconductor",
     "Group": "Manufactured Gas Product",
-    "Description": "An advanced material useful in many electronic devices, with its own in-built temperature regulator.\nCrafted from Thermic Condensate and Nitrogen Salt."
+    "Description": "An advanced material useful in many electronic devices, with its own in-built temperature regulator.\n\nCrafted from Thermic Condensate and Nitrogen Salt."
   },
   {
     "Id": "prod65",
-    "Icon": "products/65.png",
     "Name": "Organic Catalyst",
     "Group": "Manufactured Gas Product",
-    "Description": "A catalytic material used in the creation of many organic fertilizers.\nCrafted from Thermic Condensate and Enriched Carbon."
+    "Description": "A catalytic material used in the creation of many organic fertilisers.\n\nCrafted from Thermic Condensate and Enriched Carbon."
   },
   {
     "Id": "prod66",
-    "Icon": "products/66.png",
     "Name": "Superconductor",
     "Group": "Manufactured Gas Product",
-    "Description": "An advanced conductive material, the superconductor further enriches the field-warping power of the Semiconductor.\nCrafted from Enriched Carbon and Semiconductors."
+    "Description": "An advanced conductive material, the superconductor further enriches the field-warping power of the Semiconductor.\n\nCrafted from Enriched Carbon and Semiconductors."
   },
   {
     "Id": "prod67",
-    "Icon": "products/67.png",
     "Name": "Fusion Accelerant",
     "Group": "Manufactured Gas Product",
-    "Description": "An advanced fuel source, made from a perfect blend of high potential energy organic materials.\nCrafted from Organic Catalyst and Nitrogen Salt."
+    "Description": "An advanced fuel source, made from a perfect blend of high potential energy organic materials.\n\nCrafted from Organic Catalyst and Nitrogen Salt."
   },
   {
     "Id": "prod68",
-    "Icon": "products/68.png",
     "Name": "Cryogenic Chamber",
     "Group": "Advanced Crafted Product",
-    "Description": "A low temperature chamber, designed to prevent the natural decay of organic matter.\nCrafted from Living Glass and a Cryo-Pump."
+    "Description": "A low temperature chamber, designed to prevent the natural decay of organic matter.\n\nCrafted from Living Glass and a Cryo-Pump."
   },
   {
     "Id": "prod69",
-    "Icon": "products/69.png",
     "Name": "Portable Reactor",
     "Group": "Advanced Crafted Product",
-    "Description": "A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module.\nCrafted from Liquid Explosives and Fusion Accelerant."
+    "Description": "A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module.\n\nCrafted from Liquid Explosives and Fusion Accelerant."
   },
   {
     "Id": "prod70",
-    "Icon": "products/70.png",
     "Name": "Quantum Processor",
     "Group": "Advanced Crafted Product",
-    "Description": "A highly advanced computational device, essential for the complex calculations involved in warp travel.\nCrafted from Circuit Boards and Superconductors."
+    "Description": "A highly advanced computational device, essential for the complex calculations involved in warp travel.\n\nCrafted from Circuit Boards and Superconductors."
   },
   {
     "Id": "prod71",
-    "Icon": "products/71.png",
     "Name": "Aronium",
     "Group": "Alloy Metal",
-    "Description": "A lightweight and highly malleable alloy. Crafted from Paraffinium and Chlorine.\nIn high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities."
+    "Description": "A lightweight and highly malleable alloy. Crafted from Paraffinium and Chlorine.\n\nIn high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities."
   },
   {
     "Id": "prod72",
-    "Icon": "products/72.png",
     "Name": "Dirty Bronze",
     "Group": "Alloy Metal",
-    "Description": "A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favor of the popular term for its colour."
+    "Description": "A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favour of the popular term for its colour.\n\nCrafted from Pure Ferrite and Pyrite."
   },
   {
     "Id": "prod73",
-    "Icon": "products/73.png",
     "Name": "Grantine",
     "Group": "Alloy Metal",
-    "Description": "Soft workable alloy favored by artisans throughout the known galaxy. \nA popular trading good, with many galactic shipping paths devoted to its sale and transport."
+    "Description": "Soft workable alloy favoured by artisans throughout the known galaxy. Crafted from Ionised Cobalt and Dioxite.\n\nA popular trading good, with many galactic shipping paths devoted to its sale and transport."
   },
   {
     "Id": "prod74",
-    "Icon": "products/74.png",
     "Name": "Herox",
     "Group": "Alloy Metal",
-    "Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Chlorine and Ammonia.\nForms the backbone of galactic alloy trading."
+    "Description": "Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from Chlorine and Ammonia.\n\nForms the backbone of galactic alloy trading."
   },
   {
     "Id": "prod75",
-    "Icon": "products/75.png",
     "Name": "Magno-Gold",
     "Group": "Alloy Metal",
-    "Description": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from Ionised Cobalt and Phosphorus.\nEasily recognisable by its bright red glow and strong magnetic field."
+    "Description": "Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from Ionised Cobalt and Phosphorus.\n\nEasily recognisable by its bright red glow and strong magnetic field."
   },
   {
     "Id": "prod76",
-    "Icon": "products/76.png",
     "Name": "Lemmium",
     "Group": "Alloy Metal",
-    "Description": "Pure Ferrite alloy. Crafted from Pure Ferrite and Uranium. \nUsed extensively in starship freighter construction due to its sheer strength. A hardcore material popular on the Galactic Trade Network."
+    "Description": "Pure Ferrite alloy. Crafted from Pure Ferrite and Uranium.\n\nUsed extensively in starship freighter construction due to its sheer strength. A hardcore material popular on the Galactic Trade Network."
   },
   {
     "Id": "prod77",
-    "Icon": "products/77.png",
     "Name": "Geodesite",
     "Group": "Enriched Alloy Metal",
-    "Description": "Geodesite is a trade item that is used for crafting."
+    "Description": "Advanced and durable alloy primarily used in starship hull construction and deep-space exploration drone technology.\n\nCrafted from Herox, Dirty Bronze and Lemmium."
   },
   {
     "Id": "prod78",
-    "Icon": "products/78.png",
     "Name": "Iridesite",
     "Group": "Enriched Alloy Metal",
-    "Description": "Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields.\nCrafted from Aronium, Magno-Gold and Grantine."
+    "Description": "Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields.\n\nCrafted from Aronium, Magno-Gold and Grantine."
   },
   {
     "Id": "prod79",
-    "Icon": "products/79.png",
     "Name": "Fusion Ignitor",
     "Group": "Highly Refined Technology",
-    "Description": "A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes.\nCrafted from Portable Reactor, Quantum Processors, and Geodesite."
+    "Description": "A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes.\n\nCrafted from Portable Reactor, Quantum Processors and Geodesite."
   },
   {
     "Id": "prod80",
-    "Icon": "products/80.png",
     "Name": "Stasis Device",
     "Group": "Highly Refined Technology",
-    "Description": "A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous.\nCrafted from Quantum Processors, Cryogenic Chambers, and Iridesite."
+    "Description": "A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous.\n\nCrafted from Quantum Processors, Cryogenic Chambers, and Iridesite."
   },
   {
     "Id": "prod81",
-    "Icon": "products/81.png",
-    "Name": "Crystal Sulphide",
-    "Group": "Compressed Mineral",
-    "Description": "Formed in the incredible, high-pressure furnace of planetary cores, these rich mineral deposits have an almost glass-like quality.\nHas a wide variety of industrial uses, taking advantage of both its mineral content and its extreme strength under pressure."
-  },
-  {
-    "Id": "prod82",
-    "Icon": "products/82.png",
     "Name": "Wiring Loom",
     "Group": "Universal Technology Platform",
-    "Description": "A prefabricated circuit board, designed for flexible use in a large range of technology components.\nThe module features an integrated nanite processor, allowing it to be quickly configured for a wide variety of uses."
-  },
-  {
-    "Id": "prod83",
-    "Icon": "products/83.png",
-    "Name": "Star Silk",
-    "Group": "Trade Commodity",
-    "Description": "Several spools of star silk.\nStar silk is woven on enormous solar looms in orbit around trading planets. Cosmic ray impact triggers the pattern of the weave, which can then be used in advanced material processing."
+    "Description": "A prefabricated circuit board, designed for flexible use in a large range of technology components.\n\nThe module features an integrated nanite processor, allowing it to be quickly configured for a wide variety of uses."
   }
 ]
