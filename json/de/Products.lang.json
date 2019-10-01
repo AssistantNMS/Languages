@@ -1,492 +1,410 @@
 [
 	{
 		"Id": "prod1",
-		"Icon": "products/1.png",
 		"Name": "Antimaterie",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Enthält negative Materie und baryogenetische Antiteilchen.\nDas gewaltige Energiepotenzial der Antimaterie macht sie so wertvoll. 95% der vorhandenen Antimaterie werden für Raumschiff-Hyperantriebe verbraucht.\nWARNUNG: Die unkontrollierte Verwendung wird nicht empfohlen.\n"
 	},
 	{
 		"Id": "prod2",
-		"Icon": "products/2.png",
 		"Name": "Antimaterie-Gehäuse",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Antimaterie-Sicherheitsbehälter, der benötigt wird, bevor die Antimaterie gefahrlos zu Warp-Zellen verarbeitet werden kann.\nRückfedernder Sauerstoff bildet eine schützende Gasschicht, die die Antimaterie daran hindert, mit dem umliegenden Gehäuse zu reagieren.\n"
 	},
 	{
 		"Id": "prod3",
-		"Icon": "products/3.png",
 		"Name": "Kohlenstoff-Nanorohr",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Viele Meter an Hochleistungs-Kohlenstoff-Nanoröhren.\nIhre hohe Dehnbarkeit und schwache Leitfähigkeit machen sie zu Schlüsselkomponenten in vielen fortschrittlichen Technologien.\n"
 	},
 	{
 		"Id": "prod4",
-		"Icon": "products/4.png",
 		"Name": "Kobalt-Spiegel",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Eine spezielle optische Komponente.\nMithilfe einer polierten Kobalt-Oberfläche kann dieser Spiegel verschiedene Lichtwellenlängen herausfiltern. Dadurch verändern sich die Reflexionsmuster abhängig von nahe gelegenen Magnetfeldern.\n"
 	},
 	{
 		"Id": "prod5",
-		"Icon": "products/5.png",
 		"Name": "Hermetisches Siegel",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Ein leistungsstarkes Kohlenstoffsiegel, das sowohl der rauen interstellaren Umgebung widersteht als auch den harten Bedingungen von intensivem Betrieb bei hoher Energiemenge.\nDem Benutzer wird empfohlen, die Unversehrtheit des Siegels nach der Einrichtung regelmäßig zu überprüfen.\n"
 	},
 	{
 		"Id": "prod6",
-		"Icon": "products/6.png",
 		"Name": "Metallplatten",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Ein leichtes Metallprodukt, das häufig bei der Herstellung von Raumschiffteilen und beweglicher Technologie verwendet wird. Eine tragende Säule der Bauindustrien aller bekannten wichtigen Spezies.\nHergestellt aus Ferritstaub.\n"
 	},
 	{
 		"Id": "prod7",
-		"Icon": "products/7.png",
 		"Name": "Mikroprozessor",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Ein kompakter Mikrochip mit geringer Wärmeerzeugung. Hergestellt aus verarbeitetem chromatischem Metall, das aus einem von mehreren spezialisierten Terrain-Metallen erzeugt wurde.\nWird bei der Herstellung einer Vielzahl fortschrittlicher Technologien verwendet.\n"
 	},
 	{
 		"Id": "prod8",
-		"Icon": "products/8.png",
 		"Name": "Sauerstofffilter",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Eine spezielle Technologiekomponente.\nDieses kleine Gerät kann die Gasumgebung innerhalb anderer Geräte schnell verändern. Dadurch können sowohl absolute Vakuen als auch reine Sauerstoffatmosphären erzeugt werden.\n"
 	},
 	{
 		"Id": "prod9",
-		"Icon": "products/9.png",
 		"Name": "Salz-Refraktor",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Eine spezielle Technologiekomponente, die für moderne Lasersysteme unerlässlich ist.\nDieses lichtbrechende Gerät macht sich die einzigartigen optischen Eigenschaften von stabilisiertem und poliertem Salz zunutze, um Photonen zu verlangsamen und abzulenken.\n"
 	},
 	{
 		"Id": "prod10",
-		"Icon": "products/10.png",
 		"Name": "Natrium-Diode",
 		"Group": "Hergestellte Technologiekomponente",
 		"Description": "Eine fortschrittliche Schaltkreiskomponente.\nDie weiterentwickelte Natrium-Elektrode verleiht dieser Diode innerhalb ihrer Vakuumröhre einen besonderen Überspannungsschutz.\n"
 	},
 	{
 		"Id": "prod11",
-		"Icon": "products/11.png",
 		"Name": "Diwasserstoff-Gelee",
 		"Group": "Tragbare Lebenserhaltungssystem-Energie",
 		"Description": "Ein schwach leuchtendes Gelee. Das schwache Licht und das weiche Wabbeln täuschen darüber hinweg, dass dieses klebrige Gel hochgiftig und leicht entflammbar ist. Kontakt mit der Haut sollte vermieden werden.\nWird aus Diwasserstoff synthetisiert.\n"
 	},
 	{
 		"Id": "prod12",
-		"Icon": "products/12.png",
 		"Name": "Treibstoff-Oxidant",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
 		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDieses mächtige Treibstoff-Upgrade überlastet die Fregattenantriebe für ein schnelleres Reisen.\n"
 	},
 	{
 		"Id": "prod13",
-		"Icon": "products/13.png",
 		"Name": "Sprengdrohnen",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
 		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDiese autonomen Sprengstoffe wurden so programmiert, dass sie nach dem Abschuss von der Flotte aus direkt auf feindliche Schiffe zusteuern. Äußerst gefährlich.\n"
 	},
 	{
 		"Id": "prod14",
-		"Icon": "products/14.png",
 		"Name": "Holografischer Analysator",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
 		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDieser mächtige Analysecomputer übertaktet die Flottensysteme, was Berechnungen schneller als Lichtgeschwindigkeit ermöglicht. Hitze ist ein Problem und die Chips funktionieren nur kurz.\n"
 	},
 	{
 		"Id": "prod15",
-		"Icon": "products/15.png",
 		"Name": "Gedankenkontrollgerät",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
 		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDas Gedankenkontrollgerät verbindet sich mit den Handels- und Kommunikationssystemen des Schiffs, wodurch der Flottenkommandant bei Verhandlungen die Oberhand gewinnt.\n"
 	},
 	{
 		"Id": "prod16",
-		"Icon": "products/16.png",
 		"Name": "Mineralkompressor",
 		"Group": "Verbrauchbares Fregatten-Upgrade",
 		"Description": "Ein temporäres Fregatten-Upgrade für die Dauer einer Expedition.\nDer Mineralkompressor kann abgebaute Substanzen verflüssigen, was eine schnellere Verarbeitung und einen einfacheren Transport ermöglicht.\n"
 	},
 	{
 		"Id": "prod17",
-		"Icon": "products/17.png",
 		"Name": "Warp-Zelle",
 		"Group": "Einheit zum Aufladen der Hyperantriebs",
 		"Description": "Dieser auf Antimaterie basierende Treibstoff gehört zu den wenigen Energiequellen, die den enormen Energiebedarf des Hyperantriebs eines Raumschiffs decken können. \nDer Kern wird innerhalb eines robusten Gehäuses aufbewahrt und kann während des Reisens mit Hyperlichtgeschwindigkeit kein Paradoxon verursachen.\n"
 	},
 	{
 		"Id": "prod18",
-		"Icon": "products/18.png",
 		"Name": "Warp-Hyperkern",
 		"Group": "Einheit zum Aufladen der Hyperantriebs",
 		"Description": "Ein Hochleistungstreibstoff auf Antimaterie-Basis. Diese Zelle nutzt einen internen \"Schwarzes Loch\"-Generator, um Raumschiff-Hyperantriebe mit genügend Energie für mehrere Warp-Sprünge zu versorgen. \nDie Zellenwände sind darauf ausgelegt, sämtliche Realitätsparadoxe auf das Herz der Einheit zu reflektieren, um so noch mehr Energie zu erzeugen.\n"
 	},
 	{
 		"Id": "prod19",
-		"Icon": "products/19.png",
 		"Name": "Instabiles Plasma",
 		"Group": "Aufladung für den Plasmawerfer",
 		"Description": "Verdichtete Treibstoffkapsel für den Plasmawerfer.\nEnthält unter großem Druck stehende elektrothermische Energie, die bei Landdisruptor-Granaten zum Einsatz kommt.\n"
 	},
 	{
 		"Id": "prod20",
-		"Icon": "products/20.png",
 		"Name": "Ionenakku",
 		"Group": "Tragbarer Energiespeicher",
 		"Description": "Ein praktischer und optimierter Energiespeicher. Kommt in verschiedensten Defensiv- und Gefahrenschutzsystemen zum Einsatz.\nWird aus der Fusion von Ferritstaub mit unterirdischem Kobalt hergestellt. Häufig fertig gemischt in zylindrischen Metallbehältern zu finden.\n"
 	},
 	{
 		"Id": "prod21",
-		"Icon": "products/21.png",
 		"Name": "Fortschrittlicher Ionenakku",
 		"Group": "Tragbarer Energiespeicher",
 		"Description": "Leistungsstarke Energiespeicherungseinheit. Kommt in verschiedenen Defensiv- und Gefahrenschutzsystemen zum Einsatz.\nWird aus ionisiertem Kobalt und reinem Ferrit hergestellt und ist gelegentlich in zylindrischen Metallbehältern zu finden."
 	},
 	{
 		"Id": "prod22",
-		"Icon": "products/22.png",
 		"Name": "Sternenschildbatterie",
 		"Group": "Tragbarer Energiespeicher",
 		"Description": "Eine Energiespeichereinheit, die für den Einsatz in den Verteidigungssystemen von Raumschiffen optimiert wurde.\nKondensatoren, die mit Tritium betrieben werden, sorgen für eine schnelle Entladung des Deflektorschilds. Bei kleineren Geräten würde es damit zu einer Überladung kommen."
 	},
 	{
 		"Id": "prod23",
-		"Icon": "products/23.png",
 		"Name": "Lebenserhaltungsgel",
 		"Group": "Tragbare Lebenserhaltungssystem-Energie",
 		"Description": "Lebenserhaltungstreibstoff für Notfälle.\nDieses Gel wird aus Raketentreibstoffkristallen und Kohlenstoff synthetisiert und verstärkt vorübergehend die Lebenserhaltungssysteme. Die Langzeitauswirkungen auf die Lungen des Benutzers sind noch unklar."
 	},
 	{
 		"Id": "prod24",
-		"Icon": "products/24.png",
 		"Name": "Sauerstoffkapsel",
 		"Group": "Tragbare Lebenserhaltungssystem-Energie",
 		"Description": "Stabilisiertes und sicheres Lebenserhaltungssystem-Filtergas.\nProblemlose Herstellung aus Sauerstoff und Ferritstaub. Bietet eine effiziente Lösung für langfristige Lebenserhaltungssystem-Energie."
 	},
 	{
 		"Id": "prod25",
-		"Icon": "products/25.png",
 		"Name": "Fregattentreibstoff (50 Tonnen)",
 		"Group": "Stabilisierter Diwasserstoff-Treibstoff",
 		"Description": "Ein kleines Fass mit Fregattentreibstoff.\nDieses dickflüssige Gel ist bei Berührung hoch giftig. Ein raffinierter Treibstoff, der die interstellaren Motoren großer Handelsschiffe antreibt."
 	},
 	{
 		"Id": "prod26",
-		"Icon": "products/26.png",
 		"Name": "Fregattentreibstoff (100 Tonnen)",
 		"Group": "Stabilisierter Diwasserstoff-Treibstoff",
 		"Description": "Ein großes Fass mit Fregattentreibstoff.\nDieses dickflüssige Gel ist bei Berührung hoch giftig. Ein raffinierter Treibstoff, der die interstellaren Motoren großer Handelsschiffe antreibt."
 	},
 	{
 		"Id": "prod27",
-		"Icon": "products/27.png",
 		"Name": "Fregattentreibstoff (200 Tonnen)",
 		"Group": "Stabilisierter Diwasserstoff-Treibstoff",
 		"Description": "Ein riesiges Fass mit Fregattentreibstoff.\nDieses dickflüssige Gel ist bei Berührung hoch giftig. Ein raffinierter Treibstoff, der die interstellaren Motoren großer Handelsschiffe antreibt."
 	},
 	{
 		"Id": "prod28",
-		"Icon": "products/28.png",
 		"Name": "Raumschiffstart-Treibstoff",
 		"Group": "Stabilisierter Diwasserstoff-Treibstoff",
 		"Description": "Ein hochreaktiver Festtreibstoff, der für den Antrieb von Raumschiff-Startschubdüsen benötigt wird.\nWird aus kristallisiertem Diwasserstoff hergestellt, der in blauen Einlagerungen in allen Welten zu finden ist."
 	},
 	{
 		"Id": "prod29",
-		"Icon": "products/29.png",
 		"Name": "Hydrothermale Treibstoffzelle",
 		"Group": "U-Boot-Reaktortreibstoff",
 		"Description": "Ein höchst thermischer Energietreibstoff, der in einer standardisierten Treibstoffzelle eingeschlossen ist. Wird zum Betreiben des Humboldt-Antriebs benutzt, der wiederum das Nautilon-U-Boot antreibt.\nBesteht aus einer Mischung organischer Verbindungen (Kohlenstoff und Zytophosphate) und lokal begrenzten Mineralsalzen."
 	},
 	{
 		"Id": "prod30",
-		"Icon": "products/30.png",
 		"Name": "Projektilmunition",
 		"Group": "Universelles Munitionsmodul",
 		"Description": "Fortschrittliche Munitionsfragmente, die nach dem Standard des Universal-Multiwerkzeugs 07/FF1 gefertigt wurden.\nKann mithilfe des Nachladesystems des Multiwerkzeugs einfach in den Blitzwerfer, Impulswerfer und Streublaster geladen werden."
 	},
 	{
 		"Id": "prod31",
-		"Icon": "products/31.png",
 		"Name": "Kohlenstoff-Kristall",
 		"Group": "Konzentrierte Kohlenstoffablagerung",
 		"Description": "Bel dieser Substanz handelt es sich um komprimierten Kohlenstoff, der sowohl eine wertvolle Energiequelle als auch ein wichtiger Bestandteil von Technologiekomponenten ist.\nWird aus verdichtetem Kohlenstoff synthetisiert."
 	},
 	{
 		"Id": "prod32",
-		"Icon": "products/32.png",
 		"Name": "Chlor-Gitter",
 		"Group": "Konzentrierte Clorablagerung",
 		"Description": "Eine eng gebundene Form des Chlors. Die starr angeordneten Moleküle sorgen für eine unerreichte Leitfähigkeit. Bildet sich nicht spontan: Die Herstellung erfordert enorme Mengen an Energie.\nSynthetisiert aus Chlor."
 	},
 	{
 		"Id": "prod33",
-		"Icon": "products/33.png",
 		"Name": "Instabiles Natrium",
 		"Group": "Konzentrierte Natriumablagerung",
 		"Description": "Normalerweise ist Natrium sehr stabil, bestimmte Strukturen behalten jedoch die Reaktivität seiner lonenkomponenten bei. Dem Benutzer wird empfohlen, bei der Verwendung Gefahrgut-Schutzhandschuhe zu tragen.\nWird aus Natrium synthetisiert."
 	},
 	{
 		"Id": "prod34",
-		"Icon": "products/34.png",
 		"Name": "Seltenes Metallelement",
 		"Group": "Konzentrierte Metallablagerung",
 		"Description": "Bei diesem seltenen Element handelt es sich um ein sehr wertvolles Metallprodukt, das bei der Herstellung fortschrittlicher Technologien verwendet wird.\nDas Metall ist höchst reaktiv und bleibt an der Haut kleben. Dem Benutzer wird empfohlen, höchste Vorsicht walten zu lassen.\nWird aus magnetisiertem Ferrit synthetisiert."
 	},
 	{
 		"Id": "prod35",
-		"Icon": "products/35.png",
 		"Name": "Superoxid-Kristall",
 		"Group": "Konzentrierte Sauerstoffablagerung",
 		"Description": "Bei dieser Substanz handelt es sich um eine leicht magnetische Form des Sauerstoffs, die häufig bei der Produktion fortgeschrittener Technologien zum Einsatz kommt. Muss umgewandelt werden, bevor sie in Lebenserhaltungssysteme eingespeist werden kann. Direktes Einatmen wird NICHT empfohlen.\nWird aus Sauerstoff synthetisiert."
 	},
 	{
 		"Id": "prod36",
-		"Icon": "products/36.png",
 		"Name": "Tetrakobalt",
 		"Group": "Konzentrierte Kobaltablagerung",
 		"Description": "Ein neuartiges Molekül aus Kobalt, für dessen Herstellung extrem viel Energie benötigt wird. Natürliche Vorkommen sind äußerst selten.\nWird aus ionisiertem Kobalt synthetisiert."
 	},
 	{
 		"Id": "prod49",
-		"Icon": "products/49.png",
 		"Name": "Säure",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Verdünnte Säure zur Hochstromerzeugung in diversen Energiezellen.\nAus Mordit und Pilzschimmel hergestellt."
 	},
 	{
 		"Id": "prod51",
-		"Icon": "products/51.png",
 		"Name": "Hitzekondensator",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Ein Wärmeregler, der aus verfeinertem, organischem Material hergestellt wurde. Er ist einmalig, wenn es darum geht, Hitze nach Bedarf zu erzeugen, zu zerstreuen und zu verteilen.\nAus Solanium und Frostkristallen hergestellt."
 	},
 	{
 		"Id": "prod52",
-		"Icon": "products/52.png",
 		"Name": "Polyfaser",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Aus einem fortschrittlichen, synthetischen Polymer hergestellte Verbindungsfaser, die als Leitung für Energie und Daten verwendet werden kann.\nAus Kaktusfleisch und Sternenknollen hergestellt."
 	},
 	{
 		"Id": "prod53",
-		"Icon": "products/53.png",
 		"Name": "Schaltplatte",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Stapelbare, halbstarre Schaltplatte, die aus einem extrem haltbaren, synthetischen Polymer besteht.\nAus Hitzekondensatoren und Polyfaser hergestellt."
 	},
 	{
 		"Id": "prod54",
-		"Icon": "products/54.png",
 		"Name": "Glas",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Bruchsicheres, kratzerresistentes Glas mit einer selbstreinigenden, UV-gehärteten Schicht für allgemeine Konstruktionszwecke.\nAus Silikat-Pulver. Extrahiere Silikat mit einem Terrainmanipulator aus der Erde.\nKann aus Frostkristallen hergestellt werden, die aus Pflanzen in gefrorenen Welten extrahiert werden."
 	},
 	{
 		"Id": "prod55",
-		"Icon": "products/55.png",
 		"Name": "Instabiles Gel",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Dieses höchst reaktive Gel ist sowohl reich an Energie als auch gefährlich.\nAus Kaktusfleisch hergestellt."
 	},
 	{
 		"Id": "prod56",
-		"Icon": "products/56.png",
 		"Name": "Flüssigsprengstoff",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Ein hochexplosiver Sprengstoff zum allgemeinen Gebrauch, der für einen leichteren Transport sowie eine leichtere Handhabung in flüssiger Form hergestellt wird. Nicht trinken.\nAus Säure und instabilem Gel hergestellt."
 	},
 	{
 		"Id": "prod57",
-		"Icon": "products/57.png",
 		"Name": "Schmiermittel",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Ein synthetisches Schmiermittel, das die Abnutzung verringert und die Lebensdauer von Technologien mit beweglichen Teilen verlängert.\nAus Faecium und Gammawurzel hergestellt."
 	},
 	{
 		"Id": "prod58",
-		"Icon": "products/58.png",
 		"Name": "Lebendes Glas",
 		"Group": "Fortgeschrittenes landwirtschaftliches Produkt",
 		"Description": "Dieses Glas ist ein fortgeschrittenes Baumaterial und wurde mit organischen Komponenten versetzt, die es ihm ermöglichen, auf seine Umgebung zu reagieren. Mikroben innerhalb des Glases filtern schädliches Licht aller Wellenlängen und gleichen die Atmosphäre je nach Bedarf aus.\nAus Schmiermittel und Glas hergestellt."
 	},
 	{
 		"Id": "prod59",
-		"Icon": "products/59.png",
 		"Name": "Angereicherter Kohlenstoff",
 		"Group": "Verbessertes Gasprodukt",
 		"Description": "Ein verfeinertes Produkt, das gewöhnlichen Kohlenstoff mit radioaktiver Energie verstärkt.\nAus Radon und verdichtetem Kohlenstoff hergestellt."
 	},
 	{
 		"Id": "prod60",
-		"Icon": "products/60.png",
 		"Name": "Stickstoffsalz",
 		"Group": "Verbessertes Gasprodukt",
 		"Description": "Bei diesem verfeinerten Produkt handelt es sich um einen organischen Dünger, der sich dank seiner Form leicht verteilen lässt.\nAus Stickstoff und verdichtetem Kohlenstoff hergestellt."
 	},
 	{
 		"Id": "prod61",
-		"Icon": "products/61.png",
 		"Name": "Thermisches Kondensat",
 		"Group": "Verbessertes Gasprodukt",
 		"Description": "Ein verfeinertes Produkt, das das Energiepotenzial von erhitztem atmosphärischen Gas in einem stabilen Zustand speichert, bis dieses benötigt wird.\nAus Schwefelin und verdichtetem Kohlenstoff hergestellt."
 	},
 	{
 		"Id": "prod62",
-		"Icon": "products/62.png",
 		"Name": "Heißes Eis",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Ein paradoxes Material, das durch seine einfache Herstellung nicht mehr so mysteriös wirkt.\nAus angereichertem Kohlenstoff und Stickstoffsalz hergestellt."
 	},
 	{
 		"Id": "prod63",
-		"Icon": "products/63.png",
 		"Name": "Kryopumpe",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Die Kryopumpe ist ein fortgeschrittenes, sich selbst regulierendes Hybridmaterial, das in sich selbst Hitze mit nahezu perfekter Effizienz verteilen kann, was es zu einem essentiellen Bestandteil für die Herstellung von Wärmereglern macht.\nAus heißem Eis und thermischem Kondensat hergestellt."
 	},
 	{
 		"Id": "prod64",
-		"Icon": "products/64.png",
 		"Name": "Halbleiter",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Ein fortgeschrittenes Material mit eingebautem Temperaturregler, das zur Herstellung vieler elektronischer Geräte verwendet wird.\nAus thermischem Kondensat und Stickstoffsalz hergestellt."
 	},
 	{
 		"Id": "prod65",
-		"Icon": "products/65.png",
 		"Name": "Organischer Katalysator",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Ein katalytisches Material, das zur Herstellung vieler organischer Dünger benutzt wird.\nAus thermischem Kondensat und angereichertem Kohlenstoff hergestellt."
 	},
 	{
 		"Id": "prod66",
-		"Icon": "products/66.png",
 		"Name": "Supraleiter",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Der Supraleiter ist ein fortgeschrittenes, leitfähiges Material, das die Warp-Leistung des Halbleiters verstärkt.\nAus angereichertem Kohlenstoff und Halbleitern hergestellt."
 	},
 	{
 		"Id": "prod67",
-		"Icon": "products/67.png",
 		"Name": "Fusionsbeschleuniger",
 		"Group": "Gefertigtes Gasprodukt",
 		"Description": "Eine fortgeschrittene Treibstoffquelle, die aus einer perfekten Mischung hochenergetischer, organischer Materialien besteht.\nAus einem organischen Katalysator und Stickstoffsalz hergestellt."
 	},
 	{
 		"Id": "prod68",
-		"Icon": "products/68.png",
 		"Name": "Kryogenkammer",
 		"Group": "Weiterentwickeltes Produkt",
 		"Description": "Eine Kühlkammer, die den natürlichen Verfall organischer Materie aufhalten soll.\nAus lebendem Glas und einer Kryopumpe hergestellt."
 	},
 	{
 		"Id": "prod69",
-		"Icon": "products/69.png",
 		"Name": "Tragbarer Reaktor",
 		"Group": "Weiterentwickeltes Produkt",
 		"Description": "Ein kleiner, selbstgesteuerter Atomreaktor. Erzeugt substellare Energielevel in einem problemlosen, weitgehend kompatiblen Treibstoffmodul.\nAus Flüssigsprengstoff und Fusionsbeschleuniger hergestellt."
 	},
 	{
 		"Id": "prod70",
-		"Icon": "products/70.png",
 		"Name": "Quantumprozessor",
 		"Group": "Weiterentwickeltes Produkt",
 		"Description": "Ein höchst fortgeschrittener Rechenapparat, der für die komplexen Berechnungen bei Warp-Reisen benötigt wird.\nAus Schaltplatten und Supraleitern hergestellt."
 	},
 	{
 		"Id": "prod71",
-		"Icon": "products/71.png",
 		"Name": "Aronium",
 		"Group": "Metalllegierung",
 		"Description": "Eine Ieichte, gut formbare Metalllegierung. Aus Paraffinium und Chlor hergestellt.\nIm galaktischen Handelsnetzwerk immer stark nachgefragt aufgrund ihrer Einsatzmöglichkeiten im Bau von Außenposten und Planeteneinrichtungen."
 	},
 	{
 		"Id": "prod72",
-		"Icon": "products/72.png",
 		"Name": "Straßenköterbronze",
 		"Group": "Metalllegierung",
 		"Description": "Eine beliebte Metalllegierung, die in den unterschiedlichsten Bereichen zur Anwendung kommt. Die Straßenköterbronze hat ihren wissenschaftlichen Namen zugunsten der landläufigen Bezeichnung ihrer Farbe abgelegt.\nAus reinem Ferrit und Pyrit hergestellt."
 	},
 	{
 		"Id": "prod73",
-		"Icon": "products/73.png",
 		"Name": "Grantine",
 		"Group": "Metalllegierung",
 		"Description": "Weiche, Ieicht zu verarbeitende Legierung. Beliebt bei Kunsthandwerkern überall in der bekannten Galaxie. Aus ionisiertem Kobalt und Dioxit hergestellt.\nEine beliebte Handelsware. Viele galaktische Handelsrouten dienen einzig und allein ihrem Transport."
 	},
 	{
 		"Id": "prod74",
-		"Icon": "products/74.png",
 		"Name": "Herox",
 		"Group": "Metalllegierung",
 		"Description": "Eine kombinierte Legierung, die von der Pharmakologie bis zur Schwerindustrie überall zum Einsatz kommt. Aus Chlor und Ammoniak hergestellt. \nBildet das Rückgrat des galaktischen Legierungshandels."
 	},
 	{
 		"Id": "prod75",
-		"Icon": "products/75.png",
 		"Name": "Magno-Gold",
 		"Group": "Metalllegierung",
 		"Description": "Teure, glänzende Legierung. Beliebt bei Händlern aller bekannten wichtigen Völker der Galaxis. Aus ionisiertem Kobalt und Phosphor hergestellt.\nLeicht an ihrem hellroten Leuchten und ihrem starken Magnetfeld zu erkennen."
 	},
 	{
 		"Id": "prod76",
-		"Icon": "products/76.png",
 		"Name": "Lemmium",
 		"Group": "Metalllegierung",
 		"Description": "Reine Ferritlegierung aus reinem Ferrit und Uran hergestellt.\nAufgrund ihrer Stärke wird sie vor allem zum Bau von Frachtern eingesetzt. Ein hartes Material, das beim galaktischen Handelsnetzwerk beliebt ist."
 	},
 	{
 		"Id": "prod77",
-		"Icon": "products/77.png",
 		"Name": "Geodesit",
 		"Group": "Angereicherte Metalllegierung",
 		"Description": "Eine fortgeschrittene und haltbare Legierung, die vor allem beim Bau von Raumschiffhüllen und in der Drohnentechnologie zum Einsatz kommt.\nAus Herox, Straßenköterbronze und Lemmium hergestellt."
 	},
 	{
 		"Id": "prod78",
-		"Icon": "products/78.png",
 		"Name": "Iridesit",
 		"Group": "Angereicherte Metalllegierung",
 		"Description": "Eine Ieichte, fortgeschrittene Metalllegierung, mit der am Äußeren Rand der Galaxie gehandelt wird. Sie wird häufig im Inneren von Handelsshuttles verarbeitet, um ihr Gewicht für den Abflug von Planeten mit hoher Schwerkraft zu reduzieren.\nAus Aronium, Magno-Gold und Grantine hergestellt."
 	},
 	{
 		"Id": "prod79",
-		"Icon": "products/79.png",
 		"Name": "Fusionszünder",
 		"Group": "Eine hochveredelte Technologie",
 		"Description": "Eine höchst fortgeschrittene Technologie, die bei der nächsten Generation von Kraftwerken zum Einsatz kommt. Die Herstellung eines Fusionskerns erfordert sowohl versierte wissenschaftliche Fähigkeiten als auch komplexe industrielle Prozesse.\nAus elnem tragbaren Reaktor, Quantumprozessoren und Geodesit hergestellt."
 	},
 	{
 		"Id": "prod80",
-		"Icon": "products/80.png",
 		"Name": "Stasegerät",
 		"Group": "Eine hochveredelte Technologie",
 		"Description": "Ein Gerät, das speziell dafür entwickelt wurde, um das Leben von Lebensformen um Tausende von Jahren zu verlängern. Da dieses Gerät technisch sehr komplex ist und eine Fehlfunktion für den Benutzer katastrophale Konsequenzen hätte, benötigt man für seine Herstellung außerordentliche Fähigkeiten.\nAus Quantumprozessoren, Kryogenkammern und Iridesit hergestellt."
 	},
 	{
 		"Id": "prod81",
-		"Icon": "products/81.png",
-		"Name": "Kristallsulfid",
-		"Group": "Verdichtetes Mineral",
-		"Description": "Diese reichen Mineralablagerungen wurden in den unvorstellbaren und unter hohem Druck stehenden Planetenkernen geformt und haben eine beinahe glasartige Beschaffenheit.\nErfreut sich dank seines Mineralgehalts und der extremen Stärke unter Druck großer Beliebtheit auf dem industriellen Markt."
-	},
-	{
-		"Id": "prod82",
-		"Icon": "products/82.png",
 		"Name": "Kabelbaum",
 		"Group": "Universelle Technologieplattform",
 		"Description": "Eine vorgefertigte Schaltplatte, die flexibel für den Einsatz in einer großen Auswahl an Technologiekomponenten konstruiert wurde.\nDas Modul besitzt einen integrierten Nanit-Prozessor, wodurch es schnell für verschiedene Anwendungen konfiguriert werden kann."
-	},
-	{
-		"Id": "prod83",
-		"Icon": "products/83.png",
-		"Name": "Sternenseide",
-		"Group": "Verbrauchsgut zum Handeln",
-		"Description": "Mehrere Spulen Sternenseide.\nSternenseide wird in gewaltigen Solar-Webstühlen hergestellt, die sich im Orbit von Handelsplaneten befinden. Der Aufprall der kosmischen Strahlung ist für das Muster des Gewebes verantwortlich, das zur Verarbeitung fortgeschrittener Materialien herangezogen werden kann."
 	}
 ]
