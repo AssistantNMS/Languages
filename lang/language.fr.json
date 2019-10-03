@@ -10,6 +10,9 @@
 	"exploitJson": "en/Exploits.lang",
 	"buildingsJson": "en/Buildings.lang",
 	"guidesJson": "en/Guides.lang",
+	"tradeItemsJson": "en/TradeItems.lang",
+	"upgradeModulesJson": "en/UpgradeModules.lang",
+	"nutrientProcessorJson": "en/NutrientProcessor.lang",
 
 	"loading": "Chargement",
 	"about": "À propos",
@@ -95,6 +98,7 @@
 	"rarity": "Rarity",
 	"minValue": "Min Value",
 	"maxValue": "Max Value",
+	"upgradeModule": "Upgrade Module",
 
 	"translatedBy": "Faskis & Frédéric"
 }

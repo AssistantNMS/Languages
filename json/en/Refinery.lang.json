@@ -1,1572 +1,1597 @@
 [
   {
     "Id": "ref1",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "320",
+    "Operation": "Requested Operation: Nanite Extraction"
   },
   {
     "Id": "ref2",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "60",
+    "Operation": "Requested Operation: Calcite Transmutation"
   },
   {
     "Id": "ref3",
-    "Time": "0.4 sec/unit output",
-    "Operation": "Organic Fusion"
+    "Time": "60",
+    "Operation": "Requested Operation: Biological Purge"
   },
   {
     "Id": "ref4",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "60",
+    "Operation": "Requested Operation: Doom Cycling"
   },
   {
     "Id": "ref5",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Sulphur Release"
   },
   {
     "Id": "ref6",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: NOT RECOMMENDED"
   },
   {
     "Id": "ref7",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Algal Processing"
   },
   {
     "Id": "ref8",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Alchemical Construction"
   },
   {
     "Id": "ref9",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Polish Crystals"
   },
   {
     "Id": "ref10",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Metal Restructuring"
   },
   {
     "Id": "ref11",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Reality Warping"
   },
   {
     "Id": "ref12",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "30",
+    "Operation": "Requested Operation: Reality Filtering"
   },
   {
     "Id": "ref13",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "60",
+    "Operation": "Requested Operation: Assisted Decomposition"
   },
   {
     "Id": "ref14",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "20",
+    "Operation": "Requested Operation: Inefficient Burn"
   },
   {
     "Id": "ref15",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "120",
+    "Operation": "Requested Operation: Condense Di-hydrogen"
   },
   {
     "Id": "ref16",
-    "Time": "120 sec/unit output",
-    "Operation": "Chromatic Expansion"
+    "Time": "200",
+    "Operation": "Requested Operation: Carbon Melting"
   },
   {
     "Id": "ref17",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "200",
+    "Operation": "Requested Operation: Rare Metal Detoxification"
   },
   {
     "Id": "ref18",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Release Carbon"
+    "Time": "200",
+    "Operation": "Requested Operation: Cobalt Cracking"
   },
   {
     "Id": "ref19",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "200",
+    "Operation": "Requested Operation: Chloride De-latticing"
   },
   {
     "Id": "ref20",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "200",
+    "Operation": "Requested Operation: Sodium Stabilisation"
   },
   {
     "Id": "ref21",
-    "Time": "0.2 sec/unit output",
-    "Operation": "Inefficient Burn"
+    "Time": "200",
+    "Operation": "Requested Operation: Oxygen Decompression"
   },
   {
     "Id": "ref22",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "100",
+    "Operation": "Requested Operation: Di-hydrogen Cycling"
   },
   {
     "Id": "ref23",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Burn Plantlife"
+    "Time": "90",
+    "Operation": "Requested Operation: Ionise Mineral"
   },
   {
     "Id": "ref24",
-    "Time": "120 sec/unit output",
-    "Operation": "Carbon Crystallisation"
+    "Time": "30",
+    "Operation": "Requested Operation: Deionise Mineral"
   },
   {
     "Id": "ref25",
-    "Time": "200 sec/unit output",
-    "Operation": "Carbon Crystallisation"
+    "Time": "30",
+    "Operation": "Requested Operation: Release Carbon"
   },
   {
     "Id": "ref26",
-    "Time": "120 sec/unit output",
-    "Operation": "Chlorine Latticing"
+    "Time": "45",
+    "Operation": "Requested Operation: Condense Carbon"
   },
   {
     "Id": "ref27",
-    "Time": "200 sec/unit output",
-    "Operation": "Chlorine Latticing"
+    "Time": "100",
+    "Operation": "Requested Operation: Process Sodium"
   },
   {
     "Id": "ref28",
-    "Time": "2 sec/unit output",
-    "Operation": "Chloride De-latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Free Sodium"
   },
   {
     "Id": "ref29",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Concentrate Salt"
+    "Time": "30",
+    "Operation": "Requested Operation: Extract Metallic Elements"
   },
   {
     "Id": "ref30",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chlorine Expansion"
+    "Time": "60",
+    "Operation": "Requested Operation: Magnetise Metal"
   },
   {
     "Id": "ref31",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Dissolve Natural Salts"
+    "Time": "40",
+    "Operation": "Requested Operation: Demagnetise Metal"
   },
   {
     "Id": "ref32",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Bonded Chlorine Extraction"
+    "Time": "70",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref33",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Pugneum Washing"
+    "Time": "25",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref34",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Dissolve Natural Salts"
+    "Time": "40",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref35",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Efficient Salt Evaporation"
+    "Time": "90",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref36",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "50",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref37",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "30",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref38",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "40",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref39",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "60",
+    "Operation": "Requested Operation: Extract Chromatic Material"
   },
   {
     "Id": "ref40",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref41",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref42",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref43",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Chromatic Material"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref44",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref45",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Ferrite Dust Extraction"
   },
   {
     "Id": "ref46",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Concentrate Salt"
   },
   {
     "Id": "ref47",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "60",
+    "Operation": "Requested Operation: Salt Production"
   },
   {
     "Id": "ref48",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref49",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref50",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref51",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Metal Fusion"
+    "Time": "150",
+    "Operation": "Requested Operation: Recycle Waste Materials"
   },
   {
     "Id": "ref52",
-    "Time": "? sec/unit output",
-    "Operation": "RECIPE_3INPUT_STELLAR2"
+    "Time": "150",
+    "Operation": "Requested Operation: Recycle Waste Materials"
   },
   {
     "Id": "ref53",
-    "Time": "0.9 sec/unit output",
-    "Operation": "RECIPE_3INPUT_STELLAR2"
+    "Time": "160",
+    "Operation": "Requested Operation: Recycle Waste Materials"
   },
   {
     "Id": "ref54",
-    "Time": "? sec/unit output",
-    "Operation": "RECIPE_3INPUT_STELLAR2"
+    "Time": "150",
+    "Operation": "Requested Operation: Recycle Waste Materials"
   },
   {
     "Id": "ref55",
-    "Time": "? sec/unit output",
-    "Operation": "RECIPE_3INPUT_STELLAR2"
+    "Time": "150",
+    "Operation": "Requested Operation: Recycle Waste Materials"
   },
   {
     "Id": "ref56",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Deionise Mineral"
+    "Time": "90",
+    "Operation": "Requested Operation: Tritium Cycling"
   },
   {
     "Id": "ref57",
-    "Time": "2 sec/unit output",
-    "Operation": "Carbon Melting"
+    "Time": "30",
+    "Operation": "Requested Operation: Burn Plantlife"
   },
   {
     "Id": "ref58",
-    "Time": "0.4 sec/unit output",
-    "Operation": "Condense Carbon"
+    "Time": "30",
+    "Operation": "Requested Operation: Burn Plantlife"
   },
   {
     "Id": "ref59",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Algal Processing"
+    "Time": "30",
+    "Operation": "Requested Operation: Burn Plantlife"
   },
   {
     "Id": "ref60",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Carbon"
+    "Time": "30",
+    "Operation": "Requested Operation: Burn Plantlife"
   },
   {
     "Id": "ref61",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Carbon"
+    "Time": "30",
+    "Operation": "Requested Operation: Burn Plantlife"
   },
   {
     "Id": "ref62",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
+    "Time": "60",
+    "Operation": "Requested Operation: Extract Organic Sodium"
   },
   {
     "Id": "ref63",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
+    "Time": "60",
+    "Operation": "Requested Operation: Extract Micro-Bubbles"
   },
   {
     "Id": "ref64",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
+    "Time": "180",
+    "Operation": "Requested Operation: Organic Reassembly"
   },
   {
     "Id": "ref65",
-    "Time": "? sec/unit output",
-    "Operation": "Chromatic Expansion"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref66",
-    "Time": "120 sec/unit output",
-    "Operation": "Sodium Destabilization"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref67",
-    "Time": "200 sec/unit output",
-    "Operation": "Sodium Destabilization"
+    "Time": "250",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref68",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Di-hydrogen Cycling"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref69",
-    "Time": "1 sec/unit output",
-    "Operation": "Di-hydrogen Cycling"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref70",
-    "Time": "1 sec/unit output",
-    "Operation": "Tritium Cycling"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref71",
-    "Time": "240 sec/unit output",
-    "Operation": "Condense Di-hydrogen"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref72",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "300",
+    "Operation": "Requested Operation: Extreme Alloy Separation"
   },
   {
     "Id": "ref73",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "20",
+    "Operation": "Requested Operation: Salt Crystal Polishing"
   },
   {
     "Id": "ref74",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Advanced Carbon Processing"
+    "Time": "60",
+    "Operation": "Requested Operation: Alchemical Construction"
   },
   {
     "Id": "ref75",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Advanced Carbon Processing"
+    "Time": "60",
+    "Operation": "Requested Operation: Alchemical Construction"
   },
   {
     "Id": "ref76",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "60",
+    "Operation": "Requested Operation: Transmutation"
   },
   {
     "Id": "ref77",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "10",
+    "Operation": "Requested Operation: Harness Energy"
   },
   {
     "Id": "ref78",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "40",
+    "Operation": "Requested Operation: Sulphur Injection"
   },
   {
     "Id": "ref79",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "40",
+    "Operation": "Requested Operation: Catalyse Radiation"
   },
   {
     "Id": "ref80",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "40",
+    "Operation": "Requested Operation: Organic Fusion"
   },
   {
     "Id": "ref81",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "20",
+    "Operation": "Requested Operation: Rapid Formation / Evaporation"
   },
   {
     "Id": "ref82",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "20",
+    "Operation": "Requested Operation: Assisted Decomposition"
   },
   {
     "Id": "ref83",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "20",
+    "Operation": "Requested Operation: Organic Reassembly"
   },
   {
     "Id": "ref84",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "60",
+    "Operation": "Requested Operation: Carbonise Metal"
   },
   {
     "Id": "ref85",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Chromatic Expansion"
+    "Time": "60",
+    "Operation": "Requested Operation: Carbonise Metal"
   },
   {
     "Id": "ref86",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "60",
+    "Operation": "Requested Operation: Carbonise Metal"
   },
   {
     "Id": "ref87",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "60",
+    "Operation": "Requested Operation: Carbonise Metal"
   },
   {
     "Id": "ref88",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "60",
+    "Operation": "Requested Operation: Di-hydrogen Cycling"
   },
   {
     "Id": "ref89",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "100",
+    "Operation": "Requested Operation: Oxidise Metal"
   },
   {
     "Id": "ref90",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Assisted Decomposition"
+    "Time": "100",
+    "Operation": "Requested Operation: Oxidise Metal"
   },
   {
     "Id": "ref91",
-    "Time": "0.2 sec/unit output",
-    "Operation": "Assisted Decomposition"
+    "Time": "90",
+    "Operation": "Requested Operation: Oxygenate Carbon"
   },
   {
     "Id": "ref92",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Microbes"
+    "Time": "90",
+    "Operation": "Requested Operation: Oxygenate Carbon"
   },
   {
     "Id": "ref93",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Runaway Decomposition"
+    "Time": "90",
+    "Operation": "Requested Operation: Oxygenate Sodium"
   },
   {
     "Id": "ref94",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Runaway Decomposition"
+    "Time": "90",
+    "Operation": "Requested Operation: Oxygenate Sodium"
   },
   {
     "Id": "ref95",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Catalyse Carbon"
   },
   {
     "Id": "ref96",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Catalyse Carbon"
   },
   {
     "Id": "ref97",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Advanced Carbon Processing"
   },
   {
     "Id": "ref98",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Advanced Carbon Processing"
   },
   {
     "Id": "ref99",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Anomaly / Organic Hybridisation"
   },
   {
     "Id": "ref100",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Anomaly / Organic Hybridisation"
   },
   {
     "Id": "ref101",
-    "Time": "1.5 sec/unit output",
-    "Operation": "Recycle Waste Materials"
+    "Time": "90",
+    "Operation": "Requested Operation: Sentinel Catalysation"
   },
   {
     "Id": "ref102",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ferrite Dust Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Sentinel Catalysation"
   },
   {
     "Id": "ref103",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Runaway Decomposition"
   },
   {
     "Id": "ref104",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Runaway Decomposition"
   },
   {
     "Id": "ref105",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Fertiliser Synthesis"
   },
   {
     "Id": "ref106",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Fertiliser Synthesis"
   },
   {
     "Id": "ref107",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Matter Expansion"
   },
   {
     "Id": "ref108",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Matter Expansion"
   },
   {
     "Id": "ref109",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Matter Expansion"
   },
   {
     "Id": "ref110",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Expansion"
   },
   {
     "Id": "ref111",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Expansion"
   },
   {
     "Id": "ref112",
-    "Time": "30 sec/unit output",
-    "Operation": "Polish Crystals"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Expansion"
   },
   {
     "Id": "ref113",
-    "Time": "12 sec/unit output",
-    "Operation": "Silicate Foraging"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Expansion"
   },
   {
     "Id": "ref114",
-    "Time": "1 sec/unit output",
-    "Operation": "Extreme Polishing <--- Doesn't seem to work in Beyond"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref115",
-    "Time": "20 sec/unit output",
-    "Operation": "Salt Crystal Polishing"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref116",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref117",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref118",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Calcite Transmutation"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref119",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic Expansion"
   },
   {
     "Id": "ref120",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Pugneum Alchemy"
+    "Time": "90",
+    "Operation": "Requested Operation: Efficient Salt Evaporation"
   },
   {
     "Id": "ref121",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Alchemical Construction"
+    "Time": "90",
+    "Operation": "Requested Operation: Chlorine Expansion"
   },
   {
     "Id": "ref122",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Anomaly Synthesis"
+    "Time": "90",
+    "Operation": "Requested Operation: Efficient Cobalt Ionisation"
   },
   {
     "Id": "ref123",
-    "Time": "12 sec/unit output",
-    "Operation": "Chromatic Alchemy"
+    "Time": "90",
+    "Operation": "Requested Operation: Efficient Cobalt Ionisation"
   },
   {
     "Id": "ref124",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Organic / Anomaly Synthesis"
   },
   {
     "Id": "ref125",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Mineral Alchemy"
   },
   {
     "Id": "ref126",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Mineral Alchemy"
   },
   {
     "Id": "ref127",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Mineral Alchemy"
   },
   {
     "Id": "ref128",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref129",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref130",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Transfer"
   },
   {
     "Id": "ref131",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref132",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref133",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref134",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref135",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref136",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Bonded Cobalt Extraction"
   },
   {
     "Id": "ref137",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Bonded Chlorine Extraction"
   },
   {
     "Id": "ref138",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Oxygenate Microbes"
   },
   {
     "Id": "ref139",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Pugneum Washing"
   },
   {
     "Id": "ref140",
-    "Time": "3.6 sec/unit output",
-    "Operation": "Chromatic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Pugneum Washing"
   },
   {
     "Id": "ref141",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ionise Mineral"
+    "Time": "90",
+    "Operation": "Requested Operation: Extract Organic Sodium"
   },
   {
     "Id": "ref142",
-    "Time": "2 sec/unit output",
-    "Operation": "Cobalt Cracking"
+    "Time": "90",
+    "Operation": "Requested Operation: Release Captured Oxygen"
   },
   {
     "Id": "ref143",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ionise Bulbs"
+    "Time": "90",
+    "Operation": "Requested Operation: Feed Microbes"
   },
   {
     "Id": "ref144",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Efficient Cobalt Ionisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Harness Organic Nitrogren"
   },
   {
     "Id": "ref145",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Ionise Bulbs"
+    "Time": "90",
+    "Operation": "Requested Operation: Harness Organic Nitrogren"
   },
   {
     "Id": "ref146",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Efficient Cobalt Ionisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Feed Microbes"
   },
   {
     "Id": "ref147",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Bonded Cobalt Extraction"
+    "Time": "90",
+    "Operation": "Requested Operation: Extract Organic Sodium"
   },
   {
     "Id": "ref148",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Pugneum Washing"
+    "Time": "90",
+    "Operation": "Requested Operation: Release Captured Oxygen"
   },
   {
     "Id": "ref149",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Feed Microbes"
   },
   {
     "Id": "ref150",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Harness Organic Nitrogren"
   },
   {
     "Id": "ref151",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Harness Organic Nitrogren"
   },
   {
     "Id": "ref152",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Feed Microbes"
   },
   {
     "Id": "ref153",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Ionise Bulbs"
   },
   {
     "Id": "ref154",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Dissolve Natural Salts"
   },
   {
     "Id": "ref155",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Ionise Bulbs"
   },
   {
     "Id": "ref156",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Dissolve Natural Salts"
   },
   {
     "Id": "ref157",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Pugneum Alchemy"
   },
   {
     "Id": "ref158",
-    "Time": "90 sec/unit output",
-    "Operation": "Advanced Oxygen Capture"
+    "Time": "90",
+    "Operation": "Requested Operation: Feed Microbes"
   },
   {
     "Id": "ref159",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Biological Purge"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref160",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Recycle Waste Materials"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref161",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Magnetise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref162",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref163",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref164",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref165",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref166",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref167",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Carbonise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref168",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Carbonise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref169",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref170",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Stellar / Metal Fusion"
   },
   {
     "Id": "ref171",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Stellar/Metal Fusion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref172",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Matter Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref173",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Mineral Alchemy"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref174",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Carbonise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Chromatic Metal Fusion"
   },
   {
     "Id": "ref175",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Carbonise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref176",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Matter Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref177",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Deep Metal Compression"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref178",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Deep Metal Compression"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref179",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Deep Metal Compression"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref180",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref181",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref182",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref183",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref184",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref185",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref186",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref187",
-    "Time": "90 sec/unit output",
-    "Operation": "Alloy Latticing"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref188",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref189",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Fertilizer Synthesis"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref190",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Fertilizer Synthesis"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref191",
-    "Time": "1.8 sec/unit output",
-    "Operation": "Organic Reassembly"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref192",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Anomaly / Organic Hybridisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Environmental Element Transfer"
   },
   {
     "Id": "ref193",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Anomaly / Organic Hybridisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref194",
-    "Time": "0.2 sec/unit output",
-    "Operation": "Organic Reassembly"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref195",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Doom Cycling"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref196",
-    "Time": "0.6 sec/unit output",
-    "Operation": "NOT RECOMMENDED"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref197",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Reality Warping"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref198",
-    "Time": "0.7 sec/unit output",
-    "Operation": "Reality Filtering"
+    "Time": "90",
+    "Operation": "Requested Operation: Floral Titration"
   },
   {
     "Id": "ref199",
-    "Time": "1.5 sec/unit output",
-    "Operation": "Recycle Waste Materials"
+    "Time": "120",
+    "Operation": "Requested Operation: Carbon Crystallisation"
   },
   {
     "Id": "ref200",
-    "Time": "0.8 sec/unit output",
-    "Operation": "Nanite Extraction"
+    "Time": "120",
+    "Operation": "Requested Operation: Sodium Destabilisation"
   },
   {
     "Id": "ref201",
-    "Time": "0.5 sec/unit output",
-    "Operation": "Alchemical Construction"
+    "Time": "120",
+    "Operation": "Requested Operation: Chlorine Latticing"
   },
   {
     "Id": "ref202",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "120",
+    "Operation": "Requested Operation: Cobalt Supercharging"
   },
   {
     "Id": "ref203",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "200",
+    "Operation": "Requested Operation: Oxygen Nucleation"
   },
   {
     "Id": "ref204",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "120",
+    "Operation": "Requested Operation: Rare Metal Detoxification"
   },
   {
     "Id": "ref205",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Loosen Bonds"
   },
   {
     "Id": "ref206",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Metal Enrichment"
   },
   {
     "Id": "ref207",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "120",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref208",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Loosen Bonds"
   },
   {
     "Id": "ref209",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Extract Micro-bubbles"
+    "Time": "90",
+    "Operation": "Requested Operation: Metal Enrichment"
   },
   {
     "Id": "ref210",
-    "Time": "2 sec/unit output",
-    "Operation": "Oxygen Decompression"
+    "Time": "120",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref211",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Release Captured Oxygen"
+    "Time": "90",
+    "Operation": "Requested Operation: Loosen Bonds"
   },
   {
     "Id": "ref212",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Release Captured Oxygen"
+    "Time": "90",
+    "Operation": "Requested Operation: Metal Enrichment"
   },
   {
     "Id": "ref213",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "120",
+    "Operation": "Requested Operation: Gas Catalysation"
   },
   {
     "Id": "ref214",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref215",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref216",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref217",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref218",
-    "Time": "9 sec/unit output",
-    "Operation": "Artificial Photosynthesis"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref219",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref220",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref221",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Mineral Alchemy"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref222",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "60",
+    "Operation": "Requested Operation: Encourage Growth"
   },
   {
     "Id": "ref223",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Loosen Bonds"
+    "Time": "120",
+    "Operation": "Requested Operation: Rare Metal Fusion"
   },
   {
     "Id": "ref224",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Loosen Bonds"
+    "Time": "90",
+    "Operation": "Requested Operation: Transmutation"
   },
   {
     "Id": "ref225",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Loosen Bonds"
+    "Time": "120",
+    "Operation": "Requested Operation: Deep Metal Compression"
   },
   {
     "Id": "ref226",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "120",
+    "Operation": "Requested Operation: Deep Metal Compression"
   },
   {
     "Id": "ref227",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "120",
+    "Operation": "Requested Operation: Deep Metal Compression"
   },
   {
     "Id": "ref228",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "200",
+    "Operation": "Requested Operation: Carbon Crystallisation"
   },
   {
     "Id": "ref229",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "200",
+    "Operation": "Requested Operation: Rare Metal Fusion"
   },
   {
     "Id": "ref230",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "200",
+    "Operation": "Requested Operation: Cobalt Supercharging"
   },
   {
     "Id": "ref231",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Transmutation"
+    "Time": "200",
+    "Operation": "Requested Operation: Chlorine Latticing"
   },
   {
     "Id": "ref232",
-    "Time": "12 sec/unit output",
-    "Operation": "Chromatic Alchemy"
+    "Time": "200",
+    "Operation": "Requested Operation: Sodium Destabilisation"
   },
   {
     "Id": "ref233",
-    "Time": "0.3 sec/unit output",
-    "Operation": "Extract Metallic Elements"
+    "Time": "200",
+    "Operation": "Requested Operation: Oxygen Nucleation"
   },
   {
     "Id": "ref234",
-    "Time": "0.4 sec/unit output",
-    "Operation": "Demagnetise Metal"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref235",
-    "Time": "2 sec/unit output",
-    "Operation": "Rare Metal Detoxification"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref236",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Matter Expansion"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref237",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Metal Restructuring"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref238",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref239",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Mineral Alchemy"
+    "Time": "900",
+    "Operation": "Requested Operation: Artificial Photosynthesis"
   },
   {
     "Id": "ref240",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "1200",
+    "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
     "Id": "ref241",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Environmental Element Transfer"
+    "Time": "1200",
+    "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
     "Id": "ref242",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "1200",
+    "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
     "Id": "ref243",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "1200",
+    "Operation": "RECIPE_3INPUT_STELLAR2"
   },
   {
     "Id": "ref244",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "1200",
+    "Operation": "Requested Operation: Chromatic Alchemy"
   },
   {
     "Id": "ref245",
-    "Time": "120 sec/unit output",
-    "Operation": "Rare Metal Detoxification"
+    "Time": "1200",
+    "Operation": "Requested Operation: Chromatic Alchemy"
   },
   {
     "Id": "ref246",
-    "Time": "200 sec/unit output",
-    "Operation": "Rare Metal Fusion"
+    "Time": "600",
+    "Operation": "Requested Operation: Antimatter Bypass"
   },
   {
     "Id": "ref247",
-    "Time": "120 sec/unit output",
-    "Operation": "Rare Metal Fusion"
+    "Time": "600",
+    "Operation": "Requested Operation: Antimatter Bypass"
   },
   {
     "Id": "ref248",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Recycle Waste Materials"
+    "Time": "600",
+    "Operation": "Requested Operation: Antimatter Bypass"
   },
   {
     "Id": "ref249",
-    "Time": "1 sec/unit output",
-    "Operation": "Oxidise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Plasma Pressurisation"
   },
   {
     "Id": "ref250",
-    "Time": "1 sec/unit output",
-    "Operation": "Oxidise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Plasma Pressurisation"
   },
   {
     "Id": "ref251",
-    "Time": "1 sec/unit output",
-    "Operation": "Oxidise Metal"
+    "Time": "90",
+    "Operation": "Requested Operation: Plasma Pressurisation"
   },
   {
     "Id": "ref252",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Salt Production"
+    "Time": "90",
+    "Operation": "Requested Operation: Plasma Pressurisation"
   },
   {
     "Id": "ref253",
-    "Time": "0.2 sec/unit output",
-    "Operation": "Rapid Formation/Evaporation"
+    "Time": "90",
+    "Operation": "Requested Operation: Advanced Oxygen Capture"
   },
   {
     "Id": "ref254",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Di-hydrogen Capture"
   },
   {
     "Id": "ref255",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Di-hydrogen Capture"
   },
   {
     "Id": "ref256",
-    "Time": "3 sec/unit output",
-    "Operation": "Extreme Alloy Separation"
+    "Time": "90",
+    "Operation": "Requested Operation: Di-hydrogen Capture"
   },
   {
     "Id": "ref257",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Extract Organic Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Ion Capture"
   },
   {
     "Id": "ref258",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Free Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Advanced Ion Capture"
   },
   {
     "Id": "ref259",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Organic Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref260",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Sulphur Release"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref261",
-    "Time": "2 sec/unit output",
-    "Operation": "Sodium Stabilisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref262",
-    "Time": "1 sec/unit output",
-    "Operation": "Process Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref263",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref264",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref265",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Extract Organic Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref266",
-    "Time": "1.2 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref267",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref268",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Harness Organic Nitrogen"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref269",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Harness Organic Nitrogen"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref270",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref271",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref272",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Sentinel Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref273",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Catalyse Carbon"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref274",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Catalyse Carbon"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref275",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Feed Microbes"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref276",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Harness Organic Nitrogen"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref277",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Harness Organic Nitrogen"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref278",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref279",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Oxygenate Sodium"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref280",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Sentinel Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref281",
-    "Time": "0.4 sec/unit output",
-    "Operation": "Sulphur Injection"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref282",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref283",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref284",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref285",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref286",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Encourage Growth"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref287",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Organic Expansion"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref288",
-    "Time": "90 sec/unit output",
-    "Operation": "Di-hydrogen Capture"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref289",
-    "Time": "90 sec/unit output",
-    "Operation": "Di-hydrogen Capture"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref290",
-    "Time": "90 sec/unit output",
-    "Operation": "Di-hydrogen Capture"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref291",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref292",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Catalysation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref293",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Gas Transfer"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref294",
-    "Time": "200 sec/unit output",
-    "Operation": "Oxygen Nucleation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref295",
-    "Time": "200 sec/unit output",
-    "Operation": "Oxygen Nucleation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref296",
-    "Time": "120 sec/unit output",
-    "Operation": "Cobalt Supercharging"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref297",
-    "Time": "200 sec/unit output",
-    "Operation": "Cobalt Supercharging"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref298",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref299",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref300",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref301",
-    "Time": "90 sec/unit output",
-    "Operation": "High-Speed Sublimation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref302",
-    "Time": "90 sec/unit output",
-    "Operation": "Plasma Pressurisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref303",
-    "Time": "90 sec/unit output",
-    "Operation": "Plasma Pressurisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref304",
-    "Time": "90 sec/unit output",
-    "Operation": "Plasma Pressurisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref305",
-    "Time": "90 sec/unit output",
-    "Operation": "Plasma Pressurisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref306",
-    "Time": "90 sec/unit output",
-    "Operation": "Plasma Pressurisation"
+    "Time": "90",
+    "Operation": "Requested Operation: Alloy Latticing"
   },
   {
     "Id": "ref307",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Floral Titration"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref308",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref309",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Enviromental Element Transfer"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref310",
-    "Time": "0.4 sec/unit output",
-    "Operation": "Catalyse Radiation"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref311",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Metal Enrichment"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref312",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Metal Enrichment"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref313",
-    "Time": "0.9 sec/unit output",
-    "Operation": "Metal Enrichment"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
   },
   {
     "Id": "ref314",
-    "Time": "0.6 sec/unit output",
-    "Operation": "Recycle Waste Materials"
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
+  },
+  {
+    "Id": "ref315",
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
+  },
+  {
+    "Id": "ref316",
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
+  },
+  {
+    "Id": "ref317",
+    "Time": "90",
+    "Operation": "Requested Operation: High-Speed Sublimation"
+  },
+  {
+    "Id": "ref318",
+    "Time": "20",
+    "Operation": "Requested Operation: High-Speed Sublimation"
+  },
+  {
+    "Id": "ref319",
+    "Time": "10",
+    "Operation": "Requested Operation: Silicate Forging"
   }
 ]

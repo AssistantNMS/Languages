@@ -1,15 +1,18 @@
 {
 	"title": "Alle Rezepte",
-	"rawMaterialsJson": "en/RawMaterials.lang",
-	"productsJson": "en/Products.lang",
+	"rawMaterialsJson": "de/RawMaterials.lang",
+	"productsJson": "de/Products.lang",
 	"otherItemsJson": "de/Others.lang",
 	"curiosityJson": "de/Curiosity.lang",
 	"refineryJson": "en/Refinery.lang",
 	"technologiesJson": "de/Technology.lang",
-	"cookingJson": "en/Cooking.lang",
-	"exploitJson": "en/Exploits.lang",
-	"buildingsJson": "en/Buildings.lang",
+	"cookingJson": "de/Cooking.lang",
+	"exploitJson": "de/Exploits.lang",
+	"buildingsJson": "de/Buildings.lang",
 	"guidesJson": "en/Guides.lang",
+	"tradeItemsJson": "de/TradeItems.lang",
+	"upgradeModulesJson": "de/UpgradeModules.lang",
+	"nutrientProcessorJson": "en/NutrientProcessor.lang",
 	
 	"loading": "Laden",
 	"about": "Über",
@@ -95,6 +98,7 @@
 	"rarity": "Seltenheit",
 	"minValue": "Min Wert",
 	"maxValue": "Max Wert",
+	"upgradeModule": "Upgrade Module",
 
 	"translatedBy": "Meridian"
 }
