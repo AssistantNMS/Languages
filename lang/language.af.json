@@ -98,6 +98,7 @@
 	"rarity": "Rarity",
 	"minValue": "Min Value",
 	"maxValue": "Max Value",
+	"upgradeModule": "Upgrade Module",
 
 	"translatedBy": "Charl Meyers"
 }
