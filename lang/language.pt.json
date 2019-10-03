@@ -10,6 +10,9 @@
 	"exploitJson": "en/Exploits.lang",
 	"buildingsJson": "en/Buildings.lang",
 	"guidesJson": "en/Guides.lang",
+	"tradeItemsJson": "en/TradeItems.lang",
+	"upgradeModulesJson": "en/UpgradeModules.lang",
+	"nutrientProcessorJson": "en/NutrientProcessor.lang",
 
 	"loading": "Carregando",
 	"about": "Sobre",
