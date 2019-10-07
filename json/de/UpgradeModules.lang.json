@@ -1,0 +1,800 @@
+[
+  {
+    "Id": "upgrade1",
+    "Name": "Bergbaustrahl-Modul (C)",
+    "Group": "Bergbaustrahl-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Bergbaustrahl. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Kernoptik des Minenlasers und erhöht die Effektivität des Geräts.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade2",
+    "Name": "Bergbaustrahl-Modul (B)",
+    "Group": "Signifikantes Bergbaustrahl-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Bergbaustrahl. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Hauptkristallkammer des Minenlasers, wodurch die Laserenergie verstärkt und ungewollter Wärmeverlust verhindert wird.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade3",
+    "Name": "Bergbaustrahl-Modul (A)",
+    "Group": "Leistungsstarkes Bergbaustrahl-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Bergbaustrahl. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Kernkomponenten des Minenlasers. Abgabeleistung und Hitzetoleranz werden erheblich erhöht.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade4",
+    "Name": "Bergbaustrahl-Modul (S)",
+    "Group": "Überlegenes Bergbaustrahl-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Bergbaustrahl. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Kernkomponenten des Minenlasers. Abgabeleistung und Hitzetoleranz werden erheblich erhöht.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade5",
+    "Name": "Scanner-Modul (C)",
+    "Group": "Scan-System-Upgrade",
+    "Description": "Mittleres Upgrade für die Scan-Systeme des Multiwerkzeugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nInterne Chip-Upgrades verbessern den Scanradius und erhöhen den Wert der Entdeckungsdaten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade6",
+    "Name": "Scanner-Modul (B)",
+    "Group": "Signifikantes Scan-System-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Scan-Systeme des Multiwerkzeugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nInterne Chip-Upgrades verbessern den Scanradius und erhöhen den Wert der Entdeckungsdaten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade7",
+    "Name": "Scanner-Modul (A)",
+    "Group": "Leistungsstarkes Scan-System-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Scan-Systeme des Multiwerkzeugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nInterne Chip-Upgrades verbessern den Scanradius und erhöhen den Wert der Entdeckungsdaten massiv.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade8",
+    "Name": "Scanner-Modul (S)",
+    "Group": "Überlegenes Scan-System-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Scan-Systeme des Multiwerkzeugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nInterne Chip-Upgrades verbessern den Scanradius und erhöhen den Wert der Entdeckungsdaten massiv.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade9",
+    "Name": "Blitzwerfer-Modul (C)",
+    "Group": "Blitzwerfer-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Blitzwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert den Blitzwerfer, wodurch die Nachladezeit verringert und der Schaden erhöht wird.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade10",
+    "Name": "Blitzwerfer-Modul (B)",
+    "Group": "Signifikantes Blitzwerfer-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Blitzwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Projektilschaden und verringert die Nachladezeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade11",
+    "Name": "Blitzwerfer-Modul (A)",
+    "Group": "Leistungsstarkes Blitzwerfer-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Blitzwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Projektilschaden, die Feuerrate und die Magazingröße. Verringert die Nachladezeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade12",
+    "Name": "Blitzwerfer-Modul (S)",
+    "Group": "Überlegenes Blitzwerfer-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Blitzwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Projektilschaden, die Feuerrate und die Magazingröße. Verringert die Nachladezeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade13",
+    "Name": "Plasmawerfer-Modul (C)",
+    "Group": "Plasmawerfer-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Plasmawerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet Verbesserungen für den Schaden und den Radius von Explosionen und erhöht die Anzahl der Abpraller vor der Explosion.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade14",
+    "Name": "Plasmawerfer-Modul (B)",
+    "Group": "Signifikantes Plasmawerfer-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Plasmawerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet Verbesserungen für den Schaden und den Radius von Explosionen und erhöht die Anzahl der Abpraller vor der Explosion.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade15",
+    "Name": "Plasmawerfer-Modul (A)",
+    "Group": "Leistungsstarkes Plasmawerfer-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Plasmawerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet Verbesserungen für den Schaden und den Radius von Explosionen und erhöht die Anzahl der Abpraller vor der Explosion.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade16",
+    "Name": "Plasmawerfer-Modul (S)",
+    "Group": "Überlegenes Plasmawerfer-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Plasmawerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet Verbesserungen für den Schaden und den Radius von Explosionen und erhöht die Anzahl der Abpraller vor der Explosion.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade17",
+    "Name": "Geologiekanonen-Modul (C)",
+    "Group": "Geologiekanonen-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Geologiekanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht sowohl den Explosionsschaden als auch den Kraterradius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade18",
+    "Name": "Geologiekanonen-Modul (B)",
+    "Group": "Signifikantes Geologiekanonen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Geologiekanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht sowohl den Explosionsschaden als auch den Kraterradius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade19",
+    "Name": "Geologiekanonen-Modul (A)",
+    "Group": "Leistungsstarkes Geologiekanonen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Geologiekanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht sowohl den Explosionsschaden als auch den Kraterradius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade20",
+    "Name": "Geologiekanonen-Modul (S)",
+    "Group": "Überlegenes Geologiekanonen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Geologiekanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht sowohl den Explosionsschaden als auch den Kraterradius.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade21",
+    "Name": "Glutspeer-Modul (C)",
+    "Group": "Glutspeer-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Glutspeer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Laserschaden und verringert die Aufladezeit.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade22",
+    "Name": "Glutspeer-Modul (B)",
+    "Group": "Signifikantes Glutspeer-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Glutspeer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Laserschaden und verringert die Aufladezeit signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade23",
+    "Name": "Glutspeer-Modul (A)",
+    "Group": "Leistungsstarkes Glutspeer-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Glutspeer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Laserschaden und verringert die Aufladezeit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade24",
+    "Name": "Glutspeer-Modul (S)",
+    "Group": "Überlegenes Glutspeer-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Glutspeer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Laserschaden und verringert die Aufladezeit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade25",
+    "Name": "Streublaster-Modul (C)",
+    "Group": "Streublaster-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Streublaster. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht den Waffenschaden und verringert die Nachladezeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade26",
+    "Name": "Streublaster-Modul (B)",
+    "Group": "Signifikantes Streublaster-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Streublaster. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nÜberholt interne Mechanismen, um die Magazingröße und die Kugeln pro Schuss zu erhöhen. Erhöht zudem den Waffenschaden und verringert die Nachladezeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade27",
+    "Name": "Streublaster-Modul (A)",
+    "Group": "Leistungsstarkes Streublaster-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Streublaster. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet signifikante Verbesserungen für den Waffenschaden und die Nachladezeiten. Erhöht die Gesamt-Magazingröße und bietet substanzielle Verbesserungen für die Feuerrate.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade28",
+    "Name": "Streublaster-Modul (S)",
+    "Group": "Überlegenes Streublaster-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Streublaster. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet signifikante Verbesserungen für den Waffenschaden und die Nachladezeiten. Erhöht die Gesamt-Magazingröße und bietet erhebliche Verbesserungen für die Feuerrate.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade29",
+    "Name": "Impulswerfer-Modul (C)",
+    "Group": "Impulswerfer-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Impulswerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nÜberlädt die internen Ladesysteme, um die Feuerrate zu erhöhen und die Nachladezeiten zu verringern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade30",
+    "Name": "Impulswerfer-Modul (B)",
+    "Group": "Signifikantes Impulswerfer-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Impulswerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerstärkt die Kernoptik, um Magazingröße und Feuerrate zu erhöhen und die Nachladezeiten zu verringern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade31",
+    "Name": "Impulswerfer-Modul (A)",
+    "Group": "Leistungsstarkes Impulswerfer-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Impulswerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nEine örtlich begrenzte Raumzeit-Verkrümmung erhöht die Magazingröße und die Feuerrate und verringert die Nachladezeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade32",
+    "Name": "Impulswerfer-Modul (S)",
+    "Group": "Überlegenes Impulswerfer-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Impulswerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nEine örtlich begrenzte Raumzeit-Verkrümmung erhöht die Magazingröße und die Feuerrate und verringert die Nachladezeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade33",
+    "Name": "Lebenserhaltungsmodul (B)",
+    "Group": "Signifikantes Lebenserhaltungs-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Lebenserhaltungssystem. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Lebenserhaltungssystem-Energie.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade34",
+    "Name": "Lebenserhaltungsmodul (A)",
+    "Group": "Signifikantes Lebenserhaltungs-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Lebenserhaltungssystem. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Lebenserhaltungssystem-Energie und bietet begrenzt Solarenergie-Rückführung, was den Energieverbrauch bei Tageslicht verringert.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade35",
+    "Name": "Lebenserhaltungsmodul (S)",
+    "Group": "Überlegenes Lebenserhaltungs-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Lebenserhaltungssystem. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Lebenserhaltungssystem-Energie und bietet begrenzt Solarenergie-Rückführung, was den Energieverbrauch bei Tageslicht verringert.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade36",
+    "Name": "Bewegungsmodul (C)",
+    "Group": "Bewegungssystem-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Bewegungssysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet Verbesserungen für Tankkapazität und Lebenserhaltungsverbrauch des Jetpacks sowie eine erhöhte Geschwindigkeitsschubdauer für den Exo-Anzug.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade37",
+    "Name": "Bewegungsmodul (B)",
+    "Group": "Signifikantes Bewegungssystem-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Bewegungssysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet starke Verbesserungen für Tankkapazität und Lebenserhaltungsverbrauch des Jetpacks sowie eine erhöhte Geschwindigkeitsschubdauer für den Exo-Anzug.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade38",
+    "Name": "Bewegungsmodul (A)",
+    "Group": "Leistungsstarkes Bewegungssystem-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Bewegungssysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet drastische Verbesserungen für Tankkapazität und Lebenserhaltungsverbrauch des Jetpacks sowie eine erhöhte Geschwindigkeitsschubdauer für den Exo-Anzug.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade39",
+    "Name": "Bewegungsmodul (S)",
+    "Group": "Überlegenes Bewegungssystem-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Bewegungssysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nBietet drastische Verbesserungen für Tankkapazität und Lebenserhaltungsverbrauch des Jetpacks sowie eine erhöhte Geschwindigkeitsschubdauer für den Exo-Anzug.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade40",
+    "Name": "Schildmodul (C)",
+    "Group": "Defensivsystem-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Defensivsysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Exo-Anzug-Schildstärke.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade41",
+    "Name": "Schildmodul (B)",
+    "Group": "Signifikantes Defensivsystem-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Defensivsysteme des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Exo-Anzug-Schildstärke und auch die Kerngesundheit signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade42",
+    "Name": "Schildmodul (A)",
+    "Group": "Leistungsstarkes Defensivsystem-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Defensivsysteme des Exo-Anzugs. Den Upgrade-Installationsprozess mit FE_ALT1 starten.\n\nErhöht die Exo-Anzug-Schildstärke und auch die Kerngesundheit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade43",
+    "Name": "Schildmodul (S)",
+    "Group": "Überlegenes Defensivsystem-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Defensivsystem des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Exo-Anzug-Schildstärke und auch die Kerngesundheit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade44",
+    "Name": "Unterwasserschutz-Modul (B)",
+    "Group": "Unterwasser-Sauerstoff-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Belüftungsmembran des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit unter Wasser signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade45",
+    "Name": "Unterwasserschutz-Modul (A)",
+    "Group": "Signifikantes Unterwasser-Sauerstoff-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Belüftungsmembran des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit unter Wasser drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade46",
+    "Name": "Unterwasserschutz-Modul (S)",
+    "Group": "Leistungsstarkes Unterwasser-Sauerstoff-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Belüftungsmembran des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit unter Wasser drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade47",
+    "Name": "Strahlungsschutz-Modul (B)",
+    "Group": "Signifikantes Gefahrenschutz-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Strahlungsschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit in radioaktiven Umgebungen signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade48",
+    "Name": "Strahlungsschutz-Modul (A)",
+    "Group": "Leistungsstarkes Gefahrenschutz-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Strahlungsschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit in radioaktiven Umgebungen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade49",
+    "Name": "Strahlungsschutz-Modul (S)",
+    "Group": "Überlegenes Gefahrenschutz-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Strahlungsschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit in radioaktiven Umgebungen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade50",
+    "Name": "Giftschutz-Modul (B)",
+    "Group": "Signifikantes Gefahrenschutz-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Giftfilter-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit in giftigen Umgebungen signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade51",
+    "Name": "Giftschutz-Modul (A)",
+    "Group": "Leistungsstarkes Gefahrenschutz-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Giftfiltersystem des Exo-Anzugs. Den Upgrade-Installationsprozess mit FE_ALT1 starten.\n\nVerbessert die Überlebenszeit in giftigen Umgebungen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade52",
+    "Name": "Giftschutz-Modul (S)",
+    "Group": "Überlegenes Gefahrenschutz-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Giftfilter-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit in giftigen Umgebungen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade53",
+    "Name": "Wärmeschutz-Modul (B)",
+    "Group": "Signifikantes Gefahrenschutz-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade54",
+    "Name": "Wärmeschutz-Modul (A)",
+    "Group": "Leistungsstarkes Gefahrenschutz-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade55",
+    "Name": "Wärmeschutz-Modul (S)",
+    "Group": "Überlegenes Gefahrenschutz-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade56",
+    "Name": "Thermal Protection Module (B)",
+    "Group": "Significant Hazard Protection Upgrade",
+    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade57",
+    "Name": "Thermal Protection Module (A)",
+    "Group": "Powerful Hazard Protection Upgrade",
+    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade58",
+    "Name": "Thermal Protection Module (S)",
+    "Group": "Supreme Hazard Protection Upgrade",
+    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade59",
+    "Name": "Impulsantrieb-Modul (C)",
+    "Group": "Impulsantrieb-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Raumschiff-Impulsantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Manövrierbarkeit und Geschwindigkeit des Raumschiffs.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade60",
+    "Name": "Impulsantrieb-Modul (B)",
+    "Group": "Signifikantes Impulsantrieb-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Raumschiff-Impulsantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Manövrierbarkeit und Geschwindigkeit des Raumschiffs.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade61",
+    "Name": "Impulsantrieb-Modul (A)",
+    "Group": "Leistungsstarkes Impulsantrieb-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Raumschiff-Impulsantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Manövrierbarkeit und Geschwindigkeit des Raumschiffs.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade62",
+    "Name": "Impulsantrieb-Modul (S)",
+    "Group": "Überlegenes Impulsantrieb-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Raumschiff-Impulsantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Manövrierbarkeit und Geschwindigkeit des Raumschiffs.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade63",
+    "Name": "Hyperantrieb-Modul (C)",
+    "Group": "Hyperantrieb-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Hyperantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Effizienz des Warp-Antriebs und die Sprungdistanz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade64",
+    "Name": "Hyperantrieb-Modul (B)",
+    "Group": "Signifikantes Hyperantrieb-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Hyperantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Effizienz des Warp-Antriebs und die Sprungdistanz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade65",
+    "Name": "Hyperantrieb-Modul (A)",
+    "Group": "Leistungsstarkes Hyperantrieb-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Hyperantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Effizienz des Warp-Antriebs und die Sprungdistanz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade66",
+    "Name": "Hyperantrieb-Modul (S)",
+    "Group": "Überlegenes Hyperantrieb-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Hyperantrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Effizienz des Warp-Antriebs und die Sprungdistanz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade67",
+    "Name": "Raumschiffschild-Modul (C)",
+    "Group": "Raumschiffschild-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Abwehrschild des Raumschiffs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Schiffsstärke für eine erhöhte Ausdauer im Kampf.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade68",
+    "Name": "Raumschiffschild-Modul (B)",
+    "Group": "Signifikantes Raumschiffschild-Upgrade",
+    "Description": "Signifikantes Upgrade für den Abwehrschild des Raumschiffs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Schiffsstärke signifikant für eine erhöhte Ausdauer im Kampf.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade69",
+    "Name": "Raumschiffschild-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffschild-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Abwehrschild des Raumschiffs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Schiffsstärke drastisch für eine erhöhte Ausdauer im Kampf.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade70",
+    "Name": "Raumschiffschild-Modul (S)",
+    "Group": "Überlegenes Raumschiffschild-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Abwehrschild des Raumschiffs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Schiffsstärke drastisch für eine erhöhte Ausdauer im Kampf.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade71",
+    "Name": "Photonenkanonen-Modul (C)",
+    "Group": "Raumschiffwaffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Raumschiff-Photonenkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade72",
+    "Name": "Photonenkanonen-Modul (B)",
+    "Group": "Signifikantes Raumschiffwaffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Raumschiff-Photonenkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade73",
+    "Name": "Photonenkanonen-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffwaffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Raumschiff-Photonenkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade74",
+    "Name": "Photonenkanonen-Modul (S)",
+    "Group": "Überlegenes Raumschiffwaffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Raumschiff-Photonenkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade75",
+    "Name": "Phasenstrahler-Modul (C)",
+    "Group": "Raumschiffwaffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Raumschiff-Phasenstrahler. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Effektivität im Kampf über Verbesserungen sowohl beim Schaden als auch bei der Überhitzungstoleranz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade76",
+    "Name": "Phasenstrahler-Modul (B)",
+    "Group": "Signifikantes Raumschiffwaffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Raumschiff-Phasenstrahler. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Effektivität im Kampf über signifikante Verbesserungen sowohl beim Schaden als auch bei der Überhitzungstoleranz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade77",
+    "Name": "Phasenstrahler-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffwaffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Raumschiff-Phasenstrahler. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Effektivität im Kampf drastisch über große Verbesserungen sowohl beim Schaden als auch bei der Überhitzungstoleranz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade78",
+    "Name": "Phasenstrahler-Modul (S)",
+    "Group": "Überlegenes Raumschiffwaffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Raumschiff-Phasenstrahler. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht die Effektivität im Kampf drastisch über große Verbesserungen sowohl beim Schaden als auch bei der Überhitzungstoleranz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade79",
+    "Name": "Positron-Modul (C)",
+    "Group": "Raumschiffwaffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Positronenwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade80",
+    "Name": "Positron-Modul (B)",
+    "Group": "Signifikantes Raumschiffwaffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Positronenwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade81",
+    "Name": "Positron-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffwaffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Positronenwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade82",
+    "Name": "Positron-Modul (S)",
+    "Group": "Überlegenes Raumschiffwaffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Positronenwerfer. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade83",
+    "Name": "Inframesser-Modul (C)",
+    "Group": "Raumschiffwaffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Inframesser-Beschleuniger. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade84",
+    "Name": "Inframesser-Modul (B)",
+    "Group": "Signifikantes Raumschiffwaffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Inframesser-Beschleuniger. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade85",
+    "Name": "Inframesser-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffwaffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Inframesser-Beschleuniger. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade86",
+    "Name": "Inframesser-Modul (S)",
+    "Group": "Überlegenes Raumschiffwaffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Inframesser-Beschleuniger. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade87",
+    "Name": "Zyklotron-Modul (C)",
+    "Group": "Raumschiffwaffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Zyklotron-Balliste. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade88",
+    "Name": "Zyklotron-Modul (B)",
+    "Group": "Signifikantes Raumschiffwaffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Zyklotron-Balliste. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade89",
+    "Name": "Zyklotron-Modul (A)",
+    "Group": "Leistungsstarkes Raumschiffwaffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Zyklotron-Balliste. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade90",
+    "Name": "Zyklotron-Modul (S)",
+    "Group": "Überlegenes Raumschiffwaffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Zyklotron-Balliste. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Überhitzungszeiten drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade91",
+    "Name": "Exo-Fahrzeug-Kanonen-Modul (C)",
+    "Group": "Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Exo-Fahrzeug-Bordkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Treibstoffeffizienz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade92",
+    "Name": "Exo-Fahrzeug-Kanonen-Modul (B)",
+    "Group": "Signifikantes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Exo-Fahrzeug-Bordkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Treibstoffeffizienz signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade93",
+    "Name": "Exo-Fahrzeug-Kanonen-Modul (A)",
+    "Group": "Leistungsstarkes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Exo-Fahrzeug-Bordkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Treibstoffeffizienz drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade94",
+    "Name": "Exo-Fahrzeug-Kanonen-Modul (S)",
+    "Group": "Überlegenes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Exo-Fahrzeug-Bordkanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Schaden, Feuerrate und Treibstoffeffizienz drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade95",
+    "Name": "Exo-Fahrzeug-Laser-Modul (C)",
+    "Group": "Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Exo-Fahrzeug-Minenlaser. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Bergbauenergie und Treibstoffeffizienz.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade96",
+    "Name": "Exo-Fahrzeug-Laser-Modul (B)",
+    "Group": "Signifikantes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Exo-Fahrzeug-Minenlaser. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Bergbauenergie und Treibstoffeffizienz signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade97",
+    "Name": "Exo-Fahrzeug-Laser-Modul (A)",
+    "Group": "Leistungsstarkes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Exo-Fahrzeug-Minenlaser. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Bergbauenergie und Treibstoffeffizienz drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade98",
+    "Name": "Exo-Fahrzeug-Laser-Modul (S)",
+    "Group": "Überlegenes Exo-Fahrzeug-Waffen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Exo-Fahrzeug-Minenlaser. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Bergbauenergie und Treibstoffeffizienz drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade99",
+    "Name": "Exo-Fahrzeug-Boost-Modul (C)",
+    "Group": "Exo-Fahrzeug-Boost-Upgrade",
+    "Description": "Ein mittleres Upgrade für das Exo-Fahrzeug-Beschleunigungsmodul. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Tankkapazität-Boost und Boost-Kraft.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade100",
+    "Name": "Exo-Fahrzeug-Boost-Modul (B)",
+    "Group": "Signifikantes Exo-Fahrzeug-Boost-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Exo-Fahrzeug-Beschleunigungsmodul. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Tankkapazität-Boost und Boost-Kraft signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade101",
+    "Name": "Exo-Fahrzeug-Boost-Modul (A)",
+    "Group": "Leistungsstarkes Exo-Fahrzeug-Boost-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Exo-Fahrzeug-Beschleunigungsmodul. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Tankkapazität-Boost und Boost-Kraft drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade102",
+    "Name": "Exo-Fahrzeug-Boost-Modul (S)",
+    "Group": "Überlegenes Exo-Fahrzeug-Boost-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Exo-Fahrzeug-Beschleunigungsmodul. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert Tankkapazität-Boost und Boost-Kraft drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade103",
+    "Name": "Exo-Fahrzeug-Antrieb-Modul (C)",
+    "Group": "Exo-Fahrzeug-Antrieb-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Exo-Fahrzeug–Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht Treibstoffeffizienz und Spitzengeschwindigkeit.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade104",
+    "Name": "Exo-Fahrzeug–Antrieb-Modul (B)",
+    "Group": "Signifikantes Exo-Fahrzeug-Antrieb-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Exo-Fahrzeug-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht Treibstoffeffizienz und Spitzengeschwindigkeit signifikant.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade105",
+    "Name": "Exo-Fahrzeug-Antrieb-Modul (A)",
+    "Group": "Leistungsstarkes Exo-Fahrzeug-Antrieb-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Exo-Fahrzeug-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht Treibstoffeffizienz und Spitzengeschwindigkeit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade106",
+    "Name": "Exo-Fahrzeug–Antrieb-Modul (S)",
+    "Group": "Überlegenes Exo-Fahrzeug-Antrieb-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Exo-Fahrzeug-Antrieb-Modul. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nErhöht Treibstoffeffizienz und Spitzengeschwindigkeit drastisch.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade107",
+    "Name": "Humboldt-Antriebsmodul (C)",
+    "Group": "U-Boot-Antrieb-Upgrade",
+    "Description": "Ein mittleres Upgrade für den Humboldt-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann die Beschleunigung, Treibstoffeffizienz und Spitzengeschwindigkeit verbessern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade108",
+    "Name": "Humboldt-Antriebsmodul (B)",
+    "Group": "Signifikantes U-Boot-Antrieb-Upgrade",
+    "Description": "Ein signifikantes Upgrade für den Humboldt-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann die Beschleunigung, Treibstoffeffizienz und Spitzengeschwindigkeit signifikant verbessern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade109",
+    "Name": "Humboldt-Antriebsmodul (A)",
+    "Group": "Leistungsstarkes U-Boot-Antrieb-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für den Humboldt-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann die Beschleunigung, Treibstoffeffizienz und Spitzengeschwindigkeit drastisch verbessern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade110",
+    "Name": "Humboldt-Antriebsmodul (S)",
+    "Group": "Überlegenes U-Boot-Antrieb-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für den Humboldt-Antrieb. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann die Beschleunigung, Treibstoffeffizienz und Spitzengeschwindigkeit drastisch verbessern.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade111",
+    "Name": "Nautilon-Kanonenmodul (C)",
+    "Group": "Nautilon-Kanonen-Upgrade",
+    "Description": "Ein mittleres Upgrade für die Nautilon-Kanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann den Schaden und die Feuerrate erhöhen.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade112",
+    "Name": "Nautilon-Kanonenmodul (B)",
+    "Group": "Signifikantes Nautilon-Kanonen-Upgrade",
+    "Description": "Ein signifikantes Upgrade für die Nautilon-Kanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann den Schaden und die Feuerrate signifikant erhöhen.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade113",
+    "Name": "Nautilon-Kanonenmodul (A)",
+    "Group": "Leistungsstarkes Nautilon-Kanonen-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für die Nautilon-Kanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann den Schaden und die Feuerrate drastisch erhöhen.",
+    "Additional": ""
+  },
+  {
+    "Id": "upgrade114",
+    "Name": "Nautilon-Kanonenmodul (S)",
+    "Group": "Überlegenes Nautilon-Kanonen-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für die Nautilon-Kanone. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nKann den Schaden und die Feuerrate drastisch erhöhen.",
+    "Additional": ""
+  }
+]

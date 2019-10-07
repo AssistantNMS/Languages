@@ -177,7 +177,7 @@
   {
     "Id": "trade26",
     "Name": "Star Silk",
-    "Group": "Technology Parts",
+    "Group": "Trade Commodity",
     "Description": "Several spools of star silk.\n\nStar silk is woven on enormous solar looms in orbit around trading planets. Cosmic ray impact triggers the pattern of the weave, which can then be used in advanced material processing.",
     "Additional": ""
   }

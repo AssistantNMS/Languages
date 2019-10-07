@@ -1,0 +1,2163 @@
+[
+  {
+    "Id": "build1",
+    "Name": "Großer Frachterraum",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build2",
+    "Name": "Frachterkorridor",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build3",
+    "Name": "Gebogener Frachterkorridor",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build4",
+    "Name": "Frachterkreuzung",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build5",
+    "Name": "Frachtertreppe",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build6",
+    "Name": "Frachterkreuzung",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt."
+  },
+  {
+    "Id": "build7",
+    "Name": "Flottenkommandoraum",
+    "Group": "Expeditionsverwaltungsterminal",
+    "Description": "Kern-Flottenverwaltungsstation. Diese fortgeschrittene holografische Kommunikationsstation ist wichtig für die Verwaltung der Flottenexpeditionen von deinem Hauptschiff aus.\n\nEs wird zu mehr als einer Station geraten, wenn man gleichzeitig mehr als eine Expedition verwalten möchte."
+  },
+  {
+    "Id": "build8",
+    "Name": "Holzwand",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Holzwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build9",
+    "Name": "Dünne Holzwand",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein dünnes Holzwandmodul zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build10",
+    "Name": "Kleine Holzwand",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine kleine Holzwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build11",
+    "Name": "Kurze Holzwand",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine kurze Holzwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build12",
+    "Name": "Schräge Holzplatte",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine schräge Holzplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build13",
+    "Name": "Holzfenster",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein Holzfenster zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build14",
+    "Name": "Holztürrahmen",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein Holztürrahmen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build15",
+    "Name": "Holztür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine dünne Holztür zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build16",
+    "Name": "Holzfassade",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Holzfassade zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build17",
+    "Name": "Holzbodenplatte",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Holzbodenplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build18",
+    "Name": "Glasplatte mit Holzrahmen",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Boden-/Deckenplatte aus Glas mit einem Holzrahmen."
+  },
+  {
+    "Id": "build19",
+    "Name": "Kleine Holzplatte",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine kleine Holzplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build20",
+    "Name": "Holzrampe",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Holzrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build21",
+    "Name": "Halbe Holzrampe",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine halbe Holzrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build22",
+    "Name": "Holzdach",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine einfache Dachplattform mit verstärkten Stützen."
+  },
+  {
+    "Id": "build23",
+    "Name": "Holzdachplatte",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine Holzdachplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build24",
+    "Name": "Holzdach-Eckstück",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein Holzdach-Eckstück zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build25",
+    "Name": "Holzbogen",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein Holzbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build26",
+    "Name": "Halber Holzbogen",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein halber Holzbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build27",
+    "Name": "Betonwand",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Betonwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build28",
+    "Name": "Dünne Betonwand",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein dünnes Betonwandmodul zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build29",
+    "Name": "Kleine Betonwand",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine kleine Betonwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build30",
+    "Name": "Kurze Betonwand",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine kleine Betonwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build31",
+    "Name": "Schräge Betonplatte",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine schräge Betonplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build32",
+    "Name": "Betonfenster",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein Betonfenster zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build33",
+    "Name": "Betontürrahmen",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein Betontürrahmen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build34",
+    "Name": "Betontür",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine dünne Betontür zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build35",
+    "Name": "Betonfassade",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Betonfassade zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build36",
+    "Name": "Betonbodenplatte",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Betonbodenplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build37",
+    "Name": "Glasplatte mit Betonrahmen",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Boden-/Deckenplatte aus Glas mit einem Betonrahmen."
+  },
+  {
+    "Id": "build38",
+    "Name": "Kleine Betonbodenplatte",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine kleine Betonbodenplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build39",
+    "Name": "Betonrampe",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Betonrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build40",
+    "Name": "Halbe Betonrampe",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine halbe Betonrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build41",
+    "Name": "Betondach",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine einfache Dachplattform mit verstärkten Stützen."
+  },
+  {
+    "Id": "build42",
+    "Name": "Betondachplatte",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine Betondachplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build43",
+    "Name": "Betondach-Eckstück",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein Betondach-Eckstück zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build44",
+    "Name": "Betonbogen",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein Betonbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build45",
+    "Name": "Halber Betonbogen",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein halber Betonbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build46",
+    "Name": "Metallwand",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Metallwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build47",
+    "Name": "Dünne Metallwand",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein dünnes Metallwandmodul zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build48",
+    "Name": "Kleine Metallwand",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine kleine Metallwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build49",
+    "Name": "Kurze Metallwand",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine kleine Metallwand zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build50",
+    "Name": "Schräge Metallplatte",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine schräge Metallplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build51",
+    "Name": "Metallfenster",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein Metallfenster zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build52",
+    "Name": "Metalltürrahmen",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein Metalltürrahmen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build53",
+    "Name": "Metalltür",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine dünne Metalltür zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build54",
+    "Name": "Metallfassade",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Metallfassade zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build55",
+    "Name": "Metallbodenplatte",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Metallbodenplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build56",
+    "Name": "Glasplatte mit Metallrahmen",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Boden-/Deckenplatte aus Glas mit einem Metallrahmen."
+  },
+  {
+    "Id": "build57",
+    "Name": "Kleine Metallplatte",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine kleine Metallplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build58",
+    "Name": "Metallrampe",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Metallrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build59",
+    "Name": "Halbe Metallrampe",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine halbe Metallrampe zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build60",
+    "Name": "Metalldach",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine einfache Dachplattform mit verstärkten Stützen."
+  },
+  {
+    "Id": "build61",
+    "Name": "Metalldachplatte",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine Metalldachplatte zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build62",
+    "Name": "Metalldach-Eckstück",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein Metalldach-Eckstück zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build63",
+    "Name": "Metallbogen",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein Metallbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build64",
+    "Name": "Halber Metallbogen",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein halber Metallbogen zur Verwendung beim Basisbau."
+  },
+  {
+    "Id": "build65",
+    "Name": "Zylindrischer Raum",
+    "Group": "Konstruktionsmodul",
+    "Description": "Das Kernmodul für die Basiskonstruktion. Bietet einen großzügigen zentralen Raum, der erweitert werden kann."
+  },
+  {
+    "Id": "build66",
+    "Name": "Quadratischer Raum",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine quadratische Alternative des Kernmoduls für die Basiskonstruktion. Bietet einen großzügigen zentralen Raum, der erweitert werden kann."
+  },
+  {
+    "Id": "build67",
+    "Name": "Gerader Korridor",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein gerades Korridor-Standardmodul zur Verbindung von Räumen."
+  },
+  {
+    "Id": "build68",
+    "Name": "L-förmiger Korridor",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein robustes Korridormodul zur Verbindung von Räumen mit einem L-förmigen Knick."
+  },
+  {
+    "Id": "build69",
+    "Name": "T-förmiger Korridor",
+    "Group": "AAST",
+    "Description": "Ein Korridormodul mit einer T-förmigen Abzweigung zur Verbindung mehrerer Räume."
+  },
+  {
+    "Id": "build70",
+    "Name": "X-förmiger Korridor",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine X-förmige Korridoreinheit zur Verbindung von vier Räumen in kreuzförmiger Anordnung."
+  },
+  {
+    "Id": "build71",
+    "Name": "Gebogener Korridor",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein robustes, großes Korridormodul zur Verbindung von Räumen mit einem gebogenen Knick."
+  },
+  {
+    "Id": "build72",
+    "Name": "Korridor mit Glasdach",
+    "Group": "Konstruktionsmodul",
+    "Description": "Korridor mit einem Dach aus verstärktem Glas."
+  },
+  {
+    "Id": "build73",
+    "Name": "Aussichtskugel",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine in sich geschlossene, runde Aussichtsplattform, die dem Benutzer einen atemberaubenden Ausblick auf die umliegende Umgebung bietet."
+  },
+  {
+    "Id": "build74",
+    "Name": "Bio-Kuppelraum",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein hübscher Raum mit Kuppel, der sich perfekt für das Kultivieren verschiedener Pflanzen eignet."
+  },
+  {
+    "Id": "build75",
+    "Name": "Würfelförmiger Raum",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein kleines, würfelförmiges Konstruktionsmodul, das gestapelt oder verbunden werden kann, um größere Strukturen zu bilden."
+  },
+  {
+    "Id": "build76",
+    "Name": "Stabiler Würfel",
+    "Group": "Dekoration",
+    "Description": "Ein großer, stabiler Würfel."
+  },
+  {
+    "Id": "build77",
+    "Name": "Würfelförmiger Glasraum",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein würfelförmiges Raummodul, das fast vollständig aus Glas besteht. Eignet sich hervorragend für das Betrachten der Schönheit der Natur."
+  },
+  {
+    "Id": "build78",
+    "Name": "Gewölbte, würfelförmige Wand",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein gewölbtes, würfelförmiges Wandmodul, das gestapelt oder verbunden werden kann, um größere Strukturen zu erzeugen."
+  },
+  {
+    "Id": "build79",
+    "Name": "Gewölbtes, würfelförmiges Dach",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein gewölbtes Dachmodul mit Glasfront, das gestapelt oder verbunden werden kann, um größere Strukturen zu erzeugen."
+  },
+  {
+    "Id": "build80",
+    "Name": "Innentreppen",
+    "Group": "Konstruktionsmodul",
+    "Description": "Treppen, um die Zugänglichkeiten innerhalb von würfelförmigen Bauten zu verbessern."
+  },
+  {
+    "Id": "build81",
+    "Name": "Würfelförmige Innentür",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein Modul für innenliegende Türen, um würfelförmige Räume aufzuteilen."
+  },
+  {
+    "Id": "build82",
+    "Name": "Würfelförmige Innenwand",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein Innenwandmodul, um würfelförmige Räume aufzuteilen."
+  },
+  {
+    "Id": "build83",
+    "Name": "Würfelförmiger Raum – Boden",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Strapazierfähige Kompositbodenplatten, zugeschnitten für würfelförmige Räume."
+  },
+  {
+    "Id": "build84",
+    "Name": "Tür",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Eine druckversiegelte Standardtür, geeignet für alle Räume und Korridore."
+  },
+  {
+    "Id": "build85",
+    "Name": "Zugangsrampe",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Eine verstärkte Rampe aus eisenfreiem Material für Zugang zu Gebäuden."
+  },
+  {
+    "Id": "build86",
+    "Name": "Climb Ladder",
+    "Group": "Construction item",
+    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+  },
+  {
+    "Id": "build87",
+    "Name": "Infrastruktur-Leiter",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine Leiter, die dem Benutzer in Verbindung mit Bauplattformen das einfache Erklimmen großer Höhen ermöglicht."
+  },
+  {
+    "Id": "build88",
+    "Name": "Fundament",
+    "Group": "Konstruktionsmodul",
+    "Description": "Die Basiseinheit für sämtliche Konstruktionsprojekte. Bietet ein solides Fundament für jedes Gebäude. Kann in allen Arten von Terrain verankert werden."
+  },
+  {
+    "Id": "build89",
+    "Name": "Zylindrischer Raumrahmen",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine leichte, industrielle Alternative zum gewöhnlichen zylindrischen Raum."
+  },
+  {
+    "Id": "build90",
+    "Name": "Würfelförmiger Raumrahmen",
+    "Group": "Konstruktionsmodul",
+    "Description": "Leichte, würfelförmige Stützstruktur, die gestapelt oder verbunden werden kann, um große industrielle Bauten zu erschaffen."
+  },
+  {
+    "Id": "build91",
+    "Name": "Pflasterung",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Strapazierfähiger Kompositwerkstoff zur Konstruktion von Gehwegen und gepflasterten Bereichen."
+  },
+  {
+    "Id": "build92",
+    "Name": "Würfelraum – Viererfundamentstrebe",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein vorgefertigter Satz von vier Trägern zur Unterstützung würfelförmiger Räume."
+  },
+  {
+    "Id": "build93",
+    "Name": "Würfelraum – Fundamentstrebe",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein stabiler Träger zur Unterstützung würfelförmiger Räume."
+  },
+  {
+    "Id": "build94",
+    "Name": "Fenster",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein Fenster aus selbstreinigendem, UV-behandelten, hermetisch versiegelten Glas."
+  },
+  {
+    "Id": "build95",
+    "Name": "Großes Glaspaneel",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein Fenster aus selbstreinigendem, UV-behandelten, hermetisch versiegelten Glas."
+  },
+  {
+    "Id": "build96",
+    "Name": "Window (small)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build97",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build98",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build99",
+    "Name": "Konstruktionsterminal",
+    "Group": "Spezialistenterminal",
+    "Description": "Eine auf die Bedürfnisse von Konstruktionsaufsehern zugeschnittene Forschungsstation. Ausgerüstet mit Designsoftware für Architektur und Technik."
+  },
+  {
+    "Id": "build100",
+    "Name": "Exo-Fahrzeug-Terminal",
+    "Group": "Spezialistenterminal",
+    "Description": "Eine auf die Bedürfnisse von Mechanikern zugeschnittene Forschungsstation. Ausgestattet mit spezieller Software zur Fahrzeugentwicklung."
+  },
+  {
+    "Id": "build101",
+    "Name": "Waffenterminal",
+    "Group": "Spezialistenterminal",
+    "Description": "Eine auf die Bedürfnisse von Waffenmeistern zugeschnittene Forschungsstation. Ausgerüstet für die Entwicklung von Munition und Sprengstoff sowie ausgewählter ziviler Technologien."
+  },
+  {
+    "Id": "build102",
+    "Name": "Wissenschaftsterminal",
+    "Group": "Spezialistenterminal",
+    "Description": "Eine auf die Bedürfnisse von Wissenschaftlern zugeschnittene Forschungsstation. Ausgerüstet für die Forschung und Entwicklung wissenschaftlicher Baupläne."
+  },
+  {
+    "Id": "build103",
+    "Name": "Landwirtschaftsterminal",
+    "Group": "Spezialistenterminal",
+    "Description": "Eine auf die Bedürfnisse von Farmern zugeschnittene Forschungsstation. Ausgerüstet für die Analyse und Kultivierung anbaubarer Nutzpflanzen."
+  },
+  {
+    "Id": "build104",
+    "Name": "Landefeld",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein stabiles, verstärktes Landefeld für Raumschiffe."
+  },
+  {
+    "Id": "build105",
+    "Name": "Basisteleporter-Modul",
+    "Group": "Langstrecken-Materienübertragungsgerät",
+    "Description": "Ein persönlicher Teleporter, durch den der Benutzer schnell zwischen den gebauten Basen sowie allen Raumstation-Termini, mit denen er sich verbunden hat, wechseln kann.\n\nDer Benutzer muss unbedingt vorher die Netzwerkintegrität überprüfen, wenn er beim Einstieg keine wichtige Materie verlieren will."
+  },
+  {
+    "Id": "build106",
+    "Name": "Basis-Bergungskapsel",
+    "Group": "Autonomes Lagergerät",
+    "Description": "Ein Konstruktionsbergungsgerät.\n\nDiese optionale Basistechnologie speichert und schützt Materie, die nach dem Abbau der vorherigen Basis übriggeblieben ist."
+  },
+  {
+    "Id": "build107",
+    "Name": "Terminal des galaktischen Marktes",
+    "Group": "Handelsterminal",
+    "Description": "Ein Handelsterminal, das sofortigen lokalen Zugriff auf das Handelsnetzwerk für Ressourcen und Verbrauchsgüter bietet."
+  },
+  {
+    "Id": "build108",
+    "Name": "Gesundheitsstation",
+    "Group": "Gesundheitsauflademodul",
+    "Description": "Ein an Wänden montiertes Modul, an dem Gesundheit aufgeladen werden kann."
+  },
+  {
+    "Id": "build109",
+    "Name": "Gefahrenschutz-Einheit",
+    "Group": "Gefahrenschutz-Aufladesystem",
+    "Description": "Ein an Wänden montiertes Modul, an dem die Gefahrenschutz-Systeme des Benutzers aufgeladen werden können.\n\nDie Gefahrenschutz-Einheit muss mit einer Treibstoff-Quelle angetrieben werden."
+  },
+  {
+    "Id": "build110",
+    "Name": "Mittlere Raffinerie",
+    "Group": "Automatisierte Raffinerieeinheit",
+    "Description": "Ein unverzichtbarer Bestandteil planetarer Ausrüstung. Die Raffinerie ermöglicht es, gesammelte Substanzen zu leistungsfähigeren und fortgeschritteneren Materialien zu verarbeiten.\n\nDie mittelgroße Raffinerie ermöglicht es, zwei unterschiedliche Substanzen zu einem neuen Material zu kombinieren oder Materialien effektiver zu verarbeiten. \nDie mittelgroße Raffinerie muss in einer bewohnbaren Basis installiert werden, benötigt aber keine zusätzlichen Energiequellen."
+  },
+  {
+    "Id": "build111",
+    "Name": "Große Raffinerie",
+    "Group": "Automatisierte Raffinerieeinheit",
+    "Description": "Ein unverzichtbarer Bestandteil planetarer Ausrüstung. Die Raffinerie ermöglicht es, gesammelte Substanzen zu leistungsfähigeren und fortgeschritteneren Materialien zu verarbeiten.\n\nDie große Raffinerie ermöglicht es, drei unterschiedliche Substanzen zu einem neuen Material zu kombinieren oder Materialien effektiver zu verarbeiten. \nDie große Raffinerie muss in einer bewohnbaren Basis installiert werden, benötigt aber keine zusätzlichen Energiequellen."
+  },
+  {
+    "Id": "build112",
+    "Name": "Aussehenmodifikator",
+    "Group": "Persönliches Aussehen anpassen",
+    "Description": "Ein Modul zum Bauen, mit dem die Benutzer ihr Aussehen einstellen können.\n\nDieses Modul rekalibriert das Licht mittels holographischer Techniken, um allen Wünschen entsprechen zu können. Die visuellen Daten müssen vor dem Einsatz ordnungsgemäß formatiert sein."
+  },
+  {
+    "Id": "build113",
+    "Name": "Nachrichtenmodul",
+    "Group": "Kommunikationsterminal",
+    "Description": "Ein kleiner, zugänglicher Informationsbehälter, um Nachrichten zu hinterlassen oder vorhandene Nachrichten und kurze Informationstexte zu lesen."
+  },
+  {
+    "Id": "build114",
+    "Name": "Signalbooster",
+    "Group": "Umgebungsscanner",
+    "Description": "Ein vielseitiger Scanner, der Gebäude in der Nähe erkennt. Kann Navigationsdaten entschlüsseln, um bestimmte Orte zu lokalisieren.\n\nDer Signalbooster kann zum einfacheren Transport abgebaut und wieder eingesetzt werden."
+  },
+  {
+    "Id": "build115",
+    "Name": "Speichersignal",
+    "Group": "Tragbare Wegpunktmarkierung",
+    "Description": "Einmal aktiviert bieten Signale einen dauerhaften Navigationswegpunkt, um wiederholte Besuche an bestimmten Orten zu erleichtern.\n\nErmöglicht es dem Benutzer, seinen Fortschritt jederzeit zu speichern."
+  },
+  {
+    "Id": "build116",
+    "Name": "Speicherpunkt",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein Speicherpunkt, den man zur Verwaltung des eigenen Fortschritts bauen kann."
+  },
+  {
+    "Id": "build117",
+    "Name": "Kommunikationsstation",
+    "Group": "Kommunikationsterminal",
+    "Description": "Ein Terminal zum Verfassen und Übertragen von Nachrichten an andere Reisende."
+  },
+  {
+    "Id": "build118",
+    "Name": "Atmosphärenverarbeitungsanlage",
+    "Group": "Autonomer Gaskompressor",
+    "Description": "Eine automatisierte Absaugeinheit zum Sammeln wertvoller Gase. Nach Aktivierung kondensiert und komprimiert die Verarbeitungsanlage mit der Zeit Substanzen aus der Luft. Das komprimierte Gas wird dann bis zur Aufnahme sicher aufbewahrt."
+  },
+  {
+    "Id": "build119",
+    "Name": "Autonome Bergbaueinheit",
+    "Group": "Tragbares Bergbaugerät",
+    "Description": "Eine automatisierte Verarbeitungsanlage zum Abbau von Ressourcen. Einmal aktiviert baut die ABV Mineralien ab, ohne gesteuert werden zu müssen, und bringt einen regelmäßigen Ertrag ein, bis das Vorkommen erschöpft ist."
+  },
+  {
+    "Id": "build120",
+    "Name": "Tragbare Raffinerie",
+    "Group": "Automatisierte Raffinerieeinheit",
+    "Description": "Ein unverzichtbarer Bestandteil planetarer Ausrüstung. Die Raffinerie ermöglicht es, gesammelte Substanzen zu leistungsfähigeren und fortgeschritteneren Materialien zu verarbeiten.\n\nDie tragbare Raffinerie kann zum einfacheren Transport abgebaut und wieder eingesetzt werden. Hinweis: Die tragbare Raffinerie benötigt Treibstoff."
+  },
+  {
+    "Id": "build121",
+    "Name": "Basiscomputer",
+    "Group": "Ort-Evaluierungsgerät",
+    "Description": "Portabler Land-Registrierungsservice.\n\nKontaktiert nach dem Platzieren das universelle Kartografiearchiv, um das Eigentum des Lands einzurichten. Nach erfolgreicher Registrierung können Basismodule an beliebigen Orten gebaut werden."
+  },
+  {
+    "Id": "build122",
+    "Name": "Sauerstoff-Verarbeiter",
+    "Group": "Atmosphärenverarbeitungsgerät",
+    "Description": "Dieser autonome Atmosphären-Extraktor kann eigenständig Sauerstoff aus der Luft sammeln und reinigen. Der Benutzer muss für einen fortgesetzten Einsatz die Treibstoffvorräte im Auge behalten.\n\nDas daraus resultierende Gas wird komprimiert und verarbeitet und kann in allen Standard-Lebenserhaltungssystemen eingesetzt werden."
+  },
+  {
+    "Id": "build123",
+    "Name": "Blueprint Analyser",
+    "Group": "Technology Recovery Device",
+    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+  },
+  {
+    "Id": "build124",
+    "Name": "Meeresunterschlupf",
+    "Group": "Tiefsee-Überlebensmodul",
+    "Description": "Ein Notfalls-Überlebensmodul.\n\nKann im Falle eines Sauerstoff- oder anderen die Lebenserhaltung des Exo-Anzugs betreffenden Notfalls schnell auf dem Meeresboden eingesetzt werden. Stellt einen vorübergehenden Unterschlupf vor Umweltgefahren, Raubtieren und anderen feindlichen Einflüssen bereit, die in den Tiefen des Ozeans lauern."
+  },
+  {
+    "Id": "build125",
+    "Name": "Exo-Fahrzeug-Rufstation",
+    "Group": "Fahrzeug-Versetzungsgerät",
+    "Description": "Nach Konstruktion kann der Nutzer jedes Exo-Fahrzeug in seinem Besitz von überallher auf dem Planeten rufen.\n\nVerbindet sich mit dem Exo-Anzug-Schnellbefehlsmenü für eine einfachere Bedienung."
+  },
+  {
+    "Id": "build126",
+    "Name": "Geobay",
+    "Group": "Exocraft",
+    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
+  },
+  {
+    "Id": "build127",
+    "Name": "Renninitiator",
+    "Group": "Teil eines Rennens",
+    "Description": "Diese Plattform dient als Start- und Ziellinie für Praxistests des Exo-Fahrzeugs, sodass Reisende das Manövrieren und das schnelle Fahren üben können."
+  },
+  {
+    "Id": "build128",
+    "Name": "Nautilon-Kammer",
+    "Group": "U-Boot-Andockbucht",
+    "Description": "Eine fortschrittliche, vollkommen luftdichte Andockstation für das Nautilon-U-Boot."
+  },
+  {
+    "Id": "build129",
+    "Name": "Gammagras",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine leuchtende, blättrige Blütenpflanze, die in radioaktiven Biomen gedeiht und kultiviert werden kann, um eine ertragreiche Ernte einzubringen.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein radioaktives Klima.\n\nGeschätzte Wachstumszeit: 4 Stunden",
+    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build130",
+    "Name": "Pilzgeflecht",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Ein kugelförmiger Pilz mit inneren Lamellen. Kommt nur in toxischen Biomen vor. Pilzgeflechte können zum Anbau umgepflanzt werden und bringen eine ertragreiche Ernte ein.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein toxisches Klima.\n\nGeschätzte Wachstumszeit: 4 Stunden",
+    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build131",
+    "Name": "Frostwurz",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine große Kristallblume mit strahlend blauen Blüten, die nur in verschneiten Biomen zu finden ist. Frostwurz kann angebaut werden und ist eine zuverlässige Nutzpflanze, die dank ihrer Anpassungsfähigkeit häufige Ernten einbringt.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein gefrorenes Klima.\n\nGeschätzte Wachstumszeit: 1 Stunde",
+    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+  },
+  {
+    "Id": "build132",
+    "Name": "Giftigel",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine kleine, harmlos aussehende Pflanze, deren Blätter in regelmäßigen Abständen eine kleine Menge starken Beutelgifts absondern – ein wertvolles Verbrauchsgut zum Handeln.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Kann nicht im Freien angepflanzt werden.\n\nGeschätzte Wachstumszeit: 3 Stunden und 20 Minuten",
+    "Additional": "1 Sac Venom in roughly 3 hours 20 minutes of real time"
+  },
+  {
+    "Id": "build133",
+    "Name": "Sonnenrebe",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Dieser „lebende Felsen“ ist an die Lebensumstände in der extremen Hitze sengend heißer Biome angepasst. Er kann jedoch in den meisten Umgebungen angebaut werden und bringt eine moderate Ernte ein.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein heißes Klima.\n\nGeschätzte Wachstumszeit: 16 Stunden",
+    "Additional": "78 Solanium in roughly 16 hours of real time"
+  },
+  {
+    "Id": "build134",
+    "Name": "Magenkrampfblume",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine übel riechende, anbaufähige Blume, die die chemische Struktur von Fäkalien repliziert. Wenn sie drinnen angepflanzt wird, bringt sie eine Faecium-Ernte ein.\n\nEine gute Alternative zum Sammeln von Faecium, welches das Füttern von Tieren und dann das Einsammeln ihres Dungs beinhaltet. Magenkrampfblumen müssen in einem Hydrokultur-Trog angepflanzt werden.\n\nGeschätzte Wachstumszeit: 4 Stunden",
+    "Additional": "39 Faecium in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build135",
+    "Name": "Gravitino-Wirt",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine seltsame, möglicherweise parasitäre Pflanze, die eine gelegentliche Ernte der außerordentlich handelsfähigen Gravitino-Bälle einbringt.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Kann nicht im Freien angepflanzt werden.\n\nGeschätzte Wachstumszeit: 2 Stunden",
+    "Additional": "1 Gravitino Ball in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build136",
+    "Name": "Morditwurzel",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine nicht essbare Knollenpflanze, die einen kleinen Ertrag an Mordit-Kristallen einbringt.\n\nEine friedvolle Alternative zu der Methode, Mordit aus den Körpern toter Kreaturen zu gewinnen. Die Morditwurzel muss in einem Hydrokultur-Trog angepflanzt werden.\n\nGeschätzte Wachstumszeit: 8 Stunden",
+    "Additional": "39 Mordite in roughly 8 hours of real time"
+  },
+  {
+    "Id": "build137",
+    "Name": "Echinokaktus",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Der essbare Echinokaktus, eine Sukkulente, ist in kargen Lebensräumen heimisch und fähig, lange Phasen der Trockenheit zu überstehen. Er lässt sich gut kultivieren und bringt gelegentlich eine große Ernte ein.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein karges Klima.\n\nGeschätzte Wachstumszeit: 16 Stunden",
+    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+  },
+  {
+    "Id": "build138",
+    "Name": "Sternendorn",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Eine mittelgroße, anbaufähige Pflanze, die eine gelegentliche Ernte wertvoller Sternenknollen einbringt.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein fruchtbares Klima.\n\nGeschätzte Wachstumszeit: 4 Stunden",
+    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build139",
+    "Name": "Eiweißperlenkugel",
+    "Group": "Kugelpflanze",
+    "Description": "Eine mittelgroße, anbaufähige Kristallkugel, die eine gelegentliche Ernte wertvoller Eiweißperlen einbringt.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Kann nicht im Freien angepflanzt werden.\n\nGeschätzte Wachstumszeit: 80 min",
+    "Additional": "1 Albumen Pearl in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build140",
+    "Name": "NipNip",
+    "Group": "Fruchtbarer Samen",
+    "Description": "Dieses Heilkraut ist für seine beißenden Knospen bekannt, die geerntet werden, um Gek-Nip herzustellen. NipNip gedeiht in feuchter Umgebung und wächst oft auch als Unkraut.\n\nGeeignet für Hydrokultur-Pflanzenanbau in Gebäuden. Benötigt beim Anbau im Freien ein tropisches oder feuchtes Klima.",
+    "Additional": "1 NipNip Buds in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build141",
+    "Name": "Flora-Behälter",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build142",
+    "Name": "Topfpflanze",
+    "Group": "Dekoration",
+    "Description": "Ein dekorativer Pflanzentopf für Innenräume."
+  },
+  {
+    "Id": "build143",
+    "Name": "Hydrokultur-Trog",
+    "Group": "Landwirtschaftstechnik",
+    "Description": "Ein in sich geschlossenes Entwicklungssystem für den Innenanbau von Nutzpflanzen.\n\nAnforderungen für Anbau: Muss in einem Gebäude platziert werden."
+  },
+  {
+    "Id": "build144",
+    "Name": "Großer Hydrokultur-Trog",
+    "Group": "Landwirtschaftstechnik",
+    "Description": "Ein in sich geschlossenes Entwicklungssystem für den Innenanbau von Nutzpflanzen. Bietet Platz für bis zu vier Pflanzen.\n\nAnforderungen für Anbau: Muss in einem Gebäude platziert werden."
+  },
+  {
+    "Id": "build145",
+    "Name": "Stehender Pflanzenbehälter",
+    "Group": "Landwirtschaftstechnik",
+    "Description": "Ein System stehender Pflanzenbehälter zum Anbau von Nutzpflanzen in Gebäuden."
+  },
+  {
+    "Id": "build146",
+    "Name": "Fassförmiger Fabrikator",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build147",
+    "Name": "Kistenförmiger Fabrikator",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build148",
+    "Name": "Lagerbehälter",
+    "Group": "Lagereinheit",
+    "Description": "Geräumiger zusätzlicher Lagerplatz für Inventargegenstände."
+  },
+  {
+    "Id": "build149",
+    "Name": "Frachter-Lagereinheit",
+    "Group": "Benutzer-Frachtermodul",
+    "Description": "Hybrid-Lagereinheit/-modul mit hoher Kapazität zur Installation in interstellaren Frachtern.\n\nKompatibel mit allen Standardeinbauteilen für Lebenserhaltungssysteme."
+  },
+  {
+    "Id": "build150",
+    "Name": "Verschlossene Kiste",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build151",
+    "Name": "Kleine Kiste",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build152",
+    "Name": "Waffenregal",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build153",
+    "Name": "Chair (Variant 1)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build154",
+    "Name": "Chair (variant 2)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build155",
+    "Name": "Chair (variant 3)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build156",
+    "Name": "Tisch",
+    "Group": "Möbel",
+    "Description": "Eine Allzweckarbeitsfläche, hergestellt aus nichtmagnetischen, korrosionsbeständigen Materialien."
+  },
+  {
+    "Id": "build157",
+    "Name": "Bett",
+    "Group": "Möbel",
+    "Description": "Ein großzügig proportioniertes Einzelbett, entwickelt für die meisten Zweibeiner und mit minimalem Überhang der Extremitäten."
+  },
+  {
+    "Id": "build158",
+    "Name": "Leichter Tisch",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build159",
+    "Name": "Regalmodul",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis."
+  },
+  {
+    "Id": "build160",
+    "Name": "Paving (tall)",
+    "Group": "Construction item",
+    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+  },
+  {
+    "Id": "build161",
+    "Name": "Terbium-Wachstum",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build162",
+    "Name": "Lichtbruch",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build163",
+    "Name": "Blasenballen",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build164",
+    "Name": "Hexaplattenstrauch",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build165",
+    "Name": "Defekter Separator",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build166",
+    "Name": "Verknöcherter Stern",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build167",
+    "Name": "Klapperwirbelsäule",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build168",
+    "Name": "Kabelkapsel",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build169",
+    "Name": "Kalzipilz",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build170",
+    "Name": "Kapillarmuschel",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build171",
+    "Name": "Elektrischer Würfel",
+    "Group": "Stabilisierte Realitätsstörung",
+    "Description": "Eine seltene, stabilisierte Störung, die von einem fehlerhaften Planeten geborgen wurde. Kann auf einer bewohnbaren Basis sicher installiert werden."
+  },
+  {
+    "Id": "build172",
+    "Name": "Tiefseekammer",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Das Kernmodul für die Basiskonstruktion. Bietet einen großzügigen zentralen Raum, der erweitert werden kann."
+  },
+  {
+    "Id": "build173",
+    "Name": "Quadratische Tiefseekammer",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Eine quadratische Alternative des Kernmoduls für die Basiskonstruktion. Bietet einen großzügigen zentralen Raum, der erweitert werden kann."
+  },
+  {
+    "Id": "build174",
+    "Name": "Mondteichboden",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Eine holografische Mondteichluke. Ermöglicht die leichte Passage in Wasserumgebungen hinein und aus ihnen heraus.\n\nÜberdrucksysteme werden automatisch und diskret im Raum versteckt."
+  },
+  {
+    "Id": "build175",
+    "Name": "Wasserdichte Tür",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Eine druckversiegelte Standardtür, geeignet für alle Räume und Korridore."
+  },
+  {
+    "Id": "build176",
+    "Name": "Glastunnel",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Unter Druck stehende, verstärkte Glastunnel für Konstruktionen in der Tiefsee.\n\nFortgeschrittene Nanomineralienbeschichtung garantiert eine hohe Leistung in großen Tiefen ohne Sichtbarkeitsverlust."
+  },
+  {
+    "Id": "build177",
+    "Name": "L-förmiger Glastunnel",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Unter Druck stehende, verstärkte Glastunnel für Konstruktionen in der Tiefsee.\n\nFortgeschrittene Nanomineralienbeschichtung garantiert eine hohe Leistung in großen Tiefen ohne Sichtbarkeitsverlust."
+  },
+  {
+    "Id": "build178",
+    "Name": "T-förmiger Glastunnel",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Unter Druck stehende, verstärkte Glastunnel für Konstruktionen in der Tiefsee.\n\nFortgeschrittene Nanomineralienbeschichtung garantiert eine hohe Leistung in großen Tiefen ohne Sichtbarkeitsverlust."
+  },
+  {
+    "Id": "build179",
+    "Name": "X-förmiger Glastunnel",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Unter Druck stehende, verstärkte Glastunnel für Konstruktionen in der Tiefsee.\n\nFortgeschrittene Nanomineralienbeschichtung garantiert eine hohe Leistung in großen Tiefen ohne Sichtbarkeitsverlust."
+  },
+  {
+    "Id": "build180",
+    "Name": "Vertikaler Glastunnel",
+    "Group": "Wasser-Konstruktionsmodul",
+    "Description": "Unter Druck stehende, verstärkte Glastunnel für Konstruktionen in der Tiefsee.\n\nFortgeschrittene Nanomineralienbeschichtung garantiert eine hohe Leistung in großen Tiefen ohne Sichtbarkeitsverlust."
+  },
+  {
+    "Id": "build181",
+    "Name": "Lichtbox",
+    "Group": "Lichtgerät",
+    "Description": "Ein spezielles Konstruktionsmodul, das zur Gänze aus lichterzeugenden Platten gefertigt wurde. Kann zur Erstellung von Lichtmauern verwendet werden.\n\nDie Box kann vor oder nach dem Platzieren umgefärbt werden. Benötigt Strom, um zu funktionieren."
+  },
+  {
+    "Id": "build182",
+    "Name": "Laborlampe",
+    "Group": "Einbauteil",
+    "Description": "Licht mit geringem Energieverbrauch, verlängerter Lebensdauer und voll recycelbaren Komponenten."
+  },
+  {
+    "Id": "build183",
+    "Name": "Biotreibstoff-Reaktor",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein kleiner Stromgenerator. Verbrennt in seinem Ofentank darin platzierten kohlenstoffbasierten Treibstoff und wandelt ihn in brauchbare Energie um.\n\nVerbinde Stromgeneratoren mittels elektrischer Verkabelung mit Basisstrukturen und Technologien. Viele Teile benötigen Strom, um zu funktionieren."
+  },
+  {
+    "Id": "build184",
+    "Name": "Mineralienextraktor",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Eine automatisierte Mineralverarbeitungsanlage. Bestimme eine Stelle mit dem Begutachtungs-Upgrade für das Analysevisier. Die Mineralgewinnungsraten und produzierten Mineralien sind von Stelle zu Stelle unterschiedlich.\n\nBenötigt Strom, um zu funktionieren. Verbinde den Extraktor mittels Leitungen mit Silos, um das Sammeln an geeigneteren Stellen zu erlauben."
+  },
+  {
+    "Id": "build185",
+    "Name": "Wandschalter",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt den Stromfluss, wenn er gezogen wird.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build186",
+    "Name": "Solarmodul",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein effizienter Stromgenerator. Diese Solaranlage wandelt Sonnenlicht direkt in elektrische Energie um, die für viele Basisstrukturen nötig ist.\n\nErzeugt bei Nacht keine Energie. Kombiniere ihn mit Batterien, um Energie für die Nachtstunden zu speichern."
+  },
+  {
+    "Id": "build187",
+    "Name": "Batterie",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Hocheffiziente Energiespeichereinheiten. Bei der Anbindung an ein Stromnetz zapfen die Energieverwaltungsschaltkreise automatisch übrige Kapazität an, um ihre Zellen aufzuladen.\n\nWenn das Stromnetz versucht, mehr Energie anzuzapfen als aktuell zur Verfügung steht, gibt die Batterie automatisch Energie frei, um das Defizit auszugleichen."
+  },
+  {
+    "Id": "build188",
+    "Name": "Gas-Extraktor",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Eine automatisierte Gasverarbeitungsanlage. Bestimme eine Stelle mit dem Begutachtungs-Upgrade für das Analysevisier. Die Gasgewinnungsraten und produzierten Gase sind von Stelle zu Stelle unterschiedlich.\n\nBenötigt Strom, um zu funktionieren. Verbinde den Extraktor mittels Leitungen mit Silos, um das Sammeln an geeigneteren Stellen zu erlauben."
+  },
+  {
+    "Id": "build189",
+    "Name": "Versorgungsdepot",
+    "Group": "Substanzverteilungsmodul",
+    "Description": "Eine automatisierte Lagereinheit. Verbinde sie mittels Leitungen mit einem Versorgungsnetz.\n\nLagert automatisch die Ausgabe diverser Mineralien- und Gas-Extraktoren, was zu einer erhöhten Kapazität und effizienteren Standortbestimmung führt. Kann über große Distanz vom Extraktionsstandort geortet werden."
+  },
+  {
+    "Id": "build190",
+    "Name": "Versorgungsrohr",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Flexible, robuste Rohre. Können hohem Druck in einer Innenumgebung standhalten.\n\nWerden verwendet, um diverse Mineralien- und Gas-Extraktoren mit Silos zu verbinden."
+  },
+  {
+    "Id": "build191",
+    "Name": "Bodenschalter",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt den Stromfluss, wenn man darauf steht oder er anderweitig aktiviert wird.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build192",
+    "Name": "Annäherungsschalter",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt den Stromfluss, wenn eine Entität in der Nähe entdeckt wird.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build193",
+    "Name": "Schalter",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt bei Gebrauch den Stromfluss.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build194",
+    "Name": "Energieumkehrer",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt bei Gebrauch den Stromfluss.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build195",
+    "Name": "Automatischer Schalter",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein Energieverwaltungsgerät. Der Schalter regelt den Stromfluss, sobald er das Signal dazu erhält.\n\nSchalter benötigen sowohl Strom als auch Kabel, um ein Gerät zu steuern."
+  },
+  {
+    "Id": "build196",
+    "Name": "Elektromagnetischer Generator",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Bei einer passenden Platzierung in einem Bereich mit hoher Feldstärke werden effektive elektromagnetische Lichtmaschinen eingesetzt, um nahezu grenzenlosen Strom zu erzeugen.\n\nLokalisiere passende Stellen mit dem Begutachtungs-Upgrade für das Analysevisier. Die Stromerzeugung ist von Stelle zu Stelle unterschiedlich."
+  },
+  {
+    "Id": "build197",
+    "Name": "Nährstoffprozessor",
+    "Group": "Tragbare Versorgungseinheit",
+    "Description": "Ein tragbarer Nährstoff-Extraktor, der gesammelte Zutaten zu essbaren Produkten verarbeiten und veredelt kann.\n\nDer Benutzer ist sich bewusst, dass er die erzeugten Produkte auf eigene Gefahr konsumiert."
+  },
+  {
+    "Id": "build198",
+    "Name": "Nutztiereinheit",
+    "Group": "Automatischer Ernteroboter",
+    "Description": "Eine Roboter-Landwirtschaftseinheit, die Substanzen von Kreaturen automatisch erntet. Benötigt Strom.\n\nKreaturen, denen Milch, Eier oder andere Erzeugnisse abgenommen werden können, werden sich der Nutztiereinheit nähern, um ihre Erträge abzuliefern. Die Kreatur wird bei diesem Vorgang nicht verletzt.\n\nErntet Erzeugnisse von Kreaturen, die von Hand oder per automatischem Fütterer gefüttert werden."
+  },
+  {
+    "Id": "build199",
+    "Name": "Geräuschbox",
+    "Group": "Audiogerät",
+    "Description": "Ein spezielles Konstruktionsmodul, das entwickelt wurde, um ein Hochfrequenzgeräusch auszusenden. Die Tonhöhe kann den Anforderungen des Benutzers entsprechend angepasst werden.\n\nBenötigt Strom, um zu funktionieren."
+  },
+  {
+    "Id": "build200",
+    "Name": "Kugelerzeuger",
+    "Group": "Experimenteller Hersteller",
+    "Description": "Ein höchst spezifisches Herstellungsgerät, das mit dem Vorhaben entwickelt wurde, die perfekteste Kugel des Universums zu finden.\n\nBenötigt Strom, um zu funktionieren. Erschafft eine große Kugel, die für jegliche notwendigen Experimente bereit ist."
+  },
+  {
+    "Id": "build201",
+    "Name": "Kurzstrecken-Teleporter",
+    "Group": "Soforttransportnetzwerk",
+    "Description": "Ein Teleporter, der wenig Strom benötigt und für das Zurücklegen von kurzen Distanzen konzipiert wurde.\n\nWenn er mit einer Energiequelle und einem weiteren Kurzstrecken-Teleporter verbunden ist, ermöglicht er das sofortige Reisen zwischen nahen Orten."
+  },
+  {
+    "Id": "build202",
+    "Name": "Antimateriereaktor",
+    "Group": "Baryogenese-Einheit",
+    "Description": "Dieser autonome Baryogenese-Reaktor dient der Ernte von Realitätsparadoxen und der Umwandlung selbiger in Antimaterie. Der Benutzer muss für einen fortgesetzten Einsatz die Treibstoffvorräte im Auge behalten.\n\nDie daraus resultierende Antimaterie ist sicher eingedämmt und kann in allen standardmäßigen Hyperraumenergieeinheiten verwendet werden"
+  },
+  {
+    "Id": "build203",
+    "Name": "Automatischer Fütterer",
+    "Group": "Landwirtschaftsroboter",
+    "Description": "Eine Roboter-Landwirtschaftseinheit, die automatisch Kreaturen in der Nähe füttert.\n\nLockt im aktiven Zustand Tiere in der Nähe an. Halte die Ködertanks gefüllt, um Lebensformen mit der gewünschten Nahrung zu versorgen."
+  },
+  {
+    "Id": "build204",
+    "Name": "Viererfundamentstrebe",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein vorgefertigter Satz von vier Trägern für erhöhte Konstruktionen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build205",
+    "Name": "Fundamentstrebe",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein verstärktes Stützbein aus eisenfreiem Metall für erhöhte Konstruktionen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build206",
+    "Name": "Würfelförmiger Dachaufsatz",
+    "Group": "Konstruktionsmodul",
+    "Description": "Ein würfelförmiger Dachaufsatz, um die Dächer würfelförmiger Bauten zu verschönern und zu verstärken.",
+    "Additional": ""
+  },
+  {
+    "Id": "build207",
+    "Name": "Holo-Tür",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine elegante holografische Tür, die schnellen Zugang zu jedem Bauwerk ermöglicht und gleichzeitig die Temperatur und den Schadstoffgehalt in den Innenräumen reguliert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build208",
+    "Name": "Konstruktionsforschungsstation",
+    "Group": "Technologiewiederherstellungsgerät",
+    "Description": "Tragbares Bauplanforschungsgerät.\n\nDieses überall einsetzbare Forschungsmodul lässt den Benutzer alte oder beschädigte Technologiemodule in fortgeschrittene Konstruktionsbaupläne umwandeln.",
+    "Additional": ""
+  },
+  {
+    "Id": "build209",
+    "Name": "Nomaden-Geobucht",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine sichere Untergrund-Parkanlage für das leichte Nomaden-Exo-Fahrzeug.",
+    "Additional": ""
+  },
+  {
+    "Id": "build210",
+    "Name": "Roamer-Geobucht",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine sichere Untergrund-Parkanlage für das mittlere Roamer-Exo-Fahrzeug.",
+    "Additional": ""
+  },
+  {
+    "Id": "build211",
+    "Name": "Koloss-Geobucht",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine sichere Untergrund-Parkanlage für das große Koloss-Exo-Fahrzeug.",
+    "Additional": ""
+  },
+  {
+    "Id": "build212",
+    "Name": "Pilger-Geobucht",
+    "Group": "Konstruktionsmodul",
+    "Description": "Eine sichere Untergrund-Parkanlage für das leichte Pilger-Exo-Fahrzeug.",
+    "Additional": ""
+  },
+  {
+    "Id": "build213",
+    "Name": "Farbige Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build214",
+    "Name": "Deckenleuchte",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build215",
+    "Name": "Leiter",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Eine stabile, leichtgewichtige Leiter mit verstärkten Ankerpunkten zur Anbringung an Wänden.",
+    "Additional": ""
+  },
+  {
+    "Id": "build216",
+    "Name": "Würfelförmiger Raum – Leiter",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Eine stabile, leichtgewichtige Leiter zur Montage für würfelförmige Räume.",
+    "Additional": ""
+  },
+  {
+    "Id": "build217",
+    "Name": "Rolltor",
+    "Group": "Wandzugang",
+    "Description": "Ein automatisiertes Rolltor, das darauf programmiert wurde, sich in Anwesenheit seines Erbauers zu öffnen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build218",
+    "Name": "Stuhl",
+    "Group": "Möbel",
+    "Description": "Ein bequemer Stuhl, geeignet für die meisten Zweibeiner. Führt lediglich zu geringem Gefühlsverlust im Hinterteil.",
+    "Additional": ""
+  },
+  {
+    "Id": "build219",
+    "Name": "Sofa",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build220",
+    "Name": "Ecksofa",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build221",
+    "Name": "Ergonomisches Sofa",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build222",
+    "Name": "Große Monitorstation",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build223",
+    "Name": "Einfacher Schreibtisch",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build224",
+    "Name": "Gewölbter Tisch",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build225",
+    "Name": "Monitorstation",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build226",
+    "Name": "Arbeitsplatte",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build227",
+    "Name": "Wandeinheit",
+    "Group": "Dekoration",
+    "Description": "Eine an der Wand montierte, falsche Speichereinheit für dekorative Zwecke.",
+    "Additional": ""
+  },
+  {
+    "Id": "build228",
+    "Name": "Schubladenschrank",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build229",
+    "Name": "Lagermodul",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build230",
+    "Name": "Achteck-Schrank",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build231",
+    "Name": "Hoher Schrank",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build232",
+    "Name": "Schließfach",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build233",
+    "Name": "Seitenmodul",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build234",
+    "Name": "Bodenmatte",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build235",
+    "Name": "Flagge 1",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build236",
+    "Name": "Flagge 2",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build237",
+    "Name": "Flagge 3",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build238",
+    "Name": "Flagge 4",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build239",
+    "Name": "Wandflagge 1",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build240",
+    "Name": "Wandflagge 2",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build241",
+    "Name": "Wandflagge 3",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build242",
+    "Name": "Tech-Bedienfeld",
+    "Group": "Dekoration",
+    "Description": "Ein funktionsunfähiges Tech-Bedienfeld für dekorative Zwecke.",
+    "Additional": ""
+  },
+  {
+    "Id": "build243",
+    "Name": "Wandventilator",
+    "Group": "Dekoration",
+    "Description": "Ein dekoratives Ventilationselement für Wände.",
+    "Additional": ""
+  },
+  {
+    "Id": "build244",
+    "Name": "Wandbildschirm",
+    "Group": "Dekoration",
+    "Description": "Ein dekorativer, an der Wand montierbarer Videobildschirm.",
+    "Additional": ""
+  },
+  {
+    "Id": "build245",
+    "Name": "Server",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build246",
+    "Name": "Deckenpaneel",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build247",
+    "Name": "Kanisterregal",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build248",
+    "Name": "Roboterarm",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build249",
+    "Name": "Flaches Modul",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build250",
+    "Name": "Oszilloskop",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build251",
+    "Name": "Grüner Wandbildschirm",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build252",
+    "Name": "Orangefarbener Wandbildschirm",
+    "Group": "Dekoration",
+    "Description": "Herstellbares Ornament zur Verschönerung deiner Basis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build253",
+    "Name": "Großer Keil",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build254",
+    "Name": "Kleiner Keil",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build255",
+    "Name": "Pyramide",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build256",
+    "Name": "Gebogenes Rohr",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build257",
+    "Name": "Rohr",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build258",
+    "Name": "Zylinder",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build259",
+    "Name": "Würfel",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build260",
+    "Name": "Kugel",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build261",
+    "Name": "Wand",
+    "Group": "Dekoration",
+    "Description": "Verstärktes Wandmodul, weit verbreitet in einfachen Strukturen in der ganzen Galaxie.\n\nEntspricht den universellen Baustandards 2.3b und gewährleistet maximale Kompatibilität mit anderen vorgefertigten Strukturen. Das schnelle Einschnappen des Rasters ermöglicht den problemlosen Zusammenbau von benutzerdefinierten Unterkünften.",
+    "Additional": ""
+  },
+  {
+    "Id": "build262",
+    "Name": "Verbindungspfeiler",
+    "Group": "Konstruktionsmodul",
+    "Description": "Grundlegender Baugegenstand, der in Verbindung mit Wandmodulen Ecken mit 90-Grad-Winkel erzeugt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build263",
+    "Name": "Dachplattform",
+    "Group": "Konstruktionsmodul",
+    "Description": "Grundlegender Baugegenstand, der in Verbindung mit Wandmodulen Plattformen erzeugt, die ein beträchtliches Gewicht tragen können.",
+    "Additional": ""
+  },
+  {
+    "Id": "build264",
+    "Name": "Große Wand",
+    "Group": "Dekoration",
+    "Description": "Verstärktes Wandmodul, weit verbreitet in einfachen Strukturen in der ganzen Galaxie.\n\nEntspricht den universellen Baustandards 2.3b und gewährleistet maximale Kompatibilität mit anderen vorgefertigten Strukturen. Das schnelle Einschnappen des Rasters ermöglicht den problemlosen Zusammenbau von benutzerdefinierten Unterkünften.",
+    "Additional": ""
+  },
+  {
+    "Id": "build265",
+    "Name": "Wand",
+    "Group": "Dekoration",
+    "Description": "Grundlegender herstellbarer Baugegenstand.",
+    "Additional": ""
+  },
+  {
+    "Id": "build266",
+    "Name": "Innere Frachterwand",
+    "Group": "Frachter-Innenmodul",
+    "Description": "Dank diesem Erweiterungsmodul können in großen Raumschiffen schnell bewohnbare Räume gebaut werden.\n\nDie Baueinheit wird mit Druckschotten und allen nötigen Aufsatzpunkten gefertigt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build267",
+    "Name": "Raumschiff-Renninitiator",
+    "Group": "Teil eines Rennens",
+    "Description": "Diese Plattform dient als Start- und Ziellinie für Praxistests des Raumschiffs, sodass Reisende das Manövrieren und das schnelle Fliegen üben können.",
+    "Additional": ""
+  },
+  {
+    "Id": "build268",
+    "Name": "Rennkraftverstärker",
+    "Group": "Teil eines Rennens",
+    "Description": "Verleiht deinem Exo-Fahrzeug in Rennen einen Extraschub.",
+    "Additional": ""
+  },
+  {
+    "Id": "build269",
+    "Name": "Rennhindernis",
+    "Group": "Teil eines Rennens",
+    "Description": "Sorgt in Exo-Fahrzeug-Rennen für eine zusätzliche Herausforderung.",
+    "Additional": ""
+  },
+  {
+    "Id": "build270",
+    "Name": "Motiv",
+    "Group": "Dekoration",
+    "Description": "Platzierbare, dekorative Motive.",
+    "Additional": ""
+  },
+  {
+    "Id": "build271",
+    "Name": "Kreaturenhologramm",
+    "Group": "Umgebungsdekoration",
+    "Description": "Eine dekorative, holografische Darstellung von Wildtieren, die im Entdeckungstagebuch des Benutzers gespeichert sind.",
+    "Additional": ""
+  },
+  {
+    "Id": "build272",
+    "Name": "Verlorene Tiefseetaucherkugel",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine heimgesuchte Exo-Anzug-Aussehenüberschreibung. Selbst wenn sie entfernt wird, wird der Träger auf ewig den flüsternden Ruf der Tiefsee hören ...\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator.",
+    "Additional": ""
+  },
+  {
+    "Id": "build273",
+    "Name": "Bronzene Kreatur-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue stellt eine primitive, uralte Kreatur dar, die viele frühe Entdecker gesucht haben.",
+    "Additional": ""
+  },
+  {
+    "Id": "build274",
+    "Name": "Silberne Kreatur-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue stellt eine primitive, uralte Kreatur dar, die viele frühe Entdecker gesucht haben.",
+    "Additional": ""
+  },
+  {
+    "Id": "build275",
+    "Name": "Goldene Kreatur-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue stellt eine primitive, uralte Kreatur dar, die viele frühe Entdecker gesucht haben.",
+    "Additional": ""
+  },
+  {
+    "Id": "build276",
+    "Name": "Bronzene Diplo-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue stellt eine vierbeinige Langhalsspezies dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build277",
+    "Name": "Silberne Diplo-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue stellt eine vierbeinige Langhalsspezies dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build278",
+    "Name": "Goldene Diplo-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue stellt eine vierbeinige Langhalsspezies dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build279",
+    "Name": "Bronzene Gek-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue stellt einen Gek dar, der zum Himmel gestikuliert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build280",
+    "Name": "Silberne Gek-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue stellt einen Gek dar, der zum Himmel gestikuliert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build281",
+    "Name": "Goldene Gek-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue stellt einen Gek dar, der zum Himmel gestikuliert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build282",
+    "Name": "Bronzene Jäger-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue stellt das Kultraumschiff „Alpha Vector“ dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build283",
+    "Name": "Silberne Jäger-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue stellt das Kultraumschiff „Alpha Vector“ dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build284",
+    "Name": "Goldene Jäger-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue stellt das Kultraumschiff „Alpha Vector“ dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build285",
+    "Name": "Bronzene Kampfläufer-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue stellt den Wächter-Kampfläufer dar, eine fortgeschrittene Kampfeinheit.",
+    "Additional": ""
+  },
+  {
+    "Id": "build286",
+    "Name": "Silberne Kampfläufer-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue stellt den Wächter-Kampfläufer dar, eine fortgeschrittene Kampfeinheit.",
+    "Additional": ""
+  },
+  {
+    "Id": "build287",
+    "Name": "Goldene Kampfläufer-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue stellt den Wächter-Kampfläufer dar, eine fortgeschrittene Kampfeinheit.",
+    "Additional": ""
+  },
+  {
+    "Id": "build288",
+    "Name": "Bronzene Atlas-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Statue ist eine dekorative Replik einer Atlas-Schnittstelle. Ihr Kern rotiert, angetrieben von einer unbekannten Macht ...",
+    "Additional": ""
+  },
+  {
+    "Id": "build289",
+    "Name": "Silberne Atlas-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Statue ist eine dekorative Replik einer Atlas-Schnittstelle. Ihr Kern rotiert, angetrieben von einer unbekannten Macht ...",
+    "Additional": ""
+  },
+  {
+    "Id": "build290",
+    "Name": "Goldene Atlas-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Statue ist eine dekorative Replik einer Atlas-Schnittstelle. Ihr Kern rotiert, angetrieben von einer unbekannten Macht ...",
+    "Additional": ""
+  },
+  {
+    "Id": "build291",
+    "Name": "Bronzene Astronauten-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Bronze.\nDiese Astronauten-Statue setzt allen Weltraumentdeckern ein Denkmal.",
+    "Additional": ""
+  },
+  {
+    "Id": "build292",
+    "Name": "Silberne Astronauten-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Silber.\nDiese Astronauten-Statue setzt allen Weltraumentdeckern ein Denkmal.",
+    "Additional": ""
+  },
+  {
+    "Id": "build293",
+    "Name": "Goldene Astronauten-Statue",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Ein exklusives, herstellbares Basis-Ornament aus Gold.\nDiese Astronauten-Statue setzt allen Weltraumentdeckern ein Denkmal.",
+    "Additional": ""
+  },
+  {
+    "Id": "build294",
+    "Name": "„Galaktischer Hub“-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt ein Symbol mit dem Missionsmotto „Gemeinsam erkunden“ dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build295",
+    "Name": "„Zustimmende Handbewegung“-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt ein universelles Handzeichen dar, das Zustimmung signalisiert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build296",
+    "Name": "Nada-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt die Korvax-Priester-Entität Nada dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build297",
+    "Name": "Polo-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt den Gek-Spezialisten Polo dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build298",
+    "Name": "Apollo-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt den Reisenden Apollo dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build299",
+    "Name": "Artemis-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt den Reisenden Artemis dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build300",
+    "Name": "Null-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt den Reisenden Null dar.",
+    "Additional": ""
+  },
+  {
+    "Id": "build301",
+    "Name": "Roboter-Begleiter",
+    "Group": "Persönliche Dienstdrohne",
+    "Description": "Eine perfekt programmierte und fehlerfreie Drohne.\n\nDieser Miniaturroboter sorgt für Spaß, Gelächter und ein permanentes, leises Summen, um dein Zuhause mit Leben zu füllen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build302",
+    "Name": "Expansionswürfel-Gerät",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Eine exklusive, dekorative Rarität.\n\nDieses präzise gefertigte Gerät erzeugt ein lokales Gravitationsfeld, das Besucher der Basis unterhält und fasziniert.",
+    "Additional": ""
+  },
+  {
+    "Id": "build303",
+    "Name": "Kugelhologramm-Gerät",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Eine exklusive, dekorative Rarität für Basen.\n\nDieser Apparat erzeugt ein kugelförmiges Hologramm, das einen der Abermillionen Himmelskörper der Galaxie darstellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build304",
+    "Name": "Früchtebaum",
+    "Group": "Organische Dekoration",
+    "Description": "Ein großer, dekorativer Früchtebaum.\n\nDie Form und die Toxizität der Früchte, sofern sie überhaupt wachsen, hängen vom lokalen Klima und den Bestäubern ab.",
+    "Additional": ""
+  },
+  {
+    "Id": "build305",
+    "Name": "Spindelbaum",
+    "Group": "Organische Dekoration",
+    "Description": "Ein schmaler Baum ohne Früchte. Das Wurzelwerk ist eng mit höchst anpassungsfähigen Pilzsymbionten verknüpft.\n\nDer Baum verfügt über eigene Pilze, die bei der Etablierung der Pflanze helfen. Der Pilzwuchs ist nicht giftig und verbreitet sich nicht.",
+    "Additional": ""
+  },
+  {
+    "Id": "build306",
+    "Name": "Immergrünbaum",
+    "Group": "Organische Dekoration",
+    "Description": "Ein robuster, immergrüner Baum, der in vielen verschiedenen Klimaverhältnissen überleben kann.\n\nDie wachsartigen Blätter mit silberner Unterseite ermöglichen eine exzellente Lichtaufnahme. Die Pflanze behält das ganze Jahr über ihre Farbe und bleibt so interessant.",
+    "Additional": ""
+  },
+  {
+    "Id": "build307",
+    "Name": "Fleischfressender Strauch",
+    "Group": "Organische Dekoration",
+    "Description": "Eine mittelgroße, dekorative Pflanze. Jedes Blatt ist mit einer dünnen Schicht klebrigen Latex überzogen. Insekten, die auf einem der Blätter landen, werden langsam von den digestiven Wirkstoffen im Kleber verdaut.\n\nVermeide versehentlichen Hautkontakt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build308",
+    "Name": "Zwergpalme",
+    "Group": "Organische Dekoration",
+    "Description": "Eine untersetzte, pflegeleichte Unterart der größeren Palmen.\n\nPlatziere sie draußen, um Wildtiere anzulocken und die Luft zu reinigen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build309",
+    "Name": "Kurioser Mais",
+    "Group": "Organische Dekoration",
+    "Description": "Lässt dekorativen Mais sprießen. Gibt es in diversen Farben. Kann dekorative Tiere anlocken.\n\nKann sich nicht natürlich reproduzieren. Muss von Hand bestäubt werden.",
+    "Additional": ""
+  },
+  {
+    "Id": "build310",
+    "Name": "Kleines Aquarium",
+    "Group": "Wasserbeobachtungsmodul",
+    "Description": "Eine kleine Beobachtungseinheit zum Studieren der Wasserverhaltensweisen.\n\nAgiert komplett eigenständig und verfügt über seine eigene erneuerbare Energiequelle, Pumpen und selbstreinigenden Filtersysteme.",
+    "Additional": ""
+  },
+  {
+    "Id": "build311",
+    "Name": "Krause Koralle",
+    "Group": "Organische Dekoration",
+    "Description": "Ein zierliches Meereslebewesen, das für Topfpflanzen kultiviert wurde. Seine charakteristische Schlingenstruktur verleiht ihm ein attraktives, skurriles Aussehen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build312",
+    "Name": "Wasserkristall",
+    "Group": "Organische Dekoration",
+    "Description": "Eine auffällige Anhäufung kristalliner Mineralien. Diese Kristalle wachsen in einer scherbenartigen Struktur und verfügen über eine ungewöhnliche, marmorierte Farbgebung.",
+    "Additional": ""
+  },
+  {
+    "Id": "build313",
+    "Name": "Kronleuchterblüte",
+    "Group": "Organische Dekoration",
+    "Description": "Eine auffallende Pflanze mit lumineszierenden, kugelförmigen Blumen. Diese häusliche Art hat sich angepasst, um Sauerstoff aus jeglichen Quellen zu absorbieren und zu verarbeiten, egal ob sie an Land oder unter Wasser wächst.",
+    "Additional": ""
+  },
+  {
+    "Id": "build314",
+    "Name": "Rankenfüßer",
+    "Group": "Organische Dekoration",
+    "Description": "Ein zäher Gliederfüßer, der für gewöhnlich krustenbildend auf stationären oder sich langsam bewegenden Unterwasserobjekten zu finden ist.\n\nDiese Art kann dazu angespornt werden, sich selbst an eine ausgewählte Stelle zu heften, wodurch sie Basen einen betagten Meeres-Look verpasst.",
+    "Additional": ""
+  },
+  {
+    "Id": "build315",
+    "Name": "Feuerwerk",
+    "Group": "Verbrauchbare Pyrotechnik-Apparatur",
+    "Description": "Ein Luxusfeuerwerk – mit viel Magnesium und Emeril. Zünde es, um glanzvolle Bilder am Himmel zu erzeugen.\n\nDie Abschussröhre kann über das Baumenü (BUILD_MENU) platziert werden. Warnung: Niemals damit auf lebende Kreaturen zielen. Nicht empfohlen für den Gebrauch in geschlossenen Räumen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build316",
+    "Name": "Taschen-Realitätsgenerator",
+    "Group": "Freischaltbare Dekoration",
+    "Description": "Eine exklusive, dekorative Rarität für Basen.\n\nEin besonders seltenes Modell, vor allem aus den Augen eines Beobachters, für den es unerreichbar scheint. Mit einem starken Objektiv lassen sich unendliche Details entdecken.",
+    "Additional": ""
+  },
+  {
+    "Id": "build317",
+    "Name": "Terrarium",
+    "Group": "Gehege für spezielle Kreaturen",
+    "Description": "Eine kleine Beobachtungseinheit zum Studieren der Verhaltensweisen von Tieren.\n\nKomplett unabhängig mit eingebautem Nährstoffprozessor, Luftreiniger und Fäkalienbeseitigungssystem.",
+    "Additional": ""
+  },
+  {
+    "Id": "build318",
+    "Name": "Segelpalme",
+    "Group": "Organische Dekoration",
+    "Description": "Ein hitzeresistenter Baum mit großen Blättern.\n\nSeine breiten Wedel sind mit Mineralien besetzt, die eine Schutzschicht gegen das Sonnenlicht in seinem Lebensraum bilden.",
+    "Additional": ""
+  },
+  {
+    "Id": "build319",
+    "Name": "Kugelbaum",
+    "Group": "Organische Dekoration",
+    "Description": "Ein dünner Baum mit einem großen, fleischigen Wurzelwerk, der sich an heiße Klimazonen angepasst hat.\n\nDie Knollen der Wurzeln enthalten eine trinkbare Flüssigkeit. Es wird jedoch empfohlen, sie nur im äußersten Notfall zu trinken.",
+    "Additional": ""
+  },
+  {
+    "Id": "build320",
+    "Name": "Steingarten",
+    "Group": "Organische Dekoration",
+    "Description": "Ein Gartenmodul mit dekorativen Mineralformationen und einem eingebauten Kapillarsystem zur optimalen Feuchtigkeitskontrolle.",
+    "Additional": ""
+  },
+  {
+    "Id": "build321",
+    "Name": "Kleine Holztür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine kleine Holztür, die in einen Holztürrahmen eingesetzt werden kann.",
+    "Additional": ""
+  },
+  {
+    "Id": "build322",
+    "Name": "Elektrische Holztür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Tür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus harzbeschichtetem, druckbehandeltem Holz hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build323",
+    "Name": "Große elektrische Holztür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Doppeltür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus harzbeschichtetem, druckbehandeltem Holz hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build324",
+    "Name": "Dachinneneckteil aus Holz",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein wesentliches Dachstück. Unerlässlich beim Bau von abgewinkelten Dächern.\n\nWird aus harzbeschichtetem, druckbehandeltem Holz hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build325",
+    "Name": "Kleine Metalltür",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Eine kleine Tür, die in einen Metalltürrahmen eingesetzt werden kann.",
+    "Additional": ""
+  },
+  {
+    "Id": "build326",
+    "Name": "Elektrische Metalltür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Tür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus hochfesten Metalllegierungen hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build327",
+    "Name": "Große elektrische Metalltür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Doppeltür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus hochfesten Metalllegierungen hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build328",
+    "Name": "Dachinneneckteil aus Metall",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein wesentliches Dachstück. Unerlässlich beim Bau von abgewinkelten Dächern.\n\nWird aus hochfesten Metalllegierungen hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build329",
+    "Name": "Kleine Betontür",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Eine kleine Tür, die in einen Betontürrahmen eingesetzt werden kann.",
+    "Additional": ""
+  },
+  {
+    "Id": "build330",
+    "Name": "Elektrische Betontür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Tür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus verstärkten Betonplatten hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build331",
+    "Name": "Große elektrische Betontür",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Eine mit Strom betriebene Doppeltür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus verstärkten Betonplatten hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build332",
+    "Name": "Dachinneneckteil aus Beton",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein wesentliches Dachstück. Unerlässlich beim Bau von abgewinkelten Dächern.\n\nWird aus verstärkten Betonplatten hergestellt.",
+    "Additional": ""
+  },
+  {
+    "Id": "build333",
+    "Name": "Elektrische Verkabelung",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Elektrische Hochleistungsverkabelung. Verwende die Verkabelung, um Stromgeneratoren mit deiner Basis zu verbinden. Die meisten Technologien und Strukturen, die mit Beleuchtungssystemen ausgestattet sind, benötigen eine Energieversorgung.\n\nDie Verkabelung kann mit diversen Schaltern verbunden werden, um einen selektiven Stromfluss zu ermöglichen.",
+    "Additional": ""
+  },
+  {
+    "Id": "build334",
+    "Name": "Teleportkabel",
+    "Group": "Energieverteilungsmodul",
+    "Description": "Ein fortgeschrittenes Glasfaserkabel, das einen oder mehrere Kurzstrecken-Teleporter miteinander verbinden kann.",
+    "Additional": ""
+  },
+  {
+    "Id": "build336",
+    "Name": "Licht",
+    "Group": "Einbauteil",
+    "Description": "Licht mit geringem Energieverbrauch, verlängerter Lebensdauer und voll recycelbaren Komponenten.",
+    "Additional": ""
+  },
+  {
+    "Id": "build337",
+    "Name": "Anomalie-Motiv",
+    "Group": "Dekoration",
+    "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt eine Reisendenanomalie dar.",
+    "Additional": ""
+  }
+]

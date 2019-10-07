@@ -1,176 +1,176 @@
 [
   {
     "Id": "other1",
-    "Name": "Nanit-Haufen",
-    "Group": "Technologische Währung",
-    "Description": "Ein dichtes, waberndes Miasma aus Nanit. Diese Haufen sind zwar stabil, unkontrollierter Nanit-Schaum kann jedoch unerwünschte Reaktionen verursachen, wenn er mit organischer Materie in Kontakt kommt.\nWird bei der Konstruktion fortschrittlicher Technologien verwendet. Für spezialisierte Händler höchst wertvoll.\n"
+    "Name": "Nanite Cluster",
+    "Group": "Technological Currency",
+    "Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
   },
   {
     "Id": "other2",
-    "Name": "Planetary Chart",
-    "Group": "Cartographic Data",
-    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
+    "Name": "Planetenkarte",
+    "Group": "Kartografische Daten",
+    "Description": "Eine Karte von einem Planeten in der Nähe. Es wurden Koordinaten markiert, von denen ein Notsignal ausgeht.\n\nWähle die Karte aus und nutze „Route planen“ (FE_ALT1), um den Ort in der Anzeige deines Exo-Anzugs einzustellen.\n\nNeue Karten erhält man, indem man Navigationsdaten mit einem Raumstation-Kartografen austauscht.",
     "Additional": ""
   },
   {
     "Id": "other3",
-    "Name": "Ancient Key",
-    "Group": "Timeless Artifact",
-    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
+    "Name": "Uralter Schlüssel",
+    "Group": "Zeitloses Artefakt",
+    "Description": "Ein schwerer Schlüssel aus altem Schmiedeeisen, der in ein Schloss in der Nähe passen muss ...",
     "Additional": ""
   },
   {
     "Id": "other4",
-    "Name": "Trident Key",
-    "Group": "Aquatic Relic",
-    "Description": "A strange forked key, glowing with an ultraviolet light.\n\nDespite its primitive appearance, Exosuit scanning systems reveal traces of nanite foam upon its teeth.",
+    "Name": "Dreizackschlüssel",
+    "Group": "Wasserrelikt",
+    "Description": "Ein seltsamer, gezackter Schlüssel, der in einem ultravioletten Licht leuchtet.\n\nTrotz seines primitiven Aussehens offenbaren die Scansysteme des Exo-Anzugs auf seinen Zacken Spuren von Nanit-Schaum.",
     "Additional": ""
   },
   {
     "Id": "other5",
-    "Name": "Navigation Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
+    "Name": "Navigationsdaten",
+    "Group": "Verschlüsselte Navigationsdaten",
+    "Description": "Verschlüsselte Navigationsdaten. Diese tragbare Dateneinheit enthält alle relevanten kartografischen Informationen einer planetaren Region.\n\nKann mit einem Kartografen an Bord einer Raumstation im Austausch für brauchbare Sternenkarten gehandelt werden.",
     "Additional": ""
   },
   {
     "Id": "other6",
-    "Name": "Drop Pod Coordinate Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
+    "Name": "Absprungkapsel-Koordinatendaten",
+    "Group": "Verschlüsselte Navigationsdaten",
+    "Description": "Verschlüsselte Navigationsdaten zur Eingabe in einen Signalbooster.\n\nKorrekt entschlüsselt wird die Position einer Absprungkapsel mit Exo-Anzug-Upgrades enthüllt.",
     "Additional": ""
   },
   {
     "Id": "other7",
-    "Name": "Log Encryption Key",
-    "Group": "Incomplete Data Sequence",
-    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
+    "Name": "Protokoll-Entschlüsselungscode",
+    "Group": "Unvollständige Datensequenz",
+    "Description": "Ein Teil der Entschlüsselungssequenz für das Notfallprotokoll eines Frachters.\n\nWahrscheinlich bedarf es mehrerer Teile dieser Sequenz, um vollen Zugriff auf die aufgezeichneten Daten zu erhalten.",
     "Additional": ""
   },
   {
     "Id": "other8",
-    "Name": "Defence Chit",
-    "Group": "System Authority Payment Substitute",
-    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
+    "Name": "Verteidigungsbeleg",
+    "Group": "Systembehörden-Zahlungsersatz",
+    "Description": "Ein Zeichen, das dem Träger Unterstützung der Behörden des Systems im Kampf gegen Piratenangriffe gewährt.",
     "Additional": ""
   },
   {
     "Id": "other9",
-    "Name": "Mind Blown",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
+    "Name": "Total verblüfft",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um Momente existenzieller Verwunderung und Freude mit anderen Entdeckern zu teilen.",
     "Additional": ""
   },
   {
     "Id": "other10",
-    "Name": "Celebrate!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
+    "Name": "Feiern!",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um feierliche Momente mit anderen Entdeckern zu teilen.",
     "Additional": ""
   },
   {
     "Id": "other11",
     "Name": "Ha!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um amüsante Momente mit anderen Entdeckern zu teilen.",
     "Additional": ""
   },
   {
     "Id": "other12",
-    "Name": "Wonder",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
+    "Name": "Erstaunen",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Blicke zu riesigen Strukturen, Lebewesen, Pflanzen oder sogar den Sternen auf und denke über die Bedeutungslosigkeit eines einzelnen Lebens im Vergleich zum großen Universum nach.",
     "Additional": ""
   },
   {
     "Id": "other13",
-    "Name": "No Problem",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
+    "Name": "Kein Problem",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann unter Wasser im Schnellmenü ausgewählt werden, um anderen Unterwassererkundern das Signal „Kein Problem“ zu zeigen.",
     "Additional": ""
   },
   {
     "Id": "other14",
-    "Name": "Distant Gaze",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
+    "Name": "Abwesender Blick",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Schaue zum Horizont und suche nach deinem nächsten Abenteuer.",
     "Additional": ""
   },
   {
     "Id": "other15",
-    "Name": "Heroic Pose",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
+    "Name": "Heroische Pose",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Nimm vor verlassenen Strukturen, gewaltigen Mineralformationen und riesigen räuberischen Lebensformen eine dramatische Pose ein.",
     "Additional": ""
   },
   {
     "Id": "other16",
-    "Name": "Disbelief",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
+    "Name": "Ungläubigkeit",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Falle vor den Wundern, die du gesehen hast, ungläubig auf die Knie.",
     "Additional": ""
   },
   {
     "Id": "other17",
-    "Name": "Sparse Horizon Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Name": "„Spärlicher Horizont“-Helm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator.",
     "Additional": ""
   },
   {
     "Id": "other18",
-    "Name": "Blazing Orbit Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Name": "Lodernder Orbithelm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator.",
     "Additional": ""
   },
   {
     "Id": "other19",
-    "Name": "Eye of the Korvax Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Name": "„Auge der Korvax“-Helm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator.",
     "Additional": ""
   },
   {
     "Id": "other20",
-    "Name": "First Spawn Battle Mask",
-    "Group": "Unlockable Helmet",
-    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Name": "Erstgebrüteter-Kampfmaske",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine aggressive Exo-Anzug-Aussehenüberschreibung, die auf den Kriegshelmen der alten Gek basiert.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator.",
     "Additional": ""
   },
   {
     "Id": "other21",
-    "Name": "Armoured Shoulderpads",
-    "Group": "Unlockable Armour",
-    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
+    "Name": "Gepanzerte Schulterplatten",
+    "Group": "Freischaltbare Panzerung",
+    "Description": "Diese mächtige Schulterpanzerung ist eine Exo-Anzug-Verstärkung, die Hochspannungsverbindungen zum Skelettsystem des Trägers herstellt. Der Strom stimuliert den Körper des Nutzers nach Bedarf, damit seine Muskeln eine optimale Verteidigungsposition einnehmen.",
     "Additional": ""
   },
   {
     "Id": "other22",
-    "Name": "Armoured Chestpiece",
-    "Group": "Unlockable Torso Customisation",
-    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
+    "Name": "Gepanzerte Brustrüstung",
+    "Group": "Freischaltbare Torso-Anpassung",
+    "Description": "Diese verstärkte und doch stilvolle Exo-Anzug-Brustpanzerung bietet exzellenten Schutz für die Körpermitte, ohne Abstriche beim Aussehen zu machen.",
     "Additional": ""
   },
   {
     "Id": "other23",
-    "Name": "Armoured ExoGloves",
-    "Group": "Unlockable Gloves",
-    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
+    "Name": "Gepanzerte Exo-Handschuhe",
+    "Group": "Freischaltbare Handschuhe",
+    "Description": "Diese gepanzerten Handschuhe eignen sich perfekt zum Tragen von Waffen, zum Beeindrucken von Kriegerkulturen und zum Abpflücken von sehr dornigen Pflanzen.",
     "Additional": ""
   },
   {
     "Id": "other24",
-    "Name": "Armoured Leggings",
-    "Group": "Unlockable Leg Customisation",
-    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
+    "Name": "Gepanzerte Gamaschen",
+    "Group": "Freischaltbare Bein-Anpassung",
+    "Description": "Sorgfältig gewobene Nanofasern machen diese Beinlinge sowohl flexibel als auch resistent gegen kleine Feuerwaffen.\n\nZum Reinigen wird eine spezielle Ausrüstung benötigt.",
     "Additional": ""
   },
   {
     "Id": "other25",
-    "Name": "Armoured Boots",
-    "Group": "Unlockable Boots",
-    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
+    "Name": "Gepanzerte Stiefel",
+    "Group": "Freischaltbare Stiefel",
+    "Description": "Verstärktes Fußschutzsystem mit integrierten Schrittbalance-Gyroskopen.\n\nIn diesem Schuhwerk stecken Jahrhunderte an Hightech-Forschung.",
     "Additional": ""
   }
 ]

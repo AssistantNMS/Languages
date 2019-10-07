@@ -1,0 +1,176 @@
+[
+  {
+    "Id": "other1",
+    "Name": "Nanite Cluster",
+    "Group": "Technological Currency",
+    "Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
+  },
+  {
+    "Id": "other2",
+    "Name": "星图",
+    "Group": "制图资料",
+    "Description": "一张附近行星的地图，标有一个求救信号的坐标。\n\n选择地图并使用规划航线（FE_ALT1）以在你的套装屏幕中固定该地点。\n\n新地图可以通过与空间站制图师交换导航数据获取。",
+    "Additional": ""
+  },
+  {
+    "Id": "other3",
+    "Name": "古代的钥匙",
+    "Group": "永恒的遗物",
+    "Description": "一把有些重的钥匙，这块经过锻造的铁块一定属于附近的某把锁......",
+    "Additional": ""
+  },
+  {
+    "Id": "other4",
+    "Name": "三叉戟钥匙",
+    "Group": "水中遗物",
+    "Description": "一把奇怪的叉状钥匙，散发出一种紫外光。\n\n尽管它看上去很原始，套装扫描系统却在其尖端发现了纳米泡沫的痕迹。",
+    "Additional": ""
+  },
+  {
+    "Id": "other5",
+    "Name": "导航数据",
+    "Group": "破译的导航数据",
+    "Description": "编码导航数据。这种极其便携的数据装置包含某个行星区域的所有相关制图信息。\n\n可以用来跟空间站上的一个制图师交换实用的星图。",
+    "Additional": ""
+  },
+  {
+    "Id": "other6",
+    "Name": "空降舱坐标数据",
+    "Group": "破译的导航数据",
+    "Description": "输入信号增强器即可编码导航数据。\n\n正确解码后能揭示一处含有套装升级的空降舱的位置。",
+    "Additional": ""
+  },
+  {
+    "Id": "other7",
+    "Name": "登录加密钥",
+    "Group": "不完整的数据序列",
+    "Description": "货船紧急登录日志上某块加密超驰程序的碎片。\n\n可能需要数块程序碎片才能完全访问记录的信息。",
+    "Additional": ""
+  },
+  {
+    "Id": "other8",
+    "Name": "防御便函",
+    "Group": "系统当局支付替代品",
+    "Description": "一种代币，可使持有人在面对海盗攻击时获得系统当局的支援。",
+    "Additional": ""
+  },
+  {
+    "Id": "other9",
+    "Name": "大呼过瘾",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以在空闲时从快速菜单中选择此手势，与其他探险家分享奇妙和愉快的心情。",
+    "Additional": ""
+  },
+  {
+    "Id": "other10",
+    "Name": "庆祝！",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以在空闲时从快速菜单中选择此手势，与其他探险家分享庆祝时光。",
+    "Additional": ""
+  },
+  {
+    "Id": "other11",
+    "Name": "哈！",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以在空闲时从快速菜单中选择此手势，与其他探险家分享欢乐时光。",
+    "Additional": ""
+  },
+  {
+    "Id": "other12",
+    "Name": "惊叹",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以从快速菜单中选择此手势，仰望大型结构、动物、植物或群星，感叹一个小生命在浩瀚的宇宙中是如此的微不足道。",
+    "Additional": ""
+  },
+  {
+    "Id": "other13",
+    "Name": "没问题",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以在水下时从快捷菜单中选择此手势，向其他水下探险家发出“没问题”的信号。",
+    "Additional": ""
+  },
+  {
+    "Id": "other14",
+    "Name": "遥望远方",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以从快捷菜单中选择此手势。看向远方的地平线，寻找你的下一次冒险。",
+    "Additional": ""
+  },
+  {
+    "Id": "other15",
+    "Name": "英雄气概姿势",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以从快捷菜单中选择此手势。在废弃的建筑物、高耸的矿物岩层或是巨大的猎食动物前摆出夸张的姿势。",
+    "Additional": ""
+  },
+  {
+    "Id": "other16",
+    "Name": "难以置信",
+    "Group": "可解锁手势",
+    "Description": "专属的手势。\n你可以从快捷菜单中选择此手势。对面前所见的奇观感到难以置信，并跪倒在地。",
+    "Additional": ""
+  },
+  {
+    "Id": "other17",
+    "Name": "稀疏地平线头盔",
+    "Group": "可解锁头盔",
+    "Description": "专属的套装外观。\n可以在外观修改器使用以更改你的套装外观。",
+    "Additional": ""
+  },
+  {
+    "Id": "other18",
+    "Name": "闪耀轨道头盔",
+    "Group": "可解锁头盔",
+    "Description": "专属的套装外观。\n可以在外观修改器使用以更改你的套装外观。",
+    "Additional": ""
+  },
+  {
+    "Id": "other19",
+    "Name": "科尔瓦克斯之眼头盔",
+    "Group": "可解锁头盔",
+    "Description": "专属的套装外观覆盖。\n可以在外观修改器使用以更改你的套装外观。",
+    "Additional": ""
+  },
+  {
+    "Id": "other20",
+    "Name": "初代战斗面具",
+    "Group": "可解锁头盔",
+    "Description": "好斗的套装外观覆盖，设计基于古代吉克人的战争头盔。\n可以在外观修改器使用以更改你的套装外观。",
+    "Additional": ""
+  },
+  {
+    "Id": "other21",
+    "Name": "装甲垫肩",
+    "Group": "可解锁盔甲",
+    "Description": "强大的肩甲。这款套装增强附带连通用户骨骼系统的高压连接，按需用电流刺激用户身体，将肌肉调节至最佳防御状态。",
+    "Additional": ""
+  },
+  {
+    "Id": "other22",
+    "Name": "装甲胸甲",
+    "Group": "可解锁自定义身躯",
+    "Description": "增强型时尚套装胸甲，能在不损害外观的情况下提供出色的腹部保护。",
+    "Additional": ""
+  },
+  {
+    "Id": "other23",
+    "Name": "装甲手套",
+    "Group": "可解锁手套",
+    "Description": "装甲手套，适于挥舞武器，使尚武种族刮目相看，以及采摘尖刺植物。",
+    "Additional": ""
+  },
+  {
+    "Id": "other24",
+    "Name": "装甲护腿",
+    "Group": "可解锁自定义腿部",
+    "Description": "精心编织的纳米纤维，使这款护腿既柔软又能抵御小型枪械的攻击。\n\n洗涤需使用专业设备。",
+    "Additional": ""
+  },
+  {
+    "Id": "other25",
+    "Name": "装甲靴子",
+    "Group": "可解锁靴子",
+    "Description": "增强型足部保护系统，集成了步伐平衡陀螺仪。\n\n将数百年高科技研究的成果应用于此鞋类。",
+    "Additional": ""
+  }
+]

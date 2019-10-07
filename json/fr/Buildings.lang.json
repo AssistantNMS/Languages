@@ -1,0 +1,2163 @@
+[
+  {
+    "Id": "build1",
+    "Name": "Grande salle de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build2",
+    "Name": "Couloir de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build3",
+    "Name": "Couloir courbe de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build4",
+    "Name": "Jonction de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build5",
+    "Name": "Escaliers de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build6",
+    "Name": "Carrefour de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires."
+  },
+  {
+    "Id": "build7",
+    "Name": "Salle de commandement de flotte",
+    "Group": "Terminal de gestion d'expédition",
+    "Description": "Poste de gestion de flotte central. Ce poste de communication holographique avancé est essentiel à la gestion des expéditions de votre flotte depuis le confort de votre vaisseau amiral.\n\nVeuillez noter que plusieurs postes seront nécessaires pour gérer plus d'une expédition simultanément."
+  },
+  {
+    "Id": "build8",
+    "Name": "Mur en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un mur en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build9",
+    "Name": "Mur fin en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un module de mur fin en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build10",
+    "Name": "Petit mur en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un petit mur en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build11",
+    "Name": "Mur bas en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un mur bas en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build12",
+    "Name": "Panneau en bois incliné",
+    "Group": "Composant de construction en bois",
+    "Description": "Un panneau en bois incliné à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build13",
+    "Name": "Panneau de fenêtre en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un panneau de fenêtre en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build14",
+    "Name": "Encadrement de porte en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un encadrement de porte en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build15",
+    "Name": "Porte en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une fine porte en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build16",
+    "Name": "Façade en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une façade en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build17",
+    "Name": "Lame de plancher en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une lame de plancher en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build18",
+    "Name": "Panneau de verre à cadre en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un panneau de sol/plafond en verre avec cadre en bois."
+  },
+  {
+    "Id": "build19",
+    "Name": "Petit panneau de bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un petit panneau de bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build20",
+    "Name": "Rampe en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une rampe en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build21",
+    "Name": "Demi-rampe en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une demi-rampe en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build22",
+    "Name": "Toit en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une plateforme de toit basique dotée de barres de support renforcées."
+  },
+  {
+    "Id": "build23",
+    "Name": "Panneau de toiture en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un morceau de panneau de toiture en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build24",
+    "Name": "Coin de toiture en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Un coin de toiture en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build25",
+    "Name": "Arche en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une arche en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build26",
+    "Name": "Demi-arche en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une demi-arche en bois à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build27",
+    "Name": "Mur en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un mur en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build28",
+    "Name": "Mur fin en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un module de mur fin en béton à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build29",
+    "Name": "Petit mur en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un petit mur en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build30",
+    "Name": "Mur bas en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un mur bas en béton à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build31",
+    "Name": "Panneau incliné en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un panneau incliné en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build32",
+    "Name": "Panneau de fenêtre en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un panneau de fenêtre en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build33",
+    "Name": "Chambranle en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un chambranle en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build34",
+    "Name": "Porte en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une porte fine en béton à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build35",
+    "Name": "Façade en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une façade en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build36",
+    "Name": "Panneau de sol en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un panneau de sol en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build37",
+    "Name": "Panneau de verre à cadre en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un panneau de sol/plafond en verre avec cadre en béton."
+  },
+  {
+    "Id": "build38",
+    "Name": "Petit panneau en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un petit panneau en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build39",
+    "Name": "Rampe en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une rampe en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build40",
+    "Name": "Demi-rampe en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une demi-rampe en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build41",
+    "Name": "Toit en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une plateforme de toit basique dotée de barres de support renforcées."
+  },
+  {
+    "Id": "build42",
+    "Name": "Panneau de toiture en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un morceau de panneau de toiture en béton à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build43",
+    "Name": "Coin de toiture en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Un coin de toiture en béton à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build44",
+    "Name": "Arche en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une arche en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build45",
+    "Name": "Demi-arche en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une demi-arche en béton à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build46",
+    "Name": "Mur en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un mur en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build47",
+    "Name": "Mur fin en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un module de mur fin en métal à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build48",
+    "Name": "Petit mur en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un petit mur en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build49",
+    "Name": "Mur bas en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un petit mur en métal à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build50",
+    "Name": "Panneau incliné en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un panneau incliné en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build51",
+    "Name": "Panneau de fenêtre en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un panneau de fenêtre en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build52",
+    "Name": "Chambranle en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un chambranle en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build53",
+    "Name": "Porte en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une porte fine en métal à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build54",
+    "Name": "Façade en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une façade en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build55",
+    "Name": "Panneau de sol en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un panneau de sol en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build56",
+    "Name": "Panneau de verre à cadre en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un panneau de sol/plafond en verre avec cadre en métal."
+  },
+  {
+    "Id": "build57",
+    "Name": "Petit panneau en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un petit panneau en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build58",
+    "Name": "Rampe en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une rampe en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build59",
+    "Name": "Demi-rampe en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une demi-rampe en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build60",
+    "Name": "Toit en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une plateforme de toit basique dotée de barres de support renforcées."
+  },
+  {
+    "Id": "build61",
+    "Name": "Panneau de toiture en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un morceau de panneau de toiture en métal à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build62",
+    "Name": "Coin de toiture en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Un coin de toiture en métal à utiliser lors de la construction d'une base."
+  },
+  {
+    "Id": "build63",
+    "Name": "Arche en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une arche en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build64",
+    "Name": "Demi-arche en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une demi-arche en métal à utiliser pour la construction d'une base."
+  },
+  {
+    "Id": "build65",
+    "Name": "Pièce cylindrique",
+    "Group": "Module de construction",
+    "Description": "Le module principal d'une base fournit un grand espace central qu'il est possible d'agrandir."
+  },
+  {
+    "Id": "build66",
+    "Name": "Pièce carrée",
+    "Group": "Module de construction",
+    "Description": "Forme alternative pour le module principal d'une base, offrant un grand espace central qu'il est possible d'agrandir."
+  },
+  {
+    "Id": "build67",
+    "Name": "Couloir droit",
+    "Group": "Module de construction",
+    "Description": "Module de couloir droit standard pour relier les pièces."
+  },
+  {
+    "Id": "build68",
+    "Name": "Couloir en L",
+    "Group": "Module de construction",
+    "Description": "Solide module de couloir pour relier les pièces, avec un angle droit."
+  },
+  {
+    "Id": "build69",
+    "Name": "Couloir en T",
+    "Group": "AAST",
+    "Description": "Module de couloir composé de deux sections perpendiculaires pour relier plusieurs pièces."
+  },
+  {
+    "Id": "build70",
+    "Name": "Couloir en X",
+    "Group": "Module de construction",
+    "Description": "Module de couloir en forme de X pour relier quatre pièces disposées en croix."
+  },
+  {
+    "Id": "build71",
+    "Name": "Couloir courbe",
+    "Group": "Module de construction",
+    "Description": "Solide module de couloir pour relier les pièces, de forme courbe."
+  },
+  {
+    "Id": "build72",
+    "Name": "Couloir à verrière",
+    "Group": "Module de construction",
+    "Description": "Couloir doté d'un toit en verre renforcé."
+  },
+  {
+    "Id": "build73",
+    "Name": "Sphère d'observation",
+    "Group": "Module de construction",
+    "Description": "Une plateforme d'observation sphérique autonome permettant à l'utilisateur de profiter d'une vue imprenable sur son environnement."
+  },
+  {
+    "Id": "build74",
+    "Name": "Biodôme",
+    "Group": "Module de construction",
+    "Description": "Pièce esthétique en forme de dôme idéale pour la culture d'un large éventail de matières botaniques."
+  },
+  {
+    "Id": "build75",
+    "Name": "Pièce cubique",
+    "Group": "Module de construction",
+    "Description": "Ce petit module de construction cubique peut être empilé ou relié pour former de plus grandes structures."
+  },
+  {
+    "Id": "build76",
+    "Name": "Cube solide",
+    "Group": "Décoration",
+    "Description": "Un grand cube solide."
+  },
+  {
+    "Id": "build77",
+    "Name": "Pièce cubique en verre",
+    "Group": "Module de construction",
+    "Description": "Un module de pièce cubique créé presque entièrement en verre. Idéal pour l'observation des zones naturelles esthétiques."
+  },
+  {
+    "Id": "build78",
+    "Name": "Mur cubique courbe",
+    "Group": "Module de construction",
+    "Description": "Ce module de mur cubique courbe peut être empilé ou relié pour former de plus grandes structures."
+  },
+  {
+    "Id": "build79",
+    "Name": "Toit cubique courbe",
+    "Group": "Module de construction",
+    "Description": "Ce petit module de toit courbe en verre peut être empilé ou relié pour former de plus grandes structures."
+  },
+  {
+    "Id": "build80",
+    "Name": "Escaliers intérieurs",
+    "Group": "Module de construction",
+    "Description": "Escaliers servant à faciliter l'accès à l'intérieur des structures cubiques."
+  },
+  {
+    "Id": "build81",
+    "Name": "Porte intérieure cubique",
+    "Group": "Module de construction",
+    "Description": "Un module de porte intérieure servant à diviser des pièces cubiques."
+  },
+  {
+    "Id": "build82",
+    "Name": "Mur intérieur cubique",
+    "Group": "Module de construction",
+    "Description": "Un module de mur intérieur servant à diviser des pièces cubiques."
+  },
+  {
+    "Id": "build83",
+    "Name": "Sol de pièce cubique",
+    "Group": "Élément de construction",
+    "Description": "Panneaux de sol composites solides pour les pièces cubiques."
+  },
+  {
+    "Id": "build84",
+    "Name": "Porte",
+    "Group": "Élément de construction",
+    "Description": "Porte standard dotée de joints à compression, adaptée à toutes les pièces et tous les couloirs."
+  },
+  {
+    "Id": "build85",
+    "Name": "Rampe d'accès",
+    "Group": "Élément de construction",
+    "Description": "Cette rampe renforcée en métal non ferreux donne accès aux bâtiments."
+  },
+  {
+    "Id": "build86",
+    "Name": "Climb Ladder",
+    "Group": "Construction item",
+    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+  },
+  {
+    "Id": "build87",
+    "Name": "Échelle d'infrastructure",
+    "Group": "Module de construction",
+    "Description": "Échelle à utiliser en association avec des plateformes structurelles pour permettre à l'utilisateur d'accéder aisément aux zones en hauteur."
+  },
+  {
+    "Id": "build88",
+    "Name": "Fondation",
+    "Group": "Module de construction",
+    "Description": "L'unité de base de tout projet de construction, fournissant une fondation solide aux bâtiments. Peut être installée sur n'importe quel type de terrain."
+  },
+  {
+    "Id": "build89",
+    "Name": "Cadre de pièce cylindrique",
+    "Group": "Module de construction",
+    "Description": "Une alternative industrielle légère à la pièce cylindrique standard."
+  },
+  {
+    "Id": "build90",
+    "Name": "Cadre de pièce cubique",
+    "Group": "Module de construction",
+    "Description": "Structures de support cubiques pouvant être empilées ou reliées pour former de grandes structures industrielles."
+  },
+  {
+    "Id": "build91",
+    "Name": "Dallage",
+    "Group": "Élément de construction",
+    "Description": "Dallage composite solide pour la construction de voies et zones pavées."
+  },
+  {
+    "Id": "build92",
+    "Name": "4 supports de fondation pièce cubique",
+    "Group": "Élément de construction",
+    "Description": "Ensemble préfabriqué de quatre supports pour soutenir les pièces cubiques."
+  },
+  {
+    "Id": "build93",
+    "Name": "Support de fondation pour pièce cubique",
+    "Group": "Élément de construction",
+    "Description": "Support solide pour soutenir les pièces cubiques."
+  },
+  {
+    "Id": "build94",
+    "Name": "Fenêtre",
+    "Group": "Élément de construction",
+    "Description": "Fenêtre étanche faite de verre autonettoyant et anti-UV."
+  },
+  {
+    "Id": "build95",
+    "Name": "Grand panneau de verre",
+    "Group": "Élément de construction",
+    "Description": "Fenêtre étanche faite de verre autonettoyant et anti-UV."
+  },
+  {
+    "Id": "build96",
+    "Name": "Window (small)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build97",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build98",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build99",
+    "Name": "Terminal de construction",
+    "Group": "Terminal de spécialiste",
+    "Description": "Conçu pour les superviseurs de construction, ce poste de travail est équipé d'un logiciel d'architecture et d'ingénierie."
+  },
+  {
+    "Id": "build100",
+    "Name": "Terminal d'exonef",
+    "Group": "Terminal de spécialiste",
+    "Description": "Conçu pour les mécaniciens, ce poste de travail est équipé d'un logiciel spécialisé dans la conception de véhicules."
+  },
+  {
+    "Id": "build101",
+    "Name": "Terminal d'armement",
+    "Group": "Terminal de spécialiste",
+    "Description": "Conçu pour les armuriers, ce poste de travail est équipé pour la création de munitions et d'explosifs, ainsi que de certaines technologies civiles."
+  },
+  {
+    "Id": "build102",
+    "Name": "Terminal scientifique",
+    "Group": "Terminal de spécialiste",
+    "Description": "Conçu pour les scientifiques, ce poste de travail est équipé pour la recherche et la création de plans scientifiques."
+  },
+  {
+    "Id": "build103",
+    "Name": "Terminal agricole",
+    "Group": "Terminal de spécialiste",
+    "Description": "Conçu pour les agriculteurs, ce poste de travail est équipé pour l'analyse et la culture de plantes cultivables."
+  },
+  {
+    "Id": "build104",
+    "Name": "Plateforme d'atterrissage",
+    "Group": "Module de construction",
+    "Description": "Plateforme d'atterrissage stable et renforcée pour les vaisseaux."
+  },
+  {
+    "Id": "build105",
+    "Name": "Module de téléportation pour base",
+    "Group": "Dispositif de transfert de matière longue distance",
+    "Description": "Cet appareil de téléportation personnel permet à l'utilisateur de se déplacer entre ses bases construites ainsi que vers (et depuis) tout terminal de station spatiale connecté au réseau.\n\nVeuillez vérifier l'intégrité du réseau avant d'insérer toute matière dont la perte serait gênante."
+  },
+  {
+    "Id": "build106",
+    "Name": "Capsule de recyclage de base",
+    "Group": "Dispositif de stockage autonome",
+    "Description": " Dispositif de récupération de construction\n\nCet élément de technologie pour base optionnel stocke et préserve toute matière issue de la destruction d'une ancienne base."
+  },
+  {
+    "Id": "build107",
+    "Name": "Terminal de commerce galactique",
+    "Group": "Terminal de commerce",
+    "Description": "Ce terminal de commerce offre un accès instantané au marché des ressources et des marchandises."
+  },
+  {
+    "Id": "build108",
+    "Name": "Station de santé",
+    "Group": "Module de recharge de santé",
+    "Description": "Un module mural pouvant être utilisé pour recharger la santé."
+  },
+  {
+    "Id": "build109",
+    "Name": "Unité de protection environnementale",
+    "Group": "Système de recharge de protection environnementale",
+    "Description": "Module mural pouvant être utilisé pour recharger les systèmes de protection environnementale de l'utilisateur.\n\nLa charge de l'unité de protection environnementale doit être assurée avec une source de carburant."
+  },
+  {
+    "Id": "build110",
+    "Name": "Moyenne raffinerie",
+    "Group": "Unité de raffinage automatique",
+    "Description": "Équipement planétaire essentiel. La raffinerie permet de transformer des matières premières en matériaux plus puissants et plus avancés.\n \nLa raffinerie moyenne permet de combiner deux substances différentes pour créer un nouveau matériau. Elle peut aussi permettre un meilleur ratio dans le traitement des matériaux.\n \nLa raffinerie moyenne doit être installée dans une base habitable, mais elle n'a pas besoin de sources d'alimentation supplémentaires."
+  },
+  {
+    "Id": "build111",
+    "Name": "Grande raffinerie",
+    "Group": "Unité de raffinage automatique",
+    "Description": "Équipement planétaire essentiel. La raffinerie permet de transformer des matières premières en matériaux plus puissants et plus avancés.\n \nLa grande raffinerie permet de combiner trois substances différentes pour créer un nouveau matériau. Elle peut aussi permettre un meilleur ratio dans le traitement des matériaux.\n \nLa grande raffinerie doit être installée dans une base habitable, mais elle n'a pas besoin de sources d'alimentation supplémentaires."
+  },
+  {
+    "Id": "build112",
+    "Name": "Modificateur d'apparence",
+    "Group": "Personnaliser les données visuelles",
+    "Description": "Un module constructible permettant à l'utilisateur d'ajuster ses paramètres d'apparence personnelle.\n\nLe module fait appel à une technologie holographique sophistiquée pour recalibrer la lumière autour du porteur, lui permettant d'opter pour n'importe quelle apparence selon son désir. Les données visuelles doivent être correctement formatées avant l'utilisation."
+  },
+  {
+    "Id": "build113",
+    "Name": "Module de messagerie",
+    "Group": "Terminal de communication",
+    "Description": "Petit boîtier d'information facile d'accès, permettant de déposer et de consulter des messages et de courts articles informatifs."
+  },
+  {
+    "Id": "build114",
+    "Name": "Scanner de signaux",
+    "Group": "Scanner environnemental",
+    "Description": "Ce scanner polyvalent peut détecter les bâtiments proches. Il peut également décrypter les données de navigation pour vous diriger vers des lieux spécifiques.\n\nLe scanner de signaux peut être démonté et redéployé pour un transport plus facile."
+  },
+  {
+    "Id": "build115",
+    "Name": "Balise de sauvetage",
+    "Group": "Repère portatif",
+    "Description": "Une fois activée, la balise fournit un point de repère permanent qui facilite les visites répétées dans des lieux spécifiques.\n\nPermet à l'utilisateur d'enregistrer sa progression à tout moment."
+  },
+  {
+    "Id": "build116",
+    "Name": "Point de sauvegarde",
+    "Group": "Module de construction",
+    "Description": "Point de sauvegarde pour gérer votre progression."
+  },
+  {
+    "Id": "build117",
+    "Name": "Poste de communication",
+    "Group": "Terminal de communication",
+    "Description": "Terminal permettant de composer des messages et de les transmettre aux autres voyageurs."
+  },
+  {
+    "Id": "build118",
+    "Name": "Extracteur d'atmosphère",
+    "Group": "Compresseur de gaz autonome",
+    "Description": "Un siphon automatisé pour récolter les gaz précieux. Une fois activé, l'extracteur condense et comprime petit à petit les substances présentes dans l'air. Les gaz comprimés sont stockés de façon sûre avant d'être collectés. "
+  },
+  {
+    "Id": "build119",
+    "Name": "Extracteur automatique",
+    "Group": "Appareil minier portatif",
+    "Description": "Appareil automatisé pour l'extraction de ressources. Une fois activé, il extrait les minéraux sans supervision nécessaire et fournit un rendement régulier jusqu'à épuisement du site."
+  },
+  {
+    "Id": "build120",
+    "Name": "Raffinerie portative",
+    "Group": "Unité de raffinage automatique",
+    "Description": "Équipement planétaire essentiel. La raffinerie permet de transformer des matières premières en matériaux plus puissants et plus avancés.\n \nLa raffinerie portative peut être démantelée et redéployée pour un transport facile. Remarque : la raffinerie portative a besoin de carburant pour fonctionner."
+  },
+  {
+    "Id": "build121",
+    "Name": "Ordinateur de base",
+    "Group": "Dispositif d'évaluation du site",
+    "Description": "Service d'enregistrement de propriétés de terrain portatif.\n\nLorsqu'elle est placée, contacte l'archive cartographique universelle pour vérifier la propriété du terrain. Un enregistrement réussi permet la construction de modules de base à tout endroit choisi par l'utilisateur."
+  },
+  {
+    "Id": "build122",
+    "Name": "Récolteur d'oxygène",
+    "Group": "Dispositif de traitement atmosphérique",
+    "Description": "Cet extracteur d'atmosphère autonome peut être installé dans le but de collecter et de purifier l'oxygène de l'air. L'utilisateur doit surveiller le niveau de carburant afin d'assurer un fonctionnement continu.\n\nLe gaz résultant de l'opération est compressé et traité, prêt à être utilisé dans tous les systèmes de survie standards."
+  },
+  {
+    "Id": "build123",
+    "Name": "Blueprint Analyser",
+    "Group": "Technology Recovery Device",
+    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+  },
+  {
+    "Id": "build124",
+    "Name": "Abri sous-marin",
+    "Group": "Module de survie en eau profonde",
+    "Description": "Module de survie d'urgence.\n\nDéployable rapidement sur le fond marin en cas de problème majeur avec l'oxygène ou le système de survie de l'exocombinaison. Assure une protection temporaire contre les risques environnementaux, les prédateurs et toute autre force hostile se trouvant dans les profondeurs de l'océan."
+  },
+  {
+    "Id": "build125",
+    "Name": "Plateforme d'appel pour Exonef",
+    "Group": "Dispositif de transfert de véhicules",
+    "Description": "Cette construction permet à son utilisateur de faire venir à lui tout exonef en sa possession se trouvant sur cette planète.\n\nCommunique avec le Menu rapide des commandes de l'exocombinaison pour faciliter l'utilisation."
+  },
+  {
+    "Id": "build126",
+    "Name": "Geobay",
+    "Group": "Exocraft",
+    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
+  },
+  {
+    "Id": "build127",
+    "Name": "Départ de course",
+    "Group": "Morceau de course",
+    "Description": "Cette plateforme tient le rôle de ligne de départ et d'arrivée pour le champ d'essai de l'exonef, elle permet aux Voyageurs de s'entraîner aux manœuvres et à la vitesse."
+  },
+  {
+    "Id": "build128",
+    "Name": "Chambre du Nautilon",
+    "Group": "Baie d'amarrage pour sous-marin",
+    "Description": "Station d'amarrage de niveau supérieur parfaitement étanche pour le sous-marin Nautilon."
+  },
+  {
+    "Id": "build129",
+    "Name": "Herbe gamma",
+    "Group": "Graine à planter",
+    "Description": "Cette plante feuillue dotée de fleurs lumineuses pousse dans les biomes radioactifs. Elle peut être cultivée et donne des récoltes fréquentes et abondantes.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être radioactive pour une culture en extérieur.\n\nTemps de croissance approximatif : 4 heures",
+    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build130",
+    "Name": "Amas fongique",
+    "Group": "Graine à planter",
+    "Description": "Ce champignon sphérique doté de lamelles internes pousse uniquement dans les biomes toxiques. Il peut être transplanté à des fins de culture, donnant des récoltes rapides et abondantes.\n\nAdapté à la culture hydroponique en intérieur. L'atmosphère doit être toxique pour une culture en extérieur.\n\nTemps de croissance approximatif : 4 heures",
+    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build131",
+    "Name": "Hélianthème",
+    "Group": "Graine à planter",
+    "Description": "Cette grosse fleur cristalline aux pétales bleu vif pousse uniquement dans les biomes enneigés. L'hélianthème peut être cultivé, et produit des récoltes fiables, de plus sa forte capacité d'adaptation aux conditions difficiles fait que les récoltes sont très fréquentes.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être gelée pour une culture en extérieur.\n\nTemps de croissance approximatif : 1 heure",
+    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+  },
+  {
+    "Id": "build132",
+    "Name": "Oursin venimeux",
+    "Group": "Graine à planter",
+    "Description": "Une petite plante à l'air inoffensif dont les feuilles sécrètent périodiquement une petite quantité de puissants sacs de venin, un produit d'une grande valeur commerciale.\n\nAdaptée à la culture hydroponique en intérieur. Ne peut pas être plantée en extérieur.\n\nTemps de croissance approximatif : 3 heures et 20 minutes",
+    "Additional": "1 Sac Venom in roughly 3 hours 20 minutes of real time"
+  },
+  {
+    "Id": "build133",
+    "Name": "Vigne solaire",
+    "Group": "Graine à planter",
+    "Description": "Cette « pierre vivante » est adaptée à la vie dans les biomes à la chaleur extrême. Elle peut toutefois être cultivée dans la plupart des environnements et, une fois établie, donne des récoltes relativement abondantes, mais peu fréquentes.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être très chaude pour une culture en extérieur.\n\nTemps de croissance approximatif : 16 heures",
+    "Additional": "78 Solanium in roughly 16 hours of real time"
+  },
+  {
+    "Id": "build134",
+    "Name": "Fécaflore",
+    "Group": "Graine à planter",
+    "Description": "Une fleur cultivable à l'odeur infâme, répliquant la structure chimique de la matière fécale. Quand elle est plantée en intérieur, elle permet des récoltes fréquentes de fècium.\n\nUne bonne alternative à la collecte manuelle de fècium, qui requiert de nourrir des créatures puis de récolter leurs crottes. Les fécaflores doivent être cultivées sur un plateau hydroponique. \n\nTemps de croissance approximatif : 4 heures",
+    "Additional": "39 Faecium in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build135",
+    "Name": "Hôte gravitino",
+    "Group": "Graine à planter",
+    "Description": "Une étrange plante, potentiellement parasite, qui produit occasionnellement des orbes de gravitino de grande valeur.\n \nAdaptée à la culture hydroponique en intérieur. Ne peut pas être plantée en extérieur.\n \nTemps de croissance approximatif : 2 heures",
+    "Additional": "1 Gravitino Ball in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build136",
+    "Name": "Racine de mordite",
+    "Group": "Graine à planter",
+    "Description": "Un tubercule non comestible qui produit une petite quantité de cristaux de mordite, à une fréquence moyenne.\n\nUne alternative pacifique à la récolte de mordite sur le cadavre de créatures. La racine de mordite doit être cultivée sur un plateau hydroponique. \n\nTemps de croissance approximatif : 8 heures",
+    "Additional": "39 Mordite in roughly 8 hours of real time"
+  },
+  {
+    "Id": "build137",
+    "Name": "Echinocactus",
+    "Group": "Graine à planter",
+    "Description": "L'echinocactus est une plante comestible succulente de taille moyenne, native des biomes arides et capable de supporter de longues périodes de sécheresse. Elle s'adapte bien à la culture et donne des récoltes occasionnelles très abondantes.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être aride pour une culture en extérieur.\n\nTemps de croissance approximatif : 16 heures",
+    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+  },
+  {
+    "Id": "build138",
+    "Name": "Ronce stellaire",
+    "Group": "Graine à planter",
+    "Description": "Une plante cultivable de taille moyenne, produisant occasionnellement des bulbes d'étoile de grande valeur.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être luxuriante pour une culture en extérieur.\n\nTemps de croissance approximatif : 4 heures",
+    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build139",
+    "Name": "Orbe perlier d'albumen",
+    "Group": "Orbe végétal",
+    "Description": "Cet orbe cristallin de taille moyenne peut être cultivé pour produire occasionnellement des perles d'albumen de grande valeur.\n\nAdapté à la culture hydroponique en intérieur. Ne peut être planté à l'extérieur.\n\nTemps de croissance approximatif : 80 mins",
+    "Additional": "1 Albumen Pearl in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build140",
+    "Name": "NipNip",
+    "Group": "Graine à planter",
+    "Description": "Cette plante médicinale est célèbre pour ses bourgeons à l'odeur âcre, qui sont récoltés pour le CrokGek. Elle pousse dans les environnements humides.\n\nAdaptée à la culture hydroponique en intérieur. L'atmosphère doit être tropicale ou humide pour une culture en extérieur.",
+    "Additional": "1 NipNip Buds in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build141",
+    "Name": "Confinement de la flore",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build142",
+    "Name": "Plante en pot",
+    "Group": "Décoration",
+    "Description": "Pot décoratif pour plantes d'intérieur."
+  },
+  {
+    "Id": "build143",
+    "Name": "Plateau hydroponique",
+    "Group": "Technologie agricole",
+    "Description": "Système de culture autonome destiné à l'agriculture en intérieur.\n\nCondition de création: Ne peut être placé qu'en intérieur"
+  },
+  {
+    "Id": "build144",
+    "Name": "Grand plateau hydroponique",
+    "Group": "Technologie agricole",
+    "Description": "Un système de pousse autonome pour la culture en intérieur des plantes agricoles. Peut contenir jusqu'à quatre plantes.\n\nCondition de construction : doit être placé à l'intérieur."
+  },
+  {
+    "Id": "build145",
+    "Name": "Jardinière verticale",
+    "Group": "Technologie agricole",
+    "Description": "Un système de plantation vertical pour la culture de plantes en intérieur."
+  },
+  {
+    "Id": "build146",
+    "Name": "Créateur de baril",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build147",
+    "Name": "Créateur de caisse",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build148",
+    "Name": "Conteneur de rangement",
+    "Group": "Unité de stockage",
+    "Description": "Rangement supplémentaire spacieux pour les objets d'inventaire."
+  },
+  {
+    "Id": "build149",
+    "Name": "Unité de stockage pour cargo",
+    "Group": "Module de cargo personnalisable",
+    "Description": "Unité de stockage hybride à haute capacité / module de rangement lors de l'aménagement de cargos interstellaires.\n\nCompatible avec l'ensemble des installations standard destinées à la survie."
+  },
+  {
+    "Id": "build150",
+    "Name": "Caisse verrouillée",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build151",
+    "Name": "Petite caisse",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build152",
+    "Name": "Râtelier",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build153",
+    "Name": "Chair (Variant 1)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build154",
+    "Name": "Chair (variant 2)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build155",
+    "Name": "Chair (variant 3)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build156",
+    "Name": "Table",
+    "Group": "Meuble",
+    "Description": "Surface de travail multi-usage faite de matériaux non magnétiques et résistants à la corrosion."
+  },
+  {
+    "Id": "build157",
+    "Name": "Lit",
+    "Group": "Meuble",
+    "Description": "Ce lit une place de taille généreuse est conçu pour la plupart des bipèdes et un débordement minime des extrémités."
+  },
+  {
+    "Id": "build158",
+    "Name": "Petite table",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build159",
+    "Name": "Planche d'étagère",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base."
+  },
+  {
+    "Id": "build160",
+    "Name": "Paving (tall)",
+    "Group": "Construction item",
+    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+  },
+  {
+    "Id": "build161",
+    "Name": "Croissance de terbium",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build162",
+    "Name": "Fissure de lumière",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build163",
+    "Name": "Amas de bulles",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build164",
+    "Name": "Buisson hexagonal",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build165",
+    "Name": "Séparateur d'irrégularités",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build166",
+    "Name": "Étoile ossifiée",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build167",
+    "Name": "Vertèbrisseau",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build168",
+    "Name": "Cosse câblée",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build169",
+    "Name": "Champicalcaire",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build170",
+    "Name": "Coquille capillaire",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build171",
+    "Name": "Cube électrique",
+    "Group": "Irrégularité de réalité stabilisée",
+    "Description": "Une irrégularité stabilisée rare, retrouvée sur une planète dysfonctionnelle. Peut être utilisée comme décoration dans une base habitable."
+  },
+  {
+    "Id": "build172",
+    "Name": "Chambre en eau profonde",
+    "Group": "Module de construction aquatique",
+    "Description": "Le module principal d'une base fournit un grand espace central qu'il est possible d'agrandir."
+  },
+  {
+    "Id": "build173",
+    "Name": "Chambre en eau profonde carrée",
+    "Group": "Module de construction aquatique",
+    "Description": "Forme alternative pour le module principal d'une base, offrant un grand espace central qu'il est possible d'agrandir."
+  },
+  {
+    "Id": "build174",
+    "Name": "Écoutille au sol",
+    "Group": "Module de construction aquatique",
+    "Description": "Écoutille holographique posée au sol. Permet d'entrer et de sortir facilement des environnements aquatiques.\n\nLes systèmes de pressurisation sont automatiquement et discrètement cachés dans la pièce."
+  },
+  {
+    "Id": "build175",
+    "Name": "Porte étanche",
+    "Group": "Module de construction aquatique",
+    "Description": "Porte standard dotée de joints à compression, adaptée à toutes les pièces et tous les couloirs."
+  },
+  {
+    "Id": "build176",
+    "Name": "Tunnel de verre",
+    "Group": "Module de construction aquatique",
+    "Description": "Tunnels de verre pressurisés et renforcés permettant de réaliser des constructions sous-marines.\n\nLeur enduit nanominéral de haute qualité leur confère des performances inégalées à ces profondeurs, le tout sans compromettre la visibilité."
+  },
+  {
+    "Id": "build177",
+    "Name": "Tunnel de verre en L",
+    "Group": "Module de construction aquatique",
+    "Description": "Tunnels de verre pressurisés et renforcés permettant de réaliser des constructions sous-marines.\n\nLeur enduit nanominéral de haute qualité leur confère des performances inégalées à ces profondeurs, le tout sans compromettre la visibilité."
+  },
+  {
+    "Id": "build178",
+    "Name": "Tunnel de verre en T",
+    "Group": "Module de construction aquatique",
+    "Description": "Tunnels de verre pressurisés et renforcés permettant de réaliser des constructions sous-marines.\n\nLeur enduit nanominéral de haute qualité leur confère des performances inégalées à ces profondeurs, le tout sans compromettre la visibilité."
+  },
+  {
+    "Id": "build179",
+    "Name": "Tunnel de verre en X",
+    "Group": "Module de construction aquatique",
+    "Description": "Tunnels de verre pressurisés et renforcés permettant de réaliser des constructions sous-marines.\n\nLeur enduit nanominéral de haute qualité leur confère des performances inégalées à ces profondeurs, le tout sans compromettre la visibilité."
+  },
+  {
+    "Id": "build180",
+    "Name": "Tunnel de verre vertical",
+    "Group": "Module de construction aquatique",
+    "Description": "Tunnels de verre pressurisés et renforcés permettant de réaliser des constructions sous-marines.\n\nLeur enduit nanominéral de haute qualité leur confère des performances inégalées à ces profondeurs, le tout sans compromettre la visibilité."
+  },
+  {
+    "Id": "build181",
+    "Name": "Boîte lumineuse",
+    "Group": "Luminaire",
+    "Description": "Module de construction spécial créé uniquement à base de panneaux lumineux. Peut être utilisé pour bâtir des murs de lumière.\n\nLa couleur de la boîte peut être modifiée avant ou après installation. Nécessite de l'énergie pour fonctionner."
+  },
+  {
+    "Id": "build182",
+    "Name": "Lampe de laboratoire",
+    "Group": "Luminaire",
+    "Description": "Lampe à faible consommation d'énergie et durée de vie améliorée, faite de matériaux entièrement recyclables."
+  },
+  {
+    "Id": "build183",
+    "Name": "Générateur de biocarburant",
+    "Group": "Module de distribution de puissance",
+    "Description": "Ce petit générateur d'électricité brûle du carburant à base de carbone placé dans la citerne de son fourneau et la transforme en énergie utilisable.\n\nConnectez des générateurs d'électricité à vos structures et technologies de base à l'aide de câblages électriques. De nombreux éléments nécessitent de l'énergie pour fonctionner."
+  },
+  {
+    "Id": "build184",
+    "Name": "Extracteur de minéraux",
+    "Group": "Module de distribution de puissance",
+    "Description": "Extracteur minéral automatique. Identifiez un site approprié grâce à l'amélioration Sondage de la visière d'analyse. La vitesse d'extraction minérale et les minéraux produits varient d'un site à l'autre.\n\nNécessite de l'énergie pour fonctionner. À connecter à des silos à l'aide de tuyaux pour permettre le stockage sur des sites plus accessibles."
+  },
+  {
+    "Id": "build185",
+    "Name": "Interrupteur mural",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation permet d'activer ou de désactiver le flux d'énergie en tirant dessus.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build186",
+    "Name": "Panneau solaire",
+    "Group": "Module de distribution de puissance",
+    "Description": "Ce réseau de panneaux solaires est un générateur d'électricité efficace qui transforme la lumière du soleil en énergie électrique nécessaire à l'alimentation de nombreuses structures de bases.\n\nNe génère aucune énergie la nuit. À associer à des batteries afin de stocker l'énergie pour les heures d'obscurité."
+  },
+  {
+    "Id": "build187",
+    "Name": "Batterie",
+    "Group": "Module de distribution de puissance",
+    "Description": "Connectez ces unités de stockage d'énergie à un réseau électrique et les circuits de gestion d'alimentation intégrés détourneront automatiquement le surplus d'énergie afin de charger les batteries.\n\nSi le réseau tente de détourner davantage d'énergie que la production actuelle, la batterie enverra automatiquement de l'électricité afin de combler le manque."
+  },
+  {
+    "Id": "build188",
+    "Name": "Extracteur de gaz",
+    "Group": "Module de distribution de puissance",
+    "Description": "Extracteur de gaz automatique. Identifiez un site approprié grâce à l'amélioration Sondage de la visière d'analyse. La vitesse d'extraction et les gaz produits varient d'un site à l'autre.\n\nNécessite de l'énergie pour fonctionner. À connecter à des silos à l'aide de tuyaux pour permettre le stockage sur des sites plus accessibles."
+  },
+  {
+    "Id": "build189",
+    "Name": "Dépôt de ravitaillement",
+    "Group": "Module de distribution de substances",
+    "Description": "Unité de stockage automatique à connecter à un réseau d'alimentation à l'aide de tuyaux.\n\nStocke automatiquement la production de divers extracteurs de gaz et de minéraux afin d'accroître leur capacité et d'optimiser leur implantation. Peut être installé à distance du site d'extraction."
+  },
+  {
+    "Id": "build190",
+    "Name": "Tuyau d’alimentation",
+    "Group": "Module de distribution de puissance",
+    "Description": "Tuyauterie souple et très résistante capable de supporter un environnement interne à haute pression.\n\nUtilisé pour connecter différents extracteurs de gaz et de minéraux à des silos."
+  },
+  {
+    "Id": "build191",
+    "Name": "Interrupteur au sol",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation permet d'activer ou de désactiver le flux d'énergie en montant dessus ou en l'activant d'une autre manière.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build192",
+    "Name": "Interrupteur de proximité",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation active le flux d'énergie lorsqu'une entité est détectée à proximité.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build193",
+    "Name": "Bouton",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation permet d'activer ou de désactiver le flux d'énergie.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build194",
+    "Name": "Onduleur",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation permet d'activer ou de désactiver le flux d'énergie.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build195",
+    "Name": "Changement automatique",
+    "Group": "Module de distribution de puissance",
+    "Description": "L'interrupteur de ce dispositif de gestion de l'alimentation permet d'activer ou de désactiver le flux d'énergie lorsqu'un signal entrant l'ordonne.\n\nLes interrupteurs nécessitent de l'énergie et des câbles de signaux pour contrôler un appareil."
+  },
+  {
+    "Id": "build196",
+    "Name": "Générateur électromagnétique",
+    "Group": "Module de distribution de puissance",
+    "Description": "Lorsqu'elles sont placées dans une zone de forte intensité de champ magnétique, les dynamos électromagnétiques permettent de générer une énergie presque illimitée.\n\nIdentifiez les sites adaptés à l'aide de l'amélioration Sondage de la visière d'analyse. La puissance de sortie varie d'un site à l'autre."
+  },
+  {
+    "Id": "build197",
+    "Name": "Processeur de nutriments",
+    "Group": "Unité de survie portable",
+    "Description": "Un extracteur de nutriments portatif capable de traiter et de raffiner un ensemble d'ingrédients en denrées alimentaires.\n\nNotez que la consommation des produits générés est sous l'entière responsabilité de l'utilisateur."
+  },
+  {
+    "Id": "build198",
+    "Name": "Unité d'élevage",
+    "Group": "Robot de récolte automatique",
+    "Description": "Cette unité d'élevage robotisée est conçue pour collecter automatiquement les substances produites par les créatures. Nécessite de l'énergie.\n\nLes créatures prêtes à donner du lait, des œufs ou d'autres produits spécifiques approchent de l'unité d'élevage et y déposent leur production. Le processus ne leur fait aucun mal.\n\nCollecte des substances produites par les créatures nourries à la main ou à l'aide d'un nourrisseur automatique."
+  },
+  {
+    "Id": "build199",
+    "Name": "Boîte sonore",
+    "Group": "Appareil audio",
+    "Description": "Module de construction spécial conçu pour émettre un son à haute fréquence. Le ton peut être modifié à volonté par l'utilisateur.\n\nNécessite de l'énergie pour fonctionner."
+  },
+  {
+    "Id": "build200",
+    "Name": "Créateur de sphère",
+    "Group": "Créateur expérimental",
+    "Description": "Dispositif hautement spécialisé conçu dans le but de découvrir la sphère la plus parfaite de l'univers.\n\nNécessite de l'énergie pour fonctionner. Permet de créer une grande sphère pour mener des expériences."
+  },
+  {
+    "Id": "build201",
+    "Name": "Téléporteur courte portée",
+    "Group": "Réseau de transport instantané",
+    "Description": "Un téléporteur basse tension, une construction destinée aux voyages instantanés sur de courtes distances.\n\nLorsqu'il est connecté à la fois à une source d'énergie et à un autre téléporteur courte portée, il permet un transport presque instantané entre des endroits proches."
+  },
+  {
+    "Id": "build202",
+    "Name": "Réacteur d’antimatière",
+    "Group": "Unité de baryogénèse",
+    "Description": "Réacteur de baryogénèse autonome, cet appareil est capable de collecter des paradoxes de réalité et de les convertir en antimatière utilisable. La vérification des niveaux de carburant est nécessaire pour garantir un fonctionnement continu.\n\nL’antimatière obtenue est contenue en toute sécurité, prête à être utilisée dans toutes les unités d’alimentation d’hyperespace standard."
+  },
+  {
+    "Id": "build203",
+    "Name": "Nourrisseur automatique",
+    "Group": "Robot agriculteur",
+    "Description": "Unité d'élevage robotisée conçue pour fournir un apport de nourriture aux créatures à proximité.\n\nAttire les animaux à proximité lorsqu'il est activé. Veillez à ce que le réservoir à appâts soit rempli afin de fournir la nourriture souhaitée aux créatures."
+  },
+  {
+    "Id": "build204",
+    "Name": "Quadruple support de fondation",
+    "Group": "Élément de construction",
+    "Description": "Ensemble préfabriqué de quatre supports pour les constructions surélevées.",
+    "Additional": ""
+  },
+  {
+    "Id": "build205",
+    "Name": "Support de fondation",
+    "Group": "Élément de construction",
+    "Description": "Support renforcé en métal non ferreux pour les constructions surélevées.",
+    "Additional": ""
+  },
+  {
+    "Id": "build206",
+    "Name": "Sommet de toit cubique",
+    "Group": "Module de construction",
+    "Description": "Un sommet de toit cubique servant à décorer et à renforcer le toit des structures cubiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "build207",
+    "Name": "Holoporte",
+    "Group": "Module de construction",
+    "Description": "Une porte holographique élégante permettant un accès rapide à toute structure tout en régulant la température et la toxicité à l'intérieur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build208",
+    "Name": "Unité de recherches de construction",
+    "Group": "Dispositif de récupération technologique",
+    "Description": "Dispositif de recherche de plans portatif.\n\nCe module de recherche à déployer sur le terrain permet à l'utilisateur de convertir des modules technologiques anciens ou endommagés en plans de construction avancés.",
+    "Additional": ""
+  },
+  {
+    "Id": "build209",
+    "Name": "Géobox pour Nomade",
+    "Group": "Module de construction",
+    "Description": "Garage souterrain sécurisé pour l'exonef de petite taille Nomade.",
+    "Additional": ""
+  },
+  {
+    "Id": "build210",
+    "Name": "Géobox pour Vagabond",
+    "Group": "Module de construction",
+    "Description": "Garage souterrain sécurisé pour l'exonef de taille moyenne Vagabond.",
+    "Additional": ""
+  },
+  {
+    "Id": "build211",
+    "Name": "Géobox pour Colosse",
+    "Group": "Module de construction",
+    "Description": "Garage souterrain sécurisé pour l'exonef de grande taille Colosse.",
+    "Additional": ""
+  },
+  {
+    "Id": "build212",
+    "Name": "Géobox pour Pèlerin",
+    "Group": "Module de construction",
+    "Description": "Garage souterrain sécurisé pour l'exonef de petite taille Pèlerin.",
+    "Additional": ""
+  },
+  {
+    "Id": "build213",
+    "Name": "Lumière colorée",
+    "Group": "Décoration",
+    "Description": "Une lumière colorée permettant d'éclairer la base d'un utilisateur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build214",
+    "Name": "Plafonnier",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build215",
+    "Name": "Échelle",
+    "Group": "Élément de construction",
+    "Description": "Échelle légère et résistante, dotée de fixations renforcées pour l'accrocher aux murs.",
+    "Additional": ""
+  },
+  {
+    "Id": "build216",
+    "Name": "Échelle de pièce cubique",
+    "Group": "Élément de construction",
+    "Description": "Échelle légère et solide dont les fixations sont adaptées aux pièces cubiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "build217",
+    "Name": "Store métallique",
+    "Group": "Fermeture d'accès",
+    "Description": "Un store métallique autonome, programmé pour s'ouvrir en présence de son constructeur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build218",
+    "Name": "Chaise",
+    "Group": "Meuble",
+    "Description": "Cette chaise confortable, conçue pour la plupart des bipèdes, n'occasionne qu'un faible engourdissement du postérieur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build219",
+    "Name": "Canapé droit",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build220",
+    "Name": "Canapé d'angle",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build221",
+    "Name": "Canapé arrondi",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build222",
+    "Name": "Grande station de contrôle",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build223",
+    "Name": "Bureau simple",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build224",
+    "Name": "Bureau incurvé",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build225",
+    "Name": "Station de contrôle",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build226",
+    "Name": "Plan de travail",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build227",
+    "Name": "Unité murale",
+    "Group": "Décoration",
+    "Description": "Unité murale de rangement purement décorative.",
+    "Additional": ""
+  },
+  {
+    "Id": "build228",
+    "Name": "Tiroirs",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build229",
+    "Name": "Panneau de stockage",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build230",
+    "Name": "Meuble octogonal",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build231",
+    "Name": "Grand placard",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build232",
+    "Name": "Casier",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build233",
+    "Name": "Paroi latérale",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build234",
+    "Name": "Paillasson",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build235",
+    "Name": "Drapeau 1",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build236",
+    "Name": "Drapeau 2",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build237",
+    "Name": "Drapeau 3",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build238",
+    "Name": "Drapeau 4",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build239",
+    "Name": "Drapeau mural 1",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build240",
+    "Name": "Drapeau mural 2",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build241",
+    "Name": "Drapeau mural 3",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build242",
+    "Name": "Panneau technique",
+    "Group": "Décoration",
+    "Description": "Panneau technique non fonctionnel purement décoratif.",
+    "Additional": ""
+  },
+  {
+    "Id": "build243",
+    "Name": "Ventilateur mural",
+    "Group": "Décoration",
+    "Description": "Faux ventilateur décoratif à placer sur un mur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build244",
+    "Name": "Écran mural",
+    "Group": "Décoration",
+    "Description": "Écran vidéo décoratif à accrocher au mur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build245",
+    "Name": "Serveur",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build246",
+    "Name": "Panneau de plafond",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build247",
+    "Name": "Présentoir",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build248",
+    "Name": "Bras robotique",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build249",
+    "Name": "Panneau plat",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build250",
+    "Name": "Oscilloscope",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build251",
+    "Name": "Écran mural vert",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build252",
+    "Name": "Écran mural orange",
+    "Group": "Décoration",
+    "Description": "Ornement constructible pour embellir votre base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build253",
+    "Name": "Grand angle",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build254",
+    "Name": "Petit angle",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build255",
+    "Name": "Pyramide",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build256",
+    "Name": "Canalisation courbe",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build257",
+    "Name": "Canalisation",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build258",
+    "Name": "Cylindre",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build259",
+    "Name": "Cube",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build260",
+    "Name": "Sphère",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build261",
+    "Name": "Mur",
+    "Group": "Décoration",
+    "Description": "Module mural renforcé courant dans les structures des bases à travers toute la galaxie.\n\nSa conformité au Règlement de construction universel 2.3b assure une compatibilité maximale avec les autres structures préfabriquées. Sa mise en place rapide permet un assemblage aisé des modèles d'abris personnalisés.",
+    "Additional": ""
+  },
+  {
+    "Id": "build262",
+    "Name": "Poste de liaison",
+    "Group": "Module de construction",
+    "Description": "Objet structurel de base à utiliser en association avec des modules muraux pour créer des angles à 90 degrés.",
+    "Additional": ""
+  },
+  {
+    "Id": "build263",
+    "Name": "Plateforme de toit",
+    "Group": "Module de construction",
+    "Description": "Objet structurel de base à utiliser en association avec des modules muraux pour créer des plateformes capables de supporter un poids considérable.",
+    "Additional": ""
+  },
+  {
+    "Id": "build264",
+    "Name": "Grand mur",
+    "Group": "Décoration",
+    "Description": "Module mural renforcé courant dans les structures des bases à travers toute la galaxie.\n\nSa conformité au Règlement de construction universel 2.3b assure une compatibilité maximale avec les autres structures préfabriquées. Sa mise en place rapide permet un assemblage aisé des modèles d'abris personnalisés.",
+    "Additional": ""
+  },
+  {
+    "Id": "build265",
+    "Name": "Mur",
+    "Group": "Décoration",
+    "Description": "Objet structurel constructible de base.",
+    "Additional": ""
+  },
+  {
+    "Id": "build266",
+    "Name": "Mur interne de cargo",
+    "Group": "Module intérieur de cargo",
+    "Description": "Ce module d'extension permet une construction d'espaces habitables rapide à l'intérieur des vaisseaux de grande taille.\n\nL'unité de construction préfabriquée comprend une cloison de pressurisation ainsi que tous les points d'ancrage nécessaires.",
+    "Additional": ""
+  },
+  {
+    "Id": "build267",
+    "Name": "Départ de course pour vaisseau",
+    "Group": "Morceau de course",
+    "Description": "Cette plateforme tient le rôle de ligne de départ et d'arrivée pour le champ d'essai du vaisseau, elle permet aux Voyageurs de s'entraîner aux manœuvres et à la vitesse.",
+    "Additional": ""
+  },
+  {
+    "Id": "build268",
+    "Name": "Amplificateur de force de course",
+    "Group": "Morceau de course",
+    "Description": "Donne un turbo à votre exonef pendant les courses.",
+    "Additional": ""
+  },
+  {
+    "Id": "build269",
+    "Name": "Obstacle de la course",
+    "Group": "Morceau de course",
+    "Description": "Offre un défi supplémentaire aux courses d'exonefs.",
+    "Additional": ""
+  },
+  {
+    "Id": "build270",
+    "Name": "Adhésif",
+    "Group": "Décoration",
+    "Description": "Adhésifs décoratifs à placer où vous voulez.",
+    "Additional": ""
+  },
+  {
+    "Id": "build271",
+    "Name": "Hologramme de créature",
+    "Group": "Décoration environnementale",
+    "Description": "Une représentation holographique décorative d'une créature extraite du journal de découverte de l'utilisateur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build272",
+    "Name": "Bathysphère perdue",
+    "Group": "Casque à débloquer",
+    "Description": "Changement d'apparence de l'exocombinaison hanté. Même après l'avoir retiré, le porteur entendra toujours le murmure de l'océan qui l'appelle...\nChange l'apparence de votre exocombinaison avec un modificateur d'apparence.",
+    "Additional": ""
+  },
+  {
+    "Id": "build273",
+    "Name": "Statue de blob en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base.\nCette statue représente une créature primitive ancienne, recherchée par de nombreux explorateurs de la première heure.",
+    "Additional": ""
+  },
+  {
+    "Id": "build274",
+    "Name": "Statue de blob en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base.\nCette statue représente une créature primitive ancienne, recherchée par de nombreux explorateurs de la première heure.",
+    "Additional": ""
+  },
+  {
+    "Id": "build275",
+    "Name": "Statue de blob en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base.\nCette statue représente une créature primitive ancienne, recherchée par de nombreux explorateurs de la première heure.",
+    "Additional": ""
+  },
+  {
+    "Id": "build276",
+    "Name": "Statue de diplo en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base.\nCette statue représente une espèce quadrupède à long cou.",
+    "Additional": ""
+  },
+  {
+    "Id": "build277",
+    "Name": "Statue de diplo en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base.\nCette statue représente une espèce quadrupède à long cou.",
+    "Additional": ""
+  },
+  {
+    "Id": "build278",
+    "Name": "Statue de diplo en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base.\nCette statue représente une espèce quadrupède à long cou.",
+    "Additional": ""
+  },
+  {
+    "Id": "build279",
+    "Name": "Statue de Gek en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base.\nCette statue représente un Gek désignant le ciel.",
+    "Additional": ""
+  },
+  {
+    "Id": "build280",
+    "Name": "Statue de Gek en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base.\nCette statue représente un Gek désignant le ciel.",
+    "Additional": ""
+  },
+  {
+    "Id": "build281",
+    "Name": "Statue de Gek en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base.\nCette statue représente un Gek désignant le ciel.",
+    "Additional": ""
+  },
+  {
+    "Id": "build282",
+    "Name": "Statue de vaisseau en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base.\nCette statue représente le légendaire vaisseau Vecteur Alpha.",
+    "Additional": ""
+  },
+  {
+    "Id": "build283",
+    "Name": "Statue de vaisseau en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base.\nCette statue représente le légendaire vaisseau Vecteur Alpha.",
+    "Additional": ""
+  },
+  {
+    "Id": "build284",
+    "Name": "Statue de vaisseau en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base.\nCette statue représente le légendaire vaisseau Vecteur Alpha.",
+    "Additional": ""
+  },
+  {
+    "Id": "build285",
+    "Name": "Statue de marcheur en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base.\nCette statue représente un marcheur sentinelle, une unité de combat avancé.",
+    "Additional": ""
+  },
+  {
+    "Id": "build286",
+    "Name": "Statue de marcheur en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base.\nCette statue représente un marcheur sentinelle, une unité de combat avancé.",
+    "Additional": ""
+  },
+  {
+    "Id": "build287",
+    "Name": "Statue de marcheur en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base.\nCette statue représente un marcheur sentinelle, une unité de combat avancé.",
+    "Additional": ""
+  },
+  {
+    "Id": "build288",
+    "Name": "Statue d'Atlas en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base. Cette statue est une réplique d'une interface Atlas. Son cœur pivote, alimenté par une force inconnue...",
+    "Additional": ""
+  },
+  {
+    "Id": "build289",
+    "Name": "Statue d'Atlas en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base. Cette statue est une réplique d'une interface Atlas. Son cœur pivote, alimenté par une force inconnue...",
+    "Additional": ""
+  },
+  {
+    "Id": "build290",
+    "Name": "Statue d'Atlas en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base. Cette statue est une réplique d'une interface Atlas. Son cœur pivote, alimenté par une force inconnue...",
+    "Additional": ""
+  },
+  {
+    "Id": "build291",
+    "Name": "Statue d'astronaute en bronze",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans le bronze, à construire sur votre base. Cette statue d'astronaute est un hommage à tous les explorateurs galactiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "build292",
+    "Name": "Statue d'astronaute en argent",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'argent, à construire sur votre base. Cette statue d'astronaute est un hommage à tous les explorateurs galactiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "build293",
+    "Name": "Statue d'astronaute en or",
+    "Group": "Décoration à débloquer",
+    "Description": "Une décoration exclusive, moulée dans l'or, à construire sur votre base. Cette statue d'astronaute est un hommage à tous les explorateurs galactiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "build294",
+    "Name": "Adhésif du hub galactique",
+    "Group": "Décoration",
+    "Description": "Un adhésif exclusif à placer où vous voulez, pour décorer et ajouter du cachet à votre base.\nCet adhésif représente un emblème sous-titré de la devise : 'Explorer ensemble'.",
+    "Additional": ""
+  },
+  {
+    "Id": "build295",
+    "Name": "Adhésif main approbatrice",
+    "Group": "Décoration",
+    "Description": "Un adhésif exclusif à placer où vous voulez, pour décorer et ajouter du cachet à votre base.\nCet adhésif représente un geste de la main universel signifiant l'approbation.",
+    "Additional": ""
+  },
+  {
+    "Id": "build296",
+    "Name": "Adhésif Nada",
+    "Group": "Décoration",
+    "Description": "Un adhésif décoratif exclusif à placer où vous voulez ; il ajoutera de l'élégance à n'importe quelle base.\nCet adhésif représente l'entité prêtresse Nada du peuple korvax.",
+    "Additional": ""
+  },
+  {
+    "Id": "build297",
+    "Name": "Adhésif Polo",
+    "Group": "Décoration",
+    "Description": "Un adhésif décoratif exclusif à placer où vous voulez ; il ajoutera de l'élégance à n'importe quelle base.\nCet adhésif représente Polo le spécialiste du peuple gek.",
+    "Additional": ""
+  },
+  {
+    "Id": "build298",
+    "Name": "Adhésif Apollon",
+    "Group": "Décoration",
+    "Description": "Un adhésif décoratif exclusif à placer où vous voulez ; il ajoutera de l'élégance à n'importe quelle base.\nCet adhésif représente le voyageur Apollon.",
+    "Additional": ""
+  },
+  {
+    "Id": "build299",
+    "Name": "Adhésif Artémis",
+    "Group": "Décoration",
+    "Description": "Un adhésif décoratif exclusif à placer où vous voulez ; il ajoutera de l'élégance à n'importe quelle base.\nCet adhésif représente le voyageur Artémis.",
+    "Additional": ""
+  },
+  {
+    "Id": "build300",
+    "Name": "Adhésif -vide-",
+    "Group": "Décoration",
+    "Description": "Un adhésif décoratif exclusif à placer où vous voulez ; il ajoutera de l'élégance à n'importe quelle base.\nCet adhésif représente le voyageur -vide-.",
+    "Additional": ""
+  },
+  {
+    "Id": "build301",
+    "Name": "Compagnon robotique",
+    "Group": "Drone-valet personnel",
+    "Description": "Un drone ultra sophistiqué et garanti sans bug.\n\nPour donner plus de vie à votre base, ce robot miniature apportera entrain, humour et un fredonnement continu à votre intérieur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build302",
+    "Name": "Cube en expansion",
+    "Group": "Décoration à débloquer",
+    "Description": "Une curiosité décorative exclusive.\n\nCe gadget inventé de toute pièce utilise un champ gravitationnel localisé qui ravit et fascine les visiteurs.",
+    "Additional": ""
+  },
+  {
+    "Id": "build303",
+    "Name": "Globe holographique",
+    "Group": "Décoration à débloquer",
+    "Description": "Une curiosité décorative exclusive pour base.\n\nCe gadget projette une sphère holographique capable de représenter l'un des trillions de corps célestes occupant les différentes galaxies.",
+    "Additional": ""
+  },
+  {
+    "Id": "build304",
+    "Name": "Arbre fruitier",
+    "Group": "Décoration organique",
+    "Description": "Un imposant arbre fruitier de décoration.\n\nLa forme de ses fruits, ainsi que sa toxicité et son existence varieront selon le climat environnant et les modalités de pollinisation.",
+    "Additional": ""
+  },
+  {
+    "Id": "build305",
+    "Name": "Fusain",
+    "Group": "Décoration organique",
+    "Description": "Un arbre fin qui ne donne aucun fruit. Ses racines forment un environnement fongique hautement adaptable.\n\nLe fait qu'il se sustente de ses propres champignons facilite sa croissance. Ses champignons sont comestibles et non invasifs.",
+    "Additional": ""
+  },
+  {
+    "Id": "build306",
+    "Name": "Arbre sempervirent",
+    "Group": "Décoration organique",
+    "Description": "Un arbre sempervirent robuste capable de survivre au sein d'un large éventail de climats.\n\nSa cuticule argentée sur le dessous lui confère une excellente capacité à capter la lumière. Elle lui permet également de survivre toute l'année et lui donne une magnifique couleur.",
+    "Additional": ""
+  },
+  {
+    "Id": "build307",
+    "Name": "Buisson carnivore",
+    "Group": "Décoration organique",
+    "Description": "Une plante décorative de taille moyenne. Ses feuilles sont recouvertes d'un film de latex collant ; les insectes qui y atterrissent sont lentement absorbés par ses hormones digestives mêlées à de la colle.\n\nÉvitez tout contact avec votre peau.",
+    "Additional": ""
+  },
+  {
+    "Id": "build308",
+    "Name": "Palmier nain",
+    "Group": "Décoration organique",
+    "Description": "Un modèle réduit et facilement transportable de la plus grande espèce de palmier.\n\nPlacez-le à l'extérieur pour attirer la faune locale et purifier l'air ambiant.",
+    "Additional": ""
+  },
+  {
+    "Id": "build309",
+    "Name": "Maïs étrange",
+    "Group": "Décoration organique",
+    "Description": "Épi de maïs décoratif. Disponible en plusieurs coloris. Il attirera peut-être de beaux animaux.\n\nImpossible à cultiver naturellement. Doit être pollinisé à la main.",
+    "Additional": ""
+  },
+  {
+    "Id": "build310",
+    "Name": "Petit aquarium",
+    "Group": "Module d'observation aquatique",
+    "Description": "Petite unité d'observation permettant d'observer les comportements aquatiques.\n\nEntièrement autonome, il fonctionne avec sa propre source d'énergie renouvelable, son propre réseau de pompage, et est équipé d'un système de filtration autonettoyant.",
+    "Additional": ""
+  },
+  {
+    "Id": "build311",
+    "Name": "Corail torsadé",
+    "Group": "Décoration organique",
+    "Description": "Invertébré marin fragile, cultivé pour grandir en pot. Sa structure unique en boucle lui donne une apparence magique et attrayante.",
+    "Additional": ""
+  },
+  {
+    "Id": "build312",
+    "Name": "Cristal aquatique",
+    "Group": "Décoration organique",
+    "Description": "Amas attrayant de minéraux océaniques cristallisés. Ces cristaux poussent en forme d'éclat pointu et présentent une couleur marbrée peu commune.",
+    "Additional": ""
+  },
+  {
+    "Id": "build313",
+    "Name": "Fleur candélabre",
+    "Group": "Décoration organique",
+    "Description": "Étonnante plante ornée de fleurs luminescentes en forme d'orbes. Cette variété domestique s'est adaptée pour absorber et transformer l'oxygène à partir de n'importe quelle source terrestre comme marine.",
+    "Additional": ""
+  },
+  {
+    "Id": "build314",
+    "Name": "Bernacle",
+    "Group": "Décoration organique",
+    "Description": "Tenace arthropode naturellement présent sur les objets sous-marins immobiles ou dérivant lentement.\n\nCette variété peut s'accrocher n'importe où pour donner un aspect ancien à une base sous-marine.",
+    "Additional": ""
+  },
+  {
+    "Id": "build315",
+    "Name": "Feu d'artifice",
+    "Group": "Appareil de pyrotechnie consommable",
+    "Description": "Des feux d'artifice de luxe, riches en magnésium et en émeril. Allumez-les pour illuminer les cieux de figures scintillantes.\n\nPlacez le tube de lancement depuis menu de construction (BUILD_MENU). Attention : ne pas viser les créatures vivantes. Non recommandé pour un usage en intérieur. ",
+    "Additional": ""
+  },
+  {
+    "Id": "build316",
+    "Name": "Générateur de réalité de poche",
+    "Group": "Décoration à débloquer",
+    "Description": "Une curiosité décorative exclusive pour base.\n\nModèle de la réalité même, selon la perspective d'un observateur impossible. Des niveaux de détails infinis attendent d'être découverts par un spectateur possédant une loupe suffisamment puissante.",
+    "Additional": ""
+  },
+  {
+    "Id": "build317",
+    "Name": "Terrarium",
+    "Group": "Enceinte spécialisée pour créatures",
+    "Description": "Petite unité d’observation permettant d’étudier le comportement animal.\n\nEntièrement autonome, il possède un processeur de nutriments intégré, son propre purificateur d’air et même doté d’un système de traitement des matières fécales.",
+    "Additional": ""
+  },
+  {
+    "Id": "build318",
+    "Name": "Palmier à voiles",
+    "Group": "Décoration organique",
+    "Description": "Un arbre à grandes feuilles résistant à la chaleur.\n\nSes larges feuilles sont serties de minéraux qui forment une barrière protectrice contre les rayons brûlants du soleil de son environnement d'origine.",
+    "Additional": ""
+  },
+  {
+    "Id": "build319",
+    "Name": "Arbre globe",
+    "Group": "Décoration organique",
+    "Description": "Un arbre fin au système racinaire charnu et large, bien adapté aux climats chauds.\n\nVous pouvez tirer du liquide potable de son bulbe racinaire, mais ceci n'est conseillé qu'en cas d'extrême nécessité.",
+    "Additional": ""
+  },
+  {
+    "Id": "build320",
+    "Name": "Jardin de rochers",
+    "Group": "Décoration organique",
+    "Description": "Un module de jardin complété par une formation minérale décorative et un tapis capillaire intégré pour un contrôle optimal de l’humidité.",
+    "Additional": ""
+  },
+  {
+    "Id": "build321",
+    "Name": "Petite porte en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une petite porte à insérer dans un chambranle en bois.",
+    "Additional": ""
+  },
+  {
+    "Id": "build322",
+    "Name": "Porte électrique en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir d'un bois injecté d'une résine et traité sous pression.",
+    "Additional": ""
+  },
+  {
+    "Id": "build323",
+    "Name": "Grande porte électrique en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée deux fois plus large. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir d'un bois injecté d'une résine et traité sous pression.",
+    "Additional": ""
+  },
+  {
+    "Id": "build324",
+    "Name": "Angle de toit intérieur en bois",
+    "Group": "Composant de construction en bois",
+    "Description": "Une pièce structurale de toit essentielle, capitale lors de la construction de toits angulaires.\n\nFaçonnée à partir d'un bois injecté de résine et traité sous pression.",
+    "Additional": ""
+  },
+  {
+    "Id": "build325",
+    "Name": "Petite porte en métal",
+    "Group": "Élément de construction en métal",
+    "Description": "Une petite porte à insérer dans un chambranle en métal.",
+    "Additional": ""
+  },
+  {
+    "Id": "build326",
+    "Name": "Porte électrique métallique",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir d’alliages métalliques hautement résistants.",
+    "Additional": ""
+  },
+  {
+    "Id": "build327",
+    "Name": "Grande porte électrique métallique",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée deux fois plus large. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir d’alliages métalliques hautement résistants.",
+    "Additional": ""
+  },
+  {
+    "Id": "build328",
+    "Name": "Angle de toit intérieur métallique",
+    "Group": "Composant de construction en bois",
+    "Description": "Une pièce structurale de toit essentielle, capitale lors de la construction de toits angulaires.\n\nFaçonnée à partir d’alliages métalliques hautement résistants.",
+    "Additional": ""
+  },
+  {
+    "Id": "build329",
+    "Name": "Petite porte en béton",
+    "Group": "Élément de construction en béton",
+    "Description": "Une petite porte à insérer dans un chambranle en béton.",
+    "Additional": ""
+  },
+  {
+    "Id": "build330",
+    "Name": "Porte électrique en béton",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir de dalles de béton renforcées.",
+    "Additional": ""
+  },
+  {
+    "Id": "build331",
+    "Name": "Grande porte électrique en béton",
+    "Group": "Composant de construction en bois",
+    "Description": "Une porte motorisée deux fois plus large. Peut être reliée à un réseau électrique et actionnée par le biais de divers interrupteurs.\n\nFaçonnée à partir de dalles de béton renforcées.",
+    "Additional": ""
+  },
+  {
+    "Id": "build332",
+    "Name": "Angle de toit intérieur en béton",
+    "Group": "Composant de construction en bois",
+    "Description": "Une pièce structurale de toit essentielle, capitale lors de la construction de toits angulaires.\n\nFaçonnée à partir de dalles de béton renforcées.",
+    "Additional": ""
+  },
+  {
+    "Id": "build333",
+    "Name": "Câblage électrique",
+    "Group": "Module de distribution de puissance",
+    "Description": "Câblage électrique à haute capacité. Utilisez le câblage pour relier les générateurs de puissance à votre base. La plupart des technologies, ainsi que les structures dotées de systèmes d’éclairage intégrés, nécessitent une source d’alimentation pour fonctionner.\n\nLe câblage peut être relié à divers interrupteurs pour faciliter un flux de puissance sélectif.",
+    "Additional": ""
+  },
+  {
+    "Id": "build334",
+    "Name": "Câble de téléportation",
+    "Group": "Module de distribution de puissance",
+    "Description": "Un câble en fibre optique avancé, conçu pour connecter un ou plusieurs téléporteurs courte portée.",
+    "Additional": ""
+  },
+  {
+    "Id": "build336",
+    "Name": "Lampe",
+    "Group": "Luminaire",
+    "Description": "Lampe à faible consommation d'énergie et durée de vie améliorée, faite de matériaux entièrement recyclables.",
+    "Additional": ""
+  },
+  {
+    "Id": "build337",
+    "Name": "Adhésif d'anomalie",
+    "Group": "Décoration",
+    "Description": "Un adhésif exclusif à placer où vous voulez, pour décorer et ajouter du cachet à votre base.\nCet adhésif représente une anomalie voyageur.",
+    "Additional": ""
+  }
+]

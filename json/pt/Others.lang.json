@@ -1,0 +1,176 @@
+[
+  {
+    "Id": "other1",
+    "Name": "Nanite Cluster",
+    "Group": "Technological Currency",
+    "Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
+  },
+  {
+    "Id": "other2",
+    "Name": "Mapa Planetário",
+    "Group": "Dados Cartográficos",
+    "Description": "Um mapa de um planeta próximo. As coordenadas de um sinal de socorro foram marcadas.\n\nSeleciona o mapa e usa Traçar Rota (FE_ALT1) para fixar a localização no visor do Exofato.\n\nNovos mapas podem ser obtidos ao trocar Dados de Navegação com um Cartógrafo da Estação Espacial.",
+    "Additional": ""
+  },
+  {
+    "Id": "other3",
+    "Name": "Chave Anciã",
+    "Group": "Artefacto Intemporal",
+    "Description": "Este pedaço envelhecido de ferro forjado, uma chave com algum peso, deve pertencer a uma fechadura próxima...",
+    "Additional": ""
+  },
+  {
+    "Id": "other4",
+    "Name": "Chave Tridente",
+    "Group": "Relíquia Aquática",
+    "Description": "Uma estranha chave bifurcada, brilha com uma luz ultravioleta.\n\nApesar de sua aparência primitiva, os sistemas de deteção do Exofato revelam traços de espuma de nanite nos seus dentes.",
+    "Additional": ""
+  },
+  {
+    "Id": "other5",
+    "Name": "Dados de Navegação",
+    "Group": "Dados de Navegação Criptografados",
+    "Description": "Dados de navegação codificados. Esta unidade de dados altamente portátil contém todas as informações cartográficas relevantes para uma região planetária.\n\nPode ser negociada com um Cartógrafo a bordo de uma Estação Espacial em troca de mapas estelares utilizáveis.",
+    "Additional": ""
+  },
+  {
+    "Id": "other6",
+    "Name": "Dados de Coordenadas da Cápsula de Escape",
+    "Group": "Dados de Navegação Criptografados",
+    "Description": "Dados de navegação codificados para entrada num Impulsionador de Sinal.\n\nAo ser desencriptado, irá revelar a localização de uma Cápsula de escape que contém Atualizações de Exofato.",
+    "Additional": ""
+  },
+  {
+    "Id": "other7",
+    "Name": "Chave de encriptação de Registo",
+    "Group": "Sequência de Dados Incompleta",
+    "Description": "Um fragmento da sequência de encriptação de sobrecarga para um registo de emergência de um cargueiro.\n\nPodem ser necessárias várias partes da sequência para aceder aos dados guardados.",
+    "Additional": ""
+  },
+  {
+    "Id": "other8",
+    "Name": "Memorando de Defesa",
+    "Group": "Substituto de Pagamento da Autoridade do Sistema",
+    "Description": "Um sinal que autoriza o portador a ter o apoio das autoridades do sistema a lidar com ataques de pirataria.",
+    "Additional": ""
+  },
+  {
+    "Id": "other9",
+    "Name": "Estupefacto",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido para partilhar momentos de maravilhamento existencial com outros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other10",
+    "Name": "Festejar!",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido para partilhar momentos de celebração com outros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other11",
+    "Name": "Ha!",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido para partilhar momentos de diversão com outros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other12",
+    "Name": "Admirar",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido. Observa as grandes estruturas, fauna, flora e as próprias estrelas; maravilha-te perante a insignificância de uma pequena vida em todo o universo.",
+    "Additional": ""
+  },
+  {
+    "Id": "other13",
+    "Name": "Sem Problema",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido enquanto estiveres debaixo de água para indicar 'sem problema' aos outros exploradores aquáticos.",
+    "Additional": ""
+  },
+  {
+    "Id": "other14",
+    "Name": "Olhar distante",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido. Olha para o horizonte e procura a tua próxima aventura.",
+    "Additional": ""
+  },
+  {
+    "Id": "other15",
+    "Name": "Pose heroica",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido. Faz a tua melhor pose em frente a estruturas abandonadas, elevadas formações minerais e colossais formas de vida predatórias.",
+    "Additional": ""
+  },
+  {
+    "Id": "other16",
+    "Name": "Incredulidade",
+    "Group": "Gesto desbloqueável",
+    "Description": "Um gesto exclusivo.\nPode ser selecionado no Menu Rápido. Cai de joelhos em incredulidade pelas maravilhas que viste.",
+    "Additional": ""
+  },
+  {
+    "Id": "other17",
+    "Name": "Capacete Escasso Horizonte",
+    "Group": "Capacete desbloqueável",
+    "Description": "Um exclusivo Modificador de Aparência do Exofato.\nTransforma a aparência do teu Exofato com um Modificador de Aparência.",
+    "Additional": ""
+  },
+  {
+    "Id": "other18",
+    "Name": "Capacete órbita flamejante",
+    "Group": "Capacete desbloqueável",
+    "Description": "Uma exclusiva Alteração da Aparência do Exofato.\nTransforma a aparência do teu Exofato com um Modificador de Aparência.",
+    "Additional": ""
+  },
+  {
+    "Id": "other19",
+    "Name": "Olho do Capacete Korvax",
+    "Group": "Capacete desbloqueável",
+    "Description": "Uma exclusiva Alteração da Aparência do Exofato.\nTransforma a aparência do Exofato num Modificador de Aparência.",
+    "Additional": ""
+  },
+  {
+    "Id": "other20",
+    "Name": "Máscara de Batalha da Primeira Geração",
+    "Group": "Capacete desbloqueável",
+    "Description": "Uma agressiva Alteração da Aparência do Exofato, inspirada nos capacetes de guerra dos Gek antigos.\nTransforma a aparência do Exofato num Modificador de Aparência.",
+    "Additional": ""
+  },
+  {
+    "Id": "other21",
+    "Name": "Proteções de ombro blindadas",
+    "Group": "Armadura desbloqueável",
+    "Description": "Potente blindagem de ombros; esta ampliação do Exofato possui ligações de alta voltagem ao sistema esquelético do utilizador. A corrente sacode o corpo do utilizador conforme necessário, manipulando os músculos para que adotem a postura defensiva adequada.",
+    "Additional": ""
+  },
+  {
+    "Id": "other22",
+    "Name": "Peça peitoral blindada",
+    "Group": "Personalização de tronco desbloqueável",
+    "Description": "Reforçado mas sem perder o estilo, esta peça peitoral blindada oferece uma excelente proteção abdominal sem afetar o visual.",
+    "Additional": ""
+  },
+  {
+    "Id": "other23",
+    "Name": "Exoluvas blindadas",
+    "Group": "Luvas desbloqueáveis",
+    "Description": "Luvas blindadas, perfeitas para empunhar armas, impressionar culturas marciais e colher plantas muito espinhosas.",
+    "Additional": ""
+  },
+  {
+    "Id": "other24",
+    "Name": "Perneiras blindadas",
+    "Group": "Personalização de perna desbloqueável",
+    "Description": "Nanofibras cuidadosamente tecidas tornam estas perneiras flexíveis e resistentes a fogo de armas pequenas.\n\nA lavagem requer equipamento de especialista.",
+    "Additional": ""
+  },
+  {
+    "Id": "other25",
+    "Name": "Botas blindadas",
+    "Group": "Botas desbloqueáveis",
+    "Description": "Sistema de proteção reforçada para os pés, com giroscópios equilibrantes integrados.\n\nCentenas de anos de pesquisa tecnológica aplicados ao calçado.",
+    "Additional": ""
+  }
+]

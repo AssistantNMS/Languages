@@ -1,0 +1,184 @@
+[
+  {
+    "Id": "trade1",
+    "Name": "Caixa de Nanotubos",
+    "Group": "Materiais de Construção Avançados",
+    "Description": "Uma caixa embalada de nanotubos de carbono.\n\nEstes tubos minúsculos, mas incrivelmente fortes, são necessários na construção de pequenos, mas incrivelmente fortes, componentes científicos.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade2",
+    "Name": "Herídio Autorreparador",
+    "Group": "Materiais de Construção Avançados",
+    "Description": "Uma vasilha de Herídio autorreparador. Parece fresco.\n\nUtilizado na criação de componentes científicos. O herídio autorreparador é particularmente útil para implantação em instalações remotas, onde as oportunidades de manutenção podem ser limitadas ou mortais.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade3",
+    "Name": "Solvente Ótico",
+    "Group": "Materiais de Construção Avançados",
+    "Description": "Várias garrafas de solvente ótico.\n\nO líquido destas garrafas é utilizado para afastar a luz excedente que, de outra forma, pode causar deterioração em componentes científicos.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade4",
+    "Name": "Toro de Cinco Dimensões",
+    "Group": "Materiais de Construção Avançados",
+    "Description": "Um recipiente especialmente fabricado de toros 5D.\n\nMateriais altamente específicos são necessários para construir formas em dimensões extra. Estes toros são utilizados para conter os fortes campos gerados no fabrico de componentes científicos.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade5",
+    "Name": "Fibras Supercondutoras",
+    "Group": "Materiais de Construção Avançados",
+    "Description": "Um pacote com camadas densas de fibras supercondutoras.\n\nPoderoso, flexível e resistente à água. O tecido magnético controlado destas fibras é vital na criação de muitos componentes científicos.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade6",
+    "Name": "Vasilha de Faísca",
+    "Group": "Fonte de Energia Comercializável",
+    "Description": "Uma caixa embalada com vasilhas de faísca.\n\nMuitos processos industriais e de mineração têm consideráveis exigências energéticas. Uma contrapartida à liberação lenta de uma bateria, as vasilhas de faísca são capazes de satisfazer essas exigências instantaneamente.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade7",
+    "Name": "Bateria de Grau Industrial",
+    "Group": "Fonte de Energia Comercializável",
+    "Description": "Um pacote de baterias industriais bem isoladas.\n\nSão necessárias baterias pesadas para alimentar operações de mineração a níveis profundos. Estas fontes altamente perduráveis podem durar semanas, mesmo na pressão e calor extremos a que estão sujeitos a quilómetros debaixo de terra.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade8",
+    "Name": "Gel Óhmico",
+    "Group": "Fonte de Energia Comercializável",
+    "Description": "Vários pacotes de gel óhmico\n\nAs operações de mineração com pouca energia estão repletas de perigo. O gel óhmico ajuda a manter as peças rápidas móveis tanto isoladas como lubrificadas.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade9",
+    "Name": "Fluido de Energia Experimental",
+    "Group": "Fonte de Energia Comercializável",
+    "Description": "Barris resistentes à corrosão de um fluido de energia experimental.\n\nUm barril desta mistura altamente volátil é suficiente para alimentar uma estação espacial por semanas a fio. Especialmente valioso para as economias de mineração.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade10",
+    "Name": "Núcleo de Fusão",
+    "Group": "Fonte de Energia Comercializável",
+    "Description": "Um feixe ligeiramente brilhante de núcleos de fusão.\n\nFonte de energia, motor, aquecedor de alta capacidade. Um núcleo de fusão é o melhor na geração de energia no espaço profundo. Altamente valioso para as economias de mineração que procuram tornar as suas colónias de asteroides mais autossuficientes.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade11",
+    "Name": "Frasco Limpo de Feromónio",
+    "Group": "Componentes Científicos",
+    "Description": "Uma coleção solta de garrafas de feromónio reciclado.\n\nGrandes quantidades de feromonas são produzidas e distribuídas todos os dias. Isto gerou uma oportunidade de lucro comercial para aqueles que estão dispostos a lidar com os produtos de resíduos. Estes frascos de vidro foram bem esfregados e não deverão representar uma ameaça para o transportador.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade12",
+    "Name": "Microscópio de Neutrões",
+    "Group": "Componentes Científicos",
+    "Description": "Uma parcela de microscópios de neutrões.\n\nAs economias científicas produzem e consomem grandes quantidades de microscópios. No entanto, alguns têm defeitos leves que os tornam impróprios para um trabalho de precisão. Estes são, ainda assim, uma oportunidade de comércio, na medida em que podem ser vendidos a quem não consegue distinguir a diferença. ",
+    "Additional": ""
+  },
+  {
+    "Id": "trade13",
+    "Name": "Injetores de Instabilidade",
+    "Group": "Componentes Científicos",
+    "Description": "Uma caixa desordenada de injetores de instabilidade.\n\nGrandiosas experiências requerem muitas vezes que um grande número de variáveis sejam alteradas num curto período de tempo. Um injetor de instabilidade fornece esse serviço. Podem também ser utilizados para criar o caos em sistemas de mercado. Este comportamento antiético representa uma excelente oportunidade de comércio.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade14",
+    "Name": "Tubagem Biológica",
+    "Group": "Componentes Científicos",
+    "Description": "Um vaso de tubagem biológica preservada. Ainda quente.\n\nPara evitar problemas éticos difíceis, muitos laboratórios cultivam as suas matérias de teste a um nível de componente. O que sobra pode ser rentável nas economias comerciais com regulamentos médicos relaxados. ",
+    "Additional": ""
+  },
+  {
+    "Id": "trade15",
+    "Name": "Condutas Neurais",
+    "Group": "Componentes Científicos",
+    "Description": "Uma caixa de condutas neurais frescas.\n\nAs condutas neurais são inserções temporárias, projetadas para um aumento da concentração e da produtividade. Úteis em todos os lugares, estas são altamente valorizadas nas economias comerciais, onde a competição entre trabalhadores é feroz.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade16",
+    "Name": "Terra",
+    "Group": "Minerais Comercializáveis",
+    "Description": "Várias toneladas de terra.\n\nTerra restante das operações de mineração. Os metais residuais podem ser extraídos por especialistas em economias de fabrico com tempo e equipamentos para a peneirar.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade17",
+    "Name": "Graxa de pirite não refinada",
+    "Group": "Minerais Comercializáveis",
+    "Description": "Frascos cheios de graxa de pirite.\n\nUma solução gorda com alto conteúdo mineral. Esta graxa é altamente valorizada pelas economias de fabrico, onde é utilizada para manter a grande maquinaria oleada e brilhante.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade18",
+    "Name": "Sal de Brometo",
+    "Group": "Minerais Comercializáveis",
+    "Description": "Uma caixa de sal de brometo.\n\nResultado de um extenso processo de destilação e evaporação, os vasos de sal de brometo alimentam fábricas famintas em sistemas de fabrico.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade19",
+    "Name": "Zircónio Policromático",
+    "Group": "Minerais Comercializáveis",
+    "Description": "Um saco cheio de cristais policromáticos de zircónio.\n\nEstes cristais produzem lentes de cores deslumbrantes e de firmeza quase indestrutível. Altamente valioso nas economias de fabrico.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade20",
+    "Name": "Cristais de Arco Retreliçado",
+    "Group": "Minerais Comercializáveis",
+    "Description": "Uma parcela cuidadosamente revestida de cristais de arco retreliçados.\n\nFormações minerais extremamente raras, os cristais de arco têm grande procura em economias de fabrico, onde a sua dureza e condutividade são vitais para vários processos industriais. Também criam joias sedutoras (e perigosas).",
+    "Additional": ""
+  },
+  {
+    "Id": "trade21",
+    "Name": "Quadro de Circuitos desmantelado",
+    "Group": "Partes de Tecnologia",
+    "Description": "Uma coleção de circuitos recuperados.\n\nAs economias de geração de energia requerem uma grande quantidade de componentes de alta tecnologia. Como tal, a procura mesmo para circuitos altamente danificados está sempre presente, para vasculhar por peças ou apenas para serem conectadas em conjunto a núcleos de energia de baixa qualidade. ",
+    "Additional": ""
+  },
+  {
+    "Id": "trade22",
+    "Name": "Sabão de Soldadura",
+    "Group": "Partes de Tecnologia",
+    "Description": "Várias barras grandes de sabão de soldadura.\n\nUsadas em sistemas de geração de energia para limpar termicamente díodos metálicos antes de serem fundidos em baterias.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade23",
+    "Name": "Condensador de Iões",
+    "Group": "Partes de Tecnologia",
+    "Description": "Uma caixa reforçada de condensadores de iões.\n\nEstes supercondensadores têm uma densidade de energia incrivelmente alta. Têm grande procura em economias degeração de energia.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade24",
+    "Name": "Unidade de Posicionamento Autónomo",
+    "Group": "Partes de Tecnologia",
+    "Description": "Um contentor de unidades de posicionamento e fiação associada.\n\nEstas unidades APS podem ser utilizadas para transformar praticamente qualquer tecnologia num sistema de autonavegação. São altamente valiosas nas economias de geração de energia, onde são usadas para remover mãos orgânicas condutoras do processo de fabrico.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade25",
+    "Name": "Acelerador Quântico",
+    "Group": "Partes de Tecnologia",
+    "Description": "Várias unidades grandes de aceleração quântica.\n\nCom capacidade de propulsão a velocidades não mensuráveis, estas unidades são particularmente importantes nas economias de geração de energia, onde são utilizadas para comprimir a energia armazenada em baterias de alta qualidade.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade26",
+    "Name": "UI_TRADE_ITEM_COMMODITY_2_NAME_L",
+    "Group": "Produto Comercial",
+    "Description": "Vários carretéis de seda estelar.\n\nA seda estelar é tecida em grandes teares solares que orbitam ao redor de planetas comerciais. O impacto dos raios cósmicos ativa o padrão do tecido, que pode ser utilizado no processamento de materiais avançados.",
+    "Additional": ""
+  }
+]

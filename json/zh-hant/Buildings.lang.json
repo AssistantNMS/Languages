@@ -1,0 +1,2163 @@
+[
+  {
+    "Id": "build1",
+    "Name": "大型貨船室",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build2",
+    "Name": "貨船廊道",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build3",
+    "Name": "轉彎貨船迴廊",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build4",
+    "Name": "貨船聯結點",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build5",
+    "Name": "貨船樓梯",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build6",
+    "Name": "貨船跨聯結點",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。"
+  },
+  {
+    "Id": "build7",
+    "Name": "艦隊指揮處",
+    "Group": "探險管理終端站",
+    "Description": "核心艦隊管理站.想就近在主力太空船管理艦隊探險，就少不了這先進的全像通訊站。\n\n提醒使用者，需要多個指揮站，才能同時管理超過一組探險。"
+  },
+  {
+    "Id": "build8",
+    "Name": "木質牆壁",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質牆壁。"
+  },
+  {
+    "Id": "build9",
+    "Name": "木質薄牆",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質薄牆模組。"
+  },
+  {
+    "Id": "build10",
+    "Name": "小型木質牆壁",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的小型木質牆壁。"
+  },
+  {
+    "Id": "build11",
+    "Name": "木質矮牆",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質矮牆。"
+  },
+  {
+    "Id": "build12",
+    "Name": "斜木板",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的斜木板。"
+  },
+  {
+    "Id": "build13",
+    "Name": "木窗板",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木窗板。"
+  },
+  {
+    "Id": "build14",
+    "Name": "木門框",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木門框。"
+  },
+  {
+    "Id": "build15",
+    "Name": "木質門戶",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質薄門。"
+  },
+  {
+    "Id": "build16",
+    "Name": "木質門面",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質門面。"
+  },
+  {
+    "Id": "build17",
+    "Name": "木地板",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木地板。"
+  },
+  {
+    "Id": "build18",
+    "Name": "木框玻璃板",
+    "Group": "木質建造元件",
+    "Description": "具有木質框架的玻璃地板/天花板。"
+  },
+  {
+    "Id": "build19",
+    "Name": "小木板",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的小木板。"
+  },
+  {
+    "Id": "build20",
+    "Name": "木質坡道",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質坡道。"
+  },
+  {
+    "Id": "build21",
+    "Name": "木質接坡道",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質接坡道。"
+  },
+  {
+    "Id": "build22",
+    "Name": "木質屋頂",
+    "Group": "木質建造元件",
+    "Description": "具有強化承載柱的基本屋頂平台。"
+  },
+  {
+    "Id": "build23",
+    "Name": "木質屋頂板",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質屋頂嵌板。"
+  },
+  {
+    "Id": "build24",
+    "Name": "木質屋頂轉角",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質屋頂角板。"
+  },
+  {
+    "Id": "build25",
+    "Name": "木質拱門",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質拱門。"
+  },
+  {
+    "Id": "build26",
+    "Name": "木質半拱門",
+    "Group": "木質建造元件",
+    "Description": "建設基地使用的木質半拱門。"
+  },
+  {
+    "Id": "build27",
+    "Name": "水泥牆",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥牆壁。"
+  },
+  {
+    "Id": "build28",
+    "Name": "水泥薄牆",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥薄牆模組。"
+  },
+  {
+    "Id": "build29",
+    "Name": "小型水泥牆",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的小面水泥牆壁。"
+  },
+  {
+    "Id": "build30",
+    "Name": "水泥矮牆",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的小面水泥牆壁。"
+  },
+  {
+    "Id": "build31",
+    "Name": "斜水泥板",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的斜水泥板。"
+  },
+  {
+    "Id": "build32",
+    "Name": "水泥窗板",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥窗板。"
+  },
+  {
+    "Id": "build33",
+    "Name": "水泥門框",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥門框。"
+  },
+  {
+    "Id": "build34",
+    "Name": "水泥門戶",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥薄門。"
+  },
+  {
+    "Id": "build35",
+    "Name": "水泥門面",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥門面。"
+  },
+  {
+    "Id": "build36",
+    "Name": "水泥地板",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥地板。"
+  },
+  {
+    "Id": "build37",
+    "Name": "水泥框玻璃板",
+    "Group": "水泥建造元件",
+    "Description": "具有水泥框架的玻璃地板/天花板。"
+  },
+  {
+    "Id": "build38",
+    "Name": "小型水泥板",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的小塊水泥板。"
+  },
+  {
+    "Id": "build39",
+    "Name": "水泥坡道",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥坡道。"
+  },
+  {
+    "Id": "build40",
+    "Name": "水泥接坡道",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥接坡道。"
+  },
+  {
+    "Id": "build41",
+    "Name": "水泥屋頂",
+    "Group": "水泥建造元件",
+    "Description": "具有強化承載柱的基本屋頂平台。"
+  },
+  {
+    "Id": "build42",
+    "Name": "水泥屋頂板",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥屋頂嵌板。"
+  },
+  {
+    "Id": "build43",
+    "Name": "水泥屋頂轉角",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥屋頂角板。"
+  },
+  {
+    "Id": "build44",
+    "Name": "水泥拱門",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥拱門。"
+  },
+  {
+    "Id": "build45",
+    "Name": "水泥半拱門",
+    "Group": "水泥建造元件",
+    "Description": "建設基地使用的水泥半拱門。"
+  },
+  {
+    "Id": "build46",
+    "Name": "金屬牆壁",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬牆壁。"
+  },
+  {
+    "Id": "build47",
+    "Name": "金屬薄牆",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬薄牆模組。"
+  },
+  {
+    "Id": "build48",
+    "Name": "小型金屬牆壁",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的小面金屬牆壁。"
+  },
+  {
+    "Id": "build49",
+    "Name": "金屬矮牆",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬矮牆。"
+  },
+  {
+    "Id": "build50",
+    "Name": "斜金屬板",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的斜金屬板。"
+  },
+  {
+    "Id": "build51",
+    "Name": "金屬窗板",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬窗板。"
+  },
+  {
+    "Id": "build52",
+    "Name": "金屬門框",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬門框。"
+  },
+  {
+    "Id": "build53",
+    "Name": "金屬門戶",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬薄門。"
+  },
+  {
+    "Id": "build54",
+    "Name": "金屬門面",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬門面。"
+  },
+  {
+    "Id": "build55",
+    "Name": "金屬地板",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬地板。"
+  },
+  {
+    "Id": "build56",
+    "Name": "金屬框玻璃板",
+    "Group": "金屬營造元件",
+    "Description": "具有金屬框架的玻璃地板/天花板。"
+  },
+  {
+    "Id": "build57",
+    "Name": "小型金屬板",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的小塊金屬板。"
+  },
+  {
+    "Id": "build58",
+    "Name": "金屬坡道",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬坡道。"
+  },
+  {
+    "Id": "build59",
+    "Name": "金屬接坡道",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬接坡道。"
+  },
+  {
+    "Id": "build60",
+    "Name": "金屬屋頂",
+    "Group": "金屬營造元件",
+    "Description": "具有強化承載柱的基本屋頂平台。"
+  },
+  {
+    "Id": "build61",
+    "Name": "金屬屋頂板",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬屋頂嵌板。"
+  },
+  {
+    "Id": "build62",
+    "Name": "金屬屋頂轉角",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬屋頂角板。"
+  },
+  {
+    "Id": "build63",
+    "Name": "金屬拱門",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬拱門。"
+  },
+  {
+    "Id": "build64",
+    "Name": "金屬半拱門",
+    "Group": "金屬營造元件",
+    "Description": "建設基地使用的金屬半拱門。"
+  },
+  {
+    "Id": "build65",
+    "Name": "圓柱體室",
+    "Group": "建築模組",
+    "Description": "基地建設的核心模組，提供寬闊的中央空間，讓建造者據以擴張。"
+  },
+  {
+    "Id": "build66",
+    "Name": "正方形房間",
+    "Group": "建築模組",
+    "Description": "基地建設的其中一種核心模組，提供寬闊的中央空間，讓建造者據以擴張。"
+  },
+  {
+    "Id": "build67",
+    "Name": "筆直廊道",
+    "Group": "建築模組",
+    "Description": "標準的直式廊道模組，可用來連接不同房間。"
+  },
+  {
+    "Id": "build68",
+    "Name": "L 形廊道",
+    "Group": "建築模組",
+    "Description": "穩固的廊道模組，可用來連接不同房間，中間有一處 L 形轉彎。"
+  },
+  {
+    "Id": "build69",
+    "Name": "T 形廊道",
+    "Group": "AAST",
+    "Description": "廊道模組，一端分岔成 T 形，可用來連接多個房間。"
+  },
+  {
+    "Id": "build70",
+    "Name": "X 形廊道",
+    "Group": "建築模組",
+    "Description": "X 形廊道元件，可用來連接十字端點上的四間房間。"
+  },
+  {
+    "Id": "build71",
+    "Name": "轉彎迴廊",
+    "Group": "建築模組",
+    "Description": "穩固的廊道模組，可用來連接不同房間，中間有一處 L 形轉彎。"
+  },
+  {
+    "Id": "build72",
+    "Name": "玻璃屋頂廊道",
+    "Group": "建築模組",
+    "Description": "裝有強化玻璃屋頂的廊道。"
+  },
+  {
+    "Id": "build73",
+    "Name": "觀景球",
+    "Group": "建設模組",
+    "Description": "自給自足的球體觀景平台，讓使用者眺望周圍環境的壯麗景色。"
+  },
+  {
+    "Id": "build74",
+    "Name": "生態圓頂",
+    "Group": "建設模組",
+    "Description": "漂亮的圓頂房，非常適合用來栽種各種植物性物質。"
+  },
+  {
+    "Id": "build75",
+    "Name": "立方體室",
+    "Group": "建築模組",
+    "Description": "小型的立方體建築模組，可相互堆疊或連結，組成更大的結構。"
+  },
+  {
+    "Id": "build76",
+    "Name": "實心箱體",
+    "Group": "裝飾",
+    "Description": "大型實心箱體。"
+  },
+  {
+    "Id": "build77",
+    "Name": "玻璃立方體室",
+    "Group": "建設模組",
+    "Description": "立方體室模組，幾乎全玻璃製成。適合用於自然美景觀景區。"
+  },
+  {
+    "Id": "build78",
+    "Name": "弧面立方體牆壁",
+    "Group": "建設模組",
+    "Description": "弧面的立方體牆壁模組，可相互堆疊或連結，組成更大的結構。"
+  },
+  {
+    "Id": "build79",
+    "Name": "弧面立方體屋頂",
+    "Group": "建設模組",
+    "Description": "弧面、正面為玻璃的屋頂模組，可相互堆疊或連結，組成更大的結構。"
+  },
+  {
+    "Id": "build80",
+    "Name": "室內樓梯",
+    "Group": "建設模組",
+    "Description": "一組樓梯，方便在立方體結構內通行。"
+  },
+  {
+    "Id": "build81",
+    "Name": "立方體室內門",
+    "Group": "建設模組",
+    "Description": "室內門模組，可用來分隔立方體室的空間。"
+  },
+  {
+    "Id": "build82",
+    "Name": "立方體室內牆",
+    "Group": "建設模組",
+    "Description": "室內牆壁模組，可用來分隔立方體室的空間。"
+  },
+  {
+    "Id": "build83",
+    "Name": "立方體室地板",
+    "Group": "建築道具",
+    "Description": "耐磨的組合式地板片材，針對立方體室尺寸裁切。"
+  },
+  {
+    "Id": "build84",
+    "Name": "門",
+    "Group": "建築道具",
+    "Description": "標準氣密門，適用於所有房間和廊道。"
+  },
+  {
+    "Id": "build85",
+    "Name": "入口坡道",
+    "Group": "建築道具",
+    "Description": "強化非鐵金屬坡道，可作為建築的入口通道。"
+  },
+  {
+    "Id": "build86",
+    "Name": "Climb Ladder",
+    "Group": "Construction item",
+    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+  },
+  {
+    "Id": "build87",
+    "Name": "基礎建設梯",
+    "Group": "建設模組",
+    "Description": "梯子，搭配結構平台使用，可讓使用者輕鬆登上極高處。"
+  },
+  {
+    "Id": "build88",
+    "Name": "地基",
+    "Group": "建築模組",
+    "Description": "可用於所有建築工程的基地元件，能為任何結構提供堅實的基礎。可固定於所有種類的地形。"
+  },
+  {
+    "Id": "build89",
+    "Name": "圓柱體室框架",
+    "Group": "建設模組",
+    "Description": "標準圓柱體室的輕型工業用替代品。"
+  },
+  {
+    "Id": "build90",
+    "Name": "立方體室框架",
+    "Group": "建設模組",
+    "Description": "輕巧的立方體支撐結構，可相互堆疊或連結，組成更大的工業結構。"
+  },
+  {
+    "Id": "build91",
+    "Name": "地磚",
+    "Group": "建築道具",
+    "Description": "耐磨的組合式地磚，可用於建造走道和鋪設地磚的區域。"
+  },
+  {
+    "Id": "build92",
+    "Name": "立方體室地基支柱四入組",
+    "Group": "建築道具",
+    "Description": "現成的柱子四入組，能支撐立方體室。"
+  },
+  {
+    "Id": "build93",
+    "Name": "立方體室地基支柱",
+    "Group": "建築道具",
+    "Description": "穩固的柱子，能支撐立方體室。"
+  },
+  {
+    "Id": "build94",
+    "Name": "窗戶",
+    "Group": "建築道具",
+    "Description": "以能自動清潔、經紫外線固化的氣密玻璃製成的窗戶。"
+  },
+  {
+    "Id": "build95",
+    "Name": "大型玻璃板",
+    "Group": "建築道具",
+    "Description": "以能自動清潔、經紫外線固化的氣密玻璃製成的窗戶。"
+  },
+  {
+    "Id": "build96",
+    "Name": "Window (small)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build97",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build98",
+    "Name": "Window (oval)",
+    "Group": "Construction item",
+    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+  },
+  {
+    "Id": "build99",
+    "Name": "建設終端站",
+    "Group": "專家終端站",
+    "Description": "根據建築監督者的需求量身打造的研究站，配備建築及工程設計軟體。"
+  },
+  {
+    "Id": "build100",
+    "Name": "強化艇終端站",
+    "Group": "專家終端站",
+    "Description": "根據技師的需求量身打造的研究站，配備訂製載具設計軟體。"
+  },
+  {
+    "Id": "build101",
+    "Name": "武器終端站",
+    "Group": "專家終端站",
+    "Description": "根據裝甲匠的需求量身打造的研究站，提供開發武器炸彈所需的設備，以及精選的非軍用科技。"
+  },
+  {
+    "Id": "build102",
+    "Name": "科學終端站",
+    "Group": "專家終端站",
+    "Description": "根據科學家的需求量身打造的研究站，提供研究及開發科學設計圖所需的設備。"
+  },
+  {
+    "Id": "build103",
+    "Name": "務農終端站",
+    "Group": "專家終端站",
+    "Description": "根據農夫的需求量身打造的研究站，提供分析及栽種農作物所需的設備。"
+  },
+  {
+    "Id": "build104",
+    "Name": "降落平台",
+    "Group": "建築模組",
+    "Description": "穩固的強化太空船降落平台。"
+  },
+  {
+    "Id": "build105",
+    "Name": "基地瞬間傳送模組",
+    "Group": "遠距離物質傳輸裝置",
+    "Description": "個人瞬間傳送裝置，能讓使用者在自己建築的基地之間快速移動，也能前往與自身網路連接的太空站終站。\n\n建議使用者在放入物質前，先確認連線穩定度，以免造成重要物質遺失。"
+  },
+  {
+    "Id": "build106",
+    "Name": "基地回收膠囊",
+    "Group": "自動儲存裝置",
+    "Description": "建築回收裝置。\n\n此輔助型基地科技能儲存並留住先前基地拆除後殘留的物質。"
+  },
+  {
+    "Id": "build107",
+    "Name": "銀河交易終端站",
+    "Group": "交易終端站",
+    "Description": "交易終端站，可讓你立即現場進入資源和物資市場。"
+  },
+  {
+    "Id": "build108",
+    "Name": "生命值站",
+    "Group": "生命值補充模組",
+    "Description": "壁掛式模組，可用來補充生命值。"
+  },
+  {
+    "Id": "build109",
+    "Name": "風險防護單位",
+    "Group": "風險防護充能系統",
+    "Description": "壁掛式模組，可用來為使用者的風險防護系統補充能量。\n\n風險防護單位必須時時以燃料補充能量。"
+  },
+  {
+    "Id": "build110",
+    "Name": "中型精製機",
+    "Group": "自動精製裝置",
+    "Description": "不可或缺的星球配備。這台精製機能將收集來的物質加工成更強大、更先進的材料。\n\n中型精製機能將兩種不同的物質合成為一種新材料，或以不同比例加工處理多種物質。 \n\n中型精製機必須安裝於可居住基地，但不需額外能量來源。"
+  },
+  {
+    "Id": "build111",
+    "Name": "大型精製機",
+    "Group": "自動精製裝置",
+    "Description": "不可或缺的星球配備。這台精製機能將收集來的物質加工成更強大、更先進的材料。\n\n大型精製機能將三種不同的物質合成為一種新材料，或以不同比例加工處理多種物質。 \n\n大型精製機必須安裝於可居住基地，但不需額外能量來源。"
+  },
+  {
+    "Id": "build112",
+    "Name": "外觀改造器",
+    "Group": "自訂個人視覺",
+    "Description": "能讓使用者調整個人外觀設定的可建造模組。\n\n模組運用先進全像科技重新校正使用者周遭的光線，讓他能採用自己想要的任何外觀。使用前必須確實格式化視覺數據。"
+  },
+  {
+    "Id": "build113",
+    "Name": "訊息模組",
+    "Group": "通訊終端站",
+    "Description": "可供使用的小型資訊站，能在此留言，或閱讀留言及簡短資訊。"
+  },
+  {
+    "Id": "build114",
+    "Name": "訊號強化器",
+    "Group": "環境掃描器",
+    "Description": "偵測附近建築的多用途掃描器。能夠解密導航資料以找出特定位置。\n\n訊號強化器能拆解後重新部署，以利攜帶。"
+  },
+  {
+    "Id": "build115",
+    "Name": "儲存信標",
+    "Group": "可攜式路標記號",
+    "Description": "信標一經啟動，便會提供永久性的導航路標，方便重複造訪特定地點。\n\n使用者可隨時記錄進度。"
+  },
+  {
+    "Id": "build116",
+    "Name": "存檔點",
+    "Group": "建築模組",
+    "Description": "可建造的存檔點，可用來管理你的進度。"
+  },
+  {
+    "Id": "build117",
+    "Name": "通訊站",
+    "Group": "通訊終端站",
+    "Description": "可用來編寫、傳送訊息給其他旅行者的終端站。"
+  },
+  {
+    "Id": "build118",
+    "Name": "大氣採集器",
+    "Group": "自動氣體壓縮機",
+    "Description": "自動虹吸裝置，可用來收集氣體。啟動後，採集器會隨時間濃縮與壓縮空氣物質，氣體經過壓縮後會安全存放，待未來取出使用。"
+  },
+  {
+    "Id": "build119",
+    "Name": "自動採礦機",
+    "Group": "可攜式採礦裝置",
+    "Description": "用來開採資源的自動採礦機。啟動後，不需操作監督就能自行開採礦物，產量固定，直到礦場資源耗竭為止。"
+  },
+  {
+    "Id": "build120",
+    "Name": "可攜式精製機",
+    "Group": "自動精製裝置",
+    "Description": "不可或缺的星球配備。這台精製機能將收集來的物質加工成更強大、更先進的材料。\n\n可攜式精製機能拆解後重新部署，以利攜帶。註：可攜式精製機需要燃料才能運作。"
+  },
+  {
+    "Id": "build121",
+    "Name": "基地電腦",
+    "Group": "地點評估裝置",
+    "Description": "可攜式土地註冊服務。\n\n放置後，聯絡全面地圖資料庫以建立土地所有權。成功註冊後使用者可以任意選擇基地模組建造地點。"
+  },
+  {
+    "Id": "build122",
+    "Name": "氧氣採集器",
+    "Group": "大氣處理器",
+    "Description": "自動大氣萃取器，這裝置能用來收集並淨化空氣中的氧氣。使用者得監控燃料量，以確保能持續運轉。\n\n氣體後續經過壓縮處理，能直接用於所有標準維生系統。"
+  },
+  {
+    "Id": "build123",
+    "Name": "Blueprint Analyser",
+    "Group": "Technology Recovery Device",
+    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+  },
+  {
+    "Id": "build124",
+    "Name": "海洋庇護所",
+    "Group": "深海求生模組",
+    "Description": "緊急求生模組。\n\n可以在氧氣或強化套裝維生系統緊急狀況時快速佈署於海底。可暫時提供保護，抵擋環境有害物質、獵食性生物與其他深海可見的有害物。"
+  },
+  {
+    "Id": "build125",
+    "Name": "強化艇召喚站",
+    "Group": "載具移位裝置",
+    "Description": "此建設能讓使用者在該星球隨處召喚自己擁有的強化艇。\n\n與強化套裝快速指令選單連結能更方便使用。"
+  },
+  {
+    "Id": "build126",
+    "Name": "Geobay",
+    "Group": "Exocraft",
+    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
+  },
+  {
+    "Id": "build127",
+    "Name": "競賽起訖點",
+    "Group": "競賽部件",
+    "Description": "這個平台是強化艇實地測試的起跑線兼終點線，可讓旅行者練習強化艇的操控與速度控制。"
+  },
+  {
+    "Id": "build128",
+    "Name": "巡洋龍船艙",
+    "Group": "潛水艇船塢",
+    "Description": "能完全氣鎖的巡洋龍潛水艇先進船塢。"
+  },
+  {
+    "Id": "build129",
+    "Name": "伽瑪草",
+    "Group": "可栽種的種子",
+    "Description": "會發光的多葉開花植物，多生長於輻射環境型態，栽種後收穫量豐富。\n\n適合室內水耕種植。需要輻射氣候才能在室外種植。\n\n生長時間約為：4 小時",
+    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build130",
+    "Name": "蕈群",
+    "Group": "可栽種的種子",
+    "Description": "球形真菌，菌褶位於內部，只出現於有毒的環境型態。蕈群經過移植可供栽種，生長迅速、收穫量極為豐富。\n\n適合室內水耕種植。需要劇毒氣候才能在室外種植。\n\n生長時間大約：4 小時",
+    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build131",
+    "Name": "霜草",
+    "Group": "可栽種的種子",
+    "Description": "大型結晶花朵，盛開時呈發亮的藍色，只見於雪地環境型態。霜草可人工種植，是可靠穩定的作物，可以適應嚴苛環境，且適合頻繁採收。\n\n適合室內水耕種植。需要冰寒氣候才能在室外種植。\n\n生長時間大約：1 小時",
+    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+  },
+  {
+    "Id": "build132",
+    "Name": "毒液海膽",
+    "Group": "可栽種的種子",
+    "Description": "外表無害的小型植物，葉片會定期分泌少量的劇毒囊袋毒液。這種毒液是珍貴的交易物資。\n\n適合室內水耕種植。無法於室外種植。\n\n生長時間大約：3 小時 20 分鐘",
+    "Additional": "1 Sac Venom in roughly 3 hours 20 minutes of real time"
+  },
+  {
+    "Id": "build133",
+    "Name": "日藤",
+    "Group": "可栽種的種子",
+    "Description": "名為「活著的石頭」，能適應極度炎熱的焦土環境型態。但可於大部分環境種植，成功種植後收穫量適中，但可頻繁採收。\n\n適合室內水耕種植。需要高溫氣候才能在室外種植。\n\n生長時間大約：16 小時",
+    "Additional": "78 Solanium in roughly 16 hours of real time"
+  },
+  {
+    "Id": "build134",
+    "Name": "爛腸花",
+    "Group": "可栽種的種子",
+    "Description": "散發臭味、可人工種植的花卉，化學結構與糞便相同。若在室內栽種，會產出屎菌。\n\n這是手工收集屎菌的理想替代方案。如果是手工收集，必須先餵食生物，再採集生物糞便。爛腸花必須於水耕盤中種植。\n\n生長時間約為：4 小時",
+    "Additional": "39 Faecium in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build135",
+    "Name": "伴重力子宿主",
+    "Group": "可栽種的種子",
+    "Description": "一種可能有寄生行為的古怪植物，偶爾會產出高度流通的物資「伴重力子球」。\n\n適合室內水耕種植。無法於室外種植。\n\n生長時間大約：2 小時",
+    "Additional": "1 Gravitino Ball in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build136",
+    "Name": "歿鹽根",
+    "Group": "可栽種的種子",
+    "Description": "不可食用的塊莖植物，能產出少量歿鹽結晶。\n\n與從生物屍體採集歿鹽相比，是較為平和的替代方案。歿鹽根必須於水耕盤中種植。\n\n生長時間約為：8 小時",
+    "Additional": "39 Mordite in roughly 8 hours of real time"
+  },
+  {
+    "Id": "build137",
+    "Name": "仙人球",
+    "Group": "可栽種的種子",
+    "Description": "仙人球生長於荒蕪的環境型態，能忍受長期乾旱，是可食用多肉植物。適合栽種，採收次數不多但收穫量大。\n\n適合室內水耕種植。需要荒蕪氣候才能在室外種植。\n\n生長時間大約：16 小時",
+    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+  },
+  {
+    "Id": "build138",
+    "Name": "星刺灌木",
+    "Group": "可栽種的種子",
+    "Description": "可人工種植的中型植物，偶爾會產出珍貴的星球莖。\n\n適合室內水耕種植。需要茂盛氣候才能在室外種植。\n\n生長時間大約：4 小時",
+    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build139",
+    "Name": "蛋白珍珠圓粒",
+    "Group": "球形植物",
+    "Description": "可人工種植的中型水晶球體，偶爾會產出珍貴的蛋白珍珠。\n\n適合室內水耕種植。無法於室外種植。\n\n生長時間大約：80 分鐘",
+    "Additional": "1 Albumen Pearl in roughly 2 hours of real time"
+  },
+  {
+    "Id": "build140",
+    "Name": "酒韭",
+    "Group": "可栽種的種子",
+    "Description": "這種藥草以其嗆辣的幼芽聞名，採收後可用來製作吉客族烈酒。酒韭喜愛潮濕環境，常以野生雜草的形式出現。\n\n適合室內水耕種植。需要熱帶潮濕氣候才能在室外種植。",
+    "Additional": "1 NipNip Buds in roughly 4 hours of real time"
+  },
+  {
+    "Id": "build141",
+    "Name": "植物容器",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build142",
+    "Name": "盆栽",
+    "Group": "裝飾",
+    "Description": "裝飾用的室內植物盆栽。"
+  },
+  {
+    "Id": "build143",
+    "Name": "水耕盤",
+    "Group": "農耕科技",
+    "Description": "自足式生長系統，可用來在室內栽種農作物。\n\n建造需求：必須放置於室內。"
+  },
+  {
+    "Id": "build144",
+    "Name": "大型水耕盤",
+    "Group": "農耕科技",
+    "Description": "自足式生長系統，可用來在室內栽種農作物。最多可栽種四株植物。\n\n建造需求：必須放置於室內。"
+  },
+  {
+    "Id": "build145",
+    "Name": "立式種植器",
+    "Group": "農耕科技",
+    "Description": "立式的種植系統，可用來在室內栽種農作物。"
+  },
+  {
+    "Id": "build146",
+    "Name": "桶製造站",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build147",
+    "Name": "箱製造站",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build148",
+    "Name": "儲藏容器",
+    "Group": "儲藏元件",
+    "Description": "寬裕的額外儲藏空間，用以存放道具欄道具。"
+  },
+  {
+    "Id": "build149",
+    "Name": "貨船儲藏元件",
+    "Group": "自訂貨船模組",
+    "Description": "混和式大容量儲藏元件／櫃架模組，可安裝於星際貨船上。\n\n與所有標準維生零件相容。"
+  },
+  {
+    "Id": "build150",
+    "Name": "上鎖棧箱",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build151",
+    "Name": "小棧箱",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build152",
+    "Name": "武器架",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build153",
+    "Name": "Chair (Variant 1)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build154",
+    "Name": "Chair (variant 2)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build155",
+    "Name": "Chair (variant 3)",
+    "Group": "Furniture",
+    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+  },
+  {
+    "Id": "build156",
+    "Name": "桌子",
+    "Group": "家具",
+    "Description": "萬用工作台，以無磁性、耐腐蝕的材質製成。"
+  },
+  {
+    "Id": "build157",
+    "Name": "床",
+    "Group": "家具",
+    "Description": "加大單人床，大部分的雙足種族皆可使用，將足部懸空的極端情況減至最低。"
+  },
+  {
+    "Id": "build158",
+    "Name": "輕巧桌",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build159",
+    "Name": "支架板",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。"
+  },
+  {
+    "Id": "build160",
+    "Name": "Paving (tall)",
+    "Group": "Construction item",
+    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+  },
+  {
+    "Id": "build161",
+    "Name": "鋱產物",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build162",
+    "Name": "光線裂口",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build163",
+    "Name": "泡泡群",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build164",
+    "Name": "六角灌木",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build165",
+    "Name": "短路分線器",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build166",
+    "Name": "骨化恆星",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build167",
+    "Name": "響環脊",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build168",
+    "Name": "纜線艙",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build169",
+    "Name": "鈣化菇",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build170",
+    "Name": "毛細管殼",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build171",
+    "Name": "電流箱體",
+    "Group": "穩定現實故障",
+    "Description": "罕見的穩定故障，取自運作失靈的星球。可以安全安置在居住基地中。"
+  },
+  {
+    "Id": "build172",
+    "Name": "深海艙室",
+    "Group": "水中建設模組",
+    "Description": "基地建設的核心模組，提供寬闊的中央空間，讓建造者據以擴張。"
+  },
+  {
+    "Id": "build173",
+    "Name": "方形深海艙室",
+    "Group": "水中建設模組",
+    "Description": "基地建設的其中一種核心模組，提供寬闊的中央空間，讓建造者據以擴張。"
+  },
+  {
+    "Id": "build174",
+    "Name": "月池地板",
+    "Group": "水中建設模組",
+    "Description": "全像型月池艙口。可以輕易進出水中環境。\n\n加壓系統自動隱藏在船艙中。"
+  },
+  {
+    "Id": "build175",
+    "Name": "防水門",
+    "Group": "水中建設模組",
+    "Description": "標準氣密門，適用於所有房間和廊道。"
+  },
+  {
+    "Id": "build176",
+    "Name": "玻璃管道",
+    "Group": "水中建設模組",
+    "Description": "加壓、強化的玻璃管道，用於深海營造。\n\n先進的奈米礦質塗層確保於深海中亦可維持高度效能，而不妨礙可見度。"
+  },
+  {
+    "Id": "build177",
+    "Name": "L型玻璃管道",
+    "Group": "水中建設模組",
+    "Description": "加壓、強化的玻璃管道，用於深海營造。\n\n先進的奈米礦質塗層確保於深海中亦可維持高度效能，而不妨礙可見度。"
+  },
+  {
+    "Id": "build178",
+    "Name": "T型玻璃管道",
+    "Group": "水中建設模組",
+    "Description": "加壓、強化的玻璃管道，用於深海營造。\n\n先進的奈米礦質塗層確保於深海中亦可維持高度效能，而不妨礙可見度。"
+  },
+  {
+    "Id": "build179",
+    "Name": "X型玻璃管道",
+    "Group": "水中建設模組",
+    "Description": "加壓、強化的玻璃管道，用於深海營造。\n\n先進的奈米礦質塗層確保於深海中亦可維持高度效能，而不妨礙可見度。"
+  },
+  {
+    "Id": "build180",
+    "Name": "垂直玻璃管道",
+    "Group": "水中建設模組",
+    "Description": "加壓、強化的玻璃管道，用於深海營造。\n\n先進的奈米礦質塗層確保於深海中亦可維持高度效能，而不妨礙可見度。"
+  },
+  {
+    "Id": "build181",
+    "Name": "燈光箱",
+    "Group": "燈光裝置",
+    "Description": "完全用發光模組製造的特殊建設模組。可以用來建造燈光牆。\n\n箱子顏色在安裝前後均可更改。需要電力才能運作。"
+  },
+  {
+    "Id": "build182",
+    "Name": "實驗室立燈",
+    "Group": "零件",
+    "Description": "低耗能電燈，使用壽命長，元件可完全回收。"
+  },
+  {
+    "Id": "build183",
+    "Name": "生物燃料反應器",
+    "Group": "配電模組",
+    "Description": "小型的發電機。在燃燒槽中燃燒碳質燃料，轉換為電力。\n\n可用電線連接發電機與基地的建築物和科技。許多零件都需要電力才能運作。"
+  },
+  {
+    "Id": "build184",
+    "Name": "礦物萃取器",
+    "Group": "配電模組",
+    "Description": "自動化礦物採集器。利用分析護目鏡的調查升級可幫助你決定採集地點。每個地點的礦物萃取率與採集礦物種類都不同。\n\n需要電力才能運作。可用管線與倉儲連接，即可將礦物收集到較方便的地點。"
+  },
+  {
+    "Id": "build185",
+    "Name": "牆壁開關",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關拉動時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build186",
+    "Name": "太陽能板",
+    "Group": "配電模組",
+    "Description": "高效率的發電機，太陽能陣列可以將太陽光轉換成電能，提供許多基地建築物使用。\n\n夜間無法發電。可與電池一起使用，為缺乏陽光的時間儲存電能。"
+  },
+  {
+    "Id": "build187",
+    "Name": "電池",
+    "Group": "配電模組",
+    "Description": "效率極高的能量儲存單位。與電網連線後，內建的電力管理電路就會自動反轉冗餘發電容量，為電池充電。\n\n如果電網需要的電量大於發電供應，電池就會自動放電補充短缺的電量。"
+  },
+  {
+    "Id": "build188",
+    "Name": "氣體採集器",
+    "Group": "配電模組",
+    "Description": "自動化氣體採集器。利用分析護目鏡的調查升級可幫助你決定採集地點。每個地點的氣體萃取率與採集氣體種類都不同。\n\n需要電力才能運作。可用管線與倉儲連接，即可將氣體收集到較方便的地點。"
+  },
+  {
+    "Id": "build189",
+    "Name": "補給貨站",
+    "Group": "物質分配模組",
+    "Description": "自動化儲存單位，可利用管線連接到補給網。\n\n自動儲存各種礦物與氣體萃取器的輸出，可提升容量，並讓基地場址配置更有效率。可設在距離萃取區很遠的地方。"
+  },
+  {
+    "Id": "build190",
+    "Name": "補給管",
+    "Group": "配電模組",
+    "Description": "高彈性、高強度的運輸管，能夠承受高度加壓的內部環境。\n\n用來將各種礦物與氣體萃取器連接到倉儲"
+  },
+  {
+    "Id": "build191",
+    "Name": "地板開關",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關有人站在上面、或其他方式啟動時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build192",
+    "Name": "近距開關",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關在附近偵測到存在體時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build193",
+    "Name": "按鈕",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關使用時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build194",
+    "Name": "電流轉換器",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關使用時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build195",
+    "Name": "自動開關",
+    "Group": "配電模組",
+    "Description": "一種電力管理裝置。本開關接收到訊號時，會切斷或恢復電流。\n\n開關需要電力與訊號線，才能控制裝置。"
+  },
+  {
+    "Id": "build196",
+    "Name": "電磁發電機",
+    "Group": "配電模組",
+    "Description": "妥善安裝在力場強的地方時，高效率電磁發電機可發出將近無限的電力。\n\n利用分析護目鏡的調查升級，可找到適合的地點。不同的地點，發電量也會不同。"
+  },
+  {
+    "Id": "build197",
+    "Name": "營養處理器",
+    "Group": "便攜式維生裝置",
+    "Description": "便攜式營養提取器，能將收集的原料加工和精制成可食用產品。\n\n用戶需知，食用生成品的風險完全由用戶自己承擔。"
+  },
+  {
+    "Id": "build198",
+    "Name": "畜牧單位",
+    "Group": "自動採集機器人",
+    "Description": "農耕機器人單位，設計目的為自動採集生物所能提供的物質。需要電力才能運作。\n\n準備好採集奶、蛋或其它專門農產品的生物，會自動接近畜牧單位，並留下該產品。本過程不會傷及生物。\n\n不管是手動餵食或使用自動餵食器的生物，都可以利用本單位採集農產品。"
+  },
+  {
+    "Id": "build199",
+    "Name": "噪音箱",
+    "Group": "音效裝置",
+    "Description": "會發出高頻率聲音的特殊建設模組，音調高低可依使用者需求調整。\n\n需要電力才能運作。"
+  },
+  {
+    "Id": "build200",
+    "Name": "球體製造機",
+    "Group": "實驗性製造器",
+    "Description": "非常專門的製造裝置，目的為造出宇宙最完美的球體。\n\n需要電力才能運作。可製造出大型球體，任何需要的實驗都可使用。"
+  },
+  {
+    "Id": "build201",
+    "Name": "短程瞬間傳送儀",
+    "Group": "瞬間傳送網路",
+    "Description": "低電力瞬間傳送儀，用於短距離瞬間傳送。\n\n用線路和電源及另一個短程瞬間傳送儀連接後，幾乎能在瞬間傳送至附近地點。"
+  },
+  {
+    "Id": "build202",
+    "Name": "反物質反應器",
+    "Group": "重子生成單位",
+    "Description": "自動重子生成反應器，此裝置能用來採集現實悖論，並將悖論轉換為可用的反物質。使用者得監控燃料量，以確保能持續運轉。\n\n生成的反物質亦會安全隔離，能直接用於所有標準超空間能量單位。。"
+  },
+  {
+    "Id": "build203",
+    "Name": "自動餵食器",
+    "Group": "農業機器人",
+    "Description": "農耕機器人單位，設計目的為自動提供食物給附近的生物。\n\n啟動時會吸引所有附近的動物。誘餌槽必須隨時補滿，才能為各種生命體提供偏好的食物。"
+  },
+  {
+    "Id": "build204",
+    "Name": "地基支柱四入組",
+    "Group": "建築道具",
+    "Description": "現成的柱子四入組，可用於較高的建築。",
+    "Additional": ""
+  },
+  {
+    "Id": "build205",
+    "Name": "地基支柱",
+    "Group": "建築道具",
+    "Description": "強化非鐵金屬支撐柱，可用於較高的建築。",
+    "Additional": ""
+  },
+  {
+    "Id": "build206",
+    "Name": "立方體屋頂蓋",
+    "Group": "建設模組",
+    "Description": "立方體屋頂蓋，可用來裝飾及強化立方體結構的屋頂。",
+    "Additional": ""
+  },
+  {
+    "Id": "build207",
+    "Name": "全像門",
+    "Group": "建設模組",
+    "Description": "優雅的全像門，讓人快速進出任何結構，並能調節室內的溫度和毒性。",
+    "Additional": ""
+  },
+  {
+    "Id": "build208",
+    "Name": "建設研究單位",
+    "Group": "科技還原裝置",
+    "Description": "可攜式設計圖研究裝置。\n\n這個研究模組能隨處運用，幫使用者把老舊或受損的科技模組轉換成先進的建設設計圖。",
+    "Additional": ""
+  },
+  {
+    "Id": "build209",
+    "Name": "流浪者強化艇停泊灣",
+    "Group": "建築模組",
+    "Description": "安全的地下停泊設施，可供輕型流浪者強化艇停放。",
+    "Additional": ""
+  },
+  {
+    "Id": "build210",
+    "Name": "漂泊者強化艇停泊灣",
+    "Group": "建築模組",
+    "Description": "安全的地下停泊設施，可供中型漂泊者強化艇停放。",
+    "Additional": ""
+  },
+  {
+    "Id": "build211",
+    "Name": "巨人強化艇停泊灣",
+    "Group": "建築模組",
+    "Description": "安全的地下停泊設施，可供大型巨人強化艇停放。",
+    "Additional": ""
+  },
+  {
+    "Id": "build212",
+    "Name": "朝聖者強化艇停泊灣",
+    "Group": "建設模組",
+    "Description": "安全的地下停泊設施，可供輕型朝聖者強化艇停放。",
+    "Additional": ""
+  },
+  {
+    "Id": "build213",
+    "Name": "彩色燈具",
+    "Group": "裝飾",
+    "Description": "使用者基地的照明彩色燈具。",
+    "Additional": ""
+  },
+  {
+    "Id": "build214",
+    "Name": "天花板燈",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build215",
+    "Name": "梯子",
+    "Group": "建築道具",
+    "Description": "堅固輕巧的梯子，附有強化錨點，可用來固定於牆面。",
+    "Additional": ""
+  },
+  {
+    "Id": "build216",
+    "Name": "立方體室樓梯",
+    "Group": "建築道具",
+    "Description": "堅固輕巧的梯子，配有為立方體室量身打造的零件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build217",
+    "Name": "捲門",
+    "Group": "牆壁上的通道",
+    "Description": "自動式捲門，會在建造的人靠近時自動開啟。",
+    "Additional": ""
+  },
+  {
+    "Id": "build218",
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒適的椅子，大部分的雙足種族皆可使用，只是屁股會有點麻。",
+    "Additional": ""
+  },
+  {
+    "Id": "build219",
+    "Name": "沙發",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build220",
+    "Name": "L 型沙發",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build221",
+    "Name": "流線沙發",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build222",
+    "Name": "大型監控站",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build223",
+    "Name": "簡易桌",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build224",
+    "Name": "弧形桌",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build225",
+    "Name": "監控站",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build226",
+    "Name": "工作台",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build227",
+    "Name": "牆壁元件",
+    "Group": "裝飾",
+    "Description": "固定於牆面的裝飾用假儲藏元件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build228",
+    "Name": "抽屜",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build229",
+    "Name": "儲藏板",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build230",
+    "Name": "八面櫃",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build231",
+    "Name": "高櫃",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build232",
+    "Name": "置物櫃",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build233",
+    "Name": "側板",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build234",
+    "Name": "地墊",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build235",
+    "Name": "旗幟 1",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build236",
+    "Name": "旗幟 2",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build237",
+    "Name": "旗幟 3",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build238",
+    "Name": "旗幟 4",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build239",
+    "Name": "牆旗 1",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build240",
+    "Name": "牆旗 2",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build241",
+    "Name": "牆旗 3",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build242",
+    "Name": "科技面板",
+    "Group": "裝飾",
+    "Description": "無功能、純裝飾用的科技面板。",
+    "Additional": ""
+  },
+  {
+    "Id": "build243",
+    "Name": "壁扇",
+    "Group": "裝飾",
+    "Description": "牆壁的裝飾通風配件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build244",
+    "Name": "牆面螢幕",
+    "Group": "裝飾",
+    "Description": "裝飾用的牆掛式螢幕。",
+    "Additional": ""
+  },
+  {
+    "Id": "build245",
+    "Name": "伺服器",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build246",
+    "Name": "天花面板",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build247",
+    "Name": "瓶罐收納架",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build248",
+    "Name": "機械手臂",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build249",
+    "Name": "平面板",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build250",
+    "Name": "示波器",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build251",
+    "Name": "綠色牆面螢幕",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build252",
+    "Name": "橘色牆面螢幕",
+    "Group": "裝飾",
+    "Description": "可建造裝飾品，用以美化你的基地。",
+    "Additional": ""
+  },
+  {
+    "Id": "build253",
+    "Name": "大楔形結構",
+    "Group": "裝飾",
+    "Description": "用於基本建築結構的構件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build254",
+    "Name": "小楔形結構",
+    "Group": "裝飾",
+    "Description": "用於基本建築結構的構件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build255",
+    "Name": "金字塔",
+    "Group": "裝飾",
+    "Description": "用於基本建築結構的構件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build256",
+    "Name": "彎管",
+    "Group": "裝飾",
+    "Description": "用於基本建築結構的構件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build257",
+    "Name": "管子",
+    "Group": "裝飾",
+    "Description": "用於基本建築結構的構件。",
+    "Additional": ""
+  },
+  {
+    "Id": "build258",
+    "Name": "補充瓶",
+    "Group": "裝飾",
+    "Description": "基本的結構可建造道具。",
+    "Additional": ""
+  },
+  {
+    "Id": "build259",
+    "Name": "箱體",
+    "Group": "裝飾",
+    "Description": "基本的結構可建造道具。",
+    "Additional": ""
+  },
+  {
+    "Id": "build260",
+    "Name": "圈",
+    "Group": "裝飾",
+    "Description": "基本的結構可建造道具。",
+    "Additional": ""
+  },
+  {
+    "Id": "build261",
+    "Name": "牆壁",
+    "Group": "裝飾",
+    "Description": "強化銀河系中以基礎結構廣泛分布的牆壁模組。\n\n符合宇宙建築標準 2.3b，確保其他組合式結構的最大相容性。快速網格扣合，讓你可以迅速組成自訂的庇護所格局。",
+    "Additional": ""
+  },
+  {
+    "Id": "build262",
+    "Name": "連結站",
+    "Group": "建設模組",
+    "Description": "基本的結構道具，搭配牆壁模組使用可創造 90 度轉角。",
+    "Additional": ""
+  },
+  {
+    "Id": "build263",
+    "Name": "屋頂平台",
+    "Group": "建設模組",
+    "Description": "基本的結構道具，搭配牆壁模組使用，可創造能支撐可觀重量的平台。",
+    "Additional": ""
+  },
+  {
+    "Id": "build264",
+    "Name": "大面牆壁",
+    "Group": "裝飾",
+    "Description": "強化銀河系中以基礎結構廣泛分布的牆壁模組。\n\n符合宇宙建築標準 2.3b，確保其他組合式結構的最大相容性。快速網格扣合，讓你可以迅速組成自訂的庇護所格局。",
+    "Additional": ""
+  },
+  {
+    "Id": "build265",
+    "Name": "牆壁",
+    "Group": "裝飾",
+    "Description": "基本的結構可建造道具。",
+    "Additional": ""
+  },
+  {
+    "Id": "build266",
+    "Name": "貨船內牆",
+    "Group": "貨船內部模組",
+    "Description": "此擴建模組能讓你在大型太空船內快速建造可居住空間。\n\n建造單元是以氣壓艙壁與所有必要銜接零件製作而成。",
+    "Additional": ""
+  },
+  {
+    "Id": "build267",
+    "Name": "太空船競賽起訖點",
+    "Group": "競賽部件",
+    "Description": "這個平台是太空船實地測試的起跑線兼終點線，可讓旅行者練習太空船的操控與速度控制。",
+    "Additional": ""
+  },
+  {
+    "Id": "build268",
+    "Name": "競賽力增幅器",
+    "Group": "競賽部件",
+    "Description": "在競賽期間加快強化艇速度。",
+    "Additional": ""
+  },
+  {
+    "Id": "build269",
+    "Name": "競賽障礙物",
+    "Group": "競賽部件",
+    "Description": "為強化艇競賽增添額外挑戰。",
+    "Additional": ""
+  },
+  {
+    "Id": "build270",
+    "Name": "貼花",
+    "Group": "裝飾",
+    "Description": "可用於不同地方的裝飾性貼花。",
+    "Additional": ""
+  },
+  {
+    "Id": "build271",
+    "Name": "生物全像圖",
+    "Group": "環境裝飾",
+    "Description": "裝飾用的野生動植物全像圖，影像來自使用者的發現紀錄。",
+    "Additional": ""
+  },
+  {
+    "Id": "build272",
+    "Name": "遺失的測深球",
+    "Group": "可解鎖的頭盔",
+    "Description": "鬧鬼的強化套裝外觀強制改裝。即使移除後，穿戴者依然會永遠聽到深海的低喃呼喚......\n在外觀改造器改變強化套裝的外觀。",
+    "Additional": ""
+  },
+  {
+    "Id": "build273",
+    "Name": "銅鑄黏液雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像描繪一隻原始的古代生物，被好幾個早期探險家追蹤。",
+    "Additional": ""
+  },
+  {
+    "Id": "build274",
+    "Name": "銀鑄黏液雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像描繪一隻原始的古代生物，被好幾個早期探險家追蹤。",
+    "Additional": ""
+  },
+  {
+    "Id": "build275",
+    "Name": "金鑄黏液雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像描繪一隻原始的古代生物，被好幾個早期探險家追蹤。",
+    "Additional": ""
+  },
+  {
+    "Id": "build276",
+    "Name": "銅鑄龍龍雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像描繪一隻長頸四足物種。",
+    "Additional": ""
+  },
+  {
+    "Id": "build277",
+    "Name": "銀鑄龍龍雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像描繪一隻長頸四足物種。",
+    "Additional": ""
+  },
+  {
+    "Id": "build278",
+    "Name": "金鑄龍龍雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像描繪一隻長頸四足物種。",
+    "Additional": ""
+  },
+  {
+    "Id": "build279",
+    "Name": "銅鑄吉客族雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像描繪一個吉客族手指天空。",
+    "Additional": ""
+  },
+  {
+    "Id": "build280",
+    "Name": "銀鑄吉客族雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像描繪一個吉客族手指天空。",
+    "Additional": ""
+  },
+  {
+    "Id": "build281",
+    "Name": "金鑄吉客族雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像描繪一個吉客族手指天空。",
+    "Additional": ""
+  },
+  {
+    "Id": "build282",
+    "Name": "銅鑄戰鬥機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像描繪著名的「A 向量船」太空船。",
+    "Additional": ""
+  },
+  {
+    "Id": "build283",
+    "Name": "銀鑄戰鬥機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像描繪著名的「A 向量船」太空船。",
+    "Additional": ""
+  },
+  {
+    "Id": "build284",
+    "Name": "金鑄戰鬥機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像描繪著名的「A 向量船」太空船。",
+    "Additional": ""
+  },
+  {
+    "Id": "build285",
+    "Name": "銅鑄步行機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像描繪「巡警步行機」這種先進戰鬥機體。",
+    "Additional": ""
+  },
+  {
+    "Id": "build286",
+    "Name": "銀鑄步行機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像描繪「巡警步行機」這種先進戰鬥機體。",
+    "Additional": ""
+  },
+  {
+    "Id": "build287",
+    "Name": "金鑄步行機雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像描繪「巡警步行機」這種先進戰鬥機體。",
+    "Additional": ""
+  },
+  {
+    "Id": "build288",
+    "Name": "銅鑄寰宇雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座雕像是寰宇介面的裝飾用複製品，核心會旋轉，不知道是什麼力量提供動能......",
+    "Additional": ""
+  },
+  {
+    "Id": "build289",
+    "Name": "銀鑄寰宇雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座雕像是寰宇介面的裝飾用複製品，核心會旋轉，不知道是什麼力量提供動能......",
+    "Additional": ""
+  },
+  {
+    "Id": "build290",
+    "Name": "金鑄寰宇雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座雕像是寰宇介面的裝飾用複製品，核心會旋轉，不知道是什麼力量提供動能......",
+    "Additional": ""
+  },
+  {
+    "Id": "build291",
+    "Name": "銅鑄太空人雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銅鑄成。\n這座太空人雕像表達對所有銀河探險家的敬意。",
+    "Additional": ""
+  },
+  {
+    "Id": "build292",
+    "Name": "銀鑄太空人雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用銀鑄成。\n這座太空人雕像表達對所有銀河探險家的敬意。",
+    "Additional": ""
+  },
+  {
+    "Id": "build293",
+    "Name": "金鑄太空人雕像",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊的可建造基地裝飾，用金鑄成。\n這座太空人雕像表達對所有銀河探險家的敬意。",
+    "Additional": ""
+  },
+  {
+    "Id": "build294",
+    "Name": "銀河樞紐貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪寫著任務宣言「一同探索」的徽章。",
+    "Additional": ""
+  },
+  {
+    "Id": "build295",
+    "Name": "讚許之手貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪宇宙共通的贊成手勢。",
+    "Additional": ""
+  },
+  {
+    "Id": "build296",
+    "Name": "納達貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪科瓦族祭司存在體納達。",
+    "Additional": ""
+  },
+  {
+    "Id": "build297",
+    "Name": "波羅貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪吉客族專家波羅。",
+    "Additional": ""
+  },
+  {
+    "Id": "build298",
+    "Name": "阿波羅貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪旅行者阿波羅。",
+    "Additional": ""
+  },
+  {
+    "Id": "build299",
+    "Name": "阿蒂蜜絲貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪旅行者阿耳忒彌斯。",
+    "Additional": ""
+  },
+  {
+    "Id": "build300",
+    "Name": "無名貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪旅行者無名。",
+    "Additional": ""
+  },
+  {
+    "Id": "build301",
+    "Name": "機器人夥伴",
+    "Group": "個人無人機服務員",
+    "Description": "程式設計無懈可擊的無人機。\n\n這個微型機器人會是你基地活力十足的夥伴，為你帶來喜悅、歡笑，以及低調的嗡嗡聲。",
+    "Additional": ""
+  },
+  {
+    "Id": "build302",
+    "Name": "膨脹立方體道具",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊奇異的裝飾。\n\n此作工精密的小道具會運用當地重力場，取悅並迷倒基地訪客。",
+    "Additional": ""
+  },
+  {
+    "Id": "build303",
+    "Name": "全像球體道具",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊奇異的基地裝飾。\n\n此道具會投射出球體全像圖，呈現銀河間上百萬兆天體中的其中一個星體。",
+    "Additional": ""
+  },
+  {
+    "Id": "build304",
+    "Name": "果樹",
+    "Group": "有機裝飾",
+    "Description": "大型裝飾果樹。\n\n果實的外型、毒性與狀態會根據當地氣候或授粉條件而有所變化。",
+    "Additional": ""
+  },
+  {
+    "Id": "build305",
+    "Name": "紡錘樹",
+    "Group": "有機裝飾",
+    "Description": "不結果實的纖細樹種。根部系統結合了適應力強的共生菌類。\n\n能自行長出菇類，易於栽植。菌類無毒也不會傳播。",
+    "Additional": ""
+  },
+  {
+    "Id": "build306",
+    "Name": "長春樹",
+    "Group": "有機裝飾",
+    "Description": "長青的耐寒樹種，能在各種類型的氣候中生存。\n\n下側泛銀光的蠟質葉片具有極佳的採集光線能力，全年繁茂繽紛。",
+    "Additional": ""
+  },
+  {
+    "Id": "build307",
+    "Name": "食肉灌木",
+    "Group": "有機裝飾",
+    "Description": "中型裝飾植物。每片葉子都覆蓋著一層薄薄的乳膠，黏膠混有消化性荷爾蒙，會緩慢吸收停駐在葉片上的昆蟲。\n\n避免意外的皮膚接觸。",
+    "Additional": ""
+  },
+  {
+    "Id": "build308",
+    "Name": "矮棕櫚",
+    "Group": "有機裝飾",
+    "Description": "外型較為矮胖的大型棕櫚種，易於栽植。\n\n放置於室外可吸引野生動物並淨化空氣。",
+    "Additional": ""
+  },
+  {
+    "Id": "build309",
+    "Name": "奇妙玉米",
+    "Group": "有機裝飾",
+    "Description": "能長出裝飾性玉米。有多種顏色，能引來裝飾性野生動物。\n\n無法自然繁殖，必須人工授粉。",
+    "Additional": ""
+  },
+  {
+    "Id": "build310",
+    "Name": "小型水族箱",
+    "Group": "水族觀察模組",
+    "Description": "小型觀察單位，用以研究水族行為。\n\n完全的生態系統，包含自己的可再生能量來源、泵陣列，以及自我清潔的過濾系統。",
+    "Additional": ""
+  },
+  {
+    "Id": "build311",
+    "Name": "捲珊瑚",
+    "Group": "有機裝飾",
+    "Description": "海中纖弱的無脊椎動物，可栽種於盆中。獨特的圓圈架構十分可愛，外觀相當吸引人。",
+    "Additional": ""
+  },
+  {
+    "Id": "build312",
+    "Name": "水中晶石",
+    "Group": "有機裝飾",
+    "Description": "吸引人的海洋礦物水晶體。這些水晶以碎片形狀生成，並且具有難得一見的大理石花色。",
+    "Additional": ""
+  },
+  {
+    "Id": "build313",
+    "Name": "燭台花",
+    "Group": "有機裝飾",
+    "Description": "開著微微發光、球型花朵的驚人植物。這種室內品種經過改良，可以吸收任何來源的氧氣並加以處理，不論在陸地上或水中都可以生存。",
+    "Additional": ""
+  },
+  {
+    "Id": "build314",
+    "Name": "藤壺",
+    "Group": "有機裝飾",
+    "Description": "堅韌的節肢生物，常見滿布於停駐或緩慢移動的水底物體之上。\n\n此品種可以附著於指定地點，為基地增添古老海洋氣息。",
+    "Additional": ""
+  },
+  {
+    "Id": "build315",
+    "Name": "煙火",
+    "Group": "消耗型煙火表演裝置",
+    "Description": "豪華煙火，富含鎂與砪。點燃即可在天空中創造出絢爛效果。\n\n可從建造選單（BUILD_MENU）放置發射管。警告：請勿對著生物發射，不建議於室內使用。",
+    "Additional": ""
+  },
+  {
+    "Id": "build316",
+    "Name": "可攜式現實生成器",
+    "Group": "可解鎖的裝飾",
+    "Description": "特殊奇異的基地裝飾。\n\n仿造現實的模型，提供了前所未有的視角。有無窮無盡的細節，等著人用足夠清晰的鏡片發掘。",
+    "Additional": ""
+  },
+  {
+    "Id": "build317",
+    "Name": "飼養缸",
+    "Group": "特殊動物籠",
+    "Description": "研究動物行為專用的小型觀測單位。\n\n完全自給自足，包括內建營養處理器、空氣清淨器與糞便處理系統。",
+    "Additional": ""
+  },
+  {
+    "Id": "build318",
+    "Name": "船帆棕櫚",
+    "Group": "有機裝飾",
+    "Description": "葉子極大、抗熱性佳的樹木。\n\n寬闊的複葉含有礦物質，構成一層保護壁，保護樹木不受原生環境的毒辣陽光傷害。",
+    "Additional": ""
+  },
+  {
+    "Id": "build319",
+    "Name": "球體樹",
+    "Group": "有機裝飾",
+    "Description": "細瘦的樹木，根系龐大多肉，適應燠熱的氣候。\n\n鑽開根系的球體能取得可飲用的液體，但情勢極為嚴重時才建議如此下下之策。",
+    "Additional": ""
+  },
+  {
+    "Id": "build320",
+    "Name": "枯山水庭園",
+    "Group": "有機裝飾",
+    "Description": "一種庭園模組，具備裝飾性礦石構造與內建毛細管地墊，提供最佳濕度控制。",
+    "Additional": ""
+  },
+  {
+    "Id": "build321",
+    "Name": "小型木門",
+    "Group": "木質建造元件",
+    "Description": "可放入木質門框的小門",
+    "Additional": ""
+  },
+  {
+    "Id": "build322",
+    "Name": "木製電動門",
+    "Group": "木質建造元件",
+    "Description": "一種電力驅動門，可連接電網，並利用各種開關控制。\n\n經加壓處理並注入樹脂的木材製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build323",
+    "Name": "大型木製電動門",
+    "Group": "木質建造元件",
+    "Description": "雙倍寬度的電力驅動門，可連接電網，並利用各種開關控制。\n\n經加壓處理並注入樹脂的木材製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build324",
+    "Name": "木製屋頂內角",
+    "Group": "木質建造元件",
+    "Description": "重要的屋頂結構組件，建造有尖角的屋頂時尤其關鍵。\n\n經加壓處理並注入樹脂的木材製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build325",
+    "Name": "小型金屬門",
+    "Group": "金屬營造元件",
+    "Description": "可放入金屬門框的小門",
+    "Additional": ""
+  },
+  {
+    "Id": "build326",
+    "Name": "金屬電動門",
+    "Group": "木質建造元件",
+    "Description": "一種電力驅動門，可連接電網，並利用各種開關控制。\n\n以高強度合金製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build327",
+    "Name": "大型金屬電動門",
+    "Group": "木質建造元件",
+    "Description": "雙倍寬度的電力驅動門，可連接電網，並利用各種開關控制。\n\n以高強度合金製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build328",
+    "Name": "金屬屋頂內角",
+    "Group": "木質建造元件",
+    "Description": "重要的屋頂結構組件，建造有尖角的屋頂時尤其關鍵。\n\n以高強度合金製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build329",
+    "Name": "小型水泥門",
+    "Group": "水泥建造元件",
+    "Description": "可放入水泥門框的小門",
+    "Additional": ""
+  },
+  {
+    "Id": "build330",
+    "Name": "水泥電動門",
+    "Group": "木質建造元件",
+    "Description": "一種電力驅動門，可連接電網，並利用各種開關控制。\n\n以強化水泥板製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build331",
+    "Name": "大型水泥電動門",
+    "Group": "木質建造元件",
+    "Description": "雙倍寬度的電力驅動門，可連接電網，並利用各種開關控制。\n\n以強化水泥板製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build332",
+    "Name": "水泥屋頂內角",
+    "Group": "木質建造元件",
+    "Description": "重要的屋頂結構組件，建造有尖角的屋頂時尤其關鍵。\n\n以強化水泥板製造。",
+    "Additional": ""
+  },
+  {
+    "Id": "build333",
+    "Name": "電線",
+    "Group": "配電模組",
+    "Description": "高容量電線。電線可以讓基地連接發電機。大部分科技與內建照明系統的結構，都需要電力來源才能運作。\n\n電線還可以連接各種開關，即可更精細地控制電流。",
+    "Additional": ""
+  },
+  {
+    "Id": "build334",
+    "Name": "瞬間傳送纜線",
+    "Group": "配電模組",
+    "Description": "進階光纖纜線，用於連接一或多個近距離瞬間傳送儀。",
+    "Additional": ""
+  },
+  {
+    "Id": "build336",
+    "Name": "電燈",
+    "Group": "零件",
+    "Description": "低耗能電燈，使用壽命長，元件可完全回收。",
+    "Additional": ""
+  },
+  {
+    "Id": "build337",
+    "Name": "異常體貼花",
+    "Group": "裝飾",
+    "Description": "特殊的可放置貼花，可以裝飾基地，增添個人風格。\n這片貼花描繪一個旅行者異常體。",
+    "Additional": ""
+  }
+]

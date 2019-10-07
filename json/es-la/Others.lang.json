@@ -1,0 +1,176 @@
+[
+  {
+    "Id": "other1",
+    "Name": "Nanite Cluster",
+    "Group": "Technological Currency",
+    "Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
+  },
+  {
+    "Id": "other2",
+    "Name": "Carta de navegación planetaria",
+    "Group": "Datos cartográficos",
+    "Description": "Un mapa de un planeta cercano. Se han marcado las coordenadas de una señal de socorro.\n\nSelecciona el mapa y usa «Trazar rumbo» (FE_ALT1) para fijar la ubicación en la pantalla de tu exotraje.\n\nSe pueden conseguir nuevos mapas intercambiando datos de navegación con un cartógrafo de una estación espacial.",
+    "Additional": ""
+  },
+  {
+    "Id": "other3",
+    "Name": "Llave antigua",
+    "Group": "Artefacto intemporal",
+    "Description": "Una llave bastante pesada y antigua hecha de hierro forjado que debe de pertenecer a una cerradura cercana...",
+    "Additional": ""
+  },
+  {
+    "Id": "other4",
+    "Name": "Llave tridente",
+    "Group": "Reliquia acuática",
+    "Description": "Una extraña llave bifurcada que brilla con una luz ultravioleta.\n\nA pesar de su primitivo aspecto, los sistemas de escaneo del exotraje revelan trazas de espuma de nanite en sus dientes.",
+    "Additional": ""
+  },
+  {
+    "Id": "other5",
+    "Name": "Datos de navegación",
+    "Group": "Datos de navegación encriptados",
+    "Description": "Datos de navegación encriptados. Esta unidad portátil de datos contiene toda la información cartográfica relevante de una región planetaria.\n\nSe puede intercambiar con un cartógrafo a bordo de una estación espacial a cambio de mapas estelares utilizables.",
+    "Additional": ""
+  },
+  {
+    "Id": "other6",
+    "Name": "Datos de coordenadas de contenedor de expulsión",
+    "Group": "Datos de navegación encriptados",
+    "Description": "Datos de navegación encriptados para introducir en un intensificador de señal.\n\nSi se desencriptan correctamente, los datos revelarán la ubicación de un contenedor de expulsión que contiene mejoras de exotraje.",
+    "Additional": ""
+  },
+  {
+    "Id": "other7",
+    "Name": "Clave de codificación de registro",
+    "Group": "Secuencia de datos incompleta",
+    "Description": "Un fragmento de la secuencia de anulación de codificación para un registro de emergencia de un carguero.\n\nEs posible que se necesiten varias partes de la secuencia para tener acceso completo a los datos registrados.",
+    "Additional": ""
+  },
+  {
+    "Id": "other8",
+    "Name": "Vale defensivo",
+    "Group": "Sustituto del pago para las autoridades del sistema",
+    "Description": "Un vale que permite al portador recibir apoyo de las autoridades del sistema en medio de un ataque pirata.",
+    "Additional": ""
+  },
+  {
+    "Id": "other9",
+    "Name": "Alucinado",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido para compartir momentos de asombro y deleite existencial con otros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other10",
+    "Name": "¡A celebrar!",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido para compartir momentos de celebración con otros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other11",
+    "Name": "¡Ja!",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido para compartir momentos de diversión con otros exploradores.",
+    "Additional": ""
+  },
+  {
+    "Id": "other12",
+    "Name": "Maravillarse",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido para contemplar grandes estructuras, fauna, flora o las mismas estrellas y maravillarse con la insignificancia de una pequeña vida en todo el universo.",
+    "Additional": ""
+  },
+  {
+    "Id": "other13",
+    "Name": "Todo va bien",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido bajo el agua para indicar que 'todo va bien' a otros exploradores acuáticos.",
+    "Additional": ""
+  },
+  {
+    "Id": "other14",
+    "Name": "Mirada lejana",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido. Mira al horizonte en busca de tu próxima aventura.",
+    "Additional": ""
+  },
+  {
+    "Id": "other15",
+    "Name": "Pose heroica",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido. Haz una pose dramática en frente de estructuras abandonadas, enormes formaciones minerales y colosales formas de vida depredadoras.",
+    "Additional": ""
+  },
+  {
+    "Id": "other16",
+    "Name": "Incredulidad",
+    "Group": "Gesto desbloqueable",
+    "Description": "Un gesto exclusivo.\nSe puede seleccionar desde el menú rápido. Arrodíllate con incredulidad ante las maravillas que viste.",
+    "Additional": ""
+  },
+  {
+    "Id": "other17",
+    "Name": "Casco de horizonte despejado",
+    "Group": "Casco desbloqueable",
+    "Description": "Una exclusiva manipulación de apariencia de exotraje.\nTransforma la apariencia de tu exotraje en un modificador de apariencia.",
+    "Additional": ""
+  },
+  {
+    "Id": "other18",
+    "Name": "Casco de órbita abrasadora",
+    "Group": "Casco desbloqueable",
+    "Description": "Una exclusiva manipulación de apariencia de exotraje.\nTransforma la apariencia de tu exotraje en un modificador de apariencia.",
+    "Additional": ""
+  },
+  {
+    "Id": "other19",
+    "Name": "Casco Ojo del Korvax",
+    "Group": "Casco desbloqueable",
+    "Description": "Una exclusiva manipulación de apariencia de exotraje.\nTransforma la apariencia de tu exotraje en un modificador de apariencia.",
+    "Additional": ""
+  },
+  {
+    "Id": "other20",
+    "Name": "Máscara de batalla de la Primera Progenie",
+    "Group": "Casco desbloqueable",
+    "Description": "Una manipulación de apariencia de exotraje agresiva, inspirada en los cascos de guerra de los antiguos Gek.\nTransforma la apariencia de tu exotraje en un modificador de apariencia.",
+    "Additional": ""
+  },
+  {
+    "Id": "other21",
+    "Name": "Hombreras blindadas",
+    "Group": "Armadura desbloqueable",
+    "Description": "Una armadura para los hombros muy resistente. Este aumento para el exotraje viene con conexiones de alto voltaje en el sistema esquelético del usuario. Esta corriente recorre el cuerpo del usuario según sus necesidades, manipulando los músculos para disponerlos en una postura de combate defensiva óptima.",
+    "Additional": ""
+  },
+  {
+    "Id": "other22",
+    "Name": "Pechera blindada",
+    "Group": "Personalización de torso desbloqueable",
+    "Description": "Reforzada pero estilosa, esta pechera proporciona una protección abdominal excelente sin comprometer el diseño.",
+    "Additional": ""
+  },
+  {
+    "Id": "other23",
+    "Name": "Exoguantes blindados",
+    "Group": "Guantes desbloqueables",
+    "Description": "Unos guantes blindados ideales para blandir armas, impresionar culturas marciales y recolectar plantas muy espinosas.",
+    "Additional": ""
+  },
+  {
+    "Id": "other24",
+    "Name": "Mallas blindadas",
+    "Group": "Personalización de piernas desbloqueable",
+    "Description": "Las nanofibras cuidadosamente tejidas hacen que estas mallas sean flexibles y resistentes a los disparos de armas de pequeño calibre.\n\nSu lavado requiere de un equipo especializado.",
+    "Additional": ""
+  },
+  {
+    "Id": "other25",
+    "Name": "Botas blindadas",
+    "Group": "Botas desbloqueables",
+    "Description": "Sistema de protección para los pies reforzado con giroscopios con bandas de rodamiento integrados para la mejora del equilibrio.\n\nCientos de años de investigación de alta tecnología aplicados a un calzado.",
+    "Additional": ""
+  }
+]

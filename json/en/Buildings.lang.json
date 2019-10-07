@@ -2147,13 +2147,6 @@
     "Additional": ""
   },
   {
-    "Id": "build335",
-    "Name": "Light Box",
-    "Group": "Light Device",
-    "Description": "A special construction module fashioned entirely from light-emitting panels. Can be used to construct walls of light.\n\nThe box may be recoloured before or after placement. Requires power to operate.",
-    "Additional": ""
-  },
-  {
     "Id": "build336",
     "Name": "Light",
     "Group": "Fitting",

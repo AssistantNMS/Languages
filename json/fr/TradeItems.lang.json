@@ -1,0 +1,184 @@
+[
+  {
+    "Id": "trade1",
+    "Name": "Caisse de nanotubes",
+    "Group": "Matériaux de construction avancés",
+    "Description": "Une caisse remplie de nanotubes de carbone.\n\nCes tubes minuscules mais extrêmement puissants sont nécessaires à la construction de composants scientifiques minuscules mais extrêmement puissants.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade2",
+    "Name": "Héridium auto-réparable",
+    "Group": "Matériaux de construction avancés",
+    "Description": "Une trémie d'héridium auto-réparable. Elle a l'air récente.\n\nUtilisé dans la création de composants scientifiques. L'héridium auto-réparable est particulièrement utile en cas de déploiement dans des installations éloignées, où les opportunités d'entretien peuvent être limitées ou mortelles.  ",
+    "Additional": ""
+  },
+  {
+    "Id": "trade3",
+    "Name": "Solvant optique",
+    "Group": "Matériaux de construction avancés",
+    "Description": "Plusieurs bouteilles de solvant optique.\n\nLe liquide contenu dans ces bouteilles est utilisé pour nettoyer l'excédent de lumière pouvant causer la détérioration des composants scientifiques",
+    "Additional": ""
+  },
+  {
+    "Id": "trade4",
+    "Name": "Torus pentadimensionnels",
+    "Group": "Matériaux de construction avancés",
+    "Description": "Un contenant spécialement conçu pour les tori en 5D.\n\nDes matériaux très spécifiques sont nécessaires pour construire des formes dans des dimensions supplémentaires. Ces tori sont utilisés pour contenir les champs puissants générés par la construction de composants scientifiques",
+    "Additional": ""
+  },
+  {
+    "Id": "trade5",
+    "Name": "Fibre supraconductrice",
+    "Group": "Matériaux de construction avancés",
+    "Description": "Un paquet de fibres supraconductrices très bien emballé.\n\nPuissantes, souples et résistantes à l'eau ; le tissage magnétique contrôlé de ces fibres est indispensable à la création de nombreux composants scientifiques.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade6",
+    "Name": "Capsule d'énergie",
+    "Group": "Source d'énergie commercialisable",
+    "Description": "Une caisse remplie de capsules d'énergie.\n\nBeaucoup de procédés industriels et d'extraction minière demandent énormément d'énergie. Les capsules d'énergie, contrairement aux batteries à libération lente, peuvent satisfaire ces demandes instantanément. ",
+    "Additional": ""
+  },
+  {
+    "Id": "trade7",
+    "Name": "Batterie de qualité industrielle",
+    "Group": "Source d'énergie commercialisable",
+    "Description": "Un paquet de batteries industrielles bien isolées.\n\nLes batteries à haut rendement sont nécessaires pour alimenter les opérations d'extraction minière profondes. Ces sources d'énergie longue durée peuvent tenir des semaines, même dans les conditions de chaleur et de pression extrêmes que l'on trouve des kilomètres sous terre.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade8",
+    "Name": "Gel ohmique",
+    "Group": "Source d'énergie commercialisable",
+    "Description": "Plusieurs paquets de gel ohmique.\n\nLes opérations d'extraction minière gourmandes en énergie ne sont pas sans danger. Le gel ohmique aide à garder les éléments qui se déplacent rapidement à la fois isolés et lubrifiés.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade9",
+    "Name": "Fluide de puissance expérimental",
+    "Group": "Source d'énergie commercialisable",
+    "Description": "Barils résistants à la corrosion remplis d'un fluide de puissance expérimental.\n\nUn seul baril de cette préparation hautement volatile suffit à alimenter une station spatiale pendant des semaines. Très apprécié des économies d'extraction minière.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade10",
+    "Name": "Noyau de fusion",
+    "Group": "Source d'énergie commercialisable",
+    "Description": "Un pack légèrement brillant de noyaux de fusion.\n\nSource d'énergie, moteur et radiateur haute capacité. Un noyau de fusion est le nec plus ultra en termes de production d'énergie dans l'espace lointain. Très apprécié des économies d'extraction minière qui cherchent à renforcer l'autonomie de leurs colonies d'astéroïdes.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade11",
+    "Name": "Bouteille de phéromones déparfumée",
+    "Group": "Composants scientifiques",
+    "Description": "Un assortiment en vrac de bouteilles de phéromones recyclées.\n\nD'énormes quantités de phéromones sont produites et distribuées chaque jour. Cela a engendré une opportunité marchande rentable pour ceux qui n'ont pas peur de s'occuper des déchets. Ces bocaux en verre ont été soigneusement nettoyés et ne devraient présenter aucun danger au porteur.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade12",
+    "Name": "Microscope à neutrons",
+    "Group": "Composants scientifiques",
+    "Description": "Un paquet de microscopes à neutrons.\n\nLes économies scientifiques produisent et utilisent un grand nombre de microscopes. Cependant, certains d'entre eux ont de légers défauts qui les rendent impropres aux travaux de précision. Ceux-ci représentent encore une opportunité marchande dans la mesure où ils peuvent être vendus à des personnes incapables de les différencier.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade13",
+    "Name": "Injecteur d'instabilité",
+    "Group": "Composants scientifiques",
+    "Description": "Une boîte d'injecteurs d'instabilité en vrac.\n\nLes expériences ambitieuses nécessitent souvent qu'un grand nombre de variables soit modifiées en un temps très court. Un injecteur d'instabilité fournit un tel service. Ils peuvent aussi servir à créer le chaos au sein des systèmes de marché ; ce type de comportement immoral constitue une excellente opportunité marchande .",
+    "Additional": ""
+  },
+  {
+    "Id": "trade14",
+    "Name": "Tuyauterie organique",
+    "Group": "Composants scientifiques",
+    "Description": "Un bac de tuyauterie organique préservé. Il est encore chaud.\n\nAfin d'éviter les problèmes d'éthique, beaucoup de laboratoires cultivent leurs cobayes au niveau des composants. Les restes peuvent être rentables pour les économies marchandes aux réglementations médicales souples.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade15",
+    "Name": "Canal neuronal",
+    "Group": "Composants scientifiques",
+    "Description": "Une boîte de canaux neuronaux frais.\n\nLes canaux neuronaux sont des inserts temporaires qui provoquent une brève stimulation de la concentration et de la productivité. Utiles partout, ils sont très prisés des économies marchandes où la concurrence entre les travailleurs est acharnée.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade16",
+    "Name": "Terre",
+    "Group": "Minéraux commercialisables",
+    "Description": "Plusieurs tonnes de terre. \n\nDes restes de terres des opérations d'extraction minière. Des résidus métalliques peuvent être extraits par des experts dans les économies de fabrication qui disposent du temps et de l'équipement pour les passer au crible.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade17",
+    "Name": "Graisse de pyrite brute",
+    "Group": "Minéraux commercialisables",
+    "Description": "Grands bocaux remplis de graisse de pyrite.\n\nUne solution de matières grasses riche en minéraux. Cette graisse est très prisée des économies de fabrication où elle est utilisée pour huiler et faire briller les grosses machines.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade18",
+    "Name": "Sel de bromure",
+    "Group": "Minéraux commercialisables",
+    "Description": "Une caisse de sel de bromure.\n\nLe sel de bromure, obtenu par un long processus de distillation et d'évaporation, nourrit les usines affamées dans les systèmes de fabrication.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade19",
+    "Name": "Zirconium polychromatique",
+    "Group": "Minéraux commercialisables",
+    "Description": "Un sac plein de cristaux de zirconium polychromatiques.\n\nCes cristaux produisent des lentilles de couleur éblouissante et presque indestructibles. De très grande valeur pour les économies de fabrication.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade20",
+    "Name": "Arc-cristal restructuré",
+    "Group": "Minéraux commercialisables",
+    "Description": "Un paquet soigneusement emballé d'arc-cristaux restructurés.\n\nLes arc-cristaux, formations minérales extrêmement rares, sont très demandés au sein des économies de fabrication où leur dureté et leur conductivité sont essentielles à plusieurs procédés industriels. Ils sont aussi utilisés pour faire des bijoux attrayants (bien que dangereux).",
+    "Additional": ""
+  },
+  {
+    "Id": "trade21",
+    "Name": "Circuit imprimé hors service",
+    "Group": "Pièces technologiques",
+    "Description": "Un assortiment de pièces de circuit récupérées.\n\nLes économies de production d'énergie utilisent des composants high tech en très grand nombre. Par conséquent, même les circuits très endommagés sont demandés, pour ensuite en récupérer les pièces où être branchés tels quels dans des noyaux d'énergie basse qualité.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade22",
+    "Name": "Savon de soudure",
+    "Group": "Pièces technologiques",
+    "Description": "Plusieurs savons de soudure.\n\nUtilisés dans les systèmes de production d'énergie pour le nettoyage thermique des diodes en métal avant qu'elles soient fondues en batteries.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade23",
+    "Name": "Condensateur à ion",
+    "Group": "Pièces technologiques",
+    "Description": "Une caisse de condensateurs à ion renforcée.\n\nCes supercondensateurs disposent d'une densité d'énergie élevée. Très prisés par les économies de production d'énergie.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade24",
+    "Name": "Unité de positionnement autonome",
+    "Group": "Pièces technologiques",
+    "Description": "Un contenant d'unités de positionnement et de câblage associé.\n\nCes unités de positionnement peuvent être utilisées pour transformer presque n'importe quelles technologies en système de navigation autonome. D'une grande valeur dans les économies de production d'énergie, où elles servent à remplacer les mains organiques conductrices du procédé de fabrication.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade25",
+    "Name": "Accélérateur quantique",
+    "Group": "Pièces technologiques",
+    "Description": "Plusieurs grosses unités d'accélération quantique.\n\n Capable de propulser la matière à une vitesse non mesurable, ces unités sont particulièrement importantes pour les économies de production d'énergie, où elles servent à condenser l'énergie stockée dans les batteries de qualité supérieure.",
+    "Additional": ""
+  },
+  {
+    "Id": "trade26",
+    "Name": "UI_TRADE_ITEM_COMMODITY_2_NAME_L",
+    "Group": "Marchandise",
+    "Description": "Plusieurs bobines de soie stellaire.\n\nLa soie stellaire est tissée sur d'énormes métiers à tisser solaires en orbite autour des planètes commerçantes. Les rayons cosmiques influencent les motifs du tissage, qui peut ensuite être utilisé dans le traitement des matériaux avancés.",
+    "Additional": ""
+  }
+]
