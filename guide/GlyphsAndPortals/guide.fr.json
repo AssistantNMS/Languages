@@ -1,0 +1,100 @@
+{
+	"title": "Guide pour obtenir les 16 glyphes et trouver votre premier portail.",
+	"shortTitle": "Portails et glyphes",
+	"image": "assets/guide/GlyphsAndPortals/enterPortalAddress.jpg",
+	"author": "KaeAl",
+	"minutes": 20,
+	"date": "2019-09-22",
+	"tags": [
+		"Beyond Ready",
+		"Portal",
+		"Glyph"
+	],
+	"sections": [
+		{
+			"items": [
+				{
+					"type": "text",
+					"content": "1 600 amas de nanites (vous en obtiendrez quelques-unes, si ce n'est toutes, au cours de ce guide)\nDonnées de navigation ou Exonef avec l'amélioration du Scanner de Signaux installée.\n1 relique de Gek, enveloppe Korvax, ou dague Vy'Keen. Ceci est déterminé par race dominante du système solaire dans lequel se trouve le portail.\nDes essources pour recharger le terminal du portail."
+				},
+				{
+					"type": "text",
+					"content": "\nLes portails sont un moyen de transport longue distance, ils peuvent être utilisés pour voyager à travers la galaxie. Vous aurez besoin de l'adresse du portail de votre destination, qui consiste en une série de 12 symboles connus sous le nom de Glyphes. Il y a un total de 16 Glyphes uniques."
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/glyphs.jpg"
+				},
+				{
+					"type": "text",
+					"content": "Il existe actuellement deux façons d'obtenir les glyphes. La première est de progresser dans la quête principale, pour éviter les spoilers, ce guide n'évoque pas cette méthode. La deuxième façon est de parler aux PNJ \"voyageurs\" et de visiter leurs tombes. Vous reconnaîtrez les voyageurs à leur apparence. Ils ne sont d'aucune des trois espèces principales (Gek, Vy'Keen, Korvax) et une lueur émerge de leur corps. Vous devrez leur parler, compléter le premier échange, puis leur reparler de nouveau. Au cours de la deuxième conversation, vous devrez leur demander d'où ils viennent. Cela vous coûtera 100 amas de nanites, mais si vous êtes chanceux le voyageur vous en donnera tout autant lors de votre première interaction avec lui. Ensuite, vous devrez vous rendre à l'endroit  indiqué."
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/travelerGrave.jpg"
+				},
+				{
+					"type": "text",
+					"content": "Interagissez avec la tombe et vous recevrez un glyphe. S'affichera aussi votre progression sur les 16 glyphe à obtenir."
+				},
+				{
+					"type": "text",
+					"content": "Vous devrez répéter ce processus 16 fois pour obtenir tous les glyphes. D'après mon expérience, il semble y avoir qu'une seule tombe par système. Donc, si vous trouvez plusieurs voyageurs dans le même système, ils vous enverront tous sur la même tombe. Si vous parlez à un deuxième voyageur alors que vous avez déjà un objectif actif acquis via un premier voyageur, il ne vous mènera pas à une tombe et vous passerez à côté du Glyphe supplémentaire. Vous devez impérativement récupérer un glyphe à la fois pour ensuite trouver le voyageur suivant. Celui-ci vous enverra alorsdans la même tombe si vous êtes dans le même système mais vous pourrez débloquer un Glyphe supplémentaire."
+				}
+			],
+			"heading": "Objets nécessaires ",
+			"content": "",
+			"image": ""
+		},
+		{
+			"heading": "Localiser les portails ",
+			"items": [
+				{
+					"type": "text",
+					"content": "Il y a deux façon de trouver un portail: avec votre Exonef ou avec les diagrammesplanétaires."
+				},
+				{
+					"type": "text",
+					"content": "Pour utiliser un Exonef vous devez installer l'amélioration Scanner de Signaux pour Exonef. Montez à bord de votre Exonef puis dans le menu rapide, recherchez les structures extraterrestres."
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/exocraftSignalBooster.jpg"
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/scanForAlienStructures.jpg"
+				},
+				{
+					"type": "text",
+					"content": "La deuxième méthode consiste à échanger vos données de navigation au cartographe de la station spatiale pour des diagrammes planétaires. Préférez les cartes qui indiquent un -site d’intérêt sécurisé- OR -artefact ancien- "
+				},
+				{
+					"type": "text",
+					"content": "L'une ou l'autre de ces méthodes vous mènera à un monolithe alien. Créez une sauvegarde avant d'interagir avec lui, car vous devrez répondre correctement à sa question. Si vous ne le faites pas correctement du premier coup, rechargez simplement votre sauvegarde et réessayez. Une fois que le premier échange est terminé, interagissez de nouveau avec lui et demandez à localiser un portail. Vous aurez besoin soit d'une relique  Gek, soit d'une enveloppe Korvax, soit d'une dague Vy'Keen selon la race dominante dans ce système. Une fois que vous aurez terminé, vous recevrez un waypoint vers le portail.\n"
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/monolithLocatePortal.jpg"
+				}
+			],
+			"content": "",
+			"image": ""
+		},
+		{
+			"heading": "Activer le portail",
+			"items": [
+				{
+					"type": "text",
+					"content": "Vous devrez recharger les glyphes via le terminal du portails, puis vous pourrez activer le portail et finalemententrer l'adresse à laquelle vous souhaitez vous rendre."
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/GlyphsAndPortals/enterPortalAddress.jpg"
+				}
+			],
+			"content": "",
+			"image": ""
+		}
+	]
+}

@@ -1,0 +1,117 @@
+{
+	"title": "Comment créer un guide et le publier",
+	"shortTitle": "Créer un guide",
+	"author": "Kurt Lourens",
+	"image": "assets/guide/HowToMakeAGuide/guide.jpg",
+	"minutes": 10,
+	"date": "2019-09-25T09:59:14.882Z",
+	"tags": [
+		"How To"
+	],
+	"sections": [
+		{
+			"heading": "Quel sujet aborder ?",
+			"items": [
+				{
+					"type": "text",
+					"content": "\nC'est super que vous vouliez aider vos compagnons de voyage ! Cette application peut afficher les Guides créés via le site nomanssky.kurtlourens.com."
+				},
+				{
+					"type": "link",
+					"name": "Site Internet",
+					"content": "https://nomanssky.kurtlourens.com/guide"
+				},
+				{
+					"type": "text",
+					"content": "Ceci vous expliquera comment créer votre propre guide et comment le soumettre pour qu'il soit finalement ajouter à l'App.\nSi vous avez des questions supplémentaires, n'hésitez pas à vous joindre au Discord, d'où nous pourrons vous répondre plus rapidement."
+				},
+				{
+					"type": "link",
+					"name": "Discord",
+					"content": "https://discord.gg/q3aFBQM"
+				},
+				{
+					"type": "text",
+					"content": "Avant de commencer à écrire votre article, pensez à demander sur Discord si quelqu'un d'autre écrit un guide similaire. Ou mêmedemander des idées sur ce qu'il faut écrire."
+				}
+			]
+		},
+		{
+			"heading": "Dois-je obligatoirement utiliser le site web ?",
+			"items": [
+				{
+					"type": "text",
+					"content": "Vous n'avez pas besoin d'utiliser obligatoirement le site . Vous pouvez éditer les fichiers .json directement. Cependant, je vous conseille de ne le faire que si vous êtes sûr de savoir ce que vous faites."
+				}
+			]
+		},
+		{
+			"heading": "Les bases",
+			"items": [
+				{
+					"type": "text",
+					"content": "Le Guide est divisé en sections puis en éléments qui composent cette section. Un guide comporte plusieurs sections et chaque section comporte plusieurs éléments. L'option d'en-tête d'une section correspond à ce qui doit être mis en évidence et qui reste affiché en haut de l'écran pendant que les éléments sont visualisé."
+				},
+				{
+					"type": "text",
+					"content": "Un élément peut être composé de différentes choses:du texte, des images et des liens."
+				}
+			]
+		},
+		{
+			"heading": "Vous souhaitez ajouter un élément spécifique ?",
+			"items": [
+				{
+					"type": "text",
+					"content": "The website only shows options for items that are supported such as: Text, Image, Links etc.\nLe site web ne propose que des options "
+				},
+				{
+					"type": "text",
+					"content": "Si vous voulez un autre type de contenu, vous devrez demander qu'il soit développé sur l Discord avec une explication sur les raisons pour lesquelles il est nécessaire."
+				}
+			]
+		},
+		{
+			"heading": "Publication",
+			"items": [
+				{
+					"type": "text",
+					"content": "Once you are happy with how your Guide looks. You can click the \"Download Json File\" button."
+				},
+				{
+					"type": "text",
+					"content": "Vous devrez ensuite envoyer le fichier.json par email ou sur le canal Guides de Discord"
+				},
+				{
+					"type": "link",
+					"name": "Email",
+					"content": "mailto:nms@kurtlourens.com"
+				},
+				{
+					"type": "link",
+					"name": "Discord",
+					"content": "https://discord.gg/q3aFBQM"
+				},
+				{
+					"type": "text",
+					"content": "\nVotre guide sera ensuite lu et vérifié, il se peut que des suggestions soient faites. Une fois approuvé, votre guide sera ajouté à la prochaine version."
+				}
+			]
+		},
+		{
+			"heading": "Questions",
+			"items": [
+				{
+					"type": "text",
+					"content": "N'hesitez pas  poser beaucoup de questions ! Ainsi, nous pouvons rendre ce guide encore meilleur !"
+				},
+				{
+					"type": "image",
+					"image": "assets/guide/HowToMakeAGuide/site.jpg"
+				}
+			],
+			"content": "",
+			"image": ""
+		}
+	]
+}
