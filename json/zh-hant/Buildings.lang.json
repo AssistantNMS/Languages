@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "地磚",
+    "Group": "建築道具",
+    "Description": "耐磨的組合式地磚，可用於建造走道和鋪設地磚的區域。"
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗戶",
+    "Group": "建築道具",
+    "Description": "以能自動清潔、經紫外線固化的氣密玻璃製成的窗戶。"
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗戶",
+    "Group": "建築道具",
+    "Description": "以能自動清潔、經紫外線固化的氣密玻璃製成的窗戶。"
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗戶",
+    "Group": "建築道具",
+    "Description": "以能自動清潔、經紫外線固化的氣密玻璃製成的窗戶。"
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "建設研究單位",
+    "Group": "科技還原裝置",
+    "Description": "可攜式設計圖研究裝置。\n\n這個研究模組能隨處運用，幫使用者把老舊或受損的科技模組轉換成先進的建設設計圖。"
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "強化艇召喚站",
     "Group": "載具移位裝置",
     "Description": "此建設能讓使用者在該星球隨處召喚自己擁有的強化艇。\n\n與強化套裝快速指令選單連結能更方便使用。"
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒適的椅子，大部分的雙足種族皆可使用，只是屁股會有點麻。"
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒適的椅子，大部分的雙足種族皆可使用，只是屁股會有點麻。"
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒適的椅子，大部分的雙足種族皆可使用，只是屁股會有點麻。"
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "地磚",
+    "Group": "建築道具",
+    "Description": "耐磨的組合式地磚，可用於建造走道和鋪設地磚的區域。"
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "建設研究單位",
-    "Group": "科技還原裝置",
-    "Description": "可攜式設計圖研究裝置。\n\n這個研究模組能隨處運用，幫使用者把老舊或受損的科技模組轉換成先進的建設設計圖。",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "流浪者強化艇停泊灣",
     "Group": "建築模組",
@@ -1325,13 +1312,6 @@
     "Name": "捲門",
     "Group": "牆壁上的通道",
     "Description": "自動式捲門，會在建造的人靠近時自動開啟。",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "椅子",
-    "Group": "家具",
-    "Description": "舒適的椅子，大部分的雙足種族皆可使用，只是屁股會有點麻。",
     "Additional": ""
   },
   {

@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "Modulo protezione termica (B)",
     "Group": "Potenziamento protezione rischi considerevole",
-    "Description": "Un potenziamento considerevole per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta notevolmente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
+    "Description": "Un potenziamento considerevole per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta notevolmente il periodo di sopravvivenza negli ambienti sotto-zero.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "Modulo protezione termica (A)",
     "Group": "Potenziamento protezione rischi potente",
-    "Description": "Un potenziamento estremamente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
+    "Description": "Un potenziamento estremamente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti sotto-zero.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "Modulo protezione termica (S)",
     "Group": "Potenziamento protezione rischi supremo",
-    "Description": "Un potenziamento eccezionalmente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
+    "Description": "Un potenziamento eccezionalmente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti sotto-zero.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "Modulo protezione termica (B)",
+    "Group": "Potenziamento protezione rischi considerevole",
+    "Description": "Un potenziamento considerevole per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta notevolmente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Modulo protezione termica (A)",
+    "Group": "Potenziamento protezione rischi potente",
+    "Description": "Un potenziamento estremamente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Modulo protezione termica (S)",
+    "Group": "Potenziamento protezione rischi supremo",
+    "Description": "Un potenziamento eccezionalmente efficace per il sistema di protezione termica dell'exotuta. Usa FE_ALT1 per iniziare l'installazione del potenziamento.\n\nAumenta drasticamente il periodo di sopravvivenza negli ambienti particolarmente caldi.",
     "Additional": ""
   },
   {

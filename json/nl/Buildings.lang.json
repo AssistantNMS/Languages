@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "Bestrating",
+    "Group": "Constructievoorwerp",
+    "Description": "Bestrating van een slijtvast composiet voor de aanleg van voetpaden en verharde terreinen."
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Raam",
+    "Group": "Constructievoorwerp",
+    "Description": "Een raam dat is gemaakt van zelfreinigend, UV-gehard en hermetisch gesloten glas."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Raam",
+    "Group": "Constructievoorwerp",
+    "Description": "Een raam dat is gemaakt van zelfreinigend, UV-gehard en hermetisch gesloten glas."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Raam",
+    "Group": "Constructievoorwerp",
+    "Description": "Een raam dat is gemaakt van zelfreinigend, UV-gehard en hermetisch gesloten glas."
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "Bouwkundig onderzoeksstation",
+    "Group": "Technologiebergingsapparaat",
+    "Description": "Draagbaar blauwdrukonderzoekapparaat.\n\nMet deze handzame onderzoeksmodule kun je oude of beschadigde technologiemodules omzetten in geavanceerde constructieblauwdrukken."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "Exocraft-oproepstation",
     "Group": "Voertuigverplaatser",
     "Description": "Bouw een oproepstation om waar dan ook op die planeet je exocraft te kunnen oproepen.\n\nToegankelijk via het snelmenu van het exopak."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stoel",
+    "Group": "Meubilair",
+    "Description": "Een comfortabele stoel die geschikt is voor de meeste tweevoetige rassen, die hiermee nauwelijks last krijgen van een stijf achterste."
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stoel",
+    "Group": "Meubilair",
+    "Description": "Een comfortabele stoel die geschikt is voor de meeste tweevoetige rassen, die hiermee nauwelijks last krijgen van een stijf achterste."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stoel",
+    "Group": "Meubilair",
+    "Description": "Een comfortabele stoel die geschikt is voor de meeste tweevoetige rassen, die hiermee nauwelijks last krijgen van een stijf achterste."
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "Bestrating",
+    "Group": "Constructievoorwerp",
+    "Description": "Bestrating van een slijtvast composiet voor de aanleg van voetpaden en verharde terreinen."
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "Bouwkundig onderzoeksstation",
-    "Group": "Technologiebergingsapparaat",
-    "Description": "Draagbaar blauwdrukonderzoekapparaat.\n\nMet deze handzame onderzoeksmodule kun je oude of beschadigde technologiemodules omzetten in geavanceerde constructieblauwdrukken.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "Nomad-garage",
     "Group": "Constructiemodule",
@@ -1325,13 +1312,6 @@
     "Name": "Automatische deur",
     "Group": "Doorlooproute",
     "Description": "Een autonome deur die alleen opengaat als zijn maker in de buurt is.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "Stoel",
-    "Group": "Meubilair",
-    "Description": "Een comfortabele stoel die geschikt is voor de meeste tweevoetige rassen, die hiermee nauwelijks last krijgen van een stijf achterste.",
     "Additional": ""
   },
   {

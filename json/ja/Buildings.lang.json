@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "敷石",
+    "Group": "建設アイテム",
+    "Description": "耐摩耗性の複合材料の敷石。歩道と舗装されたエリアの建設に使用される。"
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窓",
+    "Group": "建設アイテム",
+    "Description": "自動洗浄機能付きでUV対応済みの密封されたガラスで作られた窓。"
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窓",
+    "Group": "建設アイテム",
+    "Description": "自動洗浄機能付きでUV対応済みの密封されたガラスで作られた窓。"
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窓",
+    "Group": "建設アイテム",
+    "Description": "自動洗浄機能付きでUV対応済みの密封されたガラスで作られた窓。"
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "建設調査ユニット",
+    "Group": "テクノロジー回収装置",
+    "Description": "持ち運び可能な設計図解読装置。\n\nこの展開可能なリサーチモジュールを 使用することで、 古いテクノロジーモジュールや 損傷したテクノロジーモジュールを 高度な建設設計図に変換できる。"
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "エクソクラフト召喚ステーション",
     "Group": "車両転送装置",
     "Description": "建設すると所有するエクソクラフトを\n惑星のどこからでも召喚可能になる。\n\nエクソクラフトクイックコマンドメニューで\n簡単に使用できる。"
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "チェア",
+    "Group": "家具",
+    "Description": "ほとんどの2足歩行種族に対応するようデザインされた座り心地の良い椅子。お尻にあたる部分が少ししびれる。"
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "チェア",
+    "Group": "家具",
+    "Description": "ほとんどの2足歩行種族に対応するようデザインされた座り心地の良い椅子。お尻にあたる部分が少ししびれる。"
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "チェア",
+    "Group": "家具",
+    "Description": "ほとんどの2足歩行種族に対応するようデザインされた座り心地の良い椅子。お尻にあたる部分が少ししびれる。"
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "敷石",
+    "Group": "建設アイテム",
+    "Description": "耐摩耗性の複合材料の敷石。歩道と舗装されたエリアの建設に使用される。"
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "建設調査ユニット",
-    "Group": "テクノロジー回収装置",
-    "Description": "持ち運び可能な設計図解読装置。\n\nこの展開可能なリサーチモジュールを 使用することで、 古いテクノロジーモジュールや 損傷したテクノロジーモジュールを 高度な建設設計図に変換できる。",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "ノーマッド・ジオベイ",
     "Group": "建設モジュール",
@@ -1325,13 +1312,6 @@
     "Name": "シャッター",
     "Group": "壁用アクセスルート",
     "Description": "自動のシャッタードア。建設者を感知して開くようにプログラムされている。",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "チェア",
-    "Group": "家具",
-    "Description": "ほとんどの2足歩行種族に対応するようデザインされた座り心地の良い椅子。お尻にあたる部分が少ししびれる。",
     "Additional": ""
   },
   {

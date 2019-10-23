@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "Pavimento",
+    "Group": "Elemento de construcción",
+    "Description": "Compuesto de pavimento resistente para construir pasarelas y zonas pavimentadas."
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Ventana",
+    "Group": "Elemento de construcción",
+    "Description": "Ventana hecha de vidrio autolimpiable, con curado UV y sellado herméticamente."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Ventana",
+    "Group": "Elemento de construcción",
+    "Description": "Ventana hecha de vidrio autolimpiable, con curado UV y sellado herméticamente."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Ventana",
+    "Group": "Elemento de construcción",
+    "Description": "Ventana hecha de vidrio autolimpiable, con curado UV y sellado herméticamente."
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "Unidad de investigación de construcción",
+    "Group": "Dispositivo de recuperación de tecnología",
+    "Description": "Dispositivo de investigación de planos portátil.\n\nEste módulo de investigación desplegable de campo permite al usuario convertir módulos de tecnología antiguos o dañados en planos de construcción avanzados."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "Estación de llamada de exonave",
     "Group": "Dispositivo de translocación de vehículos",
     "Description": "Construcción que permite al usuario llamar a una exonave de su propiedad desde cualquier lugar del planeta.\n\nConectada al menú rápido del exotraje para facilitar su uso."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Silla",
+    "Group": "Mueble",
+    "Description": "Silla cómoda diseñada para que la mayoría de razas bídepas estén a gusto con una simple amortiguación para las posaderas."
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Silla",
+    "Group": "Mueble",
+    "Description": "Silla cómoda diseñada para que la mayoría de razas bídepas estén a gusto con una simple amortiguación para las posaderas."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Silla",
+    "Group": "Mueble",
+    "Description": "Silla cómoda diseñada para que la mayoría de razas bídepas estén a gusto con una simple amortiguación para las posaderas."
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "Pavimento",
+    "Group": "Elemento de construcción",
+    "Description": "Compuesto de pavimento resistente para construir pasarelas y zonas pavimentadas."
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "Unidad de investigación de construcción",
-    "Group": "Dispositivo de recuperación de tecnología",
-    "Description": "Dispositivo de investigación de planos portátil.\n\nEste módulo de investigación desplegable de campo permite al usuario convertir módulos de tecnología antiguos o dañados en planos de construcción avanzados.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "Geobahía para Nómada",
     "Group": "Módulo de construcción",
@@ -1325,13 +1312,6 @@
     "Name": "Puerta seccional",
     "Group": "Puerta de acceso para pared",
     "Description": "Una puerta seccional automática, programada para abrirse en presencia de su constructor.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "Silla",
-    "Group": "Mueble",
-    "Description": "Silla cómoda diseñada para que la mayoría de razas bídepas estén a gusto con una simple amortiguación para las posaderas.",
     "Additional": ""
   },
   {

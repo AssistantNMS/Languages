@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "내열 모듈(B)",
     "Group": "상당 수준의 유해 요소 방호 업그레이드",
-    "Description": "상당한 수준의 엑소슈트 내열 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 상당 수준까지 향상시켜 줍니다.",
+    "Description": "상당한 수준의 엑소슈트 내열 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n영하 환경에서의 생존 시간을 상당 수준까지 향상시켜 줍니다.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "내열 모듈(A)",
     "Group": "강력한 유해 요소 방호 업그레이드",
-    "Description": "극도로 강력한 수준의 엑소슈트 고온 방호 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
+    "Description": "극도로 강력한 수준의 엑소슈트 내열 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n영하 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "내열 모듈(S)",
     "Group": "지극 수준의 유해 요소 방호 업그레이드",
-    "Description": "지극히 강력한 수준의 엑소슈트 고온 방호 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
+    "Description": "지극히 강력한 수준의 엑소슈트 내열 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n영하 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "내열 모듈(B)",
+    "Group": "상당 수준의 유해 요소 방호 업그레이드",
+    "Description": "상당한 수준의 엑소슈트 내열 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 상당 수준까지 향상시켜 줍니다.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "내열 모듈(A)",
+    "Group": "강력한 유해 요소 방호 업그레이드",
+    "Description": "극도로 강력한 수준의 엑소슈트 고온 방호 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "내열 모듈(S)",
+    "Group": "지극 수준의 유해 요소 방호 업그레이드",
+    "Description": "지극히 강력한 수준의 엑소슈트 고온 방호 시스템 업그레이드입니다. FE_ALT1으로 업그레이드 설치 절차를 시작하십시오.\n\n고온 환경에서의 생존 시간을 극적으로 향상시켜 줍니다.",
     "Additional": ""
   },
   {

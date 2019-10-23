@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "Módulo de Proteção Térmica (B)",
     "Group": "Atualização Significativa de Proteção Contra Perigos",
-    "Description": "Uma atualização significativa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta significativamente os tempos de sobrevivência em ambientes de elevada temperatura.",
+    "Description": "Uma atualização significativa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta significativamente os tempos de sobrevivência em ambientes de temperatura negativa.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "Módulo de Proteção Térmica (A)",
     "Group": "Atualização Poderosa de Proteção Contra Perigos",
-    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de elevada temperatura.",
+    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de temperatura negativa.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "Módulo de Proteção Térmica (S)",
     "Group": "Atualização Suprema de Proteção Contra Perigos",
-    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de elevada temperatura.",
+    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de temperatura negativa.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "Módulo de Proteção Térmica (B)",
+    "Group": "Atualização Significativa de Proteção Contra Perigos",
+    "Description": "Uma atualização significativa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta significativamente os tempos de sobrevivência em ambientes de elevada temperatura.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Módulo de Proteção Térmica (A)",
+    "Group": "Atualização Poderosa de Proteção Contra Perigos",
+    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de elevada temperatura.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Módulo de Proteção Térmica (S)",
+    "Group": "Atualização Suprema de Proteção Contra Perigos",
+    "Description": "Uma atualização extremamente poderosa para o Sistema de Proteção Térmica do Exofato. Usa FE_ALT1 para dar início ao processo de instalação da atualização.\n\nAumenta drasticamente os tempos de sobrevivência em ambientes de elevada temperatura.",
     "Additional": ""
   },
   {

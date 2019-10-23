@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "铺砌",
+    "Group": "建造物品",
+    "Description": "耐磨合成物铺砌成建筑的走道及铺筑路面。"
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗户",
+    "Group": "建造物品",
+    "Description": "自动清洗式、经紫外线处理的不透气密封玻璃所制的窗户。"
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗户",
+    "Group": "建造物品",
+    "Description": "自动清洗式、经紫外线处理的不透气密封玻璃所制的窗户。"
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "窗户",
+    "Group": "建造物品",
+    "Description": "自动清洗式、经紫外线处理的不透气密封玻璃所制的窗户。"
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "建筑研究单位",
+    "Group": "技术回收设备",
+    "Description": "便携式设计图研究设备。\n\n该可在野外部署的研究模块允许使用者将旧的或损坏的技术模块转化成高级建造设计图。"
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "强化艇召唤站",
     "Group": "载具迁移设备",
     "Description": "建造召唤站后，用户可从星球上任意地点召唤所拥有的任一艘强化艇。\n\n与套装快速命令菜单接合即可更方便使用。"
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒适的椅子，为双足类种族而设计，臀部只会产生轻微麻木。"
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒适的椅子，为双足类种族而设计，臀部只会产生轻微麻木。"
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "椅子",
+    "Group": "家具",
+    "Description": "舒适的椅子，为双足类种族而设计，臀部只会产生轻微麻木。"
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "铺砌",
+    "Group": "建造物品",
+    "Description": "耐磨合成物铺砌成建筑的走道及铺筑路面。"
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "建筑研究单位",
-    "Group": "技术回收设备",
-    "Description": "便携式设计图研究设备。\n\n该可在野外部署的研究模块允许使用者将旧的或损坏的技术模块转化成高级建造设计图。",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "游牧民泊湾",
     "Group": "建造模块",
@@ -1325,13 +1312,6 @@
     "Name": "卷帘门",
     "Group": "通墙路径",
     "Description": "一种自动卷帘门，被设定为当其构造者在场时就会打开。",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "椅子",
-    "Group": "家具",
-    "Description": "舒适的椅子，为双足类种族而设计，臀部只会产生轻微麻木。",
     "Additional": ""
   },
   {

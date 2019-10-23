@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "Módulo de protección térmica (B)",
     "Group": "Mejora significativa de protección frente a peligros",
-    "Description": "Una mejora significativa para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta significativamente el tiempo de supervivencia en ambientes con altas temperaturas.",
+    "Description": "Una mejora significativa para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta significativamente el tiempo de supervivencia en ambientes bajo cero.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "Módulo de protección térmica (A)",
     "Group": "Mejora potente de protección frente a peligros",
-    "Description": "Una mejora extremadamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes con altas temperaturas.",
+    "Description": "Una mejora extremadamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes bajo cero.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "Módulo de protección térmica (S)",
     "Group": "Mejora suprema de protección frente a peligros",
-    "Description": "Una mejora extraordinariamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes con altas temperaturas.",
+    "Description": "Una mejora extraordinariamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes bajo cero.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "Módulo de protección térmica (B)",
+    "Group": "Mejora significativa de protección frente a peligros",
+    "Description": "Una mejora significativa para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta significativamente el tiempo de supervivencia en ambientes con altas temperaturas.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Módulo de protección térmica (A)",
+    "Group": "Mejora potente de protección frente a peligros",
+    "Description": "Una mejora extremadamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes con altas temperaturas.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Módulo de protección térmica (S)",
+    "Group": "Mejora suprema de protección frente a peligros",
+    "Description": "Una mejora extraordinariamente potente para el sistema de protección térmica del exotraje. Usa FE_ALT1 para comenzar el proceso de instalación de la mejora.\n\nAumenta drásticamente el tiempo de supervivencia en ambientes con altas temperaturas.",
     "Additional": ""
   },
   {

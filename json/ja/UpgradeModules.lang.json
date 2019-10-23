@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "熱防御モジュール (B)",
     "Group": "中級危険防御システムアップグレード",
-    "Description": "エクソスーツ熱防御システム用の\n中級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n大幅に延長させる。",
+    "Description": "エクソスーツ熱防御システム用の\n中級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n零下地域での活動可能時間を\n大幅に延長させる。",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "熱防御モジュール (A)",
     "Group": "上級危険防御システムアップグレード",
-    "Description": "エクソスーツ熱防御システム用の\n上級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n劇的に延長させる。",
+    "Description": "エクソスーツ熱防御システム用の\n上級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n零下地域での活動可能時間を\n劇的に延長させる。",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "熱防御モジュール (S)",
     "Group": "最上級危険防御システムアップグレード",
-    "Description": "エクソスーツ熱防御システム用の\n最上級アップグレード。アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n劇的に延長させる。",
+    "Description": "エクソスーツ熱防御システム用の\n最上級アップグレード。アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n零下地域での活動可能時間を\n劇的に延長させる。",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "熱防御モジュール (B)",
+    "Group": "中級危険防御システムアップグレード",
+    "Description": "エクソスーツ熱防御システム用の\n中級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n大幅に延長させる。",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "熱防御モジュール (A)",
+    "Group": "上級危険防御システムアップグレード",
+    "Description": "エクソスーツ熱防御システム用の\n上級アップグレード。 アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n劇的に延長させる。",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "熱防御モジュール (S)",
+    "Group": "最上級危険防御システムアップグレード",
+    "Description": "エクソスーツ熱防御システム用の\n最上級アップグレード。アップグレードの\nインストールを開始するにはFE_ALT1を押す。\n\n高温地域での活動可能時間を\n劇的に延長させる。",
     "Additional": ""
   },
   {

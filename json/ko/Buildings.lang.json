@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "포장",
+    "Group": "건설 아이템",
+    "Description": "보행로와 포장 도로 건설에 사용하는 견고한 합성 포장재."
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "창문",
+    "Group": "건설 아이템",
+    "Description": "자가세척, UV 코팅 기능을 갖춘 밀폐형 유리로 만든 창문."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "창문",
+    "Group": "건설 아이템",
+    "Description": "자가세척, UV 코팅 기능을 갖춘 밀폐형 유리로 만든 창문."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "창문",
+    "Group": "건설 아이템",
+    "Description": "자가세척, UV 코팅 기능을 갖춘 밀폐형 유리로 만든 창문."
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "건축 연구 유닛",
+    "Group": "기술 회수 장치",
+    "Description": "휴대용 설계도 연구 장치입니다.\n\n이 현장 배치 가능한 메모리 구조 모듈은 사용자가 낡거나 파손된 기술 모듈을 고급 건설 설계도로 변환할 수 있게 해줍니다."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "엑소크래프트 소환기지국",
     "Group": "차량 위치 이동 장치",
     "Description": "사용자가 소유하고 있는 엑소크래프트를 해당 행성의 어디에서나 소환할 수 있도록 만들어 주는 건축물입니다.\n\n편의를 위해 엑소슈트의 빠른 명령 메뉴와 연동되어 있습니다."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "의자",
+    "Group": "가구",
+    "Description": "대부분의 이족보행 종족에게 적합하게 설계한 편안한 의자로, 둔부의 피로가 미약합니다."
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "의자",
+    "Group": "가구",
+    "Description": "대부분의 이족보행 종족에게 적합하게 설계한 편안한 의자로, 둔부의 피로가 미약합니다."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "의자",
+    "Group": "가구",
+    "Description": "대부분의 이족보행 종족에게 적합하게 설계한 편안한 의자로, 둔부의 피로가 미약합니다."
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "포장",
+    "Group": "건설 아이템",
+    "Description": "보행로와 포장 도로 건설에 사용하는 견고한 합성 포장재."
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "건축 연구 유닛",
-    "Group": "기술 회수 장치",
-    "Description": "휴대용 설계도 연구 장치입니다.\n\n이 현장 배치 가능한 메모리 구조 모듈은 사용자가 낡거나 파손된 기술 모듈을 고급 건설 설계도로 변환할 수 있게 해줍니다.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "노매드 지오베이",
     "Group": "건설 모듈",
@@ -1325,13 +1312,6 @@
     "Name": "셔터문",
     "Group": "벽 접근로",
     "Description": "건설자가 접근 시 열리도록 프로그램되어 있는 자동화된 셔터문입니다.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "의자",
-    "Group": "가구",
-    "Description": "대부분의 이족보행 종족에게 적합하게 설계한 편안한 의자로, 둔부의 피로가 미약합니다.",
     "Additional": ""
   },
   {

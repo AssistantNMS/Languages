@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "Pflasterung",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Strapazierfähiger Kompositwerkstoff zur Konstruktion von Gehwegen und gepflasterten Bereichen."
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Fenster",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein Fenster aus selbstreinigendem, UV-behandelten, hermetisch versiegelten Glas."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Fenster",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein Fenster aus selbstreinigendem, UV-behandelten, hermetisch versiegelten Glas."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Fenster",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Ein Fenster aus selbstreinigendem, UV-behandelten, hermetisch versiegelten Glas."
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "Konstruktionsforschungsstation",
+    "Group": "Technologiewiederherstellungsgerät",
+    "Description": "Tragbares Bauplanforschungsgerät.\n\nDieses überall einsetzbare Forschungsmodul lässt den Benutzer alte oder beschädigte Technologiemodule in fortgeschrittene Konstruktionsbaupläne umwandeln."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "Exo-Fahrzeug-Rufstation",
     "Group": "Fahrzeug-Versetzungsgerät",
     "Description": "Nach Konstruktion kann der Nutzer jedes Exo-Fahrzeug in seinem Besitz von überallher auf dem Planeten rufen.\n\nVerbindet sich mit dem Exo-Anzug-Schnellbefehlsmenü für eine einfachere Bedienung."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stuhl",
+    "Group": "Möbel",
+    "Description": "Ein bequemer Stuhl, geeignet für die meisten Zweibeiner. Führt lediglich zu geringem Gefühlsverlust im Hinterteil."
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stuhl",
+    "Group": "Möbel",
+    "Description": "Ein bequemer Stuhl, geeignet für die meisten Zweibeiner. Führt lediglich zu geringem Gefühlsverlust im Hinterteil."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Stuhl",
+    "Group": "Möbel",
+    "Description": "Ein bequemer Stuhl, geeignet für die meisten Zweibeiner. Führt lediglich zu geringem Gefühlsverlust im Hinterteil."
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "Pflasterung",
+    "Group": "Konstruktionsgegenstand",
+    "Description": "Strapazierfähiger Kompositwerkstoff zur Konstruktion von Gehwegen und gepflasterten Bereichen."
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "Konstruktionsforschungsstation",
-    "Group": "Technologiewiederherstellungsgerät",
-    "Description": "Tragbares Bauplanforschungsgerät.\n\nDieses überall einsetzbare Forschungsmodul lässt den Benutzer alte oder beschädigte Technologiemodule in fortgeschrittene Konstruktionsbaupläne umwandeln.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "Nomaden-Geobucht",
     "Group": "Konstruktionsmodul",
@@ -1325,13 +1312,6 @@
     "Name": "Rolltor",
     "Group": "Wandzugang",
     "Description": "Ein automatisiertes Rolltor, das darauf programmiert wurde, sich in Anwesenheit seines Erbauers zu öffnen.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "Stuhl",
-    "Group": "Möbel",
-    "Description": "Ein bequemer Stuhl, geeignet für die meisten Zweibeiner. Führt lediglich zu geringem Gefühlsverlust im Hinterteil.",
     "Additional": ""
   },
   {

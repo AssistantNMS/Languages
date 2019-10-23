@@ -365,42 +365,42 @@
   },
   {
     "Id": "upgrade53",
-    "Name": "Thermal Protection Module (B)",
+    "Name": "Thermal Cold Protection Module (B)",
     "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in sub-zero environments.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
-    "Name": "Thermal Protection Module (A)",
+    "Name": "Thermal Cold Protection Module (A)",
     "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Description": "An extremely powerful upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in sub-zero environments.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
-    "Name": "Thermal Protection Module (S)",
+    "Name": "Thermal Cold Protection Module (S)",
     "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Description": "A supremely powerful upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in sub-zero environments.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
+    "Name": "Thermal Heat Protection Module (B)",
     "Group": "Significant Hazard Protection Upgrade",
     "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
+    "Name": "Thermal Heat Protection Module (A)",
     "Group": "Powerful Hazard Protection Upgrade",
     "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
+    "Name": "Thermal Heat Protection Module (S)",
     "Group": "Supreme Hazard Protection Upgrade",
     "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
     "Additional": ""

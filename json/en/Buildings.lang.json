@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
+    "Name": "Paving (Tall)",
     "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
   },
   {
     "Id": "build87",
@@ -571,19 +571,19 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
+    "Name": "Window (Small)",
     "Group": "Construction item",
     "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
+    "Name": "Window (Oval)",
     "Group": "Construction item",
     "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
+    "Name": "Window (Cube)",
     "Group": "Construction item",
     "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
   },
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
+    "Name": "Construction Research Unit",
     "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Description": "Portable blueprint research device.\n\nThis field-deployable research module allows the user to convert old or damage technology modules into advanced construction blueprints."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "Exocraft Summoning Station",
     "Group": "Vehicle Translocation Device",
     "Description": "Construction allows the user to summon any owned Exocraft from anywhere else on that planet.\n\nInterfaces with the Exosuit Quick Command Menu to ease of use."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -897,13 +891,15 @@
     "Id": "build148",
     "Name": "Storage Container",
     "Group": "Storage unit",
-    "Description": "Spacious additional storage for inventory items."
+    "Description": "Spacious additional storage for inventory items.",
+    "Additional": "There are 10 different storage units, numbered 0-9, each only hold 5 slots. Their inventory is shared between the freighter and each base."
   },
   {
     "Id": "build149",
     "Name": "Freighter Storage Unit",
     "Group": "Custom Freighter Module",
-    "Description": "Hybrid high-capacity storage unit / shelving module for installation in interstellar freighters.\n\nCompatible with all standard life-support fittings."
+    "Description": "Hybrid high-capacity storage unit / shelving module for installation in interstellar freighters.\n\nCompatible with all standard life-support fittings.",
+    "Additional": "There are 10 different storage units, numbered 0-9, each only hold 5 slots. Their inventory is shared between the freighter and each base."
   },
   {
     "Id": "build150",
@@ -931,13 +927,13 @@
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
+    "Name": "Chair (Variant 2)",
     "Group": "Furniture",
     "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
+    "Name": "Chair (Variant 3)",
     "Group": "Furniture",
     "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
   },
@@ -967,7 +963,7 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
+    "Name": "Paving (Big)",
     "Group": "Construction item",
     "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
   },
@@ -1258,13 +1254,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "Construction Research Unit",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint research device.\n\nThis field-deployable research module allows the user to convert old or damage technology modules into advanced construction blueprints.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "Nomad Geobay",
     "Group": "Construction module",
@@ -1325,13 +1314,6 @@
     "Name": "Shutter Door",
     "Group": "Wall Access Route",
     "Description": "An autonomous shutter door, programmed to open in the presence of its constructor.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "Chair",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior.",
     "Additional": ""
   },
   {

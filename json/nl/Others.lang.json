@@ -1,11 +1,5 @@
 [
   {
-    "Id": "other1",
-    "Name": "Nanite Cluster",
-    "Group": "Technological Currency",
-    "Description": "A dense miasma of Nanites, undulating in its potentiality. These clusters are stable, but unrestricted nanite foam can produce undesirable runaway reactions in the presence of organic matter.\nUsed in the construction of advanced technologies. Highly valuable to specialist traders."
-  },
-  {
     "Id": "other2",
     "Name": "Planetaire kaart",
     "Group": "Cartografische gegevens",

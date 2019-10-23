@@ -511,9 +511,9 @@
   },
   {
     "Id": "build86",
-    "Name": "Climb Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with reinforced anchor points for attaching to walls."
+    "Name": "Дорожное покрытие",
+    "Group": "Строительный элемент",
+    "Description": "Износостойкое покрытие для создания тротуаров и дорог."
   },
   {
     "Id": "build87",
@@ -571,21 +571,21 @@
   },
   {
     "Id": "build96",
-    "Name": "Window (small)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Окно",
+    "Group": "Строительный элемент",
+    "Description": "Герметичное окно из самоочищающегося стекла с ультрафиолетовой обработкой."
   },
   {
     "Id": "build97",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Окно",
+    "Group": "Строительный элемент",
+    "Description": "Герметичное окно из самоочищающегося стекла с ультрафиолетовой обработкой."
   },
   {
     "Id": "build98",
-    "Name": "Window (oval)",
-    "Group": "Construction item",
-    "Description": "A window made from self-cleaning, UV-treated, hermetically sealed glass."
+    "Name": "Окно",
+    "Group": "Строительный элемент",
+    "Description": "Герметичное окно из самоочищающегося стекла с ультрафиолетовой обработкой."
   },
   {
     "Id": "build99",
@@ -733,9 +733,9 @@
   },
   {
     "Id": "build123",
-    "Name": "Blueprint Analyser",
-    "Group": "Technology Recovery Device",
-    "Description": "Portable blueprint decryption device.\nThis field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules."
+    "Name": "Модуль строительных исследований",
+    "Group": "Устройство сбора технологий",
+    "Description": "Переносное устройство изучения чертежей.\n\nЭтот полевой исследовательский модуль способен преобразовать старые или поврежденные технологические модули в продвинутые строительные чертежи."
   },
   {
     "Id": "build124",
@@ -748,12 +748,6 @@
     "Name": "Станция вызова вездехода",
     "Group": "Устройство перемещения техники",
     "Description": "Строение позволяет вызывать любой вездеход игрока из любой точки этой планеты.\n\nДля облегчения использования подключается к быстрому меню экзокостюма."
-  },
-  {
-    "Id": "build126",
-    "Name": "Geobay",
-    "Group": "Exocraft",
-    "Description": "Nomad\nAn underground secure parking facility for the Nomad light Exocraft.Pilgrim\nAn underground secure parking facility for the Pilgrim light Exocraft.Roamer\nAn underground secure parking facility for the Roamer medium Exocraft.Colossus\nAn underground secure parking facility for the Colossus large Exocraft."
   },
   {
     "Id": "build127",
@@ -925,21 +919,21 @@
   },
   {
     "Id": "build153",
-    "Name": "Chair (Variant 1)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Стул",
+    "Group": "Мебель",
+    "Description": "Удобный стул, подходящий практически всем двуногим расам; вызывает лишь умеренное онемение нижней части спины."
   },
   {
     "Id": "build154",
-    "Name": "Chair (variant 2)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Стул",
+    "Group": "Мебель",
+    "Description": "Удобный стул, подходящий практически всем двуногим расам; вызывает лишь умеренное онемение нижней части спины."
   },
   {
     "Id": "build155",
-    "Name": "Chair (variant 3)",
-    "Group": "Furniture",
-    "Description": "A comfortable chair designed to accommodate most bipedal races, with only mild numbing of the posterior."
+    "Name": "Стул",
+    "Group": "Мебель",
+    "Description": "Удобный стул, подходящий практически всем двуногим расам; вызывает лишь умеренное онемение нижней части спины."
   },
   {
     "Id": "build156",
@@ -967,9 +961,9 @@
   },
   {
     "Id": "build160",
-    "Name": "Paving (tall)",
-    "Group": "Construction item",
-    "Description": "Hard-wearing composite paving for the construction of walkways and paved areas."
+    "Name": "Дорожное покрытие",
+    "Group": "Строительный элемент",
+    "Description": "Износостойкое покрытие для создания тротуаров и дорог."
   },
   {
     "Id": "build161",
@@ -1258,13 +1252,6 @@
     "Additional": ""
   },
   {
-    "Id": "build208",
-    "Name": "Модуль строительных исследований",
-    "Group": "Устройство сбора технологий",
-    "Description": "Переносное устройство изучения чертежей.\n\nЭтот полевой исследовательский модуль способен преобразовать старые или поврежденные технологические модули в продвинутые строительные чертежи.",
-    "Additional": ""
-  },
-  {
     "Id": "build209",
     "Name": "Геостанция «Кочевника»",
     "Group": "Строительный модуль",
@@ -1325,13 +1312,6 @@
     "Name": "Дверь-жалюзи",
     "Group": "Проход в стене",
     "Description": "Автоматическая дверь-жалюзи, запрограммированная открываться в присутствии своего создателя.",
-    "Additional": ""
-  },
-  {
-    "Id": "build218",
-    "Name": "Стул",
-    "Group": "Мебель",
-    "Description": "Удобный стул, подходящий практически всем двуногим расам; вызывает лишь умеренное онемение нижней части спины.",
     "Additional": ""
   },
   {

@@ -367,42 +367,42 @@
     "Id": "upgrade53",
     "Name": "Wärmeschutz-Modul (B)",
     "Group": "Signifikantes Gefahrenschutz-Upgrade",
-    "Description": "Ein signifikantes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen signifikant.",
+    "Description": "Ein signifikantes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei Temperaturen unter dem Nullpunkt signifikant.",
     "Additional": ""
   },
   {
     "Id": "upgrade54",
     "Name": "Wärmeschutz-Modul (A)",
     "Group": "Leistungsstarkes Gefahrenschutz-Upgrade",
-    "Description": "Ein extrem leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei Temperaturen unter dem Nullpunkt drastisch.",
     "Additional": ""
   },
   {
     "Id": "upgrade55",
     "Name": "Wärmeschutz-Modul (S)",
     "Group": "Überlegenes Gefahrenschutz-Upgrade",
-    "Description": "Ein äußerst leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei Temperaturen unter dem Nullpunkt drastisch.",
     "Additional": ""
   },
   {
     "Id": "upgrade56",
-    "Name": "Thermal Protection Module (B)",
-    "Group": "Significant Hazard Protection Upgrade",
-    "Description": "A significant upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nSignificantly improves survival times in high-temperature environments.",
+    "Name": "Wärmeschutz-Modul (B)",
+    "Group": "Signifikantes Gefahrenschutz-Upgrade",
+    "Description": "Ein signifikantes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen signifikant.",
     "Additional": ""
   },
   {
     "Id": "upgrade57",
-    "Name": "Thermal Protection Module (A)",
-    "Group": "Powerful Hazard Protection Upgrade",
-    "Description": "An extremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Wärmeschutz-Modul (A)",
+    "Group": "Leistungsstarkes Gefahrenschutz-Upgrade",
+    "Description": "Ein extrem leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
     "Additional": ""
   },
   {
     "Id": "upgrade58",
-    "Name": "Thermal Protection Module (S)",
-    "Group": "Supreme Hazard Protection Upgrade",
-    "Description": "A supremely powerful upgrade upgrade for the Exosuit Thermal Protection System. Use FE_ALT1 to begin upgrade installation process.\n\nDrastically improves survival times in high-temperature environments.",
+    "Name": "Wärmeschutz-Modul (S)",
+    "Group": "Überlegenes Gefahrenschutz-Upgrade",
+    "Description": "Ein äußerst leistungsstarkes Upgrade für das Wärmeschutz-System des Exo-Anzugs. Starte den Upgrade-Installationsprozess mit FE_ALT1.\n\nVerbessert die Überlebenszeit bei hohen Temperaturen drastisch.",
     "Additional": ""
   },
   {
