@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Tablica Vy'keenów",
     "Group": "Zjednoczenie Hirku",
-    "Description": "Kamienna tablica zapisana misternymi runami. Słowa w obcym dialekcie, który pamiętają jedynie najstarsi Vy'keeni, są niezrozumiałe.\n\nIstota, która wykuła te słowa, musiała być niezwykła. Linie są precyzyjne i subtelne, choć idealnie oddają agresję, którą artysta bez wątpienia posiadał.",
-    "Additional": ""
+    "Description": "Kamienna tablica zapisana misternymi runami. Słowa w obcym dialekcie, który pamiętają jedynie najstarsi Vy'keeni, są niezrozumiałe.\n\nIstota, która wykuła te słowa, musiała być niezwykła. Linie są precyzyjne i subtelne, choć idealnie oddają agresję, którą artysta bez wątpienia posiadał."
   },
   {
     "Id": "cur34",
     "Name": "Sześcian dywergencji",
     "Group": "Anomalna jednostka danych",
-    "Description": "Uszkodzona, pulsująca jednostka danych. Wygląda, jakby nie pochodziła z tego świata.\n\nSześcian wydaje się emanować bezgłośnym wrzaskiem setek zaginionych umysłów, które zostały uwięzione w jego wnętrzu.",
-    "Additional": ""
+    "Description": "Uszkodzona, pulsująca jednostka danych. Wygląda, jakby nie pochodziła z tego świata.\n\nSześcian wydaje się emanować bezgłośnym wrzaskiem setek zaginionych umysłów, które zostały uwięzione w jego wnętrzu."
   },
   {
     "Id": "cur35",
     "Name": "Artefakt Geków",
     "Group": "Ciekawostka o średniej wartości",
-    "Description": "Metalowa statuetka stwora z monetą na dziobie.\n\nPopularna wśród handlowców, którzy uważają ją za znak uczciwości i pokoju.",
-    "Additional": ""
+    "Description": "Metalowa statuetka stwora z monetą na dziobie.\n\nPopularna wśród handlowców, którzy uważają ją za znak uczciwości i pokoju."
   },
   {
     "Id": "cur36",
     "Name": "GekoMiętka",
     "Group": "Towar handlowy",
-    "Description": "Produkt jadalny, uwielbiany przez Geków. \n\nZażycie umożliwia długotrwałe wydzielanie gazów o niezwykle przyjemnym zapachu. \n\nWyziewy gazów gekomiętkowych uznawane są za dzieła sztuki i prawdziwy wyraz geckiego ducha.",
-    "Additional": ""
+    "Description": "Produkt jadalny, uwielbiany przez Geków. \n\nZażycie umożliwia długotrwałe wydzielanie gazów o niezwykle przyjemnym zapachu. \n\nWyziewy gazów gekomiętkowych uznawane są za dzieła sztuki i prawdziwy wyraz geckiego ducha."
   },
   {
     "Id": "cur37",
     "Name": "Vy'keeńska ikona",
     "Group": "Ciekawostka o średniej wartości",
-    "Description": "Niewielka drewniana ikona, wycięta w kształt drona Strażników.\n\nUżywana przez wojowników do wprowadzania się w czasowy trans, który zastępuje im sen.",
-    "Additional": ""
+    "Description": "Niewielka drewniana ikona, wycięta w kształt drona Strażników.\n\nUżywana przez wojowników do wprowadzania się w czasowy trans, który zastępuje im sen."
   },
   {
     "Id": "cur38",
     "Name": "Sztylet Vy'Keenów",
     "Group": "Towar handlowy",
-    "Description": "Broń głównie rytualna, ważna część vy'keeńskiej tradycji i kultury.",
-    "Additional": ""
+    "Description": "Broń głównie rytualna, ważna część vy'keeńskiej tradycji i kultury."
   },
   {
     "Id": "cur39",
     "Name": "Powłoka Korvaxów",
     "Group": "Ciekawostka o dużej wartości",
-    "Description": "Metalowa powłoka odłączonej elektronicznej formy życia, która oddaliła się za daleko od bazy, aby można było w niej zainstalować nową istotę.\n\nBardzo ceniona przez wszystkie gatunki, nie tylko swój własny.",
-    "Additional": ""
+    "Description": "Metalowa powłoka odłączonej elektronicznej formy życia, która oddaliła się za daleko od bazy, aby można było w niej zainstalować nową istotę.\n\nBardzo ceniona przez wszystkie gatunki, nie tylko swój własny."
   },
   {
     "Id": "cur40",
     "Name": "Sześcian Konwergencji",
     "Group": "Towar handlowy",
-    "Description": "Urządzenie używane przez Korvaxów do składowania wiedzy kulturalnej i informacyjnej.",
-    "Additional": ""
+    "Description": "Urządzenie używane przez Korvaxów do składowania wiedzy kulturalnej i informacyjnej."
   },
   {
     "Id": "cur41",

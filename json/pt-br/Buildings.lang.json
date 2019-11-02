@@ -765,85 +765,73 @@
     "Id": "build129",
     "Name": "Erva daninha gama",
     "Group": "Semente plantável",
-    "Description": "Uma planta luminosa, folhosa e florescente que prospera em biomas radioativos e pode ser cultivada, gerando uma colheita abundante.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima está radioativo antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 4 horas",
-    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+    "Description": "Uma planta luminosa, folhosa e florescente que prospera em biomas radioativos e pode ser cultivada, gerando uma colheita abundante.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima está radioativo antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 4 horas"
   },
   {
     "Id": "build130",
     "Name": "Aglomerado de fungos",
     "Group": "Semente plantável",
-    "Description": "Um fungo esférico com lamelas internas encontrado apenas em biomas tóxicos. Os aglomerados de fungos podem ser transplantados para cultivo e rendem uma colheita generosa.\n\nÉ adequado para plantação hidropônica em ambientes internos. Certifique-se de que o clima é tóxico antes de cultivá-lo ao ar livre.\n\nTempo de crescimento aproximado: 4 horas",
-    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+    "Description": "Um fungo esférico com lamelas internas encontrado apenas em biomas tóxicos. Os aglomerados de fungos podem ser transplantados para cultivo e rendem uma colheita generosa.\n\nÉ adequado para plantação hidropônica em ambientes internos. Certifique-se de que o clima é tóxico antes de cultivá-lo ao ar livre.\n\nTempo de crescimento aproximado: 4 horas"
   },
   {
     "Id": "build131",
     "Name": "Planta gelada",
     "Group": "Semente plantável",
-    "Description": "Uma flor de cristal grande com pétalas azuis radiantes encontrada apenas em biomas de neve. A planta gelada pode ser cultivada e gera uma colheita certa. Sua capacidade de adaptação a condições rigorosas resulta em colheitas muito frequentes.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima está congelado antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 1 hora",
-    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+    "Description": "Uma flor de cristal grande com pétalas azuis radiantes encontrada apenas em biomas de neve. A planta gelada pode ser cultivada e gera uma colheita certa. Sua capacidade de adaptação a condições rigorosas resulta em colheitas muito frequentes.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima está congelado antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 1 hora"
   },
   {
     "Id": "build132",
     "Name": "Ouriço venenoso",
     "Group": "Semente plantável",
-    "Description": "Uma planta pequena de aparência inofensiva cujas folhas secretam periodicamente uma pequena quantidade de veneno, que é uma mercadoria valiosa.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 3 horas e 20 minutos",
-    "Additional": "1 Sac Venom in roughly 3 hours 20 minutes of real time"
+    "Description": "Uma planta pequena de aparência inofensiva cujas folhas secretam periodicamente uma pequena quantidade de veneno, que é uma mercadoria valiosa.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 3 horas e 20 minutos"
   },
   {
     "Id": "build133",
     "Name": "Videira solar",
     "Group": "Semente plantável",
-    "Description": "Esta 'rocha viva' adaptou-se para resistir ao calor extremo de biomas áridos. No entanto, ela pode ser cultivada na maioria dos ambientes e, após se estabelecer, gera uma colheita moderada.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima é quente antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 16 horas",
-    "Additional": "78 Solanium in roughly 16 hours of real time"
+    "Description": "Esta 'rocha viva' adaptou-se para resistir ao calor extremo de biomas áridos. No entanto, ela pode ser cultivada na maioria dos ambientes e, após se estabelecer, gera uma colheita moderada.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima é quente antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 16 horas"
   },
   {
     "Id": "build134",
     "Name": "Desagradávia",
     "Group": "Semente plantável",
-    "Description": "Uma flor cultivável e de odor desagradável que reproduz a estrutura química das fezes. Quando plantada em ambientes internos, gera uma colheita de faécio.\n\nUma boa alternativa à coleta manual de faécio, que requer alimentar criaturas e, em seguida, colher seus excrementos. As desagradávias devem ser cultivadas em uma bandeja hidropônica.\n\nTempo de crescimento aproximado: 4 horas",
-    "Additional": "39 Faecium in roughly 4 hours of real time"
+    "Description": "Uma flor cultivável e de odor desagradável que reproduz a estrutura química das fezes. Quando plantada em ambientes internos, gera uma colheita de faécio.\n\nUma boa alternativa à coleta manual de faécio, que requer alimentar criaturas e, em seguida, colher seus excrementos. As desagradávias devem ser cultivadas em uma bandeja hidropônica.\n\nTempo de crescimento aproximado: 4 horas"
   },
   {
     "Id": "build135",
     "Name": "Hospedeira de gravitino",
     "Group": "Semente plantável",
-    "Description": "Uma planta estranha e potencialmente parasita que gera uma colheita ocasional de uma mercadoria altamente comercializável, a esfera de gravitino.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 2 horas",
-    "Additional": "1 Gravitino Ball in roughly 2 hours of real time"
+    "Description": "Uma planta estranha e potencialmente parasita que gera uma colheita ocasional de uma mercadoria altamente comercializável, a esfera de gravitino.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 2 horas"
   },
   {
     "Id": "build136",
     "Name": "Raiz de mordita",
     "Group": "Semente plantável",
-    "Description": "Um tubérculo não comestível que produz uma quantidade pequena de cristais de mordita.\n\nUma alternativa pacífica ao processo de coletar mordita dos cadáveres de criaturas. A raiz de mordita deve ser cultivada em uma bandeja hidropônica.\n\nTempo de crescimento aproximado: 8 horas",
-    "Additional": "39 Mordite in roughly 8 hours of real time"
+    "Description": "Um tubérculo não comestível que produz uma quantidade pequena de cristais de mordita.\n\nUma alternativa pacífica ao processo de coletar mordita dos cadáveres de criaturas. A raiz de mordita deve ser cultivada em uma bandeja hidropônica.\n\nTempo de crescimento aproximado: 8 horas"
   },
   {
     "Id": "build137",
     "Name": "Cacto espinhudo",
     "Group": "Semente plantável",
-    "Description": "Nativa de biomas estéreis e capaz de suportar longos períodos de seca, o cacto espinhudo é uma suculenta comestível que responde bem ao cultivo, rendendo uma colheita grande, mas ocasional.\n\nÉ adequado para plantação hidropônica em ambientes internos. Certifique-se de que o clima é estéril antes de cultivá-lo ao ar livre.\n\nTempo de crescimento aproximado: 16 horas",
-    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+    "Description": "Nativa de biomas estéreis e capaz de suportar longos períodos de seca, o cacto espinhudo é uma suculenta comestível que responde bem ao cultivo, rendendo uma colheita grande, mas ocasional.\n\nÉ adequado para plantação hidropônica em ambientes internos. Certifique-se de que o clima é estéril antes de cultivá-lo ao ar livre.\n\nTempo de crescimento aproximado: 16 horas"
   },
   {
     "Id": "build138",
     "Name": "Espinheiro estelar",
     "Group": "Semente plantável",
-    "Description": "Uma planta média cultivável que gera uma colheita ocasional de bulbos estelares valiosos.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima é rico antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 4 horas",
-    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+    "Description": "Uma planta média cultivável que gera uma colheita ocasional de bulbos estelares valiosos.\n\nÉ adequada para plantação hidropônica em ambientes internos. Certifique-se de que o clima é rico antes de cultivá-la ao ar livre.\n\nTempo de crescimento aproximado: 4 horas"
   },
   {
     "Id": "build139",
     "Name": "Orbe perolado de albumina",
     "Group": "Planta com orbe",
-    "Description": "Um orbe cristalino médio cultivável que gera uma colheita ocasional de pérolas de albumina valiosas.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 80 mins",
-    "Additional": "1 Albumen Pearl in roughly 2 hours of real time"
+    "Description": "Um orbe cristalino médio cultivável que gera uma colheita ocasional de pérolas de albumina valiosas.\n\nÉ adequada para plantação hidropônica em ambientes internos. Não pode ser cultivada ao ar livre.\n\nTempo de crescimento aproximado: 80 mins"
   },
   {
     "Id": "build140",
     "Name": "NipNip",
     "Group": "Semente plantável",
-    "Description": "Esta erva medicinal é conhecida por seus botões de flor aromáticos que são colhidos para fazer o geknip. A NipNip cresce em ambientes úmidos, e muitas vezes se torna uma erva daninha.\n\nÉ adequada para plantação hidropônica em ambientes internos. Precisa de um clima tropical ou úmido para ser plantada ao ar livre.",
-    "Additional": "1 NipNip Buds in roughly 4 hours of real time"
+    "Description": "Esta erva medicinal é conhecida por seus botões de flor aromáticos que são colhidos para fazer o geknip. A NipNip cresce em ambientes úmidos, e muitas vezes se torna uma erva daninha.\n\nÉ adequada para plantação hidropônica em ambientes internos. Precisa de um clima tropical ou úmido para ser plantada ao ar livre."
   },
   {
     "Id": "build141",
@@ -1227,917 +1215,786 @@
     "Id": "build204",
     "Name": "4 esteios de fundação",
     "Group": "Item de construção",
-    "Description": "Um conjunto pré-fabricado de quatro pernas para construções elevadas.",
-    "Additional": ""
+    "Description": "Um conjunto pré-fabricado de quatro pernas para construções elevadas."
   },
   {
     "Id": "build205",
     "Name": "Esteio de fundação",
     "Group": "Item de construção",
-    "Description": "Uma perna de sustentação metálica, não ferrosa e reforçada para construções elevadas.",
-    "Additional": ""
+    "Description": "Uma perna de sustentação metálica, não ferrosa e reforçada para construções elevadas."
   },
   {
     "Id": "build206",
     "Name": "Cobertura de telhado cuboide",
     "Group": "Módulo de construção",
-    "Description": "Uma cobertura cuboide para decorar e reforçar os telhados de estruturas cuboides.",
-    "Additional": ""
+    "Description": "Uma cobertura cuboide para decorar e reforçar os telhados de estruturas cuboides."
   },
   {
     "Id": "build207",
     "Name": "Holoporta",
     "Group": "Módulo de construção",
-    "Description": "Uma elegante porta holográfica que permite acesso rápido a qualquer estrutura, regulando a temperatura e toxicidade do ambiente interno.",
-    "Additional": ""
+    "Description": "Uma elegante porta holográfica que permite acesso rápido a qualquer estrutura, regulando a temperatura e toxicidade do ambiente interno."
   },
   {
     "Id": "build209",
     "Name": "Geocompartimento do Nômade",
     "Group": "Módulo de construção",
-    "Description": "Um estacionamento subterrâneo seguro para o exoveículo leve Nômade.",
-    "Additional": ""
+    "Description": "Um estacionamento subterrâneo seguro para o exoveículo leve Nômade."
   },
   {
     "Id": "build210",
     "Name": "Geocompartimento do Andarilho",
     "Group": "Módulo de construção",
-    "Description": "Um estacionamento subterrâneo seguro para o exoveículo médio Andarilho.",
-    "Additional": ""
+    "Description": "Um estacionamento subterrâneo seguro para o exoveículo médio Andarilho."
   },
   {
     "Id": "build211",
     "Name": "Geocompartimento do Colossus",
     "Group": "Módulo de construção",
-    "Description": "Um estacionamento subterrâneo seguro para o exoveículo grande Colossus.",
-    "Additional": ""
+    "Description": "Um estacionamento subterrâneo seguro para o exoveículo grande Colossus."
   },
   {
     "Id": "build212",
     "Name": "Geocompartimento do Peregrino",
     "Group": "Módulo de construção",
-    "Description": "Instalação subterrânea de estacionamento seguro para o Exoveículo leve Peregrino.",
-    "Additional": ""
+    "Description": "Instalação subterrânea de estacionamento seguro para o Exoveículo leve Peregrino."
   },
   {
     "Id": "build213",
     "Name": "Luz colorida",
     "Group": "Decoração",
-    "Description": "Uma luz colorida para iluminar a base do usuário.",
-    "Additional": ""
+    "Description": "Uma luz colorida para iluminar a base do usuário."
   },
   {
     "Id": "build214",
     "Name": "Luz de teto",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build215",
     "Name": "Escada",
     "Group": "Item de construção",
-    "Description": "Uma escada leve e resistente com pontos de fixação reforçados para ser presa a paredes.",
-    "Additional": ""
+    "Description": "Uma escada leve e resistente com pontos de fixação reforçados para ser presa a paredes."
   },
   {
     "Id": "build216",
     "Name": "Escada de cômodo cuboide",
     "Group": "Item de construção",
-    "Description": "Uma escada leve e resistente com partes feitas para cômodos cuboides.",
-    "Additional": ""
+    "Description": "Uma escada leve e resistente com partes feitas para cômodos cuboides."
   },
   {
     "Id": "build217",
     "Name": "Porta seccionada",
     "Group": "Acesso de parede",
-    "Description": "Uma porta seccionada automática e programada para abrir na presença de seu construtor.",
-    "Additional": ""
+    "Description": "Uma porta seccionada automática e programada para abrir na presença de seu construtor."
   },
   {
     "Id": "build219",
     "Name": "Sofá",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build220",
     "Name": "Sofá de canto",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build221",
     "Name": "Sofá longo",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build222",
     "Name": "Estação de monitoramento grande",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build223",
     "Name": "Mesa simples",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build224",
     "Name": "Escrivaninha curvada",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build225",
     "Name": "Estação de monitoramento",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build226",
     "Name": "Mesa de trabalho",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build227",
     "Name": "Unidade de parede",
     "Group": "Decoração",
-    "Description": "Uma unidade de armazenamento falsa para decorar paredes.",
-    "Additional": ""
+    "Description": "Uma unidade de armazenamento falsa para decorar paredes."
   },
   {
     "Id": "build228",
     "Name": "Gavetas",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build229",
     "Name": "Painel de armazenamento",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build230",
     "Name": "Octoarmário",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build231",
     "Name": "Armário alto",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build232",
     "Name": "Armário",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build233",
     "Name": "Painel lateral",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build234",
     "Name": "Tapete",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build235",
     "Name": "Bandeira 1",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build236",
     "Name": "Bandeira 2",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build237",
     "Name": "Bandeira 3",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build238",
     "Name": "Bandeira 4",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build239",
     "Name": "Bandeira de parede 1",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build240",
     "Name": "Bandeira de parede 2",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build241",
     "Name": "Bandeira de parede 3",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build242",
     "Name": "Painel tecnológico",
     "Group": "Decoração",
-    "Description": "Um painel tecnológico sem função. É apenas decorativo.",
-    "Additional": ""
+    "Description": "Um painel tecnológico sem função. É apenas decorativo."
   },
   {
     "Id": "build243",
     "Name": "Ventilador de parede",
     "Group": "Decoração",
-    "Description": "Um detalhe de ventilação decorativo para paredes.",
-    "Additional": ""
+    "Description": "Um detalhe de ventilação decorativo para paredes."
   },
   {
     "Id": "build244",
     "Name": "Tela de parede",
     "Group": "Decoração",
-    "Description": "Uma tela de vídeo decorativa para ser colocada em paredes.",
-    "Additional": ""
+    "Description": "Uma tela de vídeo decorativa para ser colocada em paredes."
   },
   {
     "Id": "build245",
     "Name": "Servidor",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build246",
     "Name": "Painel de teto",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build247",
     "Name": "Suporte de tambores",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build248",
     "Name": "Braço robótico",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build249",
     "Name": "Painel plano",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build250",
     "Name": "Osciloscópio",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build251",
     "Name": "Tela de parede verde",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build252",
     "Name": "Tela de parede laranja",
     "Group": "Decoração",
-    "Description": "Ornamento que pode ser construído para embelezar sua base.",
-    "Additional": ""
+    "Description": "Ornamento que pode ser construído para embelezar sua base."
   },
   {
     "Id": "build253",
     "Name": "Cunha grande",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build254",
     "Name": "Cunha pequena",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build255",
     "Name": "Pirâmide",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build256",
     "Name": "Tubo curvo",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build257",
     "Name": "Tubo",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build258",
     "Name": "Cilindro",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build259",
     "Name": "Cubo",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build260",
     "Name": "Esfera",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build261",
     "Name": "Parede",
     "Group": "Decoração",
-    "Description": "Módulo de parede reforçado. Encontra-se em várias estruturas básicas espalhadas pela galáxia.\n\nAtende aos Padrões Universais de Construção 2.3b, o que garante compatibilidade máxima com outras estruturas pré-fabricadas. O encaixe de grade rápido permite a montagem veloz de abrigos personalizados.",
-    "Additional": ""
+    "Description": "Módulo de parede reforçado. Encontra-se em várias estruturas básicas espalhadas pela galáxia.\n\nAtende aos Padrões Universais de Construção 2.3b, o que garante compatibilidade máxima com outras estruturas pré-fabricadas. O encaixe de grade rápido permite a montagem veloz de abrigos personalizados."
   },
   {
     "Id": "build262",
     "Name": "Poste de vinculação",
     "Group": "Módulo de construção",
-    "Description": "Item estrutural básico usado em conjunto com módulos de paredes para criar cantos de 90 graus.",
-    "Additional": ""
+    "Description": "Item estrutural básico usado em conjunto com módulos de paredes para criar cantos de 90 graus."
   },
   {
     "Id": "build263",
     "Name": "Plataforma de teto",
     "Group": "Módulo de construção",
-    "Description": "Item estrutural básico usado em conjunto com módulos de paredes para criar plataformas capazes de sustentar um peso considerável.",
-    "Additional": ""
+    "Description": "Item estrutural básico usado em conjunto com módulos de paredes para criar plataformas capazes de sustentar um peso considerável."
   },
   {
     "Id": "build264",
     "Name": "Parede grande",
     "Group": "Decoração",
-    "Description": "Módulo de parede reforçado. Encontra-se em várias estruturas básicas espalhadas pela galáxia.\n\nAtende aos Padrões Universais de Construção 2.3b, o que garante compatibilidade máxima com outras estruturas pré-fabricadas. O encaixe de grade rápido permite a montagem veloz de abrigos personalizados.",
-    "Additional": ""
+    "Description": "Módulo de parede reforçado. Encontra-se em várias estruturas básicas espalhadas pela galáxia.\n\nAtende aos Padrões Universais de Construção 2.3b, o que garante compatibilidade máxima com outras estruturas pré-fabricadas. O encaixe de grade rápido permite a montagem veloz de abrigos personalizados."
   },
   {
     "Id": "build265",
     "Name": "Parede",
     "Group": "Decoração",
-    "Description": "Item estrutural básico que pode ser construído.",
-    "Additional": ""
+    "Description": "Item estrutural básico que pode ser construído."
   },
   {
     "Id": "build266",
     "Name": "Parede interna de nave cargueira",
     "Group": "Módulo interno de nave cargueira",
-    "Description": "Este módulo de expansão permite a construção rápida de espaços habitáveis dentro de naves grandes.\n\nA unidade de construção já é fabricada com parede interna de pressão e todos os pontos de fixação necessários.",
-    "Additional": ""
+    "Description": "Este módulo de expansão permite a construção rápida de espaços habitáveis dentro de naves grandes.\n\nA unidade de construção já é fabricada com parede interna de pressão e todos os pontos de fixação necessários."
   },
   {
     "Id": "build267",
     "Name": "Iniciador de corrida de nave",
     "Group": "Peça de corrida",
-    "Description": "Essa plataforma funciona como linha de partida e de chegada para os testes de campo com uma nave, permitindo que os viajantes treinem suas manobras e velocidade.",
-    "Additional": ""
+    "Description": "Essa plataforma funciona como linha de partida e de chegada para os testes de campo com uma nave, permitindo que os viajantes treinem suas manobras e velocidade."
   },
   {
     "Id": "build268",
     "Name": "Amplificador de força da corrida",
     "Group": "Peça de corrida",
-    "Description": "Oferece um incremento ao seu exoveículo durante as corridas.",
-    "Additional": ""
+    "Description": "Oferece um incremento ao seu exoveículo durante as corridas."
   },
   {
     "Id": "build269",
     "Name": "Obstáculo da corrida",
     "Group": "Peça de corrida",
-    "Description": "Oferece um desafio adicional às corridas com exoveículos.",
-    "Additional": ""
+    "Description": "Oferece um desafio adicional às corridas com exoveículos."
   },
   {
     "Id": "build270",
     "Name": "Decalque",
     "Group": "Decoração",
-    "Description": "Decalque decorativo.",
-    "Additional": ""
+    "Description": "Decalque decorativo."
   },
   {
     "Id": "build271",
     "Name": "Holograma de criatura",
     "Group": "Decoração ambiental",
-    "Description": "Uma representação holográfica decorativa das criaturas capturadas no registro de descobertas do usuário.",
-    "Additional": ""
+    "Description": "Uma representação holográfica decorativa das criaturas capturadas no registro de descobertas do usuário."
   },
   {
     "Id": "build272",
     "Name": "Batisfera perdida",
     "Group": "Capacete desbloqueável",
-    "Description": "Uma sobreposição de aparência do exotraje assombrada. Mesmo após ser removida, o usuário ouvirá o chamado baixo do oceano para sempre...\nTransforme o aspecto do seu exotraje em um modificador de aparência.",
-    "Additional": ""
+    "Description": "Uma sobreposição de aparência do exotraje assombrada. Mesmo após ser removida, o usuário ouvirá o chamado baixo do oceano para sempre...\nTransforme o aspecto do seu exotraje em um modificador de aparência."
   },
   {
     "Id": "build273",
     "Name": "Estátua de bolota de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores."
   },
   {
     "Id": "build274",
     "Name": "Estátua de bolota de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores."
   },
   {
     "Id": "build275",
     "Name": "Estátua de bolota de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa uma criatura primitiva que já foi procurada por muitos exploradores."
   },
   {
     "Id": "build276",
     "Name": "Estátua de diplo de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa uma espécie quadrúpede de pescoço longo.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa uma espécie quadrúpede de pescoço longo."
   },
   {
     "Id": "build277",
     "Name": "Estátua de diplo de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa uma espécie quadrúpede de pescoço longo.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa uma espécie quadrúpede de pescoço longo."
   },
   {
     "Id": "build278",
     "Name": "Estátua de diplo de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa uma espécie quadrúpede de pescoço longo.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa uma espécie quadrúpede de pescoço longo."
   },
   {
     "Id": "build279",
     "Name": "Estátua de gek de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa um gek fazendo um gesto em direção ao céu.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build280",
     "Name": "Estátua de gek de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa um gek fazendo um gesto em direção ao céu.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build281",
     "Name": "Estátua de gek de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa um gek fazendo um gesto em direção ao céu.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build282",
     "Name": "Estátua de nave de combate de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa a Vetor Alfa, uma nave icônica.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa a Vetor Alfa, uma nave icônica."
   },
   {
     "Id": "build283",
     "Name": "Estátua de nave de combate de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa a Vetor Alfa, uma nave icônica.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa a Vetor Alfa, uma nave icônica."
   },
   {
     "Id": "build284",
     "Name": "Estátua de nave de combate de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa a Vetor Alfa, uma nave icônica.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa a Vetor Alfa, uma nave icônica."
   },
   {
     "Id": "build285",
     "Name": "Estátua de sentinela móvel de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada."
   },
   {
     "Id": "build286",
     "Name": "Estátua de sentinela móvel de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada."
   },
   {
     "Id": "build287",
     "Name": "Estátua de sentinela móvel de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa o Sentinela Móvel, uma unidade de combate avançada."
   },
   {
     "Id": "build288",
     "Name": "Estátua do Atlas de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida...",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida..."
   },
   {
     "Id": "build289",
     "Name": "Estátua do Atlas de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida...",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida..."
   },
   {
     "Id": "build290",
     "Name": "Estátua do Atlas de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida...",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua é uma réplica decorativa de uma Interface do Atlas. Seu centro gira, movido por uma força desconhecida..."
   },
   {
     "Id": "build291",
     "Name": "Estátua de astronauta de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos."
   },
   {
     "Id": "build292",
     "Name": "Estátua de astronauta de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos."
   },
   {
     "Id": "build293",
     "Name": "Estátua de astronauta de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos.",
-    "Additional": ""
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua de astronauta é uma homenagem a todos os exploradores galácticos."
   },
   {
     "Id": "build294",
     "Name": "Decalque do Centro Galáctico",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta um emblema com a mensagem: 'Explorem unidos'.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta um emblema com a mensagem: 'Explorem unidos'."
   },
   {
     "Id": "build295",
     "Name": "Decalque da aprovação",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta um gesto universal de aprovação.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta um gesto universal de aprovação."
   },
   {
     "Id": "build296",
     "Name": "Decalque de Nada",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Nada, a entidade sacerdotisa Korvax.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Nada, a entidade sacerdotisa Korvax."
   },
   {
     "Id": "build297",
     "Name": "Decalque de Polo",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Polo, o Gek especialista.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Polo, o Gek especialista."
   },
   {
     "Id": "build298",
     "Name": "Decalque de Apolo",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Apolo, o viajante.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Apolo, o viajante."
   },
   {
     "Id": "build299",
     "Name": "Decalque de Ártemis",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Ártemis, o viajante.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Ártemis, o viajante."
   },
   {
     "Id": "build300",
     "Name": "Decalque de Nulo",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Nulo, o viajante.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta Nulo, o viajante."
   },
   {
     "Id": "build301",
     "Name": "Companheiro robótico",
     "Group": "Drone pessoal manobrista",
-    "Description": "Um drone de programação perfeita e livre de falhas.\n\nEsse robô em miniatura será uma presença animada em sua base, trazendo alegria, risadas e um zumbido baixo constante ao seu lar.",
-    "Additional": ""
+    "Description": "Um drone de programação perfeita e livre de falhas.\n\nEsse robô em miniatura será uma presença animada em sua base, trazendo alegria, risadas e um zumbido baixo constante ao seu lar."
   },
   {
     "Id": "build302",
     "Name": "Engenhoca cúbica expansiva",
     "Group": "Decoração desbloqueável",
-    "Description": "Um item decorativo exclusivo e curioso.\n\nEsta engenhoca fabricada com precisão utiliza um campo gravitacional localizado que encanta e fascina aqueles que visitam a base.",
-    "Additional": ""
+    "Description": "Um item decorativo exclusivo e curioso.\n\nEsta engenhoca fabricada com precisão utiliza um campo gravitacional localizado que encanta e fascina aqueles que visitam a base."
   },
   {
     "Id": "build303",
     "Name": "Engenhoca esférica holográfica",
     "Group": "Decoração desbloqueável",
-    "Description": "Uma curiosidade decorativa exclusiva para bases.\n\nEsta engenhoca projeta um holograma esférico que representa um dos quintilhões de corpos celestiais que povoam as galáxias.",
-    "Additional": ""
+    "Description": "Uma curiosidade decorativa exclusiva para bases.\n\nEsta engenhoca projeta um holograma esférico que representa um dos quintilhões de corpos celestiais que povoam as galáxias."
   },
   {
     "Id": "build304",
     "Name": "Árvore frutífera",
     "Group": "Decoração orgânica",
-    "Description": "Uma árvore frutífera grande e decorativa.\n\nA forma do fruto, a toxicidade e a existência vão variar de acordo com as condições locais de clima e polinização.",
-    "Additional": ""
+    "Description": "Uma árvore frutífera grande e decorativa.\n\nA forma do fruto, a toxicidade e a existência vão variar de acordo com as condições locais de clima e polinização."
   },
   {
     "Id": "build305",
     "Name": "Árvore-fuso",
     "Group": "Decoração orgânica",
-    "Description": "Uma árvore fina e sem frutos. O sistema de raízes está integrado a fungos simbióticos altamente adaptados.\n\nPossui cogumelos próprios para facilitar o estabelecimento. O fungo não é tóxico e não se dissemina.",
-    "Additional": ""
+    "Description": "Uma árvore fina e sem frutos. O sistema de raízes está integrado a fungos simbióticos altamente adaptados.\n\nPossui cogumelos próprios para facilitar o estabelecimento. O fungo não é tóxico e não se dissemina."
   },
   {
     "Id": "build306",
     "Name": "Árvore sempre-verde",
     "Group": "Decoração orgânica",
-    "Description": "Uma árvore sempre-verde resistente, capaz de sobreviver em uma ampla variedade de climas.\n\nAs folhas cerosas com a parte de baixo prateada são ótimas para capturar a luz, além de serem interessantes e coloridas o ano inteiro.",
-    "Additional": ""
+    "Description": "Uma árvore sempre-verde resistente, capaz de sobreviver em uma ampla variedade de climas.\n\nAs folhas cerosas com a parte de baixo prateada são ótimas para capturar a luz, além de serem interessantes e coloridas o ano inteiro."
   },
   {
     "Id": "build307",
     "Name": "Arbusto carnívoro",
     "Group": "Decoração orgânica",
-    "Description": "Planta decorativa de tamanho médio. Cada uma de suas folhas é coberta por uma camada fina de látex pegajoso. Os insetos que pousam nessas folhas são lentamente absorvidos por hormônios digestivos que estão misturados à cola.\n\nEvite contato com a pele.",
-    "Additional": ""
+    "Description": "Planta decorativa de tamanho médio. Cada uma de suas folhas é coberta por uma camada fina de látex pegajoso. Os insetos que pousam nessas folhas são lentamente absorvidos por hormônios digestivos que estão misturados à cola.\n\nEvite contato com a pele."
   },
   {
     "Id": "build308",
     "Name": "Palmeira anã",
     "Group": "Decoração orgânica",
-    "Description": "Uma forma atarracada e de fácil manejo das espécies de palmeiras maiores.\n\nColoque do lado de fora para atrair animais e purificar o ar.",
-    "Additional": ""
+    "Description": "Uma forma atarracada e de fácil manejo das espécies de palmeiras maiores.\n\nColoque do lado de fora para atrair animais e purificar o ar."
   },
   {
     "Id": "build309",
     "Name": "Milho curioso",
     "Group": "Decoração orgânica",
-    "Description": "Broto de milho decorativo. Cresce em uma variedade de cores. Pode atrair vida selvagem decorativa.\n\nÉ incapaz de se reproduzir naturalmente. A polinização deve ser manual.",
-    "Additional": ""
+    "Description": "Broto de milho decorativo. Cresce em uma variedade de cores. Pode atrair vida selvagem decorativa.\n\nÉ incapaz de se reproduzir naturalmente. A polinização deve ser manual."
   },
   {
     "Id": "build310",
     "Name": "Aquário pequeno",
     "Group": "Módulo de observação aquática",
-    "Description": "Uma unidade pequena de observação e estudo de comportamentos aquáticos.\n\nÉ totalmente independente, com sua própria fonte de energia renovável, bombas e um sistema de filtragem autolimpante.",
-    "Additional": ""
+    "Description": "Uma unidade pequena de observação e estudo de comportamentos aquáticos.\n\nÉ totalmente independente, com sua própria fonte de energia renovável, bombas e um sistema de filtragem autolimpante."
   },
   {
     "Id": "build311",
     "Name": "Coral enrolado",
     "Group": "Decoração orgânica",
-    "Description": "Um invertebrado marítimo delicado. É cultivado para crescer em vasos. Sua estrutura curva característica lhe dá uma aparência diferente e interessante.",
-    "Additional": ""
+    "Description": "Um invertebrado marítimo delicado. É cultivado para crescer em vasos. Sua estrutura curva característica lhe dá uma aparência diferente e interessante."
   },
   {
     "Id": "build312",
     "Name": "Cristal aquático",
     "Group": "Decoração orgânica",
-    "Description": "Um aglomerado chamativo de minerais oceânicos cristalizados. Eles crescem em uma estrutura semelhante a um fragmento e têm uma coloração marmorizada incomum.",
-    "Additional": ""
+    "Description": "Um aglomerado chamativo de minerais oceânicos cristalizados. Eles crescem em uma estrutura semelhante a um fragmento e têm uma coloração marmorizada incomum."
   },
   {
     "Id": "build313",
     "Name": "Flor candelabro",
     "Group": "Decoração orgânica",
-    "Description": "Uma planta impressionante que tem flores luminescentes em forma de orbes. Essa variedade doméstica adaptou-se para absorver e processar oxigênio de qualquer fonte, esteja ela em terra ou na água.",
-    "Additional": ""
+    "Description": "Uma planta impressionante que tem flores luminescentes em forma de orbes. Essa variedade doméstica adaptou-se para absorver e processar oxigênio de qualquer fonte, esteja ela em terra ou na água."
   },
   {
     "Id": "build314",
     "Name": "Craca",
     "Group": "Decoração orgânica",
-    "Description": "Um artrópode tenaz que se prende naturalmente a objetos subaquáticos parados ou em movimento.\n\nEssa variedade pode ser estimulada a se fixar ao local escolhido, dando um ar marinho antigo às bases.",
-    "Additional": ""
+    "Description": "Um artrópode tenaz que se prende naturalmente a objetos subaquáticos parados ou em movimento.\n\nEssa variedade pode ser estimulada a se fixar ao local escolhido, dando um ar marinho antigo às bases."
   },
   {
     "Id": "build315",
     "Name": "Fogo de artifício",
     "Group": "Dispositivo consumível de pirotecnia",
-    "Description": "Um fogo de artifício luxuoso e rico em magnésio e emeril. Acenda-o para criar um show cintilante no céu.\n\nPosicione o tubo de lançamento com a ajuda do menu de construção (BUILD_MENU). Atenção: mire-o longe de seres vivos. Não é recomendado usá-lo em ambientes fechados.",
-    "Additional": ""
+    "Description": "Um fogo de artifício luxuoso e rico em magnésio e emeril. Acenda-o para criar um show cintilante no céu.\n\nPosicione o tubo de lançamento com a ajuda do menu de construção (BUILD_MENU). Atenção: mire-o longe de seres vivos. Não é recomendado usá-lo em ambientes fechados."
   },
   {
     "Id": "build316",
     "Name": "Gerador de realidade portátil",
     "Group": "Decoração desbloqueável",
-    "Description": "Um item decorativo, exclusivo e curioso para bases.\n\nUm modelo da própria realidade visto da perspectiva de um observador impossível. Detalhes infinitos esperam para serem descobertos por uma lente suficientemente poderosa.",
-    "Additional": ""
+    "Description": "Um item decorativo, exclusivo e curioso para bases.\n\nUm modelo da própria realidade visto da perspectiva de um observador impossível. Detalhes infinitos esperam para serem descobertos por uma lente suficientemente poderosa."
   },
   {
     "Id": "build317",
     "Name": "Terrário",
     "Group": "Cercado especial de criaturas",
-    "Description": "Uma pequena unidade de observação para estudar o comportamento dos animais.\n\nÉ totalmente independente e contém processador de nutrientes embutido, purificador de ar e sistema de eliminação de fezes.",
-    "Additional": ""
+    "Description": "Uma pequena unidade de observação para estudar o comportamento dos animais.\n\nÉ totalmente independente e contém processador de nutrientes embutido, purificador de ar e sistema de eliminação de fezes."
   },
   {
     "Id": "build318",
     "Name": "Palmeira-vela",
     "Group": "Decoração orgânica",
-    "Description": "Uma árvore resistente ao calor com folhas grandes.\n\nSua folhagem ampla é coberta por minerais, o que forma uma barreira contra a luz do sol forte de seu local nativo.",
-    "Additional": ""
+    "Description": "Uma árvore resistente ao calor com folhas grandes.\n\nSua folhagem ampla é coberta por minerais, o que forma uma barreira contra a luz do sol forte de seu local nativo."
   },
   {
     "Id": "build319",
     "Name": "Árvore da esfera",
     "Group": "Decoração orgânica",
-    "Description": "Uma árvore fina com um sistema de raízes grande, polposo e bem adaptado a climas quentes.\n\nO bulbo da raiz pode ser perfurado para se obter líquido potável, mas isso é aconselhável apenas em condições extremas.",
-    "Additional": ""
+    "Description": "Uma árvore fina com um sistema de raízes grande, polposo e bem adaptado a climas quentes.\n\nO bulbo da raiz pode ser perfurado para se obter líquido potável, mas isso é aconselhável apenas em condições extremas."
   },
   {
     "Id": "build320",
     "Name": "Jardim de rochas",
     "Group": "Decoração orgânica",
-    "Description": "Um módulo de jardim com formação mineral decorativa e tapete capilar integrado para controlar a umidade da melhor forma.",
-    "Additional": ""
+    "Description": "Um módulo de jardim com formação mineral decorativa e tapete capilar integrado para controlar a umidade da melhor forma."
   },
   {
     "Id": "build321",
     "Name": "Porta de madeira pequena",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta pequena para ser inserida em uma guarnição de madeira",
-    "Additional": ""
+    "Description": "Uma porta pequena para ser inserida em uma guarnição de madeira"
   },
   {
     "Id": "build322",
     "Name": "Porta elétrica de madeira",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada.",
-    "Additional": ""
+    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada."
   },
   {
     "Id": "build323",
     "Name": "Porta elétrica grande de madeira",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada.",
-    "Additional": ""
+    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada."
   },
   {
     "Id": "build324",
     "Name": "Canto de teto interno de madeira",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada.",
-    "Additional": ""
+    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de madeira tratada por pressão e com resina injetada."
   },
   {
     "Id": "build325",
     "Name": "Porta metálica pequena",
     "Group": "Componente de construção metálico",
-    "Description": "Uma porta pequena para ser inserida em uma guarnição metálica",
-    "Additional": ""
+    "Description": "Uma porta pequena para ser inserida em uma guarnição metálica"
   },
   {
     "Id": "build326",
     "Name": "Porta elétrica de metal",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência.",
-    "Additional": ""
+    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
     "Id": "build327",
     "Name": "Porta elétrica grande de metal",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência.",
-    "Additional": ""
+    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
     "Id": "build328",
     "Name": "Canto de teto interno de metal",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de ligas metálicas de alta resistência.",
-    "Additional": ""
+    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
     "Id": "build329",
     "Name": "Porta de concreto pequena",
     "Group": "Componente de construção de concreto",
-    "Description": "Uma porta pequena para ser inserida em uma guarnição de concreto",
-    "Additional": ""
+    "Description": "Uma porta pequena para ser inserida em uma guarnição de concreto"
   },
   {
     "Id": "build330",
     "Name": "Porta elétrica de concreto",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto.",
-    "Additional": ""
+    "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
     "Id": "build331",
     "Name": "Porta elétrica grande de concreto",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto.",
-    "Additional": ""
+    "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
     "Id": "build332",
     "Name": "Canto de teto interno de concreto",
     "Group": "Componente de construção de madeira",
-    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de placas reforçadas de concreto.",
-    "Additional": ""
+    "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
     "Id": "build333",
     "Name": "Fiação elétrica",
     "Group": "Módulo de distribuição de energia",
-    "Description": "Fiação elétrica de alta capacidade. Use fios para conectar geradores de energia à sua base. A maior parte das tecnologias e estruturas com sistemas de iluminação embutidos precisam de uma fonte de energia.\n\nFios podem ser conectados a vários interruptores para facilitar o fluxo seletivo de energia.",
-    "Additional": ""
+    "Description": "Fiação elétrica de alta capacidade. Use fios para conectar geradores de energia à sua base. A maior parte das tecnologias e estruturas com sistemas de iluminação embutidos precisam de uma fonte de energia.\n\nFios podem ser conectados a vários interruptores para facilitar o fluxo seletivo de energia."
   },
   {
     "Id": "build334",
     "Name": "Cabo de teletransporte",
     "Group": "Módulo de distribuição de energia",
-    "Description": "Cabo de fibra óptica avançado desenvolvido para ligar um ou mais teletransportadores de curto alcance.",
-    "Additional": ""
+    "Description": "Cabo de fibra óptica avançado desenvolvido para ligar um ou mais teletransportadores de curto alcance."
   },
   {
     "Id": "build336",
     "Name": "Luz",
     "Group": "Instalação",
-    "Description": "Uma luz com baixo consumo de energia, vida útil estendida e componentes totalmente recicláveis.",
-    "Additional": ""
+    "Description": "Uma luz com baixo consumo de energia, vida útil estendida e componentes totalmente recicláveis."
   },
   {
     "Id": "build337",
     "Name": "Decalque de anomalia",
     "Group": "Decoração",
-    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta uma anomalia viajante.",
-    "Additional": ""
+    "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta uma anomalia viajante."
   }
 ]

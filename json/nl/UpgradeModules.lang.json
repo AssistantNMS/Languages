@@ -3,798 +3,684 @@
     "Id": "upgrade1",
     "Name": "Mijnlasermodule (C)",
     "Group": "Mijnlaser-upgrade",
-    "Description": "Een gemiddelde upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernbestanddelen van de mijnlaser, waardoor de effectiviteit van het apparaat toeneemt.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernbestanddelen van de mijnlaser, waardoor de effectiviteit van het apparaat toeneemt."
   },
   {
     "Id": "upgrade2",
     "Name": "Mijnlasermodule (B)",
     "Group": "Aanzienlijke mijnlaser-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de primaire kristalkamer van de mijnlaser, wat de straalkracht versterkt en ongewenst hitteverlies voorkomt.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de primaire kristalkamer van de mijnlaser, wat de straalkracht versterkt en ongewenst hitteverlies voorkomt."
   },
   {
     "Id": "upgrade3",
     "Name": "Mijnlasermodule (A)",
     "Group": "Krachtige mijnlaser-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernonderdelen van de mijnlaser. Het vermogen en de hittetolerantie worden aanzienlijk verbeterd.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernonderdelen van de mijnlaser. Het vermogen en de hittetolerantie worden aanzienlijk verbeterd."
   },
   {
     "Id": "upgrade4",
     "Name": "Mijnlasermodule (S)",
     "Group": "Uitstekende mijnlaser-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernonderdelen van de mijnlaser. Het vermogen en de hittetolerantie worden aanzienlijk verbeterd.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernonderdelen van de mijnlaser. Het vermogen en de hittetolerantie worden aanzienlijk verbeterd."
   },
   {
     "Id": "upgrade5",
     "Name": "Scannermodule (C)",
     "Group": "Scansysteem-upgrade",
-    "Description": "Een gemiddelde upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens aanzienlijk.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens aanzienlijk."
   },
   {
     "Id": "upgrade6",
     "Name": "Scannermodule (B)",
     "Group": "Aanzienlijke scansysteem-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens enorm.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens enorm."
   },
   {
     "Id": "upgrade7",
     "Name": "Scannermodule (A)",
     "Group": "Krachtige scansysteem-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens gigantisch.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens gigantisch."
   },
   {
     "Id": "upgrade8",
     "Name": "Scannermodule (S)",
     "Group": "Uitstekende scansysteem-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens gigantisch.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de scansystemen van de multitool. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor interne chip-upgrades is de scanstraal verbeterd en stijgt de waarde van ontdekkingsgegevens gigantisch."
   },
   {
     "Id": "upgrade9",
     "Name": "Boltcastermodule (C)",
     "Group": "Boltcaster-upgrade",
-    "Description": "Een gemiddelde voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de Boltcaster, waardoor de herlaadtijden korter worden en de veroorzaakte schade toeneemt.",
-    "Additional": ""
+    "Description": "Een gemiddelde voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de Boltcaster, waardoor de herlaadtijden korter worden en de veroorzaakte schade toeneemt."
   },
   {
     "Id": "upgrade10",
     "Name": "Boltcastermodule (B)",
     "Group": "Aanzienlijke Boltcaster-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht en verkort de herlaadtijden.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht en verkort de herlaadtijden."
   },
   {
     "Id": "upgrade11",
     "Name": "Boltcastermodule (A)",
     "Group": "Krachtige Boltcaster-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht, de vuursnelheid en de capaciteit van het magazijn. Verkort de herlaadtijden.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht, de vuursnelheid en de capaciteit van het magazijn. Verkort de herlaadtijden."
   },
   {
     "Id": "upgrade12",
     "Name": "Boltcastermodule (S)",
     "Group": "Uitstekende Boltcaster-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht, de vuursnelheid en de capaciteit van het magazijn. Verkort de herlaadtijden.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de Boltcaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het projectiel aanricht, de vuursnelheid en de capaciteit van het magazijn. Verkort de herlaadtijden."
   },
   {
     "Id": "upgrade13",
     "Name": "Module voor plasmagranaatwerper (C)",
     "Group": "Plasmagranaatwerper-upgrade",
-    "Description": "Een gemiddelde upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft."
   },
   {
     "Id": "upgrade14",
     "Name": "Module voor plasmagranaatwerper (B)",
     "Group": "Aanzienlijke plasmagranaatwerper-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft."
   },
   {
     "Id": "upgrade15",
     "Name": "Module voor plasmagranaatwerper (A)",
     "Group": "Krachtige plasmagranaatwerper-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft."
   },
   {
     "Id": "upgrade16",
     "Name": "Module voor plasmagranaatwerper (S)",
     "Group": "Uitstekende plasmagranaatwerper-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de plasmagranaatwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade door de explosie, de straal en het maximale aantal keer dat hij stuitert voor hij ontploft."
   },
   {
     "Id": "upgrade17",
     "Name": "Geologiekanonmodule (C)",
     "Group": "Geologiekanon-upgrade",
-    "Description": "Een gemiddelde upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater."
   },
   {
     "Id": "upgrade18",
     "Name": "Geologiekanonmodule (B)",
     "Group": "Aanzienlijke geologiekanon-upgrade",
-    "Description": "Een aanzienlijke upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater."
   },
   {
     "Id": "upgrade19",
     "Name": "Geologiekanonmodule (A)",
     "Group": "Krachtige geologiekanon-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater."
   },
   {
     "Id": "upgrade20",
     "Name": "Geologiekanonmodule (S)",
     "Group": "Uitstekende geologiekanon-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het geologiekanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot zowel de schade door de explosie en de straal van de krater."
   },
   {
     "Id": "upgrade21",
     "Name": "Vuurspeermodule (C)",
     "Group": "Vuurspeer-upgrade",
-    "Description": "Een gemiddelde upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade en verkort de oplaadtijd.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade en verkort de oplaadtijd."
   },
   {
     "Id": "upgrade22",
     "Name": "Vuurspeermodule (B)",
     "Group": "Aanzienlijke vuurspeer-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade aanzienlijk en verkort de oplaadtijd aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade aanzienlijk en verkort de oplaadtijd aanzienlijk."
   },
   {
     "Id": "upgrade23",
     "Name": "Vuurspeermodule (A)",
     "Group": "Krachtige vuurspeer-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade enorm en verkort de oplaadtijd enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade enorm en verkort de oplaadtijd enorm."
   },
   {
     "Id": "upgrade24",
     "Name": "Vuurspeermodule (S)",
     "Group": "Uitstekende vuurspeer-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade enorm en verkort de oplaadtijd enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de vuurspeer. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid laserschade enorm en verkort de oplaadtijd enorm."
   },
   {
     "Id": "upgrade25",
     "Name": "Energieblastermodule (C)",
     "Group": "Energieblaster-upgrade",
-    "Description": "Een gemiddelde upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht en verkort de herlaadtijden.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht en verkort de herlaadtijden."
   },
   {
     "Id": "upgrade26",
     "Name": "Energieblastermodule (B)",
     "Group": "Aanzienlijke energieblaster-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de interne mechanismes zodat de capaciteit van het magazijn toeneemt en het wapen meer kogels tegelijk afvuurt. Vergroot daarnaast de schade die het wapen aanricht en verkort de herlaadtijden.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de interne mechanismes zodat de capaciteit van het magazijn toeneemt en het wapen meer kogels tegelijk afvuurt. Vergroot daarnaast de schade die het wapen aanricht en verkort de herlaadtijden."
   },
   {
     "Id": "upgrade27",
     "Name": "Energieblastermodule (A)",
     "Group": "Krachtige energieblaster-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht aanzienlijk en verkort de herlaadtijden fors. Vergroot de totale capaciteit van het magazijn en verbetert de vuursnelheid aanzienlijk.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht aanzienlijk en verkort de herlaadtijden fors. Vergroot de totale capaciteit van het magazijn en verbetert de vuursnelheid aanzienlijk."
   },
   {
     "Id": "upgrade28",
     "Name": "Energieblastermodule (S)",
     "Group": "Uitstekende energieblaster-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht aanzienlijk en verkort de herlaadtijden fors. Vergroot de totale capaciteit van het magazijn en verbetert de vuursnelheid aanzienlijk.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de energieblaster. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de schade die het wapen aanricht aanzienlijk en verkort de herlaadtijden fors. Vergroot de totale capaciteit van het magazijn en verbetert de vuursnelheid aanzienlijk."
   },
   {
     "Id": "upgrade29",
     "Name": "Pulsspittermodule (C)",
     "Group": "Pulsspitter-upgrade",
-    "Description": "Een gemiddelde upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nOverbelast de interne oplaadsystemen, zodat de vuursnelheid toeneemt en de herlaadtijden korter worden.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nOverbelast de interne oplaadsystemen, zodat de vuursnelheid toeneemt en de herlaadtijden korter worden."
   },
   {
     "Id": "upgrade30",
     "Name": "Pulsspittermodule (B)",
     "Group": "Aanzienlijke pulsspitter-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernbestanddelen, waardoor de capaciteit van het magazijn en de vuursnelheid toenemen en de herlaadtijden korter worden.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de kernbestanddelen, waardoor de capaciteit van het magazijn en de vuursnelheid toenemen en de herlaadtijden korter worden."
   },
   {
     "Id": "upgrade31",
     "Name": "Pulsspittermodule (A)",
     "Group": "Krachtige pulsspitter-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor een gelokaliseerde ruimtetijdvervorming nemen de capaciteit van het magazijn en de vuursnelheid aanzienlijk toe en worden de herlaadtijden korter.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor een gelokaliseerde ruimtetijdvervorming nemen de capaciteit van het magazijn en de vuursnelheid aanzienlijk toe en worden de herlaadtijden korter."
   },
   {
     "Id": "upgrade32",
     "Name": "Pulsspittermodule (S)",
     "Group": "Uitstekende pulsspitter-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor een gelokaliseerde ruimtetijdvervorming nemen de capaciteit van het magazijn en de vuursnelheid aanzienlijk toe en worden de herlaadtijden korter.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de pulsspitter. Gebruik FE_ALT1 om de upgrade te installeren.\n\nDoor een gelokaliseerde ruimtetijdvervorming nemen de capaciteit van het magazijn en de vuursnelheid aanzienlijk toe en worden de herlaadtijden korter."
   },
   {
     "Id": "upgrade33",
     "Name": "Lifesupport-module (B)",
     "Group": "Aanzienlijke lifesupport-upgrade",
-    "Description": "Een aanzienlijke upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie."
   },
   {
     "Id": "upgrade34",
     "Name": "Lifesupport-module (A)",
     "Group": "Krachtige lifesupport-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie en maakt een beperkte mate van zonne-energiegebruik mogelijk, waardoor je overdag minder energie verbruikt.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie en maakt een beperkte mate van zonne-energiegebruik mogelijk, waardoor je overdag minder energie verbruikt."
   },
   {
     "Id": "upgrade35",
     "Name": "Lifesupport-module (S)",
     "Group": "Uitstekende lifesupport-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie en maakt een beperkte mate van zonne-energiegebruik mogelijk, waardoor je overdag minder energie verbruikt.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het lifesupport-systeem. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de hoeveelheid lifesupport-energie en maakt een beperkte mate van zonne-energiegebruik mogelijk, waardoor je overdag minder energie verbruikt."
   },
   {
     "Id": "upgrade36",
     "Name": "Bewegingsmodule (C)",
     "Group": "Bewegingssysteem-upgrade",
-    "Description": "Een gemiddelde upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van het jetpack en het energieverbruik van de lifesupport en vergroot de duur van de snelheidsboost van het exopak.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van het jetpack en het energieverbruik van de lifesupport en vergroot de duur van de snelheidsboost van het exopak."
   },
   {
     "Id": "upgrade37",
     "Name": "Bewegingsmodule (B)",
     "Group": "Aanzienlijke bewegingssysteem-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de bewegingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van het jetpack en het energieverbruik van de lifesupport aanzienlijk en vergroot de duur van de snelheidsboost van het exopak.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de bewegingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van het jetpack en het energieverbruik van de lifesupport aanzienlijk en vergroot de duur van de snelheidsboost van het exopak."
   },
   {
     "Id": "upgrade38",
     "Name": "Bewegingsmodule (A)",
     "Group": "Krachtige bewegingssysteem-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van de jetpack en het energieverbruik van de lifesupport enorm en vergroot de duur van de snelheidsboost van het exopak.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van de jetpack en het energieverbruik van de lifesupport enorm en vergroot de duur van de snelheidsboost van het exopak."
   },
   {
     "Id": "upgrade39",
     "Name": "Bewegingsmodule (S)",
     "Group": "Uitstekende bewegingssysteem-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van de jetpack en het energieverbruik van de lifesupport enorm en vergroot de duur van de snelheidsboost van het exopak.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het bewegingssysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de tankcapaciteit van de jetpack en het energieverbruik van de lifesupport enorm en vergroot de duur van de snelheidsboost van het exopak."
   },
   {
     "Id": "upgrade40",
     "Name": "Schildmodule (C)",
     "Group": "Verdedigingssystemen-upgrade",
-    "Description": "Een gemiddelde upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak."
   },
   {
     "Id": "upgrade41",
     "Name": "Schildmodule (B)",
     "Group": "Aanzienlijke verdedigingssystemen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak aanzienlijk en verbetert de basisgezondheid.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak aanzienlijk en verbetert de basisgezondheid."
   },
   {
     "Id": "upgrade42",
     "Name": "Schildmodule (A)",
     "Group": "Krachtige verdedigingssystemen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak enorm en verbetert de basisgezondheid.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak enorm en verbetert de basisgezondheid."
   },
   {
     "Id": "upgrade43",
     "Name": "Schildmodule (S)",
     "Group": "Uitstekende verdedigingssystemen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak enorm en verbetert de basisgezondheid.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de verdedigingssystemen van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de kracht van het exopak enorm en verbetert de basisgezondheid."
   },
   {
     "Id": "upgrade44",
     "Name": "Onderwaterbescherming-module (B)",
     "Group": "Zuurstof-upgrade",
-    "Description": "Een aanzienlijke upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water aanzienlijk."
   },
   {
     "Id": "upgrade45",
     "Name": "Onderwaterbescherming-module (A)",
     "Group": "Aanzienlijke zuurstof-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water enorm."
   },
   {
     "Id": "upgrade46",
     "Name": "Onderwaterbescherming-module (S)",
     "Group": "Krachtige zuurstof-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het ventilatiemembraan van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd onder water enorm."
   },
   {
     "Id": "upgrade47",
     "Name": "Stralingsbescherming-module (B)",
     "Group": "Aanzienlijke omgevingsbescherming-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving aanzienlijk."
   },
   {
     "Id": "upgrade48",
     "Name": "Stralingsbescherming-module (A)",
     "Group": "Krachtige omgevingsbescherming-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving enorm."
   },
   {
     "Id": "upgrade49",
     "Name": "Stralingsbescherming-module (S)",
     "Group": "Uitstekende omgevingsbescherming-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de stralingsbescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een radioactieve omgeving enorm."
   },
   {
     "Id": "upgrade50",
     "Name": "Gifbescherming-module (B)",
     "Group": "Aanzienlijke omgevingsbescherming-upgrade",
-    "Description": "Een aanzienlijke upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving aanzienlijk."
   },
   {
     "Id": "upgrade51",
     "Name": "Gifbescherming-module (A)",
     "Group": "Krachtige omgevingsbescherming-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving enorm."
   },
   {
     "Id": "upgrade52",
     "Name": "Gifbescherming-module (S)",
     "Group": "Uitstekende omgevingsbescherming-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het filtersysteem van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd in een giftige omgeving enorm."
   },
   {
     "Id": "upgrade53",
     "Name": "Thermische bescherming-module (B)",
     "Group": "Aanzienlijke omgevingsbescherming-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul aanzienlijk."
   },
   {
     "Id": "upgrade54",
     "Name": "Thermische bescherming-module (A)",
     "Group": "Krachtige omgevingsbescherming-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul enorm."
   },
   {
     "Id": "upgrade55",
     "Name": "Thermische bescherming-module (S)",
     "Group": "Uitstekende omgevingsbescherming-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij temperaturen onder nul enorm."
   },
   {
     "Id": "upgrade56",
     "Name": "Thermische bescherming-module (B)",
     "Group": "Aanzienlijke omgevingsbescherming-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen aanzienlijk."
   },
   {
     "Id": "upgrade57",
     "Name": "Thermische bescherming-module (A)",
     "Group": "Krachtige omgevingsbescherming-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen enorm."
   },
   {
     "Id": "upgrade58",
     "Name": "Thermische bescherming-module (S)",
     "Group": "Uitstekende omgevingsbescherming-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de thermische bescherming van het exopak. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerlengt de overlevingstijd bij hoge temperaturen enorm."
   },
   {
     "Id": "upgrade59",
     "Name": "Pulsmotormodule (C)",
     "Group": "Pulsmotor-upgrade",
-    "Description": "Een gemiddelde upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip."
   },
   {
     "Id": "upgrade60",
     "Name": "Pulsmotormodule (B)",
     "Group": "Aanzienlijke pulsmotor-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip."
   },
   {
     "Id": "upgrade61",
     "Name": "Pulsmotormodule (A)",
     "Group": "Krachtige pulsmotor-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip."
   },
   {
     "Id": "upgrade62",
     "Name": "Pulsmotormodule (S)",
     "Group": "Uitstekende pulsmotor-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de pulsmotor van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de manoeuvreerbaarheid en de snelheid van het ruimteschip."
   },
   {
     "Id": "upgrade63",
     "Name": "Hyperdrive-module (C)",
     "Group": "Hyperdrive-upgrade",
-    "Description": "Een gemiddelde upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand."
   },
   {
     "Id": "upgrade64",
     "Name": "Hyperdrive-module (B)",
     "Group": "Aanzienlijke hyperdrive-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand."
   },
   {
     "Id": "upgrade65",
     "Name": "Hyperdrive-module (A)",
     "Group": "Krachtige hyperdrive-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand."
   },
   {
     "Id": "upgrade66",
     "Name": "Hyperdrive-module (S)",
     "Group": "Uitstekende hyperdrive-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de hyperdrive. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de efficiëntie van de warpaandrijving en vergroot de sprongafstand."
   },
   {
     "Id": "upgrade67",
     "Name": "Ruimteschipschilden-module (C)",
     "Group": "Ruimteschipschilden-upgrade",
-    "Description": "Een gemiddelde upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte, zodat het schip het langer uithoudt tijdens gevechten.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte, zodat het schip het langer uithoudt tijdens gevechten."
   },
   {
     "Id": "upgrade68",
     "Name": "Ruimteschipschilden-module (B)",
     "Group": "Aanzienlijke ruimteschipschilden-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte aanzienlijk, zodat het schip het langer uithoudt tijdens gevechten.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte aanzienlijk, zodat het schip het langer uithoudt tijdens gevechten."
   },
   {
     "Id": "upgrade69",
     "Name": "Ruimteschipschilden-module (A)",
     "Group": "Krachtige ruimteschipschilden-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte enorm, zodat het schip het langer uithoudt tijdens gevechten.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte enorm, zodat het schip het langer uithoudt tijdens gevechten."
   },
   {
     "Id": "upgrade70",
     "Name": "Ruimteschipschilden-module (S)",
     "Group": "Uitstekende ruimteschipschilden-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte enorm, zodat het schip het langer uithoudt tijdens gevechten.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de schilden van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de scheepssterkte enorm, zodat het schip het langer uithoudt tijdens gevechten."
   },
   {
     "Id": "upgrade71",
     "Name": "Fotonkanon-module (C)",
     "Group": "Ruimteschipwapen-upgrade",
-    "Description": "Een gemiddelde upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug."
   },
   {
     "Id": "upgrade72",
     "Name": "Fotonkanon-module (B)",
     "Group": "Aanzienlijke ruimteschipwapen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug."
   },
   {
     "Id": "upgrade73",
     "Name": "Fotonkanon-module (A)",
     "Group": "Krachtige ruimteschipwapen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade74",
     "Name": "Fotonkanon-module (S)",
     "Group": "Uitstekende ruimteschipwapen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het fotonkanon van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade75",
     "Name": "Faselasermodule (C)",
     "Group": "Ruimteschipwapen-upgrade",
-    "Description": "Een gemiddelde upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting."
   },
   {
     "Id": "upgrade76",
     "Name": "Faselasermodule (B)",
     "Group": "Aanzienlijke ruimteschipwapen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting aanzienlijk."
   },
   {
     "Id": "upgrade77",
     "Name": "Faselasermodule (A)",
     "Group": "Krachtige ruimteschipwapen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting enorm."
   },
   {
     "Id": "upgrade78",
     "Name": "Faselasermodule (S)",
     "Group": "Uitstekende ruimteschipwapen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de faselaser van het ruimteschip. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de effectiviteit tijdens gevechten op het gebied van schade en oververhitting enorm."
   },
   {
     "Id": "upgrade79",
     "Name": "Positronmodule (C)",
     "Group": "Ruimteschipwapen-upgrade",
-    "Description": "Een gemiddelde upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug."
   },
   {
     "Id": "upgrade80",
     "Name": "Positronmodule (B)",
     "Group": "Aanzienlijke ruimteschipwapen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug."
   },
   {
     "Id": "upgrade81",
     "Name": "Positronmodule (A)",
     "Group": "Krachtige ruimteschipwapen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade82",
     "Name": "Positronmodule (S)",
     "Group": "Uitstekende ruimteschipwapen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de positronuitwerper. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade83",
     "Name": "Infraversneller-module (C)",
     "Group": "Ruimteschipwapen-upgrade",
-    "Description": "Een gemiddelde upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug."
   },
   {
     "Id": "upgrade84",
     "Name": "Infraversneller-module (B)",
     "Group": "Aanzienlijke ruimteschipwapen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug."
   },
   {
     "Id": "upgrade85",
     "Name": "Infraversneller-module (A)",
     "Group": "Krachtige ruimteschipwapen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade86",
     "Name": "Infraversneller-module (S)",
     "Group": "Uitstekende ruimteschipwapen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de infraversneller. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade87",
     "Name": "Cyclotron-module (C)",
     "Group": "Ruimteschipwapen-upgrade",
-    "Description": "Een gemiddelde upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid en dringt oververhitting terug."
   },
   {
     "Id": "upgrade88",
     "Name": "Cyclotron-module (B)",
     "Group": "Aanzienlijke ruimteschipwapen-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt oververhitting verder terug."
   },
   {
     "Id": "upgrade89",
     "Name": "Cyclotron-module (A)",
     "Group": "Krachtige ruimteschipwapen-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade90",
     "Name": "Cyclotron-module (S)",
     "Group": "Uitstekende ruimteschipwapen-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de cyclotron-ballista. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt oververhitting nog verder terug."
   },
   {
     "Id": "upgrade91",
     "Name": "Exocraft-kanonmodule (C)",
     "Group": "Wapenupgrade voor de exocraft",
-    "Description": "Een gemiddelde upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en een hogere vuursnelheid en dringt het energieverbruik terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en een hogere vuursnelheid en dringt het energieverbruik terug."
   },
   {
     "Id": "upgrade92",
     "Name": "Exocraft-kanonmodule (B)",
     "Group": "Aanzienlijke wapenupgrade voor de exocraft",
-    "Description": "Een aanzienlijke upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt het energieverbruik verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid aanzienlijk en dringt het energieverbruik verder terug."
   },
   {
     "Id": "upgrade93",
     "Name": "Exocraft-kanonmodule (A)",
     "Group": "Krachtige wapenupgrade voor de exocraft",
-    "Description": "Een zeer krachtige upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt het energieverbruik nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt het energieverbruik nog verder terug."
   },
   {
     "Id": "upgrade94",
     "Name": "Exocraft-kanonmodule (S)",
     "Group": "Uitstekende wapenupgrade voor de exocraft",
-    "Description": "Een uitermate krachtige upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt het energieverbruik nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het exocraft-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de aangerichte schade en de vuursnelheid enorm en dringt het energieverbruik nog verder terug."
   },
   {
     "Id": "upgrade95",
     "Name": "Exocraft-lasermodule (C)",
     "Group": "Wapenupgrade voor de exocraft",
-    "Description": "Een gemiddelde upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht en dringt het brandstofverbruik terug.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht en dringt het brandstofverbruik terug."
   },
   {
     "Id": "upgrade96",
     "Name": "Exocraft-lasermodule (B)",
     "Group": "Aanzienlijke wapenupgrade voor de exocraft",
-    "Description": "Een aanzienlijke upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht aanzienlijk en dringt het brandstofverbruik verder terug.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht aanzienlijk en dringt het brandstofverbruik verder terug."
   },
   {
     "Id": "upgrade97",
     "Name": "Exocraft-lasermodule (A)",
     "Group": "Krachtige wapenupgrade voor de exocraft",
-    "Description": "Een zeer krachtige upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht enorm en dringt het brandstofverbruik nog verder terug.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht enorm en dringt het brandstofverbruik nog verder terug."
   },
   {
     "Id": "upgrade98",
     "Name": "Exocraft-lasermodule (S)",
     "Group": "Uitstekende wapenupgrade voor de exocraft",
-    "Description": "Een uitermate krachtige upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht enorm en dringt het brandstofverbruik nog verder terug.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de exocraft-mijnlaser. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVergroot de mijnkracht enorm en dringt het brandstofverbruik nog verder terug."
   },
   {
     "Id": "upgrade99",
     "Name": "Exocraft-boost-module (C)",
     "Group": "Exocraft-boost-upgrade",
-    "Description": "Een gemiddelde upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie."
   },
   {
     "Id": "upgrade100",
     "Name": "Exocraft-boost-module (B)",
     "Group": "Aanzienlijke exocraft-boost-upgrade",
-    "Description": "Een aanzienlijke upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie aanzienlijk."
   },
   {
     "Id": "upgrade101",
     "Name": "Exocraft-boost-module (A)",
     "Group": "Krachtige exocraft-boost-upgrade",
-    "Description": "Een zeer krachtige upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie enorm."
   },
   {
     "Id": "upgrade102",
     "Name": "Exocraft-boost-module (S)",
     "Group": "Uitstekende exocraft-boost-upgrade",
-    "Description": "Een uitermate krachtige upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de exocraft-acceleratiemodule. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert de capaciteit van de boost-tank en de boost-energie enorm."
   },
   {
     "Id": "upgrade103",
     "Name": "Exocraft-motormodule (C)",
     "Group": "Upgrade voor de exocraft-motor",
-    "Description": "Een gemiddelde upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid."
   },
   {
     "Id": "upgrade104",
     "Name": "Exocraft-motormodule (B)",
     "Group": "Aanzienlijke upgrade voor de exocraft-motor",
-    "Description": "Een aanzienlijke upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid aanzienlijk.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid aanzienlijk."
   },
   {
     "Id": "upgrade105",
     "Name": "Exocraft-motormodule (A)",
     "Group": "Krachtige upgrade voor de exocraft-motor",
-    "Description": "Een zeer krachtige upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid enorm.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid enorm."
   },
   {
     "Id": "upgrade106",
     "Name": "Exocraft-motormodule (S)",
     "Group": "Uitstekende upgrade voor de exocraft-motor",
-    "Description": "Een uitermate krachtige upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid enorm.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de exocraft-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nVerbetert het energieverbruik en de topsnelheid enorm."
   },
   {
     "Id": "upgrade107",
     "Name": "Humboldt-motormodule (C)",
     "Group": "Motorupgrade onderzeeër",
-    "Description": "Een gemiddelde upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid verbeteren.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid verbeteren."
   },
   {
     "Id": "upgrade108",
     "Name": "Humboldt-motormodule (B)",
     "Group": "Aanzienlijke motorupgrade onderzeeër",
-    "Description": "Een aanzienlijke upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid aanzienlijk verbeteren.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid aanzienlijk verbeteren."
   },
   {
     "Id": "upgrade109",
     "Name": "Humboldt-motormodule (A)",
     "Group": "Krachtige motorupgrade onderzeeër",
-    "Description": "Een zeer krachtige upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid enorm verbeteren.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid enorm verbeteren."
   },
   {
     "Id": "upgrade110",
     "Name": "Humboldt-motormodule (S)",
     "Group": "Uitstekende motorupgrade onderzeeër",
-    "Description": "Een uitermate krachtige upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid enorm verbeteren.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor de Humboldt-motor. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de acceleratie, het energieverbruik en de topsnelheid enorm verbeteren."
   },
   {
     "Id": "upgrade111",
     "Name": "Nautilon-kanonmodule (C)",
     "Group": "Nautilon-kanonupgrade",
-    "Description": "Een gemiddelde upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid verbeteren.",
-    "Additional": ""
+    "Description": "Een gemiddelde upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid verbeteren."
   },
   {
     "Id": "upgrade112",
     "Name": "Nautilon-kanonmodule (B)",
     "Group": "Aanzienlijke Nautilon-kanonupgrade",
-    "Description": "Een aanzienlijke upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid aanzienlijk verbeteren.",
-    "Additional": ""
+    "Description": "Een aanzienlijke upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid aanzienlijk verbeteren."
   },
   {
     "Id": "upgrade113",
     "Name": "Nautilon-kanonmodule (A)",
     "Group": "Krachtige Nautilon-kanonupgrade",
-    "Description": "Een zeer krachtige upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid enorm verbeteren.",
-    "Additional": ""
+    "Description": "Een zeer krachtige upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid enorm verbeteren."
   },
   {
     "Id": "upgrade114",
     "Name": "Nautilon-kanonmodule (S)",
     "Group": "Uitstekende Nautilon-kanonupgrade",
-    "Description": "Een uitermate krachtige upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid enorm verbeteren.",
-    "Additional": ""
+    "Description": "Een uitermate krachtige upgrade voor het Nautilon-kanon. Gebruik FE_ALT1 om de upgrade te installeren.\n\nKan de schade en de vuursnelheid enorm verbeteren."
   }
 ]

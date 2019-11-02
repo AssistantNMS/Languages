@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Tabuleta Vy'keen",
     "Group": "Comunhão de Hirk",
-    "Description": "Uma tabuleta de pedra que contém várias linhas de runas complexas. As palavras são incompreensíveis. Elas estão em um dialeto antigo que só não foi esquecido ainda pelos anciões Vy'keens.\n\nO indivíduo que entalhou a pedra devia ter uma habilidade extraordinária. O trabalho é preciso, delicado e ainda assim transmite perfeitamente a agressividade inexorável que o escritor claramente possuía.",
-    "Additional": ""
+    "Description": "Uma tabuleta de pedra que contém várias linhas de runas complexas. As palavras são incompreensíveis. Elas estão em um dialeto antigo que só não foi esquecido ainda pelos anciões Vy'keens.\n\nO indivíduo que entalhou a pedra devia ter uma habilidade extraordinária. O trabalho é preciso, delicado e ainda assim transmite perfeitamente a agressividade inexorável que o escritor claramente possuía."
   },
   {
     "Id": "cur34",
     "Name": "Cubo da Divergência",
     "Group": "Unidade de dados anômala",
-    "Description": "Uma unidade de dados pulsante e intermitente. Ela não parece pertencer a esta realidade.\n\nO cubo passa a impressão de um grito silencioso, a união dos berros congelados das centenas de mentes que estão presas nele.",
-    "Additional": ""
+    "Description": "Uma unidade de dados pulsante e intermitente. Ela não parece pertencer a esta realidade.\n\nO cubo passa a impressão de um grito silencioso, a união dos berros congelados das centenas de mentes que estão presas nele."
   },
   {
     "Id": "cur35",
     "Name": "Relíquia Gek",
     "Group": "Item curioso de valor intermediário",
-    "Description": "Estatueta metálica de uma criatura com uma moeda em seu bico.\n\nÉ popular entre vários comerciantes que a veem como um símbolo de comércio justo e paz.",
-    "Additional": ""
+    "Description": "Estatueta metálica de uma criatura com uma moeda em seu bico.\n\nÉ popular entre vários comerciantes que a veem como um símbolo de comércio justo e paz."
   },
   {
     "Id": "cur36",
     "Name": "GekNip",
     "Group": "Mercadoria",
-    "Description": "Produto comestível muito apreciado pelos Geks.\n\nPermite aos comerciantes bicudos liberar pacotes de gás de aroma muito agradável por um período prolongado.\n\nOs pacotes de gás do Geknip são considerados uma forma de arte e a verdadeira representação da alma Gek.",
-    "Additional": ""
+    "Description": "Produto comestível muito apreciado pelos Geks.\n\nPermite aos comerciantes bicudos liberar pacotes de gás de aroma muito agradável por um período prolongado.\n\nOs pacotes de gás do Geknip são considerados uma forma de arte e a verdadeira representação da alma Gek."
   },
   {
     "Id": "cur37",
     "Name": "Efígie Vy'keen",
     "Group": "Item curioso de valor intermediário",
-    "Description": "Uma peça de madeira pequena entalhada no formato de um drone sentinela.\n\nOs guerreiros a utilizam para entrar em um transe temporário que elimina a necessidade de sono de sua espécie.",
-    "Additional": ""
+    "Description": "Uma peça de madeira pequena entalhada no formato de um drone sentinela.\n\nOs guerreiros a utilizam para entrar em um transe temporário que elimina a necessidade de sono de sua espécie."
   },
   {
     "Id": "cur38",
     "Name": "Adaga Vy'keen",
     "Group": "Mercadoria",
-    "Description": "Arma amplamente usada em cerimônias. É uma parte essencial da tradição e cultura dos Vy'keens.",
-    "Additional": ""
+    "Description": "Arma amplamente usada em cerimônias. É uma parte essencial da tradição e cultura dos Vy'keens."
   },
   {
     "Id": "cur39",
     "Name": "Invólucro Korvax",
     "Group": "Item curioso de valor alto",
-    "Description": "O invólucro metálico de uma forma de vida eletrônica desconectada que estava distante demais de sua espécie para ser substituída por outra entidade.\n\nMuito apreciado por todas as espécies, principalmente os próprios korvax.",
-    "Additional": ""
+    "Description": "O invólucro metálico de uma forma de vida eletrônica desconectada que estava distante demais de sua espécie para ser substituída por outra entidade.\n\nMuito apreciado por todas as espécies, principalmente os próprios korvax."
   },
   {
     "Id": "cur40",
     "Name": "Cubo Korvax",
     "Group": "Mercadoria",
-    "Description": "Dispositivo usado pelos Korvax para o armazenamento de informações históricas e culturais.",
-    "Additional": ""
+    "Description": "Dispositivo usado pelos Korvax para o armazenamento de informações históricas e culturais."
   },
   {
     "Id": "cur41",

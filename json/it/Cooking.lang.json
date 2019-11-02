@@ -1035,553 +1035,474 @@
     "Id": "cook173",
     "Name": "Protociambella appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook174",
     "Name": "Ciambella al caramello",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook175",
     "Name": "Ciambella proteica",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook176",
     "Name": "Pasticcio spettrale",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook177",
     "Name": "Pasticcio di protosalsiccia",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook178",
     "Name": "Pasticcio 'millezampe'",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook179",
     "Name": "Crostata appuntita",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook180",
     "Name": "Crostata della schiusa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook181",
     "Name": "Crostata al formaggio cotto",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook182",
     "Name": "Pasticcio di formaggio e verdure",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook183",
     "Name": "Omelette",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook184",
     "Name": "Omelette mormorante",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook185",
     "Name": "Proto-omelette",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook186",
     "Name": "Omelette parassitica",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook187",
     "Name": "Preparato denso dolce",
     "Group": "Prodotto edibile",
-    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione.",
-    "Additional": ""
+    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione."
   },
   {
     "Id": "cook188",
     "Name": "Preparato piangente",
     "Group": "Prodotto edibile",
-    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione.",
-    "Additional": ""
+    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione."
   },
   {
     "Id": "cook189",
     "Name": "Preparato tormentato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione.",
-    "Additional": ""
+    "Description": "Cibo raffinato creato nel trasformatore di sostanze nutritive.\n\nPuò essere consumato allo stato attuale o sottoposto a ulteriore lavorazione."
   },
   {
     "Id": "cook190",
     "Name": "Torta con crosta di caramello",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta."
   },
   {
     "Id": "cook191",
     "Name": "Torta ribollente",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta."
   },
   {
     "Id": "cook192",
     "Name": "Delizia orribile e appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato per torta."
   },
   {
     "Id": "cook193",
     "Name": "Grida congelate",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook194",
     "Name": "Gelato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook195",
     "Name": "Armonia brinata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook196",
     "Name": "Gelato siderale",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook197",
     "Name": "Gelato stellare",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook198",
     "Name": "Gelato al cioccolato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook199",
     "Name": "Gelato al caramello",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook200",
     "Name": "Gelato alla frutta",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook201",
     "Name": "Gelato alla 'mela'",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook202",
     "Name": "Gelato al miele",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook203",
     "Name": "Gelato perpetuo",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook204",
     "Name": "Vy'gelato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook205",
     "Name": "Gelato speziato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive."
   },
   {
     "Id": "cook206",
     "Name": "Torta peculiare",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook207",
     "Name": "Bizzarria alla panna",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook208",
     "Name": "Bizzarria al caramello",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook209",
     "Name": "Bizzarria di 'mele'",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook210",
     "Name": "Bizzarria spinosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook211",
     "Name": "Bizzarria di marmellata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook212",
     "Name": "Bizzarria allarmante",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook213",
     "Name": "Sfoglia di marmellata irrisolvibile",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook214",
     "Name": "Bizzarria alla crema",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook215",
     "Name": "Sorpresa salata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook216",
     "Name": "Bizzarria interstellare",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   },
   {
     "Id": "cook217",
     "Name": "Bizzarria intrisa di miele",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook218",
     "Name": "Dolce sogno",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook219",
     "Name": "Torta al cioccolato appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook220",
     "Name": "Torta al caramello appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook221",
     "Name": "Sorpresa di frutta appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook222",
     "Name": "Pungigola dolce",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook223",
     "Name": "Trionfo di marmellata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook224",
     "Name": "Ustionatore appiccicoso",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook225",
     "Name": "Torta di miele perpetua",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook226",
     "Name": "Bizzarria alla crema appiccicosa",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook227",
     "Name": "Torta al miele salata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook228",
     "Name": "Delizia celestiale",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato denso dolce."
   },
   {
     "Id": "cook229",
     "Name": "Torta di panna condannata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook230",
     "Name": "Sogno al cioccolato spettrale",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook231",
     "Name": "Torta al caramello piangente",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook232",
     "Name": "Torta di 'mele' delle anime perdute",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook233",
     "Name": "Torta mostruosa soffocante",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook234",
     "Name": "Plum cake terribile con marmellata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook235",
     "Name": "Torta del terrore ardente",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook236",
     "Name": "Torta di vetro",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook237",
     "Name": "Torta angelica al miele",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato extra-soffice.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato extra-soffice."
   },
   {
     "Id": "cook238",
     "Name": "Torta al miele torturata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook239",
     "Name": "Plum cake al miele strisciante",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook240",
     "Name": "Cannolo illimitato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook241",
     "Name": "Bizzarria al cioccolato instabile",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook242",
     "Name": "Incubo caramellato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook243",
     "Name": "Torta del peccato",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook244",
     "Name": "Dilaniatore soffice",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook245",
     "Name": "Frittella tormentata alla marmellata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook246",
     "Name": "Sorpresa ardente alla marmellata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook247",
     "Name": "Mostruosità illimitata",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook248",
     "Name": "Torta dei perduti",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato tormentato. Usare con cautela."
   },
   {
     "Id": "cook249",
     "Name": "Urlatore appiccicoso",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook250",
     "Name": "Torta mostruosa al miele",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di preparato piangente."
   },
   {
     "Id": "cook251",
     "Name": "Prototorta al miele",
     "Group": "Prodotto edibile",
-    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato.",
-    "Additional": ""
+    "Description": "Cibo altamente raffinato creato nel trasformatore di sostanze nutritive.\n\nQuesti nutrienti simili a dolci sono creati con una base di proto-preparato."
   }
 ]

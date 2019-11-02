@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Vy‘keen-Tafel",
     "Group": "Gemeinschaft Hirk",
-    "Description": "Eine Steintafel mit unzähligen Reihen mit komplizierten Runen. Die Worte sind unverständlich, da es sich um einen uralten Dialekt handelt, den nur noch die Vy‘keen-Ältesten sprechen.\n\nWer auch immer diese Runen in den Stein gemeißelt hat, war wirklich etwas Besonderes. Die Runen sind genau und zart, übermitteln aber dennoch die unnachgiebige Aggressivität des Verfassers.",
-    "Additional": ""
+    "Description": "Eine Steintafel mit unzähligen Reihen mit komplizierten Runen. Die Worte sind unverständlich, da es sich um einen uralten Dialekt handelt, den nur noch die Vy‘keen-Ältesten sprechen.\n\nWer auch immer diese Runen in den Stein gemeißelt hat, war wirklich etwas Besonderes. Die Runen sind genau und zart, übermitteln aber dennoch die unnachgiebige Aggressivität des Verfassers."
   },
   {
     "Id": "cur34",
     "Name": "Divergenzwürfel",
     "Group": "Anormale Dateneinheit",
-    "Description": "Eine defekte, pulsierende Dateneinheit. Sie scheint nicht aus dieser Realität zu stammen.\n\nDer Würfel erinnert an einen stillen Schrei, die eingefrorenen Rufe Hunderter verlorener Seelen, die in seinem Inneren eingesperrt sind.",
-    "Additional": ""
+    "Description": "Eine defekte, pulsierende Dateneinheit. Sie scheint nicht aus dieser Realität zu stammen.\n\nDer Würfel erinnert an einen stillen Schrei, die eingefrorenen Rufe Hunderter verlorener Seelen, die in seinem Inneren eingesperrt sind."
   },
   {
     "Id": "cur35",
     "Name": "Gek-Relikt",
     "Group": "Eine Rarität, die nicht besonders wertvoll ist.",
-    "Description": "Eine Metallfigur einer Kreatur, die eine Münze im Schnabel hat.\n \nSie ist bei vielen Händlern beliebt, für die sie ein Symbol des freien Handels und des Friedens ist.",
-    "Additional": ""
+    "Description": "Eine Metallfigur einer Kreatur, die eine Münze im Schnabel hat.\n \nSie ist bei vielen Händlern beliebt, für die sie ein Symbol des freien Handels und des Friedens ist."
   },
   {
     "Id": "cur36",
     "Name": "GekNip",
     "Group": "Verbrauchsgut zum Handeln",
-    "Description": "Ein Nahrungsmittel, das bei den Gek extrem beliebt ist.\n \nDurch den Verzehr können die geschnäbelten Händler über einen längeren Zeitraum angenehm duftendes Gas verströmen.\n \nDas Ausstoßen von GekNip-Gas wird als eine Kunstform und der wahrhaftigste Ausdruck der Gek-Seele betrachtet.",
-    "Additional": ""
+    "Description": "Ein Nahrungsmittel, das bei den Gek extrem beliebt ist.\n \nDurch den Verzehr können die geschnäbelten Händler über einen längeren Zeitraum angenehm duftendes Gas verströmen.\n \nDas Ausstoßen von GekNip-Gas wird als eine Kunstform und der wahrhaftigste Ausdruck der Gek-Seele betrachtet."
   },
   {
     "Id": "cur37",
     "Name": "Vy‘keen-Bildnis",
     "Group": "Eine Rarität, die nicht besonders wertvoll ist.",
-    "Description": "Eine kleine hölzerne Figur, die die Form einer Wächter-Drohne hat.\n \nMit ihr versetzen sich Krieger in einen tranceähnlichen Zustand, in dem sie ihr Verlangen nach Schlaf verlieren.",
-    "Additional": ""
+    "Description": "Eine kleine hölzerne Figur, die die Form einer Wächter-Drohne hat.\n \nMit ihr versetzen sich Krieger in einen tranceähnlichen Zustand, in dem sie ihr Verlangen nach Schlaf verlieren."
   },
   {
     "Id": "cur38",
     "Name": "Vy‘keen-Dolch",
     "Group": "Verbrauchsgut zum Handeln",
-    "Description": "Eher zeremonielle Waffe. Ein zentrales Element der Tradition und Kultur der Vy‘keen.",
-    "Additional": ""
+    "Description": "Eher zeremonielle Waffe. Ein zentrales Element der Tradition und Kultur der Vy‘keen."
   },
   {
     "Id": "cur39",
     "Name": "Korvax-Gehäuse",
     "Group": "Eine wertvolle Rarität.",
-    "Description": "Die metallische Hülle einer toten elektronischen Lebensform, die zu weit von ihrer Art entfernt war, um von einem neuen Wesen in Besitz genommen zu werden.\n \nErzielt bei allen Spezies, v. a. den Korvax, einen hohen Preis.",
-    "Additional": ""
+    "Description": "Die metallische Hülle einer toten elektronischen Lebensform, die zu weit von ihrer Art entfernt war, um von einem neuen Wesen in Besitz genommen zu werden.\n \nErzielt bei allen Spezies, v. a. den Korvax, einen hohen Preis."
   },
   {
     "Id": "cur40",
     "Name": "Korvax-Konvergenz-Würfel",
     "Group": "Verbrauchsgut zum Handeln",
-    "Description": "Diese Gerätschaft wird von den Korvax benutzt, um historische und kulturelle Informationen zu speichern.",
-    "Additional": ""
+    "Description": "Diese Gerätschaft wird von den Korvax benutzt, um historische und kulturelle Informationen zu speichern."
   },
   {
     "Id": "cur41",

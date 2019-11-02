@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Glifo Vy'keen",
     "Group": "Comunión de Hirk",
-    "Description": "Un glifo de piedra que muestra líneas y líneas de runas complejas. Las palabras son inteligibles, pertenecen a un dialecto que han olvidado todos menos los más ancianos de los ancianos de los Vy'keen.\n\nQuienquiera que haya tallado la piedra debe haber sido extremadamente hábil. El trabajo es preciso y delicado, pero aun así es capaz de transmitir a la perfección la agresión incesante de su tallador.",
-    "Additional": ""
+    "Description": "Un glifo de piedra que muestra líneas y líneas de runas complejas. Las palabras son inteligibles, pertenecen a un dialecto que han olvidado todos menos los más ancianos de los ancianos de los Vy'keen.\n\nQuienquiera que haya tallado la piedra debe haber sido extremadamente hábil. El trabajo es preciso y delicado, pero aun así es capaz de transmitir a la perfección la agresión incesante de su tallador."
   },
   {
     "Id": "cur34",
     "Name": "Cubo de divergencia",
     "Group": "Unidad de datos anómala",
-    "Description": "Una unidad de datos pulsante que falla. No parece que pertenezca a esta realidad.\n\nEl cubo parece albergar un grito silencioso; los llantos congelados de cientos de mentes perdidas y atrapadas en su interior.",
-    "Additional": ""
+    "Description": "Una unidad de datos pulsante que falla. No parece que pertenezca a esta realidad.\n\nEl cubo parece albergar un grito silencioso; los llantos congelados de cientos de mentes perdidas y atrapadas en su interior."
   },
   {
     "Id": "cur35",
     "Name": "Reliquia Gek",
     "Group": "Curiosidad de valor medio",
-    "Description": "Estatuilla de metal que representa una criatura con una moneda en el pico.\n \nPopular entre muchos mercaderes que la ven como un emblema del comercio justo y la paz.",
-    "Additional": ""
+    "Description": "Estatuilla de metal que representa una criatura con una moneda en el pico.\n \nPopular entre muchos mercaderes que la ven como un emblema del comercio justo y la paz."
   },
   {
     "Id": "cur36",
     "Name": "Gekitos",
     "Group": "Elemento Primario Comercial",
-    "Description": "Producto comestible adorado por los Gek.\n \nPermite a los mercaderes picudos liberar dosis de un gas delicioso durante un tiempo prolongado.\n \nLas dosis de gas Gekitos se consideran un arte y la auténtica representación del alma Gek.",
-    "Additional": ""
+    "Description": "Producto comestible adorado por los Gek.\n \nPermite a los mercaderes picudos liberar dosis de un gas delicioso durante un tiempo prolongado.\n \nLas dosis de gas Gekitos se consideran un arte y la auténtica representación del alma Gek."
   },
   {
     "Id": "cur37",
     "Name": "Efigie Vy'keen",
     "Group": "Curiosidad de valor medio",
-    "Description": "Ícono de madera pequeño, tallado en la forma de un dron Centinela.\n \nUtilizado por muchos guerreros para entrar en una especie de estado de trance temporal que elimina la necesidad de dormir.",
-    "Additional": ""
+    "Description": "Ícono de madera pequeño, tallado en la forma de un dron Centinela.\n \nUtilizado por muchos guerreros para entrar en una especie de estado de trance temporal que elimina la necesidad de dormir."
   },
   {
     "Id": "cur38",
     "Name": "Daga Vy'keen",
     "Group": "Elemento Primario Comercial",
-    "Description": "Arma principalmente ritual. Es una parte vital de la tradición y la cultura Vy'keen.",
-    "Additional": ""
+    "Description": "Arma principalmente ritual. Es una parte vital de la tradición y la cultura Vy'keen."
   },
   {
     "Id": "cur39",
     "Name": "Carcasa Korvax",
     "Group": "Curiosidad de alto valor",
-    "Description": "La carcasa metálica de un ser vivo electrónico desconectado, que se alejó demasiado de los de su especie y no pudo ser sustituido por un nuevo ente.\n \nMuy valorado por todas las especies, incluso la suya.",
-    "Additional": ""
+    "Description": "La carcasa metálica de un ser vivo electrónico desconectado, que se alejó demasiado de los de su especie y no pudo ser sustituido por un nuevo ente.\n \nMuy valorado por todas las especies, incluso la suya."
   },
   {
     "Id": "cur40",
     "Name": "Cubo Korvax",
     "Group": "Elemento Primario Comercial",
-    "Description": "Dispositivo utilizado por los Korvax para almacenar información cultural e histórica.",
-    "Additional": ""
+    "Description": "Dispositivo utilizado por los Korvax para almacenar información cultural e histórica."
   },
   {
     "Id": "cur41",

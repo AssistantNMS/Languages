@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Vy'keen-tablet",
     "Group": "Gemeenschap van Hirk",
-    "Description": "Een stenen tablet vol met ingewikkelde runen. De woorden zijn onbegrijpelijk, een oeroud dialect dat alleen de oudsten van de Vy'keen nog kennen.\n\nDeze steen moet door een uitzonderlijke hand zijn gegraveerd. De gravering is nauwkeurig en verfijnd, maar brengt toch de tomeloze agressie van de schrijver duidelijk over.",
-    "Additional": ""
+    "Description": "Een stenen tablet vol met ingewikkelde runen. De woorden zijn onbegrijpelijk, een oeroud dialect dat alleen de oudsten van de Vy'keen nog kennen.\n\nDeze steen moet door een uitzonderlijke hand zijn gegraveerd. De gravering is nauwkeurig en verfijnd, maar brengt toch de tomeloze agressie van de schrijver duidelijk over."
   },
   {
     "Id": "cur34",
     "Name": "Divergentiekubus",
     "Group": "Anomalie-gegevensunit",
-    "Description": "Een glitchende, pulserende gegevensunit. Hij lijkt niet thuis te horen in deze realiteit.\n\nDe kubus wekt de indruk van een geluidloze schreeuw, waarin de verstilde kreten van honderden verloren zielen zijn opgesloten.",
-    "Additional": ""
+    "Description": "Een glitchende, pulserende gegevensunit. Hij lijkt niet thuis te horen in deze realiteit.\n\nDe kubus wekt de indruk van een geluidloze schreeuw, waarin de verstilde kreten van honderden verloren zielen zijn opgesloten."
   },
   {
     "Id": "cur35",
     "Name": "Gek-relikwie",
     "Group": "Curiositeit met een gemiddelde waarde",
-    "Description": "Een metalen beeldje van een wezen met een munt in zijn bek.\n \nPopulair bij handelaren, die het beschouwen als een symbool van eerlijke handel en vrede.",
-    "Additional": ""
+    "Description": "Een metalen beeldje van een wezen met een munt in zijn bek.\n \nPopulair bij handelaren, die het beschouwen als een symbool van eerlijke handel en vrede."
   },
   {
     "Id": "cur36",
     "Name": "GekNip",
     "Group": "Handelsproduct",
-    "Description": "Eetbaar product waar de Gek dol op zijn.\n \nNa het eten hiervan laten gesnavelde handelaren nog geruime tijd een heerlijk geurend gas ontsnappen.\n \nHet vrijlaten van GekNip-gas wordt beschouwd als een ware kunstvorm en de ultieme uiting van de Gek-ziel.",
-    "Additional": ""
+    "Description": "Eetbaar product waar de Gek dol op zijn.\n \nNa het eten hiervan laten gesnavelde handelaren nog geruime tijd een heerlijk geurend gas ontsnappen.\n \nHet vrijlaten van GekNip-gas wordt beschouwd als een ware kunstvorm en de ultieme uiting van de Gek-ziel."
   },
   {
     "Id": "cur37",
     "Name": "Vy'keen-beeldje",
     "Group": "Curiositeit met een gemiddelde waarde",
-    "Description": "Een klein houten icoon in de vorm van een Sentinel-drone.\n \nWordt gebruikt door strijders om tijdelijk in trance te raken, zodat ze niet meer hoeven te slapen.",
-    "Additional": ""
+    "Description": "Een klein houten icoon in de vorm van een Sentinel-drone.\n \nWordt gebruikt door strijders om tijdelijk in trance te raken, zodat ze niet meer hoeven te slapen."
   },
   {
     "Id": "cur38",
     "Name": "Dolk van Vy'keen",
     "Group": "Handelsproduct",
-    "Description": "Een ceremonieel wapen. Een essentieel onderdeel van de traditie en de cultuur van de Vy'keen.",
-    "Additional": ""
+    "Description": "Een ceremonieel wapen. Een essentieel onderdeel van de traditie en de cultuur van de Vy'keen."
   },
   {
     "Id": "cur39",
     "Name": "Korvax-omhulsel",
     "Group": "Curiositeit met een hoge waarde",
-    "Description": "Het metalen omhulsel van een ontkoppelde elektronische levensvorm. Het was te ver weg van de bron om weer te worden gevuld met een nieuwe entiteit.\n \nZeer waardevol voor alle soorten en zeker voor de elektronische levensvormen zelf.",
-    "Additional": ""
+    "Description": "Het metalen omhulsel van een ontkoppelde elektronische levensvorm. Het was te ver weg van de bron om weer te worden gevuld met een nieuwe entiteit.\n \nZeer waardevol voor alle soorten en zeker voor de elektronische levensvormen zelf."
   },
   {
     "Id": "cur40",
     "Name": "Kubus van Korvax-verbond",
     "Group": "Handelsproduct",
-    "Description": "Apparaat dat door de Korvax wordt gebruikt voor de opslag van historische en culturele informatie.",
-    "Additional": ""
+    "Description": "Apparaat dat door de Korvax wordt gebruikt voor de opslag van historische en culturele informatie."
   },
   {
     "Id": "cur41",

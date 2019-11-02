@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Tablette Vy'keen",
     "Group": "Communion de Hirk",
-    "Description": "Une tablette de pierre sur laquelle apparaissent des lignes et des lignes de runes intriquées. Les mots sont illisibles, un ancien dialecte oublié par tous, sauf le plus âgé des aînés Vy'keen.\n\nLa main qui a gravé la pierre devait être extraordinaire. Les gravures ont beau être fines et précises, elles expriment tout de même la féroce agressivité de leur auteur.",
-    "Additional": ""
+    "Description": "Une tablette de pierre sur laquelle apparaissent des lignes et des lignes de runes intriquées. Les mots sont illisibles, un ancien dialecte oublié par tous, sauf le plus âgé des aînés Vy'keen.\n\nLa main qui a gravé la pierre devait être extraordinaire. Les gravures ont beau être fines et précises, elles expriment tout de même la féroce agressivité de leur auteur."
   },
   {
     "Id": "cur34",
     "Name": "Cube de la Divergence",
     "Group": "Unité de données anormale",
-    "Description": "Une unité de données instable et clignotante. Elle ne semble pas appartenir à cette réalité.\n\nLe cube évoque un cri silencieux, les hurlements gelés des milliers d'esprits piégés à l'intérieur.",
-    "Additional": ""
+    "Description": "Une unité de données instable et clignotante. Elle ne semble pas appartenir à cette réalité.\n\nLe cube évoque un cri silencieux, les hurlements gelés des milliers d'esprits piégés à l'intérieur."
   },
   {
     "Id": "cur35",
     "Name": "Relique gek",
     "Group": "Curiosité de valeur moyenne",
-    "Description": "Statuette métallique représentant une créature portant une pièce dans son bec.\n\nPrisée par de nombreux marchands qui la considèrent comme un emblème de commerce équitable et de paix.",
-    "Additional": ""
+    "Description": "Statuette métallique représentant une créature portant une pièce dans son bec.\n\nPrisée par de nombreux marchands qui la considèrent comme un emblème de commerce équitable et de paix."
   },
   {
     "Id": "cur36",
     "Name": "CrokGek",
     "Group": "Marchandise",
-    "Description": "Produit comestible dont les Gek sont friands.\n\nPermet aux marchands aviformes d'émettre des gaz délicieusement parfumés pendant une période prolongée.\n\nLes nuages de gaz CrokGek sont considérés comme une forme d'art et comme la plus pure expression de l'âme gek.",
-    "Additional": ""
+    "Description": "Produit comestible dont les Gek sont friands.\n\nPermet aux marchands aviformes d'émettre des gaz délicieusement parfumés pendant une période prolongée.\n\nLes nuages de gaz CrokGek sont considérés comme une forme d'art et comme la plus pure expression de l'âme gek."
   },
   {
     "Id": "cur37",
     "Name": "Effigie vy'keen",
     "Group": "Curiosité de valeur moyenne",
-    "Description": "Petite icône de bois sculpté représentant un drone sentinelle.\n\nUtilisée par les guerriers afin d'entrer dans un état de transe éliminant le besoin de sommeil de leur espèce.",
-    "Additional": ""
+    "Description": "Petite icône de bois sculpté représentant un drone sentinelle.\n\nUtilisée par les guerriers afin d'entrer dans un état de transe éliminant le besoin de sommeil de leur espèce."
   },
   {
     "Id": "cur38",
     "Name": "Dague vy'keen",
     "Group": "Marchandise",
-    "Description": "Une arme plutôt destinée aux cérémonies rituelles, profondément ancrée dans la culture et les traditions des Vy'keen.",
-    "Additional": ""
+    "Description": "Une arme plutôt destinée aux cérémonies rituelles, profondément ancrée dans la culture et les traditions des Vy'keen."
   },
   {
     "Id": "cur39",
     "Name": "Enveloppe korvax",
     "Group": "Curiosité de grande valeur",
-    "Description": "L'enveloppe métallique d'une forme de vie électronique trop éloignée de ses pairs pour recevoir une nouvelle entité.\n\nTrès prisée par toutes les espèces, en particulier la sienne.",
-    "Additional": ""
+    "Description": "L'enveloppe métallique d'une forme de vie électronique trop éloignée de ses pairs pour recevoir une nouvelle entité.\n\nTrès prisée par toutes les espèces, en particulier la sienne."
   },
   {
     "Id": "cur40",
     "Name": "Cube de la convergence",
     "Group": "Marchandise",
-    "Description": "Un appareil utilisé par les Korvax pour stocker des informations relatives à l'histoire et la culture.",
-    "Additional": ""
+    "Description": "Un appareil utilisé par les Korvax pour stocker des informations relatives à l'histoire et la culture."
   },
   {
     "Id": "cur41",

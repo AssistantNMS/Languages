@@ -1035,553 +1035,474 @@
     "Id": "cook173",
     "Name": "Ciągnący się protopączek",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook174",
     "Name": "Pączek z karmelem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook175",
     "Name": "Pączek białkowy",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook176",
     "Name": "Nawiedzona zapiekanka",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook177",
     "Name": "Zapiekanka z protokiełbasą",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook178",
     "Name": "„Udziec w cieście”",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook179",
     "Name": "Kolczasta tarta",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook180",
     "Name": "Tarta odradzająca",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook181",
     "Name": "Tarta z pieczonym serem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook182",
     "Name": "Zapiekanka serowo-warzywna",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook183",
     "Name": "Omlet",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook184",
     "Name": "Szepczący omlet",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook185",
     "Name": "Protoomlet",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook186",
     "Name": "Pasożytniczy omlet",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook187",
     "Name": "Gęsta, słodka masa na ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce.",
-    "Additional": ""
+    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce."
   },
   {
     "Id": "cook188",
     "Name": "Doskonała masa na ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce.",
-    "Additional": ""
+    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce."
   },
   {
     "Id": "cook189",
     "Name": "Wijąca się, rozkłócona masa na ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce.",
-    "Additional": ""
+    "Description": "Wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.\n\nMożna spożyć natychmiast lub poddać dalszej obróbce."
   },
   {
     "Id": "cook190",
     "Name": "Ciasto z polewą karmelową",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto."
   },
   {
     "Id": "cook191",
     "Name": "Wiecznie wrzące ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto."
   },
   {
     "Id": "cook192",
     "Name": "Przerażający kleisty frykas",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci masy na ciasto."
   },
   {
     "Id": "cook193",
     "Name": "Mrożone krzyki",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook194",
     "Name": "Lody",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook195",
     "Name": "Słony szron",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook196",
     "Name": "Śmiertelnie zimne lody",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook197",
     "Name": "Gwiezdne lody",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook198",
     "Name": "Lody czekoladowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook199",
     "Name": "Lody karmelowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook200",
     "Name": "Lody owocowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook201",
     "Name": "Lody „jabłkowe”",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook202",
     "Name": "Lody miodowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook203",
     "Name": "Wieczne lody",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook204",
     "Name": "Vy'lody",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook205",
     "Name": "Lody korzenne",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt jadalny, stworzony w przetwarzaczu składników odżywczych."
   },
   {
     "Id": "cook206",
     "Name": "Dziwaczne ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook207",
     "Name": "Ciekawostka ze śmietanką",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook208",
     "Name": "Ciekawostka karmelowa",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook209",
     "Name": "Ciekawostka „jabłkowa”",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook210",
     "Name": "Kolczasta ciekawostka",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook211",
     "Name": "Ciekawostka z dżemem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook212",
     "Name": "Zaskakujący smakołyk",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook213",
     "Name": "Błędna rolada z dżemem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook214",
     "Name": "Ciekawostka z kremem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook215",
     "Name": "Słona niespodzianka",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook216",
     "Name": "Międzygwiezdna ciekawostka",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   },
   {
     "Id": "cook217",
     "Name": "Smakołyk w miodzie",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook218",
     "Name": "Słodkie marzenia śmietankowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook219",
     "Name": "Kleiste ciasto czekoladowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook220",
     "Name": "Kleiste ciasto karmelowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook221",
     "Name": "Kleista owocowa niespodzianka",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook222",
     "Name": "Gardłoklejka z miodem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook223",
     "Name": "Dżemobuszki",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook224",
     "Name": "Kleisty wypalacz gęb",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook225",
     "Name": "Wieczne ciasto miodowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook226",
     "Name": "Kleisty smakołyk z kremem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook227",
     "Name": "Ciasto miodowe z solą",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook228",
     "Name": "Frykas narodzin gwiazdy",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci gęstej, słodkiej masy na ciasto."
   },
   {
     "Id": "cook229",
     "Name": "Przeklęte ciasto ze śmietanką",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook230",
     "Name": "Nawiedzone marzenia czekoladowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook231",
     "Name": "Doskonałe ciasto karmelowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook232",
     "Name": "Ciasto „jabłkowe” zaginionych dusz",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook233",
     "Name": "Duszące potworne ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook234",
     "Name": "Okropny biszkopt z dżemem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook235",
     "Name": "Ciasto płonących trupów",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook236",
     "Name": "Szklane ciasto",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook237",
     "Name": "Anielskie ciasto z miodem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wyjątkowo puszystej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wyjątkowo puszystej masy na ciasto."
   },
   {
     "Id": "cook238",
     "Name": "Udręczone ciasto miodowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook239",
     "Name": "Swędzący, pełzający biszkopt z miodem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook240",
     "Name": "Rozwinięty rożek ze śmietanką",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook241",
     "Name": "Wrażliwy smakołyk czekoladowy",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook242",
     "Name": "Karmelizowany koszmar",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook243",
     "Name": "Ciasto grzechu",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook244",
     "Name": "Puszysty rozpruwacz gardeł",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook245",
     "Name": "Wijący się ptyś z dżemem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook246",
     "Name": "Płonąca niespodzianka z dżemem",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook247",
     "Name": "Rozwinięta potworność",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook248",
     "Name": "Ciasto zagubionych",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci wijącej się, rozkłóconej masy na ciasto. Zalecana pewna doza ostrożności."
   },
   {
     "Id": "cook249",
     "Name": "Kleisty odlot",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook250",
     "Name": "Potworne ciasto miodowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci doskonałej masy na ciasto."
   },
   {
     "Id": "cook251",
     "Name": "Protociasto miodowe",
     "Group": "Produkt jadalny",
-    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto.",
-    "Additional": ""
+    "Description": "Silnie wzbogacony produkt żywnościowy stworzony w przetwarzaczu składników odżywczych.\n\nTe podobne do ciast składniki odżywcze są przygotowywane z bazy w postaci protomasy na ciasto."
   }
 ]

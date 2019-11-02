@@ -1035,553 +1035,474 @@
     "Id": "cook173",
     "Name": "Donut synthétique visqueux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook174",
     "Name": "Donut au caramel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook175",
     "Name": "Donut protéique",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook176",
     "Name": "Tarte hantée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook177",
     "Name": "Tarte à la protosaucisse",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook178",
     "Name": "Pâté en croûte",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook179",
     "Name": "Tarte pointue",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook180",
     "Name": "Tartelette de ponte",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook181",
     "Name": "Tartelette au fromage dorée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook182",
     "Name": "Tarte fromagère aux légumes",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook183",
     "Name": "Omelette",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook184",
     "Name": "Omelette chuchoteuse",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook185",
     "Name": "Protomelette",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook186",
     "Name": "Omelette parasitique",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook187",
     "Name": "Pâte épaisse sucrée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements."
   },
   {
     "Id": "cook188",
     "Name": "Pâte gémissante",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements."
   },
   {
     "Id": "cook189",
     "Name": "Pâte bouillonnante",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire raffinée créée à partir du processeur de nutriments.\n\nElle peut être consommée telle quelle ou être soumise à davantage de traitements."
   },
   {
     "Id": "cook190",
     "Name": "Gâteau à la croûte de caramel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau."
   },
   {
     "Id": "cook191",
     "Name": "Gâteau toujours bouillant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau."
   },
   {
     "Id": "cook192",
     "Name": "Délice horriblement visqueux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte à gâteau."
   },
   {
     "Id": "cook193",
     "Name": "Cris glacés",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook194",
     "Name": "Crème glacée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook195",
     "Name": "Givre saumâtre",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook196",
     "Name": "Crème glacée mortellement froide",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook197",
     "Name": "Crème glacée stellaire",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook198",
     "Name": "Crème glacée au chocolat",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook199",
     "Name": "Crème glacée au caramel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook200",
     "Name": "Crème glacée aux fruits",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook201",
     "Name": "Crème glacée à la « pomme »",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook202",
     "Name": "Crème glacée au miel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook203",
     "Name": "Crème glacée éternelle",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook204",
     "Name": "Vy'crème glacée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook205",
     "Name": "Glace épicée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée à partir du processeur de nutriments."
   },
   {
     "Id": "cook206",
     "Name": "Gâteau très étrange",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook207",
     "Name": "Curiosité à la crème",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook208",
     "Name": "Curiosité au caramel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook209",
     "Name": "Curiosité à la « pomme »",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook210",
     "Name": "Curiosité épineuse",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook211",
     "Name": "Curiosité en confiture",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook212",
     "Name": "Caprice saisissant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook213",
     "Name": "Chausson à la confiture insoluble",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook214",
     "Name": "Curiosité à la crème pâtissière",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook215",
     "Name": "Surprise salée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook216",
     "Name": "Curiosité interstellaire",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   },
   {
     "Id": "cook217",
     "Name": "Caprice imbibé de miel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook218",
     "Name": "Rêves de crème",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook219",
     "Name": "Gâteau au chocolat coulant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook220",
     "Name": "Gâteau au caramel coulant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook221",
     "Name": "Surprise aux fruits visqueuse",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook222",
     "Name": "Colle-gorge au miel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook223",
     "Name": "Suintants à la confiture",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook224",
     "Name": "Brûle-bouche visqueux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook225",
     "Name": "Gâteau au miel perpétuel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook226",
     "Name": "Caprice visqueux à la crème pâtissière",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook227",
     "Name": "Gâteau au miel salé",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook228",
     "Name": "Délice des étoiles",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte épaisse sucrée."
   },
   {
     "Id": "cook229",
     "Name": "Gâteau à la crème maudit",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook230",
     "Name": "Rêves de chocolat hantés",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook231",
     "Name": "Gâteau au caramel gémissant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook232",
     "Name": "Gâteau des âmes perdues aux « pommes »",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook233",
     "Name": "Gâteau monstrueux étouffant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook234",
     "Name": "Génoise à la confiture abominable",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook235",
     "Name": "Gâteau de terreur ardente",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook236",
     "Name": "Gâteau de verre",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook237",
     "Name": "Gâteau des anges au miel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte aérienne.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte aérienne."
   },
   {
     "Id": "cook238",
     "Name": "Gâteau au miel torturé",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook239",
     "Name": "Génoise au miel irritante",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook240",
     "Name": "Cône à la crème libre",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook241",
     "Name": "Caprice au chocolat volatile",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook242",
     "Name": "Cauchemar caramélisé",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook243",
     "Name": "Gâteau du péché",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook244",
     "Name": "Déchire-gorge moelleux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook245",
     "Name": "Beignet à la confiture frémissant",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook246",
     "Name": "Surprise à la confiture brûlante",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook247",
     "Name": "Monstruosité libérée",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook248",
     "Name": "Gâteau des perdus",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte bouillonnante. La prudence est de mise."
   },
   {
     "Id": "cook249",
     "Name": "Hurleur visqueux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook250",
     "Name": "Gâteau au miel monstrueux",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de pâte gémissante."
   },
   {
     "Id": "cook251",
     "Name": "Protogâteau au miel",
     "Group": "Produit comestible",
-    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte.",
-    "Additional": ""
+    "Description": "Une denrée alimentaire hautement raffinée créée avec le processeur de nutriments.\n\nCes nutriments rappelant des gâteaux sont fabriqués à partir de protopâte."
   }
 ]

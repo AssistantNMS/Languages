@@ -1035,553 +1035,474 @@
     "Id": "cook173",
     "Name": "Protodónut empalagoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook174",
     "Name": "Dónut de caramelo",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook175",
     "Name": "Dónut proteínico",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook176",
     "Name": "Pastel encantado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook177",
     "Name": "Pastel de protosalchicha",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook178",
     "Name": "Pastel de patas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook179",
     "Name": "Tarta punzante",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook180",
     "Name": "Tarta del desove",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook181",
     "Name": "Tarta de queso al horno",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook182",
     "Name": "Tarta de queso vegetariano",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook183",
     "Name": "Tortilla",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook184",
     "Name": "Tortilla susurrante",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook185",
     "Name": "Prototortilla",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook186",
     "Name": "Tortilla parasitaria",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook187",
     "Name": "Masa espesa y dulce",
     "Group": "Producto comestible",
-    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional.",
-    "Additional": ""
+    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional."
   },
   {
     "Id": "cook188",
     "Name": "Masa quejumbrosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional.",
-    "Additional": ""
+    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional."
   },
   {
     "Id": "cook189",
     "Name": "Masa retorcida y enturbiada",
     "Group": "Producto comestible",
-    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional.",
-    "Additional": ""
+    "Description": "Un alimento refinado, creado en el procesador de nutrientes.\n\nSe puede consumir tal cual o someterlo a un procesamiento adicional."
   },
   {
     "Id": "cook190",
     "Name": "Bizcocho de caramelo incrustado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho."
   },
   {
     "Id": "cook191",
     "Name": "Bizcocho en constante ebullición",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho."
   },
   {
     "Id": "cook192",
     "Name": "Delicia horrorosa y empalagosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa de bizcocho."
   },
   {
     "Id": "cook193",
     "Name": "Gritos helados",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook194",
     "Name": "Helado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook195",
     "Name": "Escarcha salada",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook196",
     "Name": "Helado de frío letal",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook197",
     "Name": "Helado de estrellas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook198",
     "Name": "Helado de chocolate",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook199",
     "Name": "Helado de caramelo",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook200",
     "Name": "Helado de frutas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook201",
     "Name": "Helado de «manzana»",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook202",
     "Name": "Helado de miel",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook203",
     "Name": "Helado perpetuo",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook204",
     "Name": "Vy'Lado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook205",
     "Name": "Hielo especiado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes."
   },
   {
     "Id": "cook206",
     "Name": "Bizcocho curioso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook207",
     "Name": "Curiosidad de nata",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook208",
     "Name": "Curiosidad de caramelo",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook209",
     "Name": "Curiosidad de «manzana»",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook210",
     "Name": "Curiosidad espinosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook211",
     "Name": "Curiosidad de mermelada",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook212",
     "Name": "Pastas llamativas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook213",
     "Name": "Sucedáneo de mermelada insoluble",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook214",
     "Name": "Curiosidad de natillas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook215",
     "Name": "Sorpresa salada",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook216",
     "Name": "Curiosidad interestelar",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   },
   {
     "Id": "cook217",
     "Name": "Pastas bañadas en miel",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook218",
     "Name": "Dulces sueños de nata",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook219",
     "Name": "Bizcocho de chocolate empalagoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook220",
     "Name": "Bizcocho de caramelo empalagoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook221",
     "Name": "Sorpresa frutal empalagosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook222",
     "Name": "Pinchagargantas a la miel",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook223",
     "Name": "Rezumaderos de mermelada",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook224",
     "Name": "Ardebocas empalagoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook225",
     "Name": "Bizcocho de miel perpetuo",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook226",
     "Name": "Pastas de natillas empalagosas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook227",
     "Name": "Bizcocho de miel salado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook228",
     "Name": "Delicia de nacimiento de estrella",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa espesa y dulce."
   },
   {
     "Id": "cook229",
     "Name": "Bizcocho de nata maldito",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook230",
     "Name": "Sueños encantados de chocolate",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook231",
     "Name": "Bizcocho de caramelo quejumbroso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook232",
     "Name": "Bizcocho de «manzana» de las almas perdidas",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook233",
     "Name": "Bizcocho de monstruosidad asfixiante",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook234",
     "Name": "Bizcotela de mermelada espantosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook235",
     "Name": "Bizcocho de temor acuciante",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook236",
     "Name": "Bizcocho de cristal",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook237",
     "Name": "Bizcocho de ángel a la miel",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa extraexponjosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa extraexponjosa."
   },
   {
     "Id": "cook238",
     "Name": "Bizcocho de miel torturado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook239",
     "Name": "Bizcotela de miel desazonadora y asquerosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook240",
     "Name": "Cuerno de nata inabarcable",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook241",
     "Name": "Pastas de chocolate volátil",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook242",
     "Name": "Pesadilla caramelizada",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook243",
     "Name": "Bizcocho del pecado",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook244",
     "Name": "Desgarragargantas esponjoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook245",
     "Name": "Hojaldre de mermelada retorcido",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook246",
     "Name": "Sorpresa de mermelada ardiente",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook247",
     "Name": "Monstruosidad inabarcable",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook248",
     "Name": "Bizcocho de los perdidos",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa retorcida y enturbiada. Se recomienda cierta precaución."
   },
   {
     "Id": "cook249",
     "Name": "Gritón empalagoso",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook250",
     "Name": "Bizcocho de miel monstruosa",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de masa quejumbrosa."
   },
   {
     "Id": "cook251",
     "Name": "Protobizcocho de miel",
     "Group": "Producto comestible",
-    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa.",
-    "Additional": ""
+    "Description": "Un alimento altamente refinado, creado en el procesador de nutrientes.\n\nEstos nutrientes en forma de bizcocho se procesan a partir de protomasa."
   }
 ]

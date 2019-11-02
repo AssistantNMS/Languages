@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Tavoletta Vy'keen",
     "Group": "Comunione di Hirk",
-    "Description": "Una tavoletta di pietra con file e file di rune intricate. Le parole di questo antico dialetto sono indecifrabili, dimenticate da tutti con l'eccezione dei più longevi anziani Vy'keen.\n\nLa mano che ha intagliato questa pietra dev'essere stata straordinaria. La cesellatura è precisa e delicata, ma trasmette comunque alla perfezione l'aggressività del suo autore.",
-    "Additional": ""
+    "Description": "Una tavoletta di pietra con file e file di rune intricate. Le parole di questo antico dialetto sono indecifrabili, dimenticate da tutti con l'eccezione dei più longevi anziani Vy'keen.\n\nLa mano che ha intagliato questa pietra dev'essere stata straordinaria. La cesellatura è precisa e delicata, ma trasmette comunque alla perfezione l'aggressività del suo autore."
   },
   {
     "Id": "cur34",
     "Name": "Cubo della divergenza",
     "Group": "Unità di dati anomala",
-    "Description": "Un'unità dati pulsante e malfunzionante. Non sembra appartenere a questa realtà.\n\nIl cubo dà l'impressione di essere un urlo silenzioso, il grido di centinaia di menti smarrite e intrappolate al suo interno.",
-    "Additional": ""
+    "Description": "Un'unità dati pulsante e malfunzionante. Non sembra appartenere a questa realtà.\n\nIl cubo dà l'impressione di essere un urlo silenzioso, il grido di centinaia di menti smarrite e intrappolate al suo interno."
   },
   {
     "Id": "cur35",
     "Name": "Reliquia Gek",
     "Group": "Curiosità di medio valore",
-    "Description": "Una statuetta di metallo di una creatura con una moneta nel becco.\n \nPopolare fra numerosi mercanti, che la considerano un emblema di commercio equo e di pace.",
-    "Additional": ""
+    "Description": "Una statuetta di metallo di una creatura con una moneta nel becco.\n \nPopolare fra numerosi mercanti, che la considerano un emblema di commercio equo e di pace."
   },
   {
     "Id": "cur36",
     "Name": "Erba Gek",
     "Group": "Bene di scambio",
-    "Description": "Il prodotto commestibile preferito dai Gek.\n \nPermette ai mercanti col becco di sprigionare nubi di gas profumato per un periodo prolungato.\n \nLe nubi di gas di erba Gek sono considerate una forma d'arte e la vera essenza dell'anima di un Gek.",
-    "Additional": ""
+    "Description": "Il prodotto commestibile preferito dai Gek.\n \nPermette ai mercanti col becco di sprigionare nubi di gas profumato per un periodo prolungato.\n \nLe nubi di gas di erba Gek sono considerate una forma d'arte e la vera essenza dell'anima di un Gek."
   },
   {
     "Id": "cur37",
     "Name": "Effigie Vy'keen",
     "Group": "Curiosità di medio valore",
-    "Description": "Una piccola icona di legno inciso, a forma di drone Sentinella.\n \nUsata dai guerrieri per entrare in uno stato temporaneo di trance, che elimina il bisogno di sonno.",
-    "Additional": ""
+    "Description": "Una piccola icona di legno inciso, a forma di drone Sentinella.\n \nUsata dai guerrieri per entrare in uno stato temporaneo di trance, che elimina il bisogno di sonno."
   },
   {
     "Id": "cur38",
     "Name": "Pugnale Vy'keen",
     "Group": "Bene di scambio",
-    "Description": "Arma dall'utilizzo soprattutto cerimoniale, considerata una parte vitale della tradizione e della cultura dei Vy'keen.",
-    "Additional": ""
+    "Description": "Arma dall'utilizzo soprattutto cerimoniale, considerata una parte vitale della tradizione e della cultura dei Vy'keen."
   },
   {
     "Id": "cur39",
     "Name": "Involucro Korvax",
     "Group": "Curiosità di alto valore",
-    "Description": "Il guscio metallico di un essere elettronico disconnesso, troppo lontano dalla propria razza per essere aggiornato con una nuova entità.\n \nEstremamente apprezzato da tutte le specie, soprattutto dalla sua.",
-    "Additional": ""
+    "Description": "Il guscio metallico di un essere elettronico disconnesso, troppo lontano dalla propria razza per essere aggiornato con una nuova entità.\n \nEstremamente apprezzato da tutte le specie, soprattutto dalla sua."
   },
   {
     "Id": "cur40",
     "Name": "Cubo della Convergenza",
     "Group": "Bene di scambio",
-    "Description": "Dispositivo utilizzato dai Korvax per conservare informazioni storiche e culturali.",
-    "Additional": ""
+    "Description": "Dispositivo utilizzato dai Korvax per conservare informazioni storiche e culturali."
   },
   {
     "Id": "cur41",

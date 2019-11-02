@@ -765,85 +765,73 @@
     "Id": "build129",
     "Name": "Gammakruid",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een lichtgevende plant met veel bladeren die gedijt in radioactieve omgevingen en in grote hoeveelheden kan worden geoogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in radioactieve omgevingen.\n\nGeschatte groeitijd: 4 uur",
-    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+    "Description": "Een lichtgevende plant met veel bladeren die gedijt in radioactieve omgevingen en in grote hoeveelheden kan worden geoogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in radioactieve omgevingen.\n\nGeschatte groeitijd: 4 uur"
   },
   {
     "Id": "build130",
     "Name": "Schimmelcluster",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een bolvormige zwam met interne lamellen die alleen is te vinden in giftige omgevingen. Schimmelclusters kunnen worden overgeplant voor de teelt, wat resulteert in een overvloedige oogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te kweken in giftige omgevingen.\n\nGeschatte groeitijd: 4 uur",
-    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+    "Description": "Een bolvormige zwam met interne lamellen die alleen is te vinden in giftige omgevingen. Schimmelclusters kunnen worden overgeplant voor de teelt, wat resulteert in een overvloedige oogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te kweken in giftige omgevingen.\n\nGeschatte groeitijd: 4 uur"
   },
   {
     "Id": "build131",
     "Name": "Winterkruid",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een grote kristalbloem met felblauwe bloesem. Alleen te vinden in sneeuw. Winterkruid is een betrouwbaar gewas dat ook gedijt onder moeilijke omstandigheden en daardoor zeer regelmatig kan worden geoogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in bevroren omgevingen.\n\nGeschatte groeitijd: 1 uur",
-    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+    "Description": "Een grote kristalbloem met felblauwe bloesem. Alleen te vinden in sneeuw. Winterkruid is een betrouwbaar gewas dat ook gedijt onder moeilijke omstandigheden en daardoor zeer regelmatig kan worden geoogst.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in bevroren omgevingen.\n\nGeschatte groeitijd: 1 uur"
   },
   {
     "Id": "build132",
     "Name": "Gifdistel",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een onschuldig uitziend plantje waarvan de bladeren regelmatig een kleine hoeveelheid van het krachtige en waardevolle gifblaas afgeven.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 3 uur 20 minuten",
-    "Additional": "1 Sac Venom in roughly 3 hours 20 minutes of real time"
+    "Description": "Een onschuldig uitziend plantje waarvan de bladeren regelmatig een kleine hoeveelheid van het krachtige en waardevolle gifblaas afgeven.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 3 uur 20 minuten"
   },
   {
     "Id": "build133",
     "Name": "Zonnekruiper",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Deze 'levende steen' is aangepast om te overleven in de extreme hitte van verschroeide omgevingen. Hij is in de meeste omgevingen te kweken en kan in gemiddelde hoeveelheden worden gewonnen.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in warme omgevingen.\n\nGeschatte groeitijd: 16 uur",
-    "Additional": "78 Solanium in roughly 16 hours of real time"
+    "Description": "Deze 'levende steen' is aangepast om te overleven in de extreme hitte van verschroeide omgevingen. Hij is in de meeste omgevingen te kweken en kan in gemiddelde hoeveelheden worden gewonnen.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in warme omgevingen.\n\nGeschatte groeitijd: 16 uur"
   },
   {
     "Id": "build134",
     "Name": "Buikrotbloem",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een stinkende bloem die de chemische structuur van uitwerpselen reproduceert. Als de bloem binnen wordt geplant, levert dit een faeciumoogst op.\n\nEen goed alternatief voor het handmatig verzamelen van faecium, waarbij je wezens moet voeren om hun uitwerpselen te oogsten. Je kunt buikrotbloemen alleen verbouwen in een hydrocultuurbak.\n\nGeschatte groeitijd: 4 uur",
-    "Additional": "39 Faecium in roughly 4 hours of real time"
+    "Description": "Een stinkende bloem die de chemische structuur van uitwerpselen reproduceert. Als de bloem binnen wordt geplant, levert dit een faeciumoogst op.\n\nEen goed alternatief voor het handmatig verzamelen van faecium, waarbij je wezens moet voeren om hun uitwerpselen te oogsten. Je kunt buikrotbloemen alleen verbouwen in een hydrocultuurbak.\n\nGeschatte groeitijd: 4 uur"
   },
   {
     "Id": "build135",
     "Name": "Gravitino-gastheer",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een vreemde, mogelijk parasitaire plant die sporadisch de zeer gewilde gravitino-ballen oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 2 uur",
-    "Additional": "1 Gravitino Ball in roughly 2 hours of real time"
+    "Description": "Een vreemde, mogelijk parasitaire plant die sporadisch de zeer gewilde gravitino-ballen oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 2 uur"
   },
   {
     "Id": "build136",
     "Name": "Mordietwortel",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een oneetbare knol die een kleine hoeveelheid mordietkristallen produceert.\n\nEen vreedzaam alternatief voor het verzamelen van mordiet uit de overblijfselen van wezens. Je kunt mordietwortel alleen verbouwen in een hydrocultuurbak.\n\nGeschatte groeitijd: 8 uur",
-    "Additional": "39 Mordite in roughly 8 hours of real time"
+    "Description": "Een oneetbare knol die een kleine hoeveelheid mordietkristallen produceert.\n\nEen vreedzaam alternatief voor het verzamelen van mordiet uit de overblijfselen van wezens. Je kunt mordietwortel alleen verbouwen in een hydrocultuurbak.\n\nGeschatte groeitijd: 8 uur"
   },
   {
     "Id": "build137",
     "Name": "Echinocactus",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Echinocactus groeit in kale omgevingen en is bestand tegen lange periodes van droogte. Deze eetbare vetplant is goed te kweken en levert een grote, maar sporadische oogst op.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in kale omgevingen.\n\nGeschatte groeitijd: 16 uur",
-    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+    "Description": "Echinocactus groeit in kale omgevingen en is bestand tegen lange periodes van droogte. Deze eetbare vetplant is goed te kweken en levert een grote, maar sporadische oogst op.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in kale omgevingen.\n\nGeschatte groeitijd: 16 uur"
   },
   {
     "Id": "build138",
     "Name": "Sterrenstruik",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Een middelgrote plant die sporadisch zeer waardevolle sterrenbollen oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in rijk begroeide omgevingen.\n\nGeschatte groeitijd: 4 uur",
-    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+    "Description": "Een middelgrote plant die sporadisch zeer waardevolle sterrenbollen oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in rijk begroeide omgevingen.\n\nGeschatte groeitijd: 4 uur"
   },
   {
     "Id": "build139",
     "Name": "Proteïneparel",
     "Group": "Bolproducerende plant",
-    "Description": "Een middelgrote kristalbol die af en toe zeer waardevolle proteïneparels oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 80 min.",
-    "Additional": "1 Albumen Pearl in roughly 2 hours of real time"
+    "Description": "Een middelgrote kristalbol die af en toe zeer waardevolle proteïneparels oplevert.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Kan niet buiten worden verbouwd.\n\nGeschatte groeitijd: 80 min."
   },
   {
     "Id": "build140",
     "Name": "NipNip",
     "Group": "Zaad dat kan worden gezaaid",
-    "Description": "Dit geneeskrachtige kruid staat bekend om zijn stinkende knoppen, die worden geoogst voor de productie van GekNip. Vaak groeit NipNip in vochtige omgevingen als onkruid.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in tropische of vochtige omgevingen.",
-    "Additional": "1 NipNip Buds in roughly 4 hours of real time"
+    "Description": "Dit geneeskrachtige kruid staat bekend om zijn stinkende knoppen, die worden geoogst voor de productie van GekNip. Vaak groeit NipNip in vochtige omgevingen als onkruid.\n\nGeschikt om binnen te verbouwen met hydrocultuur. Buiten alleen te verbouwen in tropische of vochtige omgevingen."
   },
   {
     "Id": "build141",
@@ -1227,917 +1215,786 @@
     "Id": "build204",
     "Name": "Vierdelige steunconstructie",
     "Group": "Constructievoorwerp",
-    "Description": "Een geprefabriceerde set van vier poten voor verhoogde constructies.",
-    "Additional": ""
+    "Description": "Een geprefabriceerde set van vier poten voor verhoogde constructies."
   },
   {
     "Id": "build205",
     "Name": "Steunconstructie",
     "Group": "Constructievoorwerp",
-    "Description": "Een versterkte poot van non-ferrometaal voor verhoogde constructies.",
-    "Additional": ""
+    "Description": "Een versterkte poot van non-ferrometaal voor verhoogde constructies."
   },
   {
     "Id": "build206",
     "Name": "Blokvormige dakrand",
     "Group": "Constructiemodule",
-    "Description": "Een blokvormige dakrand die kan worden gebruikt voor het decoreren en versterken van de daken van blokvormige gebouwen.",
-    "Additional": ""
+    "Description": "Een blokvormige dakrand die kan worden gebruikt voor het decoreren en versterken van de daken van blokvormige gebouwen."
   },
   {
     "Id": "build207",
     "Name": "Holodeur",
     "Group": "Constructiemodule",
-    "Description": "Een stijlvolle holografische deur waarmee je snel toegang krijgt tot elk willekeurig gebouw, waarbij de temperatuur en de toxiciteit van de ruimte wordt gereguleerd.",
-    "Additional": ""
+    "Description": "Een stijlvolle holografische deur waarmee je snel toegang krijgt tot elk willekeurig gebouw, waarbij de temperatuur en de toxiciteit van de ruimte wordt gereguleerd."
   },
   {
     "Id": "build209",
     "Name": "Nomad-garage",
     "Group": "Constructiemodule",
-    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Nomad (lichte exocraft).",
-    "Additional": ""
+    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Nomad (lichte exocraft)."
   },
   {
     "Id": "build210",
     "Name": "Roamer-garage",
     "Group": "Constructiemodule",
-    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Roamer (gemiddelde exocraft).",
-    "Additional": ""
+    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Roamer (gemiddelde exocraft)."
   },
   {
     "Id": "build211",
     "Name": "Colossus-garage",
     "Group": "Constructiemodule",
-    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Colossus (grote exocraft).",
-    "Additional": ""
+    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Colossus (grote exocraft)."
   },
   {
     "Id": "build212",
     "Name": "Pilgrim-garage",
     "Group": "Constructiemodule",
-    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Pilgrim (lichte exocraft).",
-    "Additional": ""
+    "Description": "Een beveiligde ondergrondse parkeergelegenheid voor de Pilgrim (lichte exocraft)."
   },
   {
     "Id": "build213",
     "Name": "Gekleurde verlichting",
     "Group": "Decoratie",
-    "Description": "Gekleurde verlichting voor je basis.",
-    "Additional": ""
+    "Description": "Gekleurde verlichting voor je basis."
   },
   {
     "Id": "build214",
     "Name": "Plafondverlichting",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build215",
     "Name": "Ladder",
     "Group": "Constructievoorwerp",
-    "Description": "Een stevige en lichte ladder met versterkte bevestigingspunten voor muren.",
-    "Additional": ""
+    "Description": "Een stevige en lichte ladder met versterkte bevestigingspunten voor muren."
   },
   {
     "Id": "build216",
     "Name": "Ladder kubusvormige ruimte",
     "Group": "Constructievoorwerp",
-    "Description": "Een sterke, lichte ladder die speciaal geschikt is voor kubusvormige ruimten.",
-    "Additional": ""
+    "Description": "Een sterke, lichte ladder die speciaal geschikt is voor kubusvormige ruimten."
   },
   {
     "Id": "build217",
     "Name": "Automatische deur",
     "Group": "Doorlooproute",
-    "Description": "Een autonome deur die alleen opengaat als zijn maker in de buurt is.",
-    "Additional": ""
+    "Description": "Een autonome deur die alleen opengaat als zijn maker in de buurt is."
   },
   {
     "Id": "build219",
     "Name": "Bank",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build220",
     "Name": "Hoekbank",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build221",
     "Name": "Sofa",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build222",
     "Name": "Groot monitorstation",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build223",
     "Name": "Eenvoudig bureau",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build224",
     "Name": "Gebogen bureau",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build225",
     "Name": "Monitorstation",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build226",
     "Name": "Werkblad",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build227",
     "Name": "Muureenheid",
     "Group": "Decoratie",
-    "Description": "Een nepkastje als muurdecoratie.",
-    "Additional": ""
+    "Description": "Een nepkastje als muurdecoratie."
   },
   {
     "Id": "build228",
     "Name": "Laden",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build229",
     "Name": "Opslagpaneel",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build230",
     "Name": "Achtzijdige ladekast",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build231",
     "Name": "Hoge kast",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build232",
     "Name": "Kluisje",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build233",
     "Name": "Zijpaneel",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build234",
     "Name": "Vloermat",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build235",
     "Name": "Vlag 1",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build236",
     "Name": "Vlag 2",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build237",
     "Name": "Vlag 3",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build238",
     "Name": "Vlag 4",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build239",
     "Name": "Muurvlag 1",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build240",
     "Name": "Muurvlag 2",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build241",
     "Name": "Muurvlag 3",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build242",
     "Name": "Techpaneel",
     "Group": "Decoratie",
-    "Description": "Een niet-werkend techpaneel voor decoratieve doeleinden.",
-    "Additional": ""
+    "Description": "Een niet-werkend techpaneel voor decoratieve doeleinden."
   },
   {
     "Id": "build243",
     "Name": "Muurventilator",
     "Group": "Decoratie",
-    "Description": "Een decoratief ventilatieonderdeel voor aan de muur.",
-    "Additional": ""
+    "Description": "Een decoratief ventilatieonderdeel voor aan de muur."
   },
   {
     "Id": "build244",
     "Name": "Muurscherm",
     "Group": "Decoratie",
-    "Description": "Een decoratief videoscherm voor aan de muur.",
-    "Additional": ""
+    "Description": "Een decoratief videoscherm voor aan de muur."
   },
   {
     "Id": "build245",
     "Name": "Server",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build246",
     "Name": "Plafondelement",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build247",
     "Name": "Flessenrek",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build248",
     "Name": "Robotarm",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build249",
     "Name": "Plat paneel",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build250",
     "Name": "Oscilloscoop",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build251",
     "Name": "Groen muurscherm",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build252",
     "Name": "Oranje muurscherm",
     "Group": "Decoratie",
-    "Description": "Decoratie om je basis mooier te maken.",
-    "Additional": ""
+    "Description": "Decoratie om je basis mooier te maken."
   },
   {
     "Id": "build253",
     "Name": "Grote wig",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build254",
     "Name": "Kleine wig",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build255",
     "Name": "Piramide",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build256",
     "Name": "Gebogen pijp",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build257",
     "Name": "Pijp",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build258",
     "Name": "Cilinder",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build259",
     "Name": "Kubus",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build260",
     "Name": "Globe",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build261",
     "Name": "Muur",
     "Group": "Decoratie",
-    "Description": "Versterkte muur, veel gebruikt in allerlei soorten gebouwen in het hele sterrenstelsel.\n\nVoldoet aan Universele Bouwstandaard 2.3b en is dus maximaal compatibel met andere prefab-constructies. Dankzij het eenvoudige kliksysteem is het bouwen van onderdak een fluitje van een cent.",
-    "Additional": ""
+    "Description": "Versterkte muur, veel gebruikt in allerlei soorten gebouwen in het hele sterrenstelsel.\n\nVoldoet aan Universele Bouwstandaard 2.3b en is dus maximaal compatibel met andere prefab-constructies. Dankzij het eenvoudige kliksysteem is het bouwen van onderdak een fluitje van een cent."
   },
   {
     "Id": "build262",
     "Name": "Koppelpaal",
     "Group": "Constructiemodule",
-    "Description": "Normaal constructieonderdeel dat kan worden gecombineerd met muurmodulen om hoeken van negentig graden te maken.",
-    "Additional": ""
+    "Description": "Normaal constructieonderdeel dat kan worden gecombineerd met muurmodulen om hoeken van negentig graden te maken."
   },
   {
     "Id": "build263",
     "Name": "Dakplatform",
     "Group": "Constructiemodule",
-    "Description": "Normaal constructieonderdeel dat met muren kan worden gecombineerd tot platforms die behoorlijk kunnen worden belast.",
-    "Additional": ""
+    "Description": "Normaal constructieonderdeel dat met muren kan worden gecombineerd tot platforms die behoorlijk kunnen worden belast."
   },
   {
     "Id": "build264",
     "Name": "Grote muur",
     "Group": "Decoratie",
-    "Description": "Versterkte muur, veel gebruikt in allerlei soorten gebouwen in het hele sterrenstelsel.\n\nVoldoet aan Universele Bouwstandaard 2.3b en is dus maximaal compatibel met andere prefab-constructies. Dankzij het eenvoudige kliksysteem is het bouwen van onderdak een fluitje van een cent.",
-    "Additional": ""
+    "Description": "Versterkte muur, veel gebruikt in allerlei soorten gebouwen in het hele sterrenstelsel.\n\nVoldoet aan Universele Bouwstandaard 2.3b en is dus maximaal compatibel met andere prefab-constructies. Dankzij het eenvoudige kliksysteem is het bouwen van onderdak een fluitje van een cent."
   },
   {
     "Id": "build265",
     "Name": "Muur",
     "Group": "Decoratie",
-    "Description": "Eenvoudig constructieonderdeel.",
-    "Additional": ""
+    "Description": "Eenvoudig constructieonderdeel."
   },
   {
     "Id": "build266",
     "Name": "Interne muur vrachtschip",
     "Group": "Interieurmodule vrachtschip",
-    "Description": "Met deze kleine uitbreidingsmodule kun je snel bewoonbare kamers in grote ruimteschepen maken.\n\nDe constructie-unit wordt compleet met een drukschot en alle benodigde bevestigingspunten geleverd.",
-    "Additional": ""
+    "Description": "Met deze kleine uitbreidingsmodule kun je snel bewoonbare kamers in grote ruimteschepen maken.\n\nDe constructie-unit wordt compleet met een drukschot en alle benodigde bevestigingspunten geleverd."
   },
   {
     "Id": "build267",
     "Name": "Startplatform ruimterace",
     "Group": "Raceonderdeel",
-    "Description": "Dit platform doet dienst als de start- en finishlijn voor ruimteraces waarmee Reizigers bochten en hoge snelheden kunnen oefenen.",
-    "Additional": ""
+    "Description": "Dit platform doet dienst als de start- en finishlijn voor ruimteraces waarmee Reizigers bochten en hoge snelheden kunnen oefenen."
   },
   {
     "Id": "build268",
     "Name": "Vermogensboost",
     "Group": "Raceonderdeel",
-    "Description": "Geeft je exocraft-voertuig een boost tijdens races.",
-    "Additional": ""
+    "Description": "Geeft je exocraft-voertuig een boost tijdens races."
   },
   {
     "Id": "build269",
     "Name": "Obstakel",
     "Group": "Raceonderdeel",
-    "Description": "Zorgt voor een extra uitdaging tijdens exocraft-races.",
-    "Additional": ""
+    "Description": "Zorgt voor een extra uitdaging tijdens exocraft-races."
   },
   {
     "Id": "build270",
     "Name": "Sticker",
     "Group": "Decoratie",
-    "Description": "Zelf aan te brengen decoratieve stickers.",
-    "Additional": ""
+    "Description": "Zelf aan te brengen decoratieve stickers."
   },
   {
     "Id": "build271",
     "Name": "Hologram van wezens",
     "Group": "Natuurlijke decoratie",
-    "Description": "Een decoratieve holografische voorstelling van de wezens die zijn geregistreerd in je logboek.",
-    "Additional": ""
+    "Description": "Een decoratieve holografische voorstelling van de wezens die zijn geregistreerd in je logboek."
   },
   {
     "Id": "build272",
     "Name": "Verloren bathysfeer",
     "Group": "Ontgrendelbare helm",
-    "Description": "Een spookachtige aanpassing van het exopak-uiterlijk. Zelfs als je hem afzet, zal de drager voor eeuwig de gefluisterde roep van de diepe oceaan horen...\nVerander het uiterlijk van je exopak bij een gedaantemodulator.",
-    "Additional": ""
+    "Description": "Een spookachtige aanpassing van het exopak-uiterlijk. Zelfs als je hem afzet, zal de drager voor eeuwig de gefluisterde roep van de diepe oceaan horen...\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "build273",
     "Name": "Beeldje bronzen klodder",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht."
   },
   {
     "Id": "build274",
     "Name": "Beeldje zilveren klodder",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht."
   },
   {
     "Id": "build275",
     "Name": "Beeldje gouden klodder",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een oeroud primitief wezen dat vroeger door veel verkenners werd gezocht."
   },
   {
     "Id": "build276",
     "Name": "Beeldje bronzen diplo",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een viervoeter met een lange nek.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een viervoeter met een lange nek."
   },
   {
     "Id": "build277",
     "Name": "Beeldje zilveren diplo",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een viervoeter met een lange nek.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een viervoeter met een lange nek."
   },
   {
     "Id": "build278",
     "Name": "Beeldje gouden diplo",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een viervoeter met een lange nek.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een viervoeter met een lange nek."
   },
   {
     "Id": "build279",
     "Name": "Beeldje bronzen Gek",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een Gek die naar de lucht wijst.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van een Gek die naar de lucht wijst."
   },
   {
     "Id": "build280",
     "Name": "Beeldje zilveren Gek",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een Gek die naar de lucht wijst.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van een Gek die naar de lucht wijst."
   },
   {
     "Id": "build281",
     "Name": "Beeldje gouden Gek",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een Gek die naar de lucht wijst.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van een Gek die naar de lucht wijst."
   },
   {
     "Id": "build282",
     "Name": "Beeldje bronzen jager",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector."
   },
   {
     "Id": "build283",
     "Name": "Beeldje zilveren jager",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector."
   },
   {
     "Id": "build284",
     "Name": "Beeldje gouden jager",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van het beroemde ruimteschip Alpha Vector."
   },
   {
     "Id": "build285",
     "Name": "Beeldje bronzen walker",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid."
   },
   {
     "Id": "build286",
     "Name": "Beeldje zilveren walker",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid."
   },
   {
     "Id": "build287",
     "Name": "Beeldje gouden walker",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit is een beeldje van de Sentinel-walker, een geavanceerde gevechtseenheid."
   },
   {
     "Id": "build288",
     "Name": "Beeldje bronzen Atlas",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht."
   },
   {
     "Id": "build289",
     "Name": "Beeldje zilveren Atlas",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht."
   },
   {
     "Id": "build290",
     "Name": "Beeldje gouden Atlas",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit beeldje is een decoratieve replica van een Atlas-interface. De kern draait rond, aangedreven door een onbekende kracht."
   },
   {
     "Id": "build291",
     "Name": "Beeldje bronzen astronaut",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in brons.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners."
   },
   {
     "Id": "build292",
     "Name": "Beeldje zilveren astronaut",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in zilver.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners."
   },
   {
     "Id": "build293",
     "Name": "Beeldje gouden astronaut",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners.",
-    "Additional": ""
+    "Description": "Een exclusieve basisdecoratie, gegoten in goud.\nDit astronautenbeeldje is een eerbetoon aan alle galactische verkenners."
   },
   {
     "Id": "build294",
     "Name": "Sticker galactisch centrum",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een embleem met de bedrijfsmissie: 'Explore Together'.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een embleem met de bedrijfsmissie: 'Explore Together'."
   },
   {
     "Id": "build295",
     "Name": "Sticker goedkeurend handgebaar",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een goedkeurend universeel handgebaar.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een goedkeurend universeel handgebaar."
   },
   {
     "Id": "build296",
     "Name": "Sticker Nada",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Korvax-priester Nada.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Korvax-priester Nada."
   },
   {
     "Id": "build297",
     "Name": "Sticker Polo",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Gek-specialist Polo.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Gek-specialist Polo."
   },
   {
     "Id": "build298",
     "Name": "Sticker Apollo",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Apollo.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Apollo."
   },
   {
     "Id": "build299",
     "Name": "Sticker Artemis",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Artemis.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Artemis."
   },
   {
     "Id": "build300",
     "Name": "Sticker Null",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Null.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat de Reiziger Null."
   },
   {
     "Id": "build301",
     "Name": "Robotvriend",
     "Group": "Persoonlijke dronebediende",
-    "Description": "Een perfect geprogrammeerde en foutloze drone.\n\nDeze minirobot vrolijkt je basis op met zijn levendige aanwezigheid, lachsalvo's en een constante lage brom.",
-    "Additional": ""
+    "Description": "Een perfect geprogrammeerde en foutloze drone.\n\nDeze minirobot vrolijkt je basis op met zijn levendige aanwezigheid, lachsalvo's en een constante lage brom."
   },
   {
     "Id": "build302",
     "Name": "Expansiekubus",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusief, decoratief gadget.\n\nDit met zorg vervaardigde apparaatje gebruikt een lokaal zwaartekrachtveld om bezoekers van je basis te verbluffen en fascineren.",
-    "Additional": ""
+    "Description": "Een exclusief, decoratief gadget.\n\nDit met zorg vervaardigde apparaatje gebruikt een lokaal zwaartekrachtveld om bezoekers van je basis te verbluffen en fascineren."
   },
   {
     "Id": "build303",
     "Name": "Holosfeer",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve, decoratieve snuisterij voor basissen.\n\nDit gadget zendt een bolvormig hologram uit van een van de ontelbare hemellichamen uit de sterrenstelsels.",
-    "Additional": ""
+    "Description": "Een exclusieve, decoratieve snuisterij voor basissen.\n\nDit gadget zendt een bolvormig hologram uit van een van de ontelbare hemellichamen uit de sterrenstelsels."
   },
   {
     "Id": "build304",
     "Name": "Fruitboom",
     "Group": "Organische decoratie",
-    "Description": "Een grote decoratieve fruitboom.\n\nDe vorm van de vruchten, de mate van giftigheid en de aanwezigheid hangen af van de plaatselijke klimaat- en bestuivingsomstandigheden.",
-    "Additional": ""
+    "Description": "Een grote decoratieve fruitboom.\n\nDe vorm van de vruchten, de mate van giftigheid en de aanwezigheid hangen af van de plaatselijke klimaat- en bestuivingsomstandigheden."
   },
   {
     "Id": "build305",
     "Name": "Plakboom",
     "Group": "Organische decoratie",
-    "Description": "Een dunne boom die geen vruchten draagt. Het wortelsysteem werkt samen met symbionten in de vorm van speciaal aangepaste schimmels.\n\nWordt geleverd met eigen paddenstoelen voor eenvoudige ingebruikname. De schimmel is niet giftig en verspreidt zich niet.",
-    "Additional": ""
+    "Description": "Een dunne boom die geen vruchten draagt. Het wortelsysteem werkt samen met symbionten in de vorm van speciaal aangepaste schimmels.\n\nWordt geleverd met eigen paddenstoelen voor eenvoudige ingebruikname. De schimmel is niet giftig en verspreidt zich niet."
   },
   {
     "Id": "build306",
     "Name": "Groenblijvende boom",
     "Group": "Organische decoratie",
-    "Description": "Een stugge, groenblijvende boom die in allerlei klimaten overleeft.\n\nDe wasachtige bladeren hebben een zilverkleurige onderzijde en zijn bijzonder geschikt om te oogsten. Daarnaast zien ze er het hele jaar mooi uit.",
-    "Additional": ""
+    "Description": "Een stugge, groenblijvende boom die in allerlei klimaten overleeft.\n\nDe wasachtige bladeren hebben een zilverkleurige onderzijde en zijn bijzonder geschikt om te oogsten. Daarnaast zien ze er het hele jaar mooi uit."
   },
   {
     "Id": "build307",
     "Name": "Vleesetende struik",
     "Group": "Organische decoratie",
-    "Description": "Een middelgrote decoratieve plant. Alle bladeren zijn bedekt met een dun laagje kleverige latex. Insecten die erop landen, worden langzaam geabsorbeerd door verteringshormonen in de lijm.\n\nVoorkom huidcontact.",
-    "Additional": ""
+    "Description": "Een middelgrote decoratieve plant. Alle bladeren zijn bedekt met een dun laagje kleverige latex. Insecten die erop landen, worden langzaam geabsorbeerd door verteringshormonen in de lijm.\n\nVoorkom huidcontact."
   },
   {
     "Id": "build308",
     "Name": "Dwergpalm",
     "Group": "Organische decoratie",
-    "Description": "Een lage, eenvoudig te verzorgen vorm van de grotere palmbomen.\n\nPlant hem buiten om dieren aan te trekken en de lucht te zuiveren.",
-    "Additional": ""
+    "Description": "Een lage, eenvoudig te verzorgen vorm van de grotere palmbomen.\n\nPlant hem buiten om dieren aan te trekken en de lucht te zuiveren."
   },
   {
     "Id": "build309",
     "Name": "Merkwaardig maïs",
     "Group": "Organische decoratie",
-    "Description": "Een weelderige, decoratieve maïsplant. Beschikbaar in allerlei kleuren. Kan decoratieve wilde dieren aantrekken.\n\nKent geen natuurlijke voortplanting. Moet handmatig worden bestoven.",
-    "Additional": ""
+    "Description": "Een weelderige, decoratieve maïsplant. Beschikbaar in allerlei kleuren. Kan decoratieve wilde dieren aantrekken.\n\nKent geen natuurlijke voortplanting. Moet handmatig worden bestoven."
   },
   {
     "Id": "build310",
     "Name": "Klein aquarium",
     "Group": "Aquatische observatie-module",
-    "Description": "Een kleine observatie-eenheid voor onderzoek naar aquatisch gedrag.\n\nVolledig zelfstandig, met een interne hernieuwbare energiebron, pomp-array en zelfreinigende filtersystemen.",
-    "Additional": ""
+    "Description": "Een kleine observatie-eenheid voor onderzoek naar aquatisch gedrag.\n\nVolledig zelfstandig, met een interne hernieuwbare energiebron, pomp-array en zelfreinigende filtersystemen."
   },
   {
     "Id": "build311",
     "Name": "Krulkoraal",
     "Group": "Organische decoratie",
-    "Description": "Een teer, ongewerveld zeewezen, gekweekt in een pot. De kenmerkende, geluste structuur zorgt voor een aantrekkelijk en eigenaardig uiterlijk.",
-    "Additional": ""
+    "Description": "Een teer, ongewerveld zeewezen, gekweekt in een pot. De kenmerkende, geluste structuur zorgt voor een aantrekkelijk en eigenaardig uiterlijk."
   },
   {
     "Id": "build312",
     "Name": "Aquatisch kristal",
     "Group": "Organische decoratie",
-    "Description": "Een opvallende cluster van gekristalliseerde oceaanmineralen. Deze kristallen groeien in een scherfachtig patroon en hebben een ongebruikelijke marmerkleur.",
-    "Additional": ""
+    "Description": "Een opvallende cluster van gekristalliseerde oceaanmineralen. Deze kristallen groeien in een scherfachtig patroon en hebben een ongebruikelijke marmerkleur."
   },
   {
     "Id": "build313",
     "Name": "Kandelaarbloem",
     "Group": "Organische decoratie",
-    "Description": "Een opvallende plant met lichtgevende, bolvormige bloemen. Deze inheemse variant heeft zich aangepast om zuurstof uit elke bron te absorberen en verwerken, zowel op het land als onder water.",
-    "Additional": ""
+    "Description": "Een opvallende plant met lichtgevende, bolvormige bloemen. Deze inheemse variant heeft zich aangepast om zuurstof uit elke bron te absorberen en verwerken, zowel op het land als onder water."
   },
   {
     "Id": "build314",
     "Name": "Eendenmossel",
     "Group": "Organische decoratie",
-    "Description": "Een hardnekkige geleedpotige die vooral te vinden is op stilstaande of langzaam bewegende objecten onder water.\n\nDeze variant kan ook op een gewenste plaats worden bevestigd om een basis een verouderd onderwater-uiterlijk te geven.",
-    "Additional": ""
+    "Description": "Een hardnekkige geleedpotige die vooral te vinden is op stilstaande of langzaam bewegende objecten onder water.\n\nDeze variant kan ook op een gewenste plaats worden bevestigd om een basis een verouderd onderwater-uiterlijk te geven."
   },
   {
     "Id": "build315",
     "Name": "Vuurwerk",
     "Group": "Vuurwerkapparaat",
-    "Description": "Luxueus vuurwerk met veel magnesium en emeril. Ontsteek het en geniet van het spektakel in de lucht.\n\nPlaats de lanceerbuis via het Bouwmenu (BUILD_MENU). Waarschuwing: niet richten op levende wezens. Niet geschikt voor gebruik binnenshuis.",
-    "Additional": ""
+    "Description": "Luxueus vuurwerk met veel magnesium en emeril. Ontsteek het en geniet van het spektakel in de lucht.\n\nPlaats de lanceerbuis via het Bouwmenu (BUILD_MENU). Waarschuwing: niet richten op levende wezens. Niet geschikt voor gebruik binnenshuis."
   },
   {
     "Id": "build316",
     "Name": "Mini-werkelijkheidgenerator",
     "Group": "Ontgrendelbare decoratie",
-    "Description": "Een exclusieve, decoratieve snuisterij voor basissen.\n\nEen model van de werkelijkheid zelf, gezien vanuit het perspectief van een onmogelijke toeschouwer. Als je lens krachtig genoeg is, wachten je eindeloos veel details om te ontdekken.",
-    "Additional": ""
+    "Description": "Een exclusieve, decoratieve snuisterij voor basissen.\n\nEen model van de werkelijkheid zelf, gezien vanuit het perspectief van een onmogelijke toeschouwer. Als je lens krachtig genoeg is, wachten je eindeloos veel details om te ontdekken."
   },
   {
     "Id": "build317",
     "Name": "Terrarium",
     "Group": "Gespecialiseerd verblijf voor wezens",
-    "Description": "Een kleine observatiemodule voor het bestuderen van dierlijke gedragingen.\n\nEen volledig geautomatiseerd systeem met een ingebouwde bouwstoffenverwerker, een luchtreiniger en een ontlastingsverwijderingssysteem.",
-    "Additional": ""
+    "Description": "Een kleine observatiemodule voor het bestuderen van dierlijke gedragingen.\n\nEen volledig geautomatiseerd systeem met een ingebouwde bouwstoffenverwerker, een luchtreiniger en een ontlastingsverwijderingssysteem."
   },
   {
     "Id": "build318",
     "Name": "Zeilpalm",
     "Group": "Organische decoratie",
-    "Description": "Een hittebestendige boom met grote bladeren.\n\nDe brede bladeren zitten vol mineralen die een beschermende barrière vormen tegen het felle zonlicht waar hij in zijn natuurlijke omgeving aan blootgesteld wordt.",
-    "Additional": ""
+    "Description": "Een hittebestendige boom met grote bladeren.\n\nDe brede bladeren zitten vol mineralen die een beschermende barrière vormen tegen het felle zonlicht waar hij in zijn natuurlijke omgeving aan blootgesteld wordt."
   },
   {
     "Id": "build319",
     "Name": "Globeboom",
     "Group": "Organische decoratie",
-    "Description": "Een dunne boom met grote, vlezige wortels die goed is aangepast aan hete klimaten.\n\nDe bollen op de wortels geven een drinkbare vloeistof af als je erop tikt, maar drinken is alleen aan te bevelen als het echt niet anders kan.",
-    "Additional": ""
+    "Description": "Een dunne boom met grote, vlezige wortels die goed is aangepast aan hete klimaten.\n\nDe bollen op de wortels geven een drinkbare vloeistof af als je erop tikt, maar drinken is alleen aan te bevelen als het echt niet anders kan."
   },
   {
     "Id": "build320",
     "Name": "Rotstuin",
     "Group": "Organische decoratie",
-    "Description": "Een tuinmodule met decoratieve mineraalformatie en ingebouwde haarvatenmat voor optimaal vochtigheidsbeheer.",
-    "Additional": ""
+    "Description": "Een tuinmodule met decoratieve mineraalformatie en ingebouwde haarvatenmat voor optimaal vochtigheidsbeheer."
   },
   {
     "Id": "build321",
     "Name": "Kleine houten deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een kleine deur voor in een houten deurframe.",
-    "Additional": ""
+    "Description": "Een kleine deur voor in een houten deurframe."
   },
   {
     "Id": "build322",
     "Name": "Houten automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd.",
-    "Additional": ""
+    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd."
   },
   {
     "Id": "build323",
     "Name": "Grote houten automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd.",
-    "Additional": ""
+    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd."
   },
   {
     "Id": "build324",
     "Name": "Houten binnendakhoek",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd.",
-    "Additional": ""
+    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van hout waar onder hoge druk hars in is geïnjecteerd."
   },
   {
     "Id": "build325",
     "Name": "Kleine metalen deur",
     "Group": "Metalen constructieonderdeel",
-    "Description": "Een kleine deur voor in een metalen deurframe.",
-    "Additional": ""
+    "Description": "Een kleine deur voor in een metalen deurframe."
   },
   {
     "Id": "build326",
     "Name": "Metalen automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen.",
-    "Additional": ""
+    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
     "Id": "build327",
     "Name": "Grote metalen automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen.",
-    "Additional": ""
+    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
     "Id": "build328",
     "Name": "Metalen binnendakhoek",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van zeer sterke metaallegeringen.",
-    "Additional": ""
+    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
     "Id": "build329",
     "Name": "Kleine betonnen deur",
     "Group": "Betonnen constructieonderdeel",
-    "Description": "Een kleine deur voor in een betonnen deurframe.",
-    "Additional": ""
+    "Description": "Een kleine deur voor in een betonnen deurframe."
   },
   {
     "Id": "build330",
     "Name": "Betonnen automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton.",
-    "Additional": ""
+    "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton."
   },
   {
     "Id": "build331",
     "Name": "Grote betonnen automatische deur",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton.",
-    "Additional": ""
+    "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton."
   },
   {
     "Id": "build332",
     "Name": "Betonnen binnendakhoek",
     "Group": "Houten constructieonderdeel",
-    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van gewapend beton.",
-    "Additional": ""
+    "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van gewapend beton."
   },
   {
     "Id": "build333",
     "Name": "Bedrading",
     "Group": "Elektriciteitsdistributie-module",
-    "Description": "Elektrische bedrading met een grote capaciteit. Hiermee worden de generatoren aangesloten op je basis. Voor de meeste apparaten en gebouwen met verlichting heb je een krachtbron nodig.\n\nDe bedrading kan aan allerlei schakelaars worden verbonden om de elektriciteitsstroom te bepalen.",
-    "Additional": ""
+    "Description": "Elektrische bedrading met een grote capaciteit. Hiermee worden de generatoren aangesloten op je basis. Voor de meeste apparaten en gebouwen met verlichting heb je een krachtbron nodig.\n\nDe bedrading kan aan allerlei schakelaars worden verbonden om de elektriciteitsstroom te bepalen."
   },
   {
     "Id": "build334",
     "Name": "Teleportatiekabel",
     "Group": "Elektriciteitsdistributie-module",
-    "Description": "Geavanceerde vezeloptische kabel, ontworpen om een of meer korteafstandsteleporters te verbinden.",
-    "Additional": ""
+    "Description": "Geavanceerde vezeloptische kabel, ontworpen om een of meer korteafstandsteleporters te verbinden."
   },
   {
     "Id": "build336",
     "Name": "Licht",
     "Group": "Lichtpunt",
-    "Description": "Een energiezuinige verlichting die extra lang meegaat en volledig recyclebaar is.",
-    "Additional": ""
+    "Description": "Een energiezuinige verlichting die extra lang meegaat en volledig recyclebaar is."
   },
   {
     "Id": "build337",
     "Name": "Sticker anomalie",
     "Group": "Decoratie",
-    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een Reiziger-anomalie.",
-    "Additional": ""
+    "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een Reiziger-anomalie."
   }
 ]

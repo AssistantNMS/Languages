@@ -1035,553 +1035,474 @@
     "Id": "cook173",
     "Name": "Protodonut Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook174",
     "Name": "Donut Caramelo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook175",
     "Name": "Donut Proteico",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook176",
     "Name": "Tarte Fantasmagórica",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook177",
     "Name": "Tarte de Protosalsicha",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook178",
     "Name": "'Pernas no Pastel'",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook179",
     "Name": "Tarte de Espinhos",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook180",
     "Name": "A Tarte Crescente",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook181",
     "Name": "Tarte de Queijo Assado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook182",
     "Name": "Tarte de Vegetais e Queijo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook183",
     "Name": "Omelete",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook184",
     "Name": "Omelete Sussurrante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook185",
     "Name": "Proto-omelete",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook186",
     "Name": "Omelete Parasita",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook187",
     "Name": "Mistura dura e doce",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento.",
-    "Additional": ""
+    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento."
   },
   {
     "Id": "cook188",
     "Name": "Mistura Lamentável",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento.",
-    "Additional": ""
+    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento."
   },
   {
     "Id": "cook189",
     "Name": "Mistura Agitada",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento.",
-    "Additional": ""
+    "Description": "Um produto alimentar refinado, criado com o Processor de Nutrientes.\n\nPode ser consumido na sua forma atual ou sujeito a mais processamento."
   },
   {
     "Id": "cook190",
     "Name": "Bolo Incrustado de Caramelo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos."
   },
   {
     "Id": "cook191",
     "Name": "Bolo de Ebulição Eterna",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos."
   },
   {
     "Id": "cook192",
     "Name": "Delicia Peganhenta e Horripilante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura de Bolos."
   },
   {
     "Id": "cook193",
     "Name": "Gritos Gelados",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook194",
     "Name": "Gelado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook195",
     "Name": "Gelado Salgado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook196",
     "Name": "Gelado Frio Mortífero",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook197",
     "Name": "Gelado Estelar",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook198",
     "Name": "Gelado de Chocolate",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook199",
     "Name": "Gelado de Caramelo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook200",
     "Name": "Gelado Frutado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook201",
     "Name": "Gelado de 'Maçã'",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook202",
     "Name": "Gelado de Mel",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook203",
     "Name": "Gelado Perpétuo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook204",
     "Name": "Vy'Gelado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook205",
     "Name": "Gelado Picante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes."
   },
   {
     "Id": "cook206",
     "Name": "Bolo Muito Curioso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook207",
     "Name": "Curiosidade de Natas",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook208",
     "Name": "Curiosidade de Caramelo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook209",
     "Name": "Curiosidade de 'Maçã'",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook210",
     "Name": "Curiosidade Espinhosa",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook211",
     "Name": "Curiosidade de Compota",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook212",
     "Name": "Fantasia Surpreendente",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook213",
     "Name": "Surpresa de Compota Impossível",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook214",
     "Name": "Curiosidade de Creme",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook215",
     "Name": "Surpresa Salgada",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook216",
     "Name": "Curiosidade Interestelar",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   },
   {
     "Id": "cook217",
     "Name": "Bolo Encharcado em Mel",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook218",
     "Name": "Sonhos de Creme Doce",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook219",
     "Name": "Bolo de Chocolate Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook220",
     "Name": "Bolo de Caramelo Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook221",
     "Name": "Surpresa de Fruta Viscosa",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook222",
     "Name": "Cola-gargantas de Mel",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook223",
     "Name": "Molhanga de Compota",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook224",
     "Name": "Queima-bocas Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook225",
     "Name": "Bolo de Mel Perpétuo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook226",
     "Name": "Bolo de Creme Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook227",
     "Name": "Bolo de Mel com Sal",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook228",
     "Name": "Delícia das Estrelas",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura dura e doce."
   },
   {
     "Id": "cook229",
     "Name": "Bolo de Nata Condenado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook230",
     "Name": "Sonhos de Chocolate Assombrados",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook231",
     "Name": "Bolo de Caramelo Lamentável",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook232",
     "Name": "Bolo de 'Maçã' de Almas Perdidas",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook233",
     "Name": "Bolo de Monstruosidade Sufocante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook234",
     "Name": "Pão de Ló de Compota Apavorante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook235",
     "Name": "Bolo de Pavor Ardente",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook236",
     "Name": "Bolo de Vidro",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook237",
     "Name": "Bolo Anjo de Mel",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura extra-fofa.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura extra-fofa."
   },
   {
     "Id": "cook238",
     "Name": "Bolo de Mel Torturado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook239",
     "Name": "Bolo Fofo de Mel Formigante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook240",
     "Name": "Chifre de Creme Ilimitado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook241",
     "Name": "Bolo Fofo de Chocolate Volátil",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook242",
     "Name": "Pesadelo Caramelizado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook243",
     "Name": "Bolo de Pecado",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook244",
     "Name": "Arranha-gargantas Fofo",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook245",
     "Name": "Bolo de Geleia Inquieta",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook246",
     "Name": "Surpresa de Compota Escaldante",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook247",
     "Name": "Monstruosidade Desassociada",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook248",
     "Name": "Bolo dos Perdidos",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Mistura Agitada. É preciso algum cuidado."
   },
   {
     "Id": "cook249",
     "Name": "Gritador Viscoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook250",
     "Name": "Bolo de Mel Monstruoso",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de um Mistura lamentável."
   },
   {
     "Id": "cook251",
     "Name": "Protobolo de Mel",
     "Group": "Produto comestível",
-    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura.",
-    "Additional": ""
+    "Description": "Um produto alimentar altamente refinado, criado com o Processador de Nutrientes.\n\nEstes nutrientes similares a bolos são processados a partir de uma Protomistura."
   }
 ]

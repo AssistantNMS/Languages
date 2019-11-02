@@ -195,57 +195,49 @@
     "Id": "cur33",
     "Name": "Placa Vy’keen",
     "Group": "Comunhão de Hirk",
-    "Description": "Uma placa de pedra que com linhas e linhas de runas complexas. As palavras são incompreensíveis, um dialeto arcaico que apenas os Vy’keen mais anciãos se lembram.\n\nA mão que esculpiu esta pedra devia ser extraordinária. O trabalho é preciso e delicado - e transmite perfeitamente a agressão implacável que o escritor claramente possuía.",
-    "Additional": ""
+    "Description": "Uma placa de pedra que com linhas e linhas de runas complexas. As palavras são incompreensíveis, um dialeto arcaico que apenas os Vy’keen mais anciãos se lembram.\n\nA mão que esculpiu esta pedra devia ser extraordinária. O trabalho é preciso e delicado - e transmite perfeitamente a agressão implacável que o escritor claramente possuía."
   },
   {
     "Id": "cur34",
     "Name": "Cubo da Divergência",
     "Group": "Unidade de Dados Anómala",
-    "Description": "Uma unidade de dados errática e que pisca. Não parece pertencer a esta realidade.\n\nO cubo dá a impressão de um grito silencioso, os gemidos gélidos de centenas de mentes perdidas lá aprisionadas.",
-    "Additional": ""
+    "Description": "Uma unidade de dados errática e que pisca. Não parece pertencer a esta realidade.\n\nO cubo dá a impressão de um grito silencioso, os gemidos gélidos de centenas de mentes perdidas lá aprisionadas."
   },
   {
     "Id": "cur35",
     "Name": "Relíquia Gek",
     "Group": "Raridade semi-valiosa",
-    "Description": "Uma estatueta de metal de uma criatura com uma moeda colocada no bico.\n \nPopular entre muitos comerciantes que o veem como um emblema do comércio justo e da paz.",
-    "Additional": ""
+    "Description": "Uma estatueta de metal de uma criatura com uma moeda colocada no bico.\n \nPopular entre muitos comerciantes que o veem como um emblema do comércio justo e da paz."
   },
   {
     "Id": "cur36",
     "Name": "GekNip",
     "Group": "Produto comercial",
-    "Description": "Produto comestível muito apreciado pelos Gek.\n\nPermite que os comerciantes bicudos soltem um gás deliciosamente perfumado por um período de tempo prolongado.\n\nOs pacotes de gás GekNip são considerados uma forma de arte e a representação mais verdadeira da alma Gek.",
-    "Additional": ""
+    "Description": "Produto comestível muito apreciado pelos Gek.\n\nPermite que os comerciantes bicudos soltem um gás deliciosamente perfumado por um período de tempo prolongado.\n\nOs pacotes de gás GekNip são considerados uma forma de arte e a representação mais verdadeira da alma Gek."
   },
   {
     "Id": "cur37",
     "Name": "Efígie Vy’keen",
     "Group": "Raridade semi-valiosa",
-    "Description": "Uma pequena figura de madeira esculpida com a forma de um drone da Sentinela.\n \nUsado por guerreiros para entrarem num estado de transe temporário e que elimina a necessidade de dormir.",
-    "Additional": ""
+    "Description": "Uma pequena figura de madeira esculpida com a forma de um drone da Sentinela.\n \nUsado por guerreiros para entrarem num estado de transe temporário e que elimina a necessidade de dormir."
   },
   {
     "Id": "cur38",
     "Name": "Punhal Vy’keen",
     "Group": "Produto comercial",
-    "Description": "Grande arma cerimonial. Parte essencial da cultura e das tradições Vy’keen.",
-    "Additional": ""
+    "Description": "Grande arma cerimonial. Parte essencial da cultura e das tradições Vy’keen."
   },
   {
     "Id": "cur39",
     "Name": "Carcaça Korvax",
     "Group": "Raridade muito valiosa",
-    "Description": "Carcaça metálica de uma forma de vida eletrónica desligada, que estava muito distante da sua espécie para ser ocupada por uma nova entidade.\n \nAltamente valorizada por todas as espécies, especialmente a própria.",
-    "Additional": ""
+    "Description": "Carcaça metálica de uma forma de vida eletrónica desligada, que estava muito distante da sua espécie para ser ocupada por uma nova entidade.\n \nAltamente valorizada por todas as espécies, especialmente a própria."
   },
   {
     "Id": "cur40",
     "Name": "Cubo da Convergência",
     "Group": "Produto comercial",
-    "Description": "Dispositivo usado pelos Korvax para armazenamento de informação histórica e cultural.",
-    "Additional": ""
+    "Description": "Dispositivo usado pelos Korvax para armazenamento de informação histórica e cultural."
   },
   {
     "Id": "cur41",
