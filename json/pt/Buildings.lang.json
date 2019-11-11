@@ -1602,12 +1602,6 @@
     "Description": "Decalques decorativos colocáveis."
   },
   {
-    "Id": "build271",
-    "Name": "Criatura Holográfica",
-    "Group": "Decoração ambiental",
-    "Description": "Uma representação holográfica decorativa de animais selvagens capturados no registo de descoberta do utilizador."
-  },
-  {
     "Id": "build272",
     "Name": "Batisfera Perdida",
     "Group": "Capacete desbloqueável",

@@ -1681,13 +1681,6 @@
     "Additional": ""
   },
   {
-    "Id": "build271",
-    "Name": "Creature Hologram",
-    "Group": "Environmental decoration",
-    "Description": "A decorative holographic representation of wildlife captured in the user's discovery log.",
-    "Additional": ""
-  },
-  {
     "Id": "build272",
     "Name": "Lost Bathysphere",
     "Group": "Unlockable Helmet",

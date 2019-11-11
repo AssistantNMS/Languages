@@ -1602,12 +1602,6 @@
     "Description": "Adhésifs décoratifs à placer où vous voulez."
   },
   {
-    "Id": "build271",
-    "Name": "Hologramme de créature",
-    "Group": "Décoration environnementale",
-    "Description": "Une représentation holographique décorative d'une créature extraite du journal de découverte de l'utilisateur."
-  },
-  {
     "Id": "build272",
     "Name": "Bathysphère perdue",
     "Group": "Casque à débloquer",

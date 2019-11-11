@@ -1602,12 +1602,6 @@
     "Description": "Dekoracyjna naklejka do umieszczenia na ścianie."
   },
   {
-    "Id": "build271",
-    "Name": "Hologram stworzenia",
-    "Group": "Dekoracja otoczenia",
-    "Description": "Dekoracyjny hologram przedstawiający stworzenia wpisane do dziennika odkryć użytkownika."
-  },
-  {
     "Id": "build272",
     "Name": "Zaginiona batysfera",
     "Group": "Hełm do odblokowania",

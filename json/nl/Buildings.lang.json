@@ -1602,12 +1602,6 @@
     "Description": "Zelf aan te brengen decoratieve stickers."
   },
   {
-    "Id": "build271",
-    "Name": "Hologram van wezens",
-    "Group": "Natuurlijke decoratie",
-    "Description": "Een decoratieve holografische voorstelling van de wezens die zijn geregistreerd in je logboek."
-  },
-  {
     "Id": "build272",
     "Name": "Verloren bathysfeer",
     "Group": "Ontgrendelbare helm",

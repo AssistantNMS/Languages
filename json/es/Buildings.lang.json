@@ -1602,12 +1602,6 @@
     "Description": "Calcomanías decorativas desplazables."
   },
   {
-    "Id": "build271",
-    "Name": "Holograma de criatura",
-    "Group": "Decoración ambiental",
-    "Description": "Representación holográfica decorativa de la fauna y la flora que hay en el registro de descubrimientos del usuario."
-  },
-  {
     "Id": "build272",
     "Name": "Batisfera perdida",
     "Group": "Casco desbloqueable",

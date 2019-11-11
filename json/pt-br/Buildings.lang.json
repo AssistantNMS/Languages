@@ -1602,12 +1602,6 @@
     "Description": "Decalque decorativo."
   },
   {
-    "Id": "build271",
-    "Name": "Holograma de criatura",
-    "Group": "Decoração ambiental",
-    "Description": "Uma representação holográfica decorativa das criaturas capturadas no registro de descobertas do usuário."
-  },
-  {
     "Id": "build272",
     "Name": "Batisfera perdida",
     "Group": "Capacete desbloqueável",

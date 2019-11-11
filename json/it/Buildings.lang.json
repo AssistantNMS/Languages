@@ -1602,12 +1602,6 @@
     "Description": "Decalcomanie decorative posizionabili."
   },
   {
-    "Id": "build271",
-    "Name": "Creatura olografica",
-    "Group": "Decorazione ambientale",
-    "Description": "Una rappresentazione olografica di una creatura nel diario delle scoperte dell'utente."
-  },
-  {
     "Id": "build272",
     "Name": "Batisfera perduta",
     "Group": "Casco sbloccabile",

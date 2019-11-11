@@ -1602,12 +1602,6 @@
     "Description": "Platzierbare, dekorative Motive."
   },
   {
-    "Id": "build271",
-    "Name": "Kreaturenhologramm",
-    "Group": "Umgebungsdekoration",
-    "Description": "Eine dekorative, holografische Darstellung von Wildtieren, die im Entdeckungstagebuch des Benutzers gespeichert sind."
-  },
-  {
     "Id": "build272",
     "Name": "Verlorene Tiefseetaucherkugel",
     "Group": "Freischaltbarer Helm",
