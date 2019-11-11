@@ -1,0 +1,68 @@
+{
+	"title": "How to search for a multi-tool",
+	"shortTitle": "Multi-Tool Guide",
+	"author": "Kruttmusa",
+	"minutes": 5,
+	"date": "2019-11-08T10:57:36.589Z",
+	"image": "assets/guide/MultiToolHunting/guide.jpg",
+	"tags": [
+		"Beyond Ready",
+		"Multi-Tool"
+	],
+	"sections": [
+		{
+			"heading": "Credits & Credibility",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "This guide is a summary of findings from other players posted on various websites. Though there has been extensive logging of data to get some solid statistics, there are no certainties. The percentages and numbers presented in this guide is based on data from other players."
+				}
+			]
+		},
+		{
+			"heading": "Summary",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "  * Go to a system with medium or high economy\n  * Check the multi-tool cabinet in the space station\n  * Find inhabited outposts\n    * Missing person mission\n    * Planetary charts\n    * Exploring planets  \n  * Place a save beacon where you find a S class cabinet\n  * Go to other planets to save and reload, then fly to S class location to get a different S class multi-tool"
+				}
+			]
+		},
+		{
+			"heading": "System Wealth",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "S class multi-tools will not spawn in systems with the poorest economies.  \nThere's a 1 % chance in medium systems and 2% chance in high systems."
+				}
+			]
+		},
+		{
+			"heading": "Multi-Tool Cabinets",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "The class of the multi-tool is locked to the cabinet.  \nSlots and types are not."
+				}
+			]
+		},
+		{
+			"heading": "Multiple Collections",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "The space station and every planet/moon have their own selection of multi-tools.  \nThis selection is activated based on where you load your game and you take this selection with you when travelling."
+				}
+			]
+		},
+		{
+			"heading": "Sample Scenario",
+			"items": [
+				{
+					"type": "markdown",
+					"content": "A system with 3 planets.  \nSpace station has a C class multi-tool.  \nOn the first planet you find a S class but with few slots and a type you do not like.  \nSince you flew here from the space station, the multi tool is based on the selection from the space station.  \nYou put down a save beacon. Save and reload.  \nThe multi-tool cabinet will now still be a S class, but the slots and type will be based on the planet you are on.  \nFurthermore, you still have two more planets you can travel to, save and reload, and then travel back to the S class cabinet to see what spawns."
+				}
+			]
+		}
+	]
+}

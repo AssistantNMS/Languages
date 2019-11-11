@@ -6,7 +6,6 @@
 	"minutes": 20,
 	"date": "2019-09-22",
 	"tags": [
-		"Beyond Ready",
 		"Portal",
 		"Glyph"
 	],
@@ -65,7 +64,7 @@
 				},
 				{
 					"type": "text",
-					"content": "The second method is to turn in navigation data at the space stations cartographer for planetary charts. Look for the charts that say they are to a secure site of interest."
+					"content": "The second method is to turn in navigation data at the space stations cartographer for planetary charts. Look for the charts that say they are to a Ancient Artifact Site."
 				},
 				{
 					"type": "text",
