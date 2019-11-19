@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Propulsor de cádmio",
     "Group": "Atualização do hiperpropulsor: sistemas vermelhos",
-    "Description": "A matriz computacional do hiperpropulsor é atualizada, impedindo a desmontagem rápida quando se tenta alcançar corpos estelares vermelhos, de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Description": "Atualiza os ímãs vinculados ao núcleo do hiperpropulsor, impedindo a desmontagem rápida quando se tenta alcançar corpos estelares vermelhos de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
   },
   {
     "Id": "tech31",
     "Name": "Propulsor de emeril",
     "Group": "Atualização do hiperpropulsor: sistemas verdes",
-    "Description": "A matriz do escudo do hiperpropulsor é atualizada, evitando anomalias temporais quando se tenta alcançar corpos estelares verdes de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Description": "Atualiza a integridade do escudo do hiperpropulsor, impedindo falhas de realidade quando se tenta alcançar corpos estelares verdes de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
   },
   {
     "Id": "tech32",
     "Name": "Propulsor de índio",
     "Group": "Atualização do hiperpropulsor: sistemas azuis",
-    "Description": "A matriz de proteção do hiperpropulsor é atualizada, impedindo falhas de realidade quando se tenta alcançar corpos estelares azuis de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Description": "Atualiza a matriz computacional do hiperpropulsor, evitando anomalias temporais quando se tenta alcançar corpos estelares azuis de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Reator de dobra sigma Nave cargueira",
-    "Group": "Unidade companheira do hiperpropulsor",
-    "Description": "O hiperpropulsor passa a ter recursos mais robustos de exploração espacial e a capacidade para saltar até estrelas que antes estavam fora do alcance."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Reator de dobra tau Nave cargueira",
-    "Group": "Unidade companheira do hiperpropulsor",
-    "Description": "O hiperpropulsor se beneficia de uma fusão avançada que aumenta a velocidade e intensidade de dobra da nave. Ela se tornará capaz de saltar para regiões e sistemas planetários mais distantes do espaço."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Reator de dobra teta Nave cargueira",
-    "Group": "Unidade companheira do hiperpropulsor",
-    "Description": "Os sistemas de fusão ilimitada, mas estável, são acoplados ao hiperpropulsor do usuário. A nave pode saltar por distâncias ainda maiores no espaço."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Escudo de dobra sigma",
-    "Group": "Atualização do hiperpropulsor: sistemas vermelhos",
-    "Description": "A matriz computacional do hiperpropulsor é atualizada, impedindo a desmontagem rápida quando se tenta alcançar corpos estelares vermelhos, de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Escudo de dobra tau",
-    "Group": "Atualização do hiperpropulsor: sistemas verdes",
-    "Description": "A matriz do escudo do hiperpropulsor é atualizada, evitando anomalias temporais quando se tenta alcançar corpos estelares verdes de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Escudo de dobra teta",
-    "Group": "Atualização do hiperpropulsor: sistemas azuis",
-    "Description": "A matriz de proteção do hiperpropulsor é atualizada, impedindo falhas de realidade quando se tenta alcançar corpos estelares azuis de classe rara.\n\nAconselha-se que o usuário acesse os sistemas do hiperpropulsor por meio do mapa galáctico."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Núcleo de energia estilhaçado",
+    "Group": "Componente danificado",
+    "Description": "Esse módulo de atualização do exotraje sofreu um dano crítico. Conserte os sistemas para fazer a atualização voltar a funcionar.\n\nSe o conserto acontecer, o usuário não será cobrado pelas atualizações do exotraje."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Holograma defeituoso",
     "Group": "Componente danificado",
     "Description": "Esse módulo de atualização do exotraje sofreu um dano crítico. Conserte os sistemas para fazer a atualização voltar a funcionar.\n\nSe o conserto acontecer, o usuário não será cobrado pelas atualizações do exotraje."
   }

@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "鎘驅動器",
     "Group": "超空間驅動器升級：紅色恆星系",
-    "Description": "超空間驅動器計算矩陣已升級，試圖接近罕見等級紅色恆星體時能防止迅速分解。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Description": "升級超空間驅動器核心融合磁鐵，試圖接近罕見等級紅色恆星體時，能防止迅速分解。\n\n建議使用者透過銀河地圖存取超空間驅動器系統。"
   },
   {
     "Id": "tech31",
     "Name": "艾梅裡爾驅動器",
     "Group": "超空間驅動器升級：綠色恆星系",
-    "Description": "超空間驅動器防護罩矩陣已升級，試圖接近罕見等級綠色恆星體時能防止臨時異常。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Description": "升級超空間驅動器防護罩強度，試圖接近罕見等級綠色恆星體時，能防止現實失常。\n\n建議使用者透過銀河地圖存取超空間驅動器系統。"
   },
   {
     "Id": "tech32",
     "Name": "銦驅動器",
     "Group": "超空間驅動器升級：藍色恆星系",
-    "Description": "超空間驅動器防護矩陣已升級，試圖接近罕見等級藍色恆星體時能防止現實失常。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Description": "升級超空間驅動器防護矩陣，試圖接近罕見等級藍色恆星體時，能防止現實失常。\n\n建議使用者透過銀河地圖存取超空間驅動器系統。"
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "貨船 空間跳躍反應器 Sigma",
-    "Group": "超空間驅動器輔助元件",
-    "Description": "超空間驅動器獲得更完善的太空深度探索能力，能跳躍至先前無法抵達的星系。"
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "貨船 空間跳躍反應器 Tau",
-    "Group": "超空間驅動器輔助元件",
-    "Description": "超空間驅動器利用先進融合技術，讓太空船能達到更高的空間跳躍速度與強度。使用者的太空船能跳躍至太空更深的地方，還能抵達更遙遠的行星系統。"
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "貨船 空間跳躍反應器 Theta",
-    "Group": "超空間驅動器輔助元件",
-    "Description": "未加保護蓋，但仍穩定的融合系統，藉由改裝與使用者的超空間驅動器合而為一。能讓太空船在太空深處跳躍的距離更長。"
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "空間跳躍防護罩 Sigma",
-    "Group": "超空間驅動器升級：紅色恆星系",
-    "Description": "超空間驅動器計算矩陣已升級，試圖接近罕見等級紅色恆星體時能防止迅速分解。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "空間跳躍防護罩 Tau",
-    "Group": "超空間驅動器升級：綠色恆星系",
-    "Description": "超空間驅動器防護罩矩陣已升級，試圖接近罕見等級綠色恆星體時能防止臨時異常。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "空間跳躍防護罩 Theta",
-    "Group": "超空間驅動器升級：藍色恆星系",
-    "Description": "超空間驅動器防護矩陣已升級，試圖接近罕見等級藍色恆星體時能防止現實失常。\n\n建議使用者由銀河地圖存取超空間驅動器系統。"
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "破碎能量核心",
+    "Group": "受損元件",
+    "Description": "此強化套裝升級模組嚴重受損。修復系統以恢復升級功能。\n\n如果修復完成，使用者的任何強化套裝升級都不需付費。"
+  },
+  {
+    "Id": "tech135",
+    "Name": "故障全像圖",
     "Group": "受損元件",
     "Description": "此強化套裝升級模組嚴重受損。修復系統以恢復升級功能。\n\n如果修復完成，使用者的任何強化套裝升級都不需付費。"
   }

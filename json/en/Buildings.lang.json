@@ -766,21 +766,21 @@
     "Name": "Gamma Weed",
     "Group": "Plantable Seed",
     "Description": "A luminous, leafy flowering plant that thrives in radioactive biomes and can be cultivated to yield a bountiful harvest.\n\nSuitable for hydroponic indoor planting. Ensure Radioactive climate before planting outdoors.\n\nApproximate growing time: 4 hours",
-    "Additional": "78 Gamma Root in roughly 4 hours of real time"
+    "Additional": "50 Gamma Root in roughly 4 hours of real time"
   },
   {
     "Id": "build130",
     "Name": "Fungal Cluster",
     "Group": "Plantable Seed",
     "Description": "A spherical fungus with internal gills, found only in toxic biomes. Fungal Clusters can be transplanted for cultivation, yielding a bountiful harvest.\n\nSuitable for hydroponic indoor planting. Ensure Toxic climate before planting outdoors.\n\nApproximate growing time: 4 hours",
-    "Additional": "78 Fungal Mould in roughly 4 hours of real time"
+    "Additional": "50 Fungal Mould in roughly 4 hours of real time"
   },
   {
     "Id": "build131",
     "Name": "Frostwort",
     "Group": "Plantable Seed",
     "Description": "A large crystal flower with radiant blue blooms, found only in snowy biomes. Frostwort can be farmed and makes a reliable crop, and its adaptation to harsh conditions results in highly frequent harvests.\n\nSuitable for hydroponic indoor planting. Ensure Frozen climate before planting outdoors.\n\nApproximate growing time: 1 hour",
-    "Additional": "78 Frost Crystal in roughly 1 hour of real time"
+    "Additional": "50 Frost Crystal in roughly 1 hour of real time"
   },
   {
     "Id": "build132",
@@ -794,14 +794,14 @@
     "Name": "Solar Vine",
     "Group": "Plantable Seed",
     "Description": "This 'living rock' is adapted to live in the extreme heat of scorched biomes. However, it can be farmed in most environments and, once established, yields a moderate harvest.\n\nSuitable for hydroponic indoor planting. Ensure Hot climate before planting outdoors.\n\nApproximate growing time: 16 hours",
-    "Additional": "78 Solanium in roughly 16 hours of real time"
+    "Additional": "50 Solanium in roughly 16 hours of real time"
   },
   {
     "Id": "build134",
     "Name": "Gutrot Flower",
     "Group": "Plantable Seed",
     "Description": "A foul-smelling, farmable flower that replicates the chemical structure of faecal matter. When planted inside, yields a harvest of Faecium.\n\nA good alternative to collecting Faecium by hand, which requires feeding creatures and then harvesting their droppings. Gutrot Flowers must be grown in a Hydroponics Tray.\n\nApproximate growing time: 4 hours",
-    "Additional": "39 Faecium in roughly 4 hours of real time"
+    "Additional": "25 Faecium in roughly 4 hours of real time"
   },
   {
     "Id": "build135",
@@ -815,21 +815,21 @@
     "Name": "Mordite Root",
     "Group": "Plantable Seed",
     "Description": "An inedible tuber that produces a small yield of Mordite crystals.\n\nA peaceful alternative to the process of harvesting Mordite from the corpses of creatures. Mordite Root must be grown in a Hydroponics Tray.\n\nApproximate growing time: 8 hours",
-    "Additional": "39 Mordite in roughly 8 hours of real time"
+    "Additional": "25 Mordite in roughly 8 hours of real time"
   },
   {
     "Id": "build137",
     "Name": "Echinocactus",
     "Group": "Plantable Seed",
     "Description": "Native to barren biomes and capable of withstanding long periods of drought, Echinocactus is an edible succulent that responds well to cultivation, yielding a large but occasional harvest.\n\nSuitable for hydroponic indoor planting. Ensure Barren climate before planting outdoors.\n\nApproximate growing time: 16 hours",
-    "Additional": "156 Cactus Flesh in roughly 16 hours of real-world time"
+    "Additional": "100 Cactus Flesh in roughly 16 hours of real-world time"
   },
   {
     "Id": "build138",
     "Name": "Star Bramble",
     "Group": "Plantable Seed",
     "Description": "A medium-sized, farmable plant that yields an occasional harvest of valuable Star Bulbs.\n\nSuitable for hydroponic indoor planting. Ensure Lush climate before planting outdoors.\n\nApproximate growing time: 4 hours",
-    "Additional": "39 Star Bulbs in roughly 4 hours of real time"
+    "Additional": "25 Star Bulbs in roughly 4 hours of real time"
   },
   {
     "Id": "build139",

@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Cadmiummotor",
     "Group": "Hyperdrive-upgrade: rode systemen",
-    "Description": "De rekenmatrix van de hyperdrive is verbeterd, waardoor versnelde aftakeling bij reizen naar zeldzame rode sterren wordt voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Description": "Verbetert de magneten van de hyperdrive-kern, waardoor versnelde aftakeling bij reizen naar zeldzame rode sterren wordt voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
   },
   {
     "Id": "tech31",
     "Name": "Emerilmotor",
     "Group": "Hyperdrive-upgrade: groene systemen",
-    "Description": "De schildmatrix van de hyperdrive is verbeterd, waardoor tijdsanomalieën bij reizen naar zeldzame groene sterren worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Description": "Maakt het hyperdrive-schild sterker, waardoor werkelijkheidsfouten bij reizen naar zeldzame groene hemellichamen worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
   },
   {
     "Id": "tech32",
     "Name": "Indiummotor",
     "Group": "Hyperdrive-upgrade: blauwe systemen",
-    "Description": "De beschermingsmatrix van de hyperdrive is verbeterd, waardoor werkelijkheidsfouten bij reizen naar zeldzame blauwe sterren worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Description": "Verbetert de rekenmatrix van de hyperdrive, waardoor tijdsanomalieën bij reizen naar zeldzame blauwe sterren worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Vrachtschip Warpreactor Sigma",
-    "Group": "Hyperdrive-uitbreiding",
-    "Description": "De verbeterde hyperdrive maakt het mogelijk om nog verder in de ruimte te reizen. Zo kunnen sterren worden bereikt die voorheen nog te ver weg lagen."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Vrachtschip Warpreactor Tau",
-    "Group": "Hyperdrive-uitbreiding",
-    "Description": "De hyperdrive maakt gebruik van geavanceerde fusies die hogere warpsnelheden mogelijk maken. Schepen kunnen daarvoor verder in de ruimte reizen en afgelegen planetaire systemen bereiken."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Vrachtschip Warpreactor Thèta",
-    "Group": "Hyperdrive-uitbreiding",
-    "Description": "Onbegrensde, maar wel gestabiliseerde fusiesystemen worden geïntegreerd in de hyperdrive. Hierdoor kunnen ruimteschepen verder in de ruimte springen."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Warpschild Sigma",
-    "Group": "Hyperdrive-upgrade: rode systemen",
-    "Description": "De rekenmatrix van de hyperdrive is verbeterd, waardoor versnelde aftakeling bij reizen naar zeldzame rode sterren wordt voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Warpschild Tau",
-    "Group": "Hyperdrive-upgrade: groene systemen",
-    "Description": "De schildmatrix van de hyperdrive is verbeterd, waardoor tijdsanomalieën bij reizen naar zeldzame groene sterren worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Warpschild Thèta",
-    "Group": "Hyperdrive-upgrade: blauwe systemen",
-    "Description": "De beschermingsmatrix van de hyperdrive is verbeterd, waardoor werkelijkheidsfouten bij reizen naar zeldzame blauwe sterren worden voorkomen.\n\nHet is aan te raden om hyperdrive-systemen te gebruiken via de galactische kaart."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Verbrijzelde energiekern",
+    "Group": "Beschadigd onderdeel",
+    "Description": "Deze upgrademodule voor exopakken heeft kritische schade opgelopen. Repareer systemen om de upgrade-functionaliteit te herstellen.\n\nNa de reparatie hoeft de gebruiker niet te betalen voor exopak-upgrades."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Ondeugdelijk hologram",
     "Group": "Beschadigd onderdeel",
     "Description": "Deze upgrademodule voor exopakken heeft kritische schade opgelopen. Repareer systemen om de upgrade-functionaliteit te herstellen.\n\nNa de reparatie hoeft de gebruiker niet te betalen voor exopak-upgrades."
   }

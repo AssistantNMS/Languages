@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Кадмиевый привод",
     "Group": "Улучшение гипердвигателя: красные системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя защищает от разрушения при приближении к редким красным космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Description": "Улучшает магниты поддержки ядра гипердвигателя, защищая его от разрушения при приближении к редким красным космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
   },
   {
     "Id": "tech31",
     "Name": "Эмериловый привод",
     "Group": "Улучшение гипердвигателя: зеленые системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя предотвращает возникновение темпоральных аномалий при приближении к редким зеленым космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Description": "Повышает прочность экрана гипердвигателя, защищая его от сбоев в реальности при приближении к редким зеленым космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
   },
   {
     "Id": "tech32",
     "Name": "Индиевый привод",
     "Group": "Улучшение гипердвигателя: синие системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя предотвращает возникновение сбоев в реальности при приближении к редким синим космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Description": "Улучшает расчетную матрицу гипердвигателя, предотвращая возникновение темпоральных аномалий при приближении к редким синим космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Грузовой корабль Варп-реактор сигма",
-    "Group": "Дополнительный элемент гипердвигателя",
-    "Description": "Гипердвигатель позволяет прыгать к ранее недостижимым звездам, что дает возможность исследовать еще более далекие глубины космоса."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Грузовой корабль Варп-реактор тау",
-    "Group": "Дополнительный элемент гипердвигателя",
-    "Description": "Гипердвигатель использует усовершенствованный термоядерный синтез, который позволяет звездолету достичь более высокой варп-скорости и интенсивности. Судно сможет совершать более длинные прыжки в космос и перемещаться в отдаленные планетарные системы."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Грузовой корабль Варп-реактор тета",
-    "Group": "Дополнительный элемент гипердвигателя",
-    "Description": "Неограниченная по производительности, но стабилизированная система синтеза подключена к варп-двигателю. Позволяет звездолету совершать еще более длинные прыжки в космосе."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Варп-экранирование «Сигма»",
-    "Group": "Улучшение гипердвигателя: красные системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя защищает от разрушения при приближении к редким красным космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Варп-экранирование «Тау»",
-    "Group": "Улучшение гипердвигателя: зеленые системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя предотвращает возникновение темпоральных аномалий при приближении к редким зеленым космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Варп-экранирование «Тета»",
-    "Group": "Улучшение гипердвигателя: синие системы",
-    "Description": "Улучшенная расчетная матрица гипердвигателя предотвращает возникновение сбоев в реальности при приближении к редким синим космическим телам.\n\nРекомендуется использовать системы гипердвигателя с помощью галактической карты."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Разбитый генератор",
+    "Group": "Поврежденный компонент",
+    "Description": "Критическое повреждение модуля улучшения экзокостюма. Отремонтируйте систему для восстановления работоспособности улучшения.\n\nВ случае ремонта пользователю не придется платить за улучшения экзокостюма."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Неисправная голограмма",
     "Group": "Поврежденный компонент",
     "Description": "Критическое повреждение модуля улучшения экзокостюма. Отремонтируйте систему для восстановления работоспособности улучшения.\n\nВ случае ремонта пользователю не придется платить за улучшения экзокостюма."
   }

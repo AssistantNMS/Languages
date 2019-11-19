@@ -1874,7 +1874,7 @@
   {
     "Id": "build317",
     "Name": "Terrarium",
-    "Group": "Enceinte spécialisée pour créatures",
+    "Group": "Enceinte pour créatures",
     "Description": "Petite unité d’observation permettant d’étudier le comportement animal.\n\nEntièrement autonome, il possède un processeur de nutriments intégré, son propre purificateur d’air et même doté d’un système de traitement des matières fécales."
   },
   {

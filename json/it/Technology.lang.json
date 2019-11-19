@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Motore al cadmio",
     "Group": "Potenziamento iperguida: sistemi rossi",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire un disassemblamento rapido quando si cerca di raggiungere corpi celesti rossi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Description": "Potenzia i magneti costrittori del nucleo in modo da impedire un disassemblamento rapido quando si cerca di raggiungere corpi celesti rossi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
   },
   {
     "Id": "tech31",
     "Name": "Motore all'emeril",
     "Group": "Potenziamento iperguida: sistemi verdi",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire anomalie temporali quando si cerca di raggiungere corpi celesti verdi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Description": "Migliora l'integrità della schermatura dell'iperguida in modo da impedire anomalie temporali quando si cerca di raggiungere corpi celesti verdi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
   },
   {
     "Id": "tech32",
     "Name": "Motore all'indio",
     "Group": "Potenziamento iperguida: sistemi blu",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire errori nella realtà quando si cerca di raggiungere corpi celesti rari blu.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Description": "Migliora la matrice di calcolo dell'iperguida in modo da impedire errori nella realtà quando si cerca di raggiungere corpi celesti blu rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Reattore di salto mercantile Sigma",
-    "Group": "Unità complementare per iperguida",
-    "Description": "L'iperguida ottiene funzionalità di esplorazione spaziale migliorate e la possibilità di saltare verso stelle precedentemente fuori portata."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Reattore di salto mercantile Tau",
-    "Group": "Unità complementare per iperguida",
-    "Description": "L'iperguida beneficia della fusione avanzata per spingere l'astronave a una maggiore velocità e intensità di curvatura. L'astronave può effettuare salti più lunghi nello spazio e raggiungere sistemi planetari più distanti."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Reattore di salto mercantile Theta",
-    "Group": "Unità complementare per iperguida",
-    "Description": "I sistemi di fusione, stabili e privi di limitazioni, si intrecciano con quelli dell'iperguida, permettendo alla nave di compiere salti più lunghi nelle profondità dello spazio."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Scudo di curvatura Sigma",
-    "Group": "Potenziamento iperguida: sistemi rossi",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire un disassemblamento rapido quando si cerca di raggiungere corpi celesti rossi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Scudo di curvatura Tau",
-    "Group": "Potenziamento iperguida: sistemi verdi",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire anomalie temporali quando si cerca di raggiungere corpi celesti verdi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Scudo di curvatura Theta",
-    "Group": "Potenziamento iperguida: sistemi blu",
-    "Description": "La matrice di calcolo dell'iperguida è stata potenziata in modo da impedire errori nella realtà quando si cerca di raggiungere corpi celesti rari blu.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Nucleo energetico infranto",
+    "Group": "Componente danneggiato",
+    "Description": "Questo modulo di miglioramento dell'exotuta è gravemente danneggiato. Ripara i sistemi per ripristinare la funzionalità di miglioramento.\n\nIn caso di riparazione, l'utente non pagherà per un miglioramento dell'exotuta."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Ologramma difettoso",
     "Group": "Componente danneggiato",
     "Description": "Questo modulo di miglioramento dell'exotuta è gravemente danneggiato. Ripara i sistemi per ripristinare la funzionalità di miglioramento.\n\nIn caso di riparazione, l'utente non pagherà per un miglioramento dell'exotuta."
   }

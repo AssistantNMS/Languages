@@ -163,7 +163,7 @@
   },
   {
     "Id": "prod28",
-    "Name": "Combustível de Lançamento de Nave Espacial",
+    "Name": "Combustível de Lançamento de Nave",
     "Group": "Combustível de Di-hidrogénio Estabilizado",
     "Description": "Combustível altamente reativo em estado sólido, necessário para abastecer os propulsores de lançamento da nave espacial.\n\nCriado a partir de Di-hidrogénio cristalizado, encontrado em depósitos azuis em todos os mundos."
   },

@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "貨物船 ワープリアクター シグマ",
-    "Group": "ハイパードライブ・コンパニオンユニット",
-    "Description": "宇宙探索能力がアップグレードされ、\n 以前は遠すぎた惑星にジャンプできるようになる。"
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "貨物船 ワープリアクター タウ",
-    "Group": "ハイパードライブ・コンパニオンユニット",
-    "Description": "高度な融合でワープ速度と宇宙船の強度を上げ、\n 宇宙のより深く、より遠くの惑星系へ\n ジャンプができるようになる。"
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "貨物船 ワープリアクター シータ",
-    "Group": "ハイパードライブ・コンパニオンユニット",
-    "Description": "上限の無い安定した融合システムが\n ユーザーのハイパードライブに追加される。"
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "ワープシールディング シグマ",
-    "Group": "ハイパードライブアップグレード: 赤色星系",
-    "Description": "レアクラスの赤色恒星への着陸を試みる際に急速な\n逆アセンブルを防止するため、ハイパードライブの\n計算マトリックスがアップグレードされました。\n\nハイパードライブシステムにアクセスする際は\n銀河マップの使用をお勧めします。"
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "ワープシールディング タウ",
-    "Group": "ハイパードライブアップグレード: 緑色星系",
-    "Description": "レアクラスの緑色恒星への着陸を試みる際に\n一時的なアノマリーを防止するため、\nハイパードライブのシールドマトリックスが\nアップグレードされました。\n\nハイパードライブシステムにアクセスする際は\n銀河マップの使用をお勧めします。"
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "ワープシールディング シータ",
-    "Group": "ハイパードライブアップグレード: 青色星系",
-    "Description": "レアクラスの青色恒星への着陸を試みる際に\nリアリティグリッチを防止するため、\nハイパードライブのプロテクションマトリックスが\nアップグレードされました。\n\nハイパードライブシステムにアクセスする際は\n銀河マップの使用をお勧めします。"
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "崩壊したパワーコア",
+    "Group": "破損したコンポーネント",
+    "Description": "このエクソスーツアップグレードモジュールは致命的にダメージを受けました。  アップグレード機能を復活させるにはシステムを修理してください。\n\n修復すれば、ユーザーがエクソスーツのアップグレードに代金を支払う必要はありません。"
+  },
+  {
+    "Id": "tech135",
+    "Name": "欠落したホログラム",
     "Group": "破損したコンポーネント",
     "Description": "このエクソスーツアップグレードモジュールは致命的にダメージを受けました。  アップグレード機能を復活させるにはシステムを修理してください。\n\n修復すれば、ユーザーがエクソスーツのアップグレードに代金を支払う必要はありません。"
   }

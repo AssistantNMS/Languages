@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Générateur au cadmium",
     "Group": "Amélioration de l'hyperpropulsion : systèmes rouges",
-    "Description": "La matrice de calcul de l'hyperpropulsion est améliorée, ce qui évite tout désassemblage soudain lors d'une tentative d'accès à des corps stellaires rouges rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Description": "Améliore les aimants au cœur de l'hyperpropulseur, ce qui évite tout désassemblage soudain lors d'une tentative d'accès à des corps stellaires rouges rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
   },
   {
     "Id": "tech31",
     "Name": "Générateur à l'émeril",
     "Group": "Amélioration de l'hyperpropulsion : systèmes verts",
-    "Description": "La matrice du bouclier de l'hyperpropulsion est améliorée, ce qui évite toute anomalie temporelle lors d'une tentative d'accès à des corps stellaires verts rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Description": "Améliore, l'intégrité des boucliers de l'hyperpropulseur, ce qui évite tout bug de réalité lors d'une tentative d'accès à des corps stellaires verts rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
   },
   {
     "Id": "tech32",
     "Name": "Générateur à l'indium",
     "Group": "Amélioration de l'hyperpropulsion : systèmes bleus",
-    "Description": "La matrice de protection de l'hyperpropulsion est améliorée, ce qui évite tout bug de réalité lors d'une tentative d'accès à des corps stellaires bleus rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Description": "Améliore la matrice de calcul de l'hyperpropulseur, ce qui évite toute anomalie temporelle lors d'une tentative d'accès à des corps stellaires bleus rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Réacteur de distorsion Sigma pour Cargo",
-    "Group": "Unité complémentaire de l'hyperpropulsion",
-    "Description": "L'hyperpropulsion permet une exploration spatiale plus lointaine afin d'atteindre des étoiles jusque-là hors de portée."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Réacteur de distorsion Tau pour Cargo",
-    "Group": "Unité complémentaire de l'hyperpropulsion",
-    "Description": "L'hyperpropulsion bénéficie d'une fusion avancée permettant une vitesse et une intensité de distorsion accrues. Le vaisseau de l'utilisateur pourra parcourir des distances spatiales plus grandes et accéder à des systèmes planétaires plus éloignés."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Réacteur de distorsion Theta pour Cargo",
-    "Group": "Unité complémentaire de l'hyperpropulsion",
-    "Description": "Les systèmes de fusion stabilisés mais non bridés sont intégrés à l'hyperpropulsion. Permet au vaisseau de parcourir des distances encore plus grandes dans l'espace lointain."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Bouclier de distorsion Sigma",
-    "Group": "Amélioration de l'hyperpropulsion : systèmes rouges",
-    "Description": "La matrice de calcul de l'hyperpropulsion est améliorée, ce qui évite tout désassemblage soudain lors d'une tentative d'accès à des corps stellaires rouges rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Bouclier de distorsion Tau",
-    "Group": "Amélioration de l'hyperpropulsion : systèmes verts",
-    "Description": "La matrice du bouclier de l'hyperpropulsion est améliorée, ce qui évite toute anomalie temporelle lors d'une tentative d'accès à des corps stellaires verts rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Bouclier de distorsion Theta",
-    "Group": "Amélioration de l'hyperpropulsion : systèmes bleus",
-    "Description": "La matrice de protection de l'hyperpropulsion est améliorée, ce qui évite tout bug de réalité lors d'une tentative d'accès à des corps stellaires bleus rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Noyau d'énergie brisé",
+    "Group": "Composant endommagé",
+    "Description": "Ce module d'amélioration de l'exocombinaison est gravement endommagé. Réparez les systèmes pour rétablir la fonctionnalité d'amélioration.\n\nUne fois réparé, l'utilisateur ne paiera pas toute amélioration de l'exocombinaison."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Hologramme défectueux",
     "Group": "Composant endommagé",
     "Description": "Ce module d'amélioration de l'exocombinaison est gravement endommagé. Réparez les systèmes pour rétablir la fonctionnalité d'amélioration.\n\nUne fois réparé, l'utilisateur ne paiera pas toute amélioration de l'exocombinaison."
   }

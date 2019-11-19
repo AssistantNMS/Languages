@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Propulsor de Cádmio",
     "Group": "Atualização de Hiperdrive: Sistemas vermelhos",
-    "Description": "A matriz computacional da Hiperdrive está atualizada, evitando a desmontagem rápida ao tentar alcançar corpos estelares vermelhos de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa Galáctico."
+    "Description": "Atualiza os ímanos limitadores do núcleo da Hiperdrive, evitando a desmontagem rápida ao tentar alcançar corpos estelares vermelhos de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa Galáctico."
   },
   {
     "Id": "tech31",
     "Name": "Propulsor de Emeril",
     "Group": "Atualização de Hiperdrive: Sistemas verdes",
-    "Description": "A matriz de blindagem da Hiperdrive está atualizada, evitando anomalias temporais ao tentar alcançar corpos estelares verdes de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa da Galáxia."
+    "Description": "Atualiza a integridade do escudo da Hiperdrive, evitando erros na realidade ao tentar alcançar corpos estelares verdes de classe rara.\n\nAconselha-se aceder aos sistemas Hiperdrive através do Mapa Galáctico."
   },
   {
     "Id": "tech32",
     "Name": "Propulsor de Índio",
     "Group": "Atualização de Hiperdrive: Sistemas azuis",
-    "Description": "A matriz de proteção da Hiperdrive está atualizada, evitando erros na realidade ao tentar alcançar corpos estelares azuis de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa da Galáxia."
+    "Description": "Atualiza a matriz de blindagem da Hiperdrive, evitando anomalias temporais ao tentar alcançar corpos estelares azuis de classe rara.\n\nAconselha-se aceder aos sistemas Hiperdrive através do Mapa Galáctico."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Cargueiro Reator Warp Sigma",
-    "Group": "Unidade Complementar para Hiperdrive",
-    "Description": "O Hiperdrive ganha maiores capacidades para exploração das profundezas do espaço e para alcançar estrelas anteriormente fora de alcance."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Cargueiro Reator Warp Tau",
-    "Group": "Unidade Complementar para Hiperdrive",
-    "Description": "O Hiperdrive adquire um sistema de fusão avançada para atingir velocidades warp mais elevadas. A nave do utilizador será capaz de viajar ainda mais profundo no espaço e até sistemas planetários mais distantes."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Cargueiro Reator Warp Theta",
-    "Group": "Unidade Complementar para Hiperdrive",
-    "Description": "Sistemas de fusão não contidos mas estáveis são interligados à unidade Hiperdrive do utilizador. Permite que a nave atinja distâncias mais longas no espaço profundo."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Blindagem Warp Sigma",
-    "Group": "Atualização de Hiperdrive: Sistemas vermelhos",
-    "Description": "A matriz computacional da Hiperdrive está atualizada, evitando a desmontagem rápida ao tentar alcançar corpos estelares vermelhos de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa Galáctico."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Blindagem Warp Tau",
-    "Group": "Atualização de Hiperdrive: Sistemas verdes",
-    "Description": "A matriz de blindagem da Hiperdrive está atualizada, evitando anomalias temporais ao tentar alcançar corpos estelares verdes de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa da Galáxia."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Blindagem Warp Theta",
-    "Group": "Atualização de Hiperdrive: Sistemas azuis",
-    "Description": "A matriz de proteção da Hiperdrive está atualizada, evitando erros na realidade ao tentar alcançar corpos estelares azuis de classe rara.\n\nAconselha-se o utilizador a aceder aos sistemas Hiperdrive através do Mapa da Galáxia."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Núcleo de energia destruído",
+    "Group": "Componente Danificado",
+    "Description": "Este Módulo de Atualização de Exofato tem danos críticos. Repara os sistemas para recuperar a funcionalidade.\n\nSe for reparado, não será cobrado ao Utilizador qualquer Atualização de Exofato."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Holograma defeituoso",
     "Group": "Componente Danificado",
     "Description": "Este Módulo de Atualização de Exofato tem danos críticos. Repara os sistemas para recuperar a funcionalidade.\n\nSe for reparado, não será cobrado ao Utilizador qualquer Atualização de Exofato."
   }

@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "Napęd kadmowy",
     "Group": "Ulepszenie hipernapędu: Czerwone układy",
-    "Description": "Macierz obliczeniowa hipernapędu zostaje ulepszona, co zapobiega szybkiemu rozpadowi przy próbach dotarcia do rzadkich ciał niebieskich klasy czerwonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Description": "Magnesy ekranujące rdzeń hipernapędu zostają ulepszone, co zapobiega szybkiemu rozpadowi przy próbach dotarcia do rzadkich ciał niebieskich klasy czerwonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
   },
   {
     "Id": "tech31",
     "Name": "Napęd emerylowy",
     "Group": "Ulepszenie hipernapędu: Zielone układy",
-    "Description": "Macierz tarczy hipernapędu zostaje ulepszona, co zapobiega czasowym anomaliom przy próbach dotarcia do rzadkich ciał niebieskich klasy zielonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Description": "Ekranowanie hipernapędu zostaje ulepszone, co zapobiega czasowym anomaliom przy próbach dotarcia do rzadkich ciał niebieskich klasy zielonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
   },
   {
     "Id": "tech32",
     "Name": "Napęd indowy",
     "Group": "Ulepszenie hipernapędu: Błękitne układy",
-    "Description": "Macierz ochrony hipernapędu zostaje ulepszona, co zapobiega błędom czasoprzestrzeni przy próbach dotarcia do rzadkich ciał niebieskich klasy błękitnej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Description": "Macierz obliczeniowa hipernapędu zostaje ulepszona, co zapobiega błędom czasoprzestrzeni przy próbach dotarcia do rzadkich ciał niebieskich klasy błękitnej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "Reaktor warp sigma frachtowca",
-    "Group": "Moduł towarzyszący do hipernapędu",
-    "Description": "Hipernapęd zyskuje lepsze zdolności odkrywania głębin kosmosu i umożliwia wykonywanie skoków do gwiazd, które wcześniej pozostawały poza zasięgiem."
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "Reaktor warp tau frachtowca",
-    "Group": "Moduł towarzyszący do hipernapędu",
-    "Description": "Hipernapęd zostaje wyposażony w zaawansowane technologie syntezy, dzięki którym statek osiąga wyższą prędkość warp. Statek użytkownika może skakać dalej w przestrzeń kosmiczną, ku odległym układom gwiezdnym."
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "Reaktor warp theta frachtowca",
-    "Group": "Moduł towarzyszący do hipernapędu",
-    "Description": "Do hipernapędu statku dołączone zostają nieograniczane, ale stabilizowane, systemy syntezy. Pozwala to wykonywać skoki jeszcze dalej, w głęboki kosmos."
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "Tarcza warp sigma",
-    "Group": "Ulepszenie hipernapędu: Czerwone układy",
-    "Description": "Macierz obliczeniowa hipernapędu zostaje ulepszona, co zapobiega szybkiemu rozpadowi przy próbach dotarcia do rzadkich ciał niebieskich klasy czerwonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "Tarcza warp tau",
-    "Group": "Ulepszenie hipernapędu: Zielone układy",
-    "Description": "Macierz tarczy hipernapędu zostaje ulepszona, co zapobiega czasowym anomaliom przy próbach dotarcia do rzadkich ciał niebieskich klasy zielonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "Tarcza warp theta",
-    "Group": "Ulepszenie hipernapędu: Błękitne układy",
-    "Description": "Macierz ochrony hipernapędu zostaje ulepszona, co zapobiega błędom czasoprzestrzeni przy próbach dotarcia do rzadkich ciał niebieskich klasy błękitnej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "Rozbity rdzeń zasilający",
+    "Group": "Uszkodzony komponent",
+    "Description": "Ten moduł ulepszenia egzokombinezonu jest krytycznie uszkodzony. Napraw systemy, by przywrócić działanie ulepszenia.\n\nNaprawa nie pociągnie za sobą opłat za ulepszenie egzokombinezonu."
+  },
+  {
+    "Id": "tech135",
+    "Name": "Wadliwy hologram",
     "Group": "Uszkodzony komponent",
     "Description": "Ten moduł ulepszenia egzokombinezonu jest krytycznie uszkodzony. Napraw systemy, by przywrócić działanie ulepszenia.\n\nNaprawa nie pociągnie za sobą opłat za ulepszenie egzokombinezonu."
   }

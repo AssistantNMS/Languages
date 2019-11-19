@@ -25,7 +25,7 @@
   },
   {
     "Id": "other6",
-    "Name": "Dados de Coordenadas da Cápsula de Escape",
+    "Name": "Coordenadas da Cápsula de Escape",
     "Group": "Dados de Navegação Criptografados",
     "Description": "Dados de navegação codificados para entrada num Impulsionador de Sinal.\n\nAo ser desencriptado, irá revelar a localização de uma Cápsula de escape que contém Atualizações de Exofato."
   },

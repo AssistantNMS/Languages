@@ -177,19 +177,19 @@
     "Id": "tech30",
     "Name": "镉驱动器",
     "Group": "超光速推进器升级：红色恒星系",
-    "Description": "超光速推进计算矩阵已升级，可以在尝试抵达稀有级红色行星时避免快速拆卸。\n\n建议使用者通过星系图进入超光速推进系统。"
+    "Description": "升级超光速推进器的核心约束磁场，避免在尝试抵达稀有级红色星体时快速解体。\n\n建议使用者通过银河星图接入超光速推进系统。"
   },
   {
     "Id": "tech31",
     "Name": "艾梅里尔驱动器",
     "Group": "超光速推进器升级：绿色恒星系",
-    "Description": "超光速推进器护盾矩阵已升级，现在能避免在尝试抵达稀有级绿色星球主体时，出现时间异常。\n\n建议用户通过星系图进入超光速推进系统。"
+    "Description": "对超光速推进器的护盾健全性进行升级，避免在尝试抵达稀有级绿色星体时出现现实故障。\n\n建议使用者通过银河星图接入超光速推进系统。"
   },
   {
     "Id": "tech32",
     "Name": "铟驱动器",
     "Group": "超光速推进器升级：蓝色恒星系",
-    "Description": "超光速推进器保护矩阵已升级，现在能避免在尝试抵达稀有级蓝色星球主体时，出现现实故障。\n\n建议用户通过星系图进入超光速推进系统。"
+    "Description": "对超光速推进器的计算矩阵进行升级，避免在尝试抵达稀有级蓝色星体时遇到时空异常。\n\n建议使用者通过银河星图接入超光速推进系统。"
   },
   {
     "Id": "tech33",
@@ -295,39 +295,39 @@
   },
   {
     "Id": "tech50",
-    "Name": "货船 曲速反应器（西格玛型）",
-    "Group": "超光速推进配件",
-    "Description": "超光速推进被赋予更为强劲的深空探索性能，以及跳跃至之前无法到达的星球的能力。"
+    "Name": "Freighter Warp Reactor Sigma",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
   },
   {
     "Id": "tech51",
-    "Name": "货船 曲速反应器（陶型）",
-    "Group": "超光速推进配件",
-    "Description": "超光速推进运用先进的聚变反应，使飞船曲速和强度更高。使用者能驾驶飞船跳跃到更深层的空间，到达更遥远的行星系。"
+    "Name": "Freighter Warp Reactor Tau",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
   },
   {
     "Id": "tech52",
-    "Name": "货船 曲速反应器（西塔型）",
-    "Group": "超光速推进配件",
-    "Description": "这种热核反应系统没有能量输出的限制，但做了稳定化处理。装进使用者的超光速推进后，飞船在深空中跳跃的距离可进一步增加。"
+    "Name": "Freighter Warp Reactor Theta",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
   },
   {
     "Id": "tech53",
-    "Name": "曲速防护（西格玛型）",
-    "Group": "超光速推进器升级：红色恒星系",
-    "Description": "超光速推进计算矩阵已升级，可以在尝试抵达稀有级红色行星时避免快速拆卸。\n\n建议使用者通过星系图进入超光速推进系统。"
+    "Name": "Warp Shielding Sigma",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech54",
-    "Name": "曲速防护（陶型）",
-    "Group": "超光速推进器升级：绿色恒星系",
-    "Description": "超光速推进器护盾矩阵已升级，现在能避免在尝试抵达稀有级绿色星球主体时，出现时间异常。\n\n建议用户通过星系图进入超光速推进系统。"
+    "Name": "Warp Shielding Tau",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech55",
-    "Name": "曲速防护（西塔型）",
-    "Group": "超光速推进器升级：蓝色恒星系",
-    "Description": "超光速推进器保护矩阵已升级，现在能避免在尝试抵达稀有级蓝色星球主体时，出现现实故障。\n\n建议用户通过星系图进入超光速推进系统。"
+    "Name": "Warp Shielding Theta",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -800,6 +800,12 @@
   {
     "Id": "tech134",
     "Name": "破损的能量核心",
+    "Group": "受损部件",
+    "Description": "该套装升级模块严重受损。修复系统以恢复升级功能。\n\n一旦修复，使用者便无需支付任何套装升级费用。"
+  },
+  {
+    "Id": "tech135",
+    "Name": "故障的全息图",
     "Group": "受损部件",
     "Description": "该套装升级模块严重受损。修复系统以恢复升级功能。\n\n一旦修复，使用者便无需支付任何套装升级费用。"
   }
