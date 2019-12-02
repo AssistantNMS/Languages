@@ -222,12 +222,6 @@
     "Description": "Niszczycielska broń, która gwarantuje szybkie zniszczenie celu w trakcie walk pomiędzy statkami.\n\nNaciśnij SHIPFIRE, aby aktywować."
   },
   {
-    "Id": "tech38",
-    "Name": "Nieliniowa optyka",
-    "Group": "Ulepszenie działka fotonowego",
-    "Description": "Zastępuje konwencjonalną optykę działka fotonowego eksperymentalnym układem szklanym, co zwiększa wydajność w walce.\n\nZnacząco ulepsza wydajność radiatora."
-  },
-  {
     "Id": "tech39",
     "Name": "Skaner gospodarczy",
     "Group": "Technologia czujników dalekiego zasięgu",
@@ -271,9 +265,9 @@
   },
   {
     "Id": "tech46",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
+    "Name": "Nieliniowa optyka",
+    "Group": "Ulepszenie działka fotonowego",
+    "Description": "Zastępuje konwencjonalną optykę działka fotonowego eksperymentalnym układem szklanym, co zwiększa wydajność w walce.\n\nZnacząco ulepsza wydajność radiatora."
   },
   {
     "Id": "tech47",
@@ -292,42 +286,6 @@
     "Name": "Frachtowiec Hipernapęd",
     "Group": "Napęd warp prędkości świetlnej",
     "Description": "Napęd nadświetlny FTL jest efektywnym sposobem osiągnięcia prędkości warp i dokonywania skoków pomiędzy sąsiednimi układami."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -808,5 +766,41 @@
     "Name": "Wadliwy hologram",
     "Group": "Uszkodzony komponent",
     "Description": "Ten moduł ulepszenia egzokombinezonu jest krytycznie uszkodzony. Napraw systemy, by przywrócić działanie ulepszenia.\n\nNaprawa nie pociągnie za sobą opłat za ulepszenie egzokombinezonu."
+  },
+  {
+    "Id": "tech136",
+    "Name": "Rezonator rdzenia warp",
+    "Group": "Moduł towarzyszący do hipernapędu",
+    "Description": "Modyfikacja gigantycznego silnika hipernapędu frachtowca międzygwiezdnego.\n\nRezonans kwantowy zwiększa niezawodność napędu podczas podróży z prędkością nadświetlną i pozwala sięgnąć gwiazd, które poprzednio były poza zasięgiem."
+  },
+  {
+    "Id": "tech137",
+    "Name": "Wtryskiwacz plazmatycznego warp",
+    "Group": "Moduł towarzyszący do hipernapędu",
+    "Description": "Modyfikacja gigantycznego silnika hipernapędu frachtowca międzygwiezdnego.\n\nHipernapęd zostaje wyposażony w zaawansowane technologie syntezy, dzięki którym statek osiąga wyższą prędkość warp. Statek użytkownika może skakać dalej w przestrzeń kosmiczną, ku odległym układom gwiezdnym."
+  },
+  {
+    "Id": "tech138",
+    "Name": "Odgwintawiacz rzeczywistości",
+    "Group": "Moduł towarzyszący do hipernapędu",
+    "Description": "Modyfikacja gigantycznego silnika hipernapędu frachtowca międzygwiezdnego.\n\nDo hipernapędu statku dołączone zostają nieograniczane, ale stabilizowane, systemy syntezy. Pozwala to wykonywać skoki jeszcze dalej, w głęboki kosmos."
+  },
+  {
+    "Id": "tech139",
+    "Name": "Wzmocnione ekranowanie warp",
+    "Group": "Ulepszenie hipernapędu: Czerwone układy",
+    "Description": "Magnesy ekranujące rdzeń hipernapędu zostają ulepszone, co zapobiega szybkiemu rozpadowi przy próbach dotarcia do rzadkich ciał niebieskich klasy czerwonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+  },
+  {
+    "Id": "tech140",
+    "Name": "Chromatyczne ekranowanie warp",
+    "Group": "Ulepszenie hipernapędu: Zielone układy",
+    "Description": "Ekranowanie hipernapędu zostaje ulepszone, co zapobiega czasowym anomaliom przy próbach dotarcia do rzadkich ciał niebieskich klasy zielonej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
+  },
+  {
+    "Id": "tech141",
+    "Name": "Czasoprzestrzenny komputer warp",
+    "Group": "Ulepszenie hipernapędu: Błękitne układy",
+    "Description": "Macierz obliczeniowa hipernapędu zostaje ulepszona, co zapobiega błędom czasoprzestrzeni przy próbach dotarcia do rzadkich ciał niebieskich klasy błękitnej.\n\nDostęp do systemów hipernapędu zalecany jest poprzez mapę galaktyki."
   }
 ]

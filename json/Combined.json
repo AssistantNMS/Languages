@@ -4545,29 +4545,6 @@
     ]
   },
   {
-    "Id": "tech38",
-    "Icon": "technology/38.png",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity.",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 120,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod33",
-        "Quantity": 3
-      },
-      {
-        "Id": "prod81",
-        "Quantity": 2
-      }
-    ]
-  },
-  {
     "Id": "tech39",
     "Icon": "technology/39.png",
     "Name": "Economy Scanner",

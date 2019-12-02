@@ -222,12 +222,6 @@
     "Description": "Arme hautement destructrice facilitant la destruction rapide de vaisseaux.\n\nAppuyez sur SHIPFIRE pour l'activer."
   },
   {
-    "Id": "tech38",
-    "Name": "Système optique non linéaire",
-    "Group": "Amélioration du canon à photons",
-    "Description": "Il remplace le système optique conventionnel du canon à photons par une série de verres expérimentaux, ce qui augmente ses performances lors des combats.\n\nIl améliore considérablement sa capacité à dissiper la chaleur."
-  },
-  {
     "Id": "tech39",
     "Name": "Scanner d'économie",
     "Group": "Technologie de capteur à longue portée",
@@ -271,9 +265,9 @@
   },
   {
     "Id": "tech46",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
+    "Name": "Système optique non linéaire",
+    "Group": "Amélioration du canon à photons",
+    "Description": "Il remplace le système optique conventionnel du canon à photons par une série de verres expérimentaux, ce qui augmente ses performances lors des combats.\n\nIl améliore considérablement sa capacité à dissiper la chaleur."
   },
   {
     "Id": "tech47",
@@ -292,42 +286,6 @@
     "Name": "Hyperpropulsion pour Cargo",
     "Group": "Générateur de distorsion supraluminique",
     "Description": "Propulseur VSL permettant aux vaisseaux d'atteindre la vitesse de distorsion et de sauter d'un système à un autre système voisin."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -808,5 +766,41 @@
     "Name": "Hologramme défectueux",
     "Group": "Composant endommagé",
     "Description": "Ce module d'amélioration de l'exocombinaison est gravement endommagé. Réparez les systèmes pour rétablir la fonctionnalité d'amélioration.\n\nUne fois réparé, l'utilisateur ne paiera pas toute amélioration de l'exocombinaison."
+  },
+  {
+    "Id": "tech136",
+    "Name": "Résonateur de distorsion principal",
+    "Group": "Unité complémentaire de l'hyperpropulsion",
+    "Description": "Une amélioration pour le colossal moteur à hyperpropulsion d'un cargo interstellaire.\n\nLa résonance quantique améliore la robustesse de la propulsion lors d'une distorsion VSL, permettant une exploration spatiale plus lointaine afin d'atteindre des étoiles jusque-là hors de portée."
+  },
+  {
+    "Id": "tech137",
+    "Name": "Injecteur à distorsion plasmatique",
+    "Group": "Unité complémentaire de l'hyperpropulsion",
+    "Description": "Une amélioration pour le colossal moteur à hyperpropulsion d'un cargo interstellaire.\n\nL'hyperpropulsion bénéficie d'une fusion avancée permettant une vitesse et une intensité de distorsion accrues. Le vaisseau de l'utilisateur pourra parcourir des distances spatiales plus grandes et accéder à des systèmes planétaires plus éloignés."
+  },
+  {
+    "Id": "tech138",
+    "Name": "Dérouleur de réalité",
+    "Group": "Unité complémentaire de l'hyperpropulsion",
+    "Description": "Une amélioration pour le colossal moteur à hyperpropulsion d'un cargo interstellaire.\n\nLes systèmes de fusion stabilisés mais non bridés sont intégrés à l'hyperpropulsion. Permet au vaisseau de parcourir des distances encore plus grandes dans l'espace lointain."
+  },
+  {
+    "Id": "tech139",
+    "Name": "Bouclier de distorsion amplifié",
+    "Group": "Amélioration de l'hyperpropulsion : systèmes rouges",
+    "Description": "Améliore les aimants au cœur de l'hyperpropulseur, ce qui évite tout désassemblage soudain lors d'une tentative d'accès à des corps stellaires rouges rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+  },
+  {
+    "Id": "tech140",
+    "Name": "Bouclier de distorsion chromatique",
+    "Group": "Amélioration de l'hyperpropulsion : systèmes verts",
+    "Description": "Améliore, l'intégrité des boucliers de l'hyperpropulseur, ce qui évite tout bug de réalité lors d'une tentative d'accès à des corps stellaires verts rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
+  },
+  {
+    "Id": "tech141",
+    "Name": "Ordinateur de distorsion temporelle",
+    "Group": "Amélioration de l'hyperpropulsion : systèmes bleus",
+    "Description": "Améliore la matrice de calcul de l'hyperpropulseur, ce qui évite toute anomalie temporelle lors d'une tentative d'accès à des corps stellaires bleus rares.\n\nVeuillez accéder aux systèmes d'hyperpropulsion depuis la carte galactique."
   }
 ]

@@ -222,12 +222,6 @@
     "Description": "Highly destructive weapon that facilitates rapid ship-to-ship destruction.\n\nPress SHIPFIRE to activate."
   },
   {
-    "Id": "tech38",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
-  },
-  {
     "Id": "tech39",
     "Name": "Economy Scanner",
     "Group": "Long-range Sensor Technology",
@@ -292,42 +286,6 @@
     "Name": "Freighter Hyperdrive",
     "Group": "Lightspeed Warp Drive",
     "Description": "FTL propulsion drive that allows starship to attain warp speed and jump between neighbouring systems."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -441,7 +399,8 @@
     "Id": "tech74",
     "Name": "Boltcaster SM",
     "Group": "Boltcaster Companion Unit",
-    "Description": "Boltcaster shots deliver added physical damage upon impact.\n\nGrants additional kinetic energy to the user's ionised plasma distribution systems.\n\nOperates automatically once constructed within user's Multi-Tool inventory."
+    "Description": "Boltcaster shots deliver added physical damage upon impact.\n\nGrants additional kinetic energy to the user's ionised plasma distribution systems.\n\nOperates automatically once constructed within user's Multi-Tool inventory.",
+    "Additional": "This Blueprint is only available for players who bought the Limited Edition (PS4) version of the game, or recieved it from the day-one patch"
   },
   {
     "Id": "tech75",
@@ -808,5 +767,41 @@
     "Name": "Faulty Hologram",
     "Group": "Damaged Component",
     "Description": "This Exosuit Upgrade Module is critically damaged. Repair systems to restore upgrade functionality.\n\nIf repaired, User will not be charged for any Exosuit Upgrades."
+  },
+  {
+    "Id": "tech136",
+    "Name": "Warp Core Resonator",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "An augmentation for the colossal hyperdrive engine of an interstellar freighter.\n\nQuantum resonation improves the robustness of the drive during FTL travel, granting the ability to leap to stars previously out of reach."
+  },
+  {
+    "Id": "tech137",
+    "Name": "Plasmatic Warp Injector",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "An augmentation for the colossal hyperdrive engine of an interstellar freighter.\n\nHyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
+  },
+  {
+    "Id": "tech138",
+    "Name": "Reality De-Threader",
+    "Group": "Hyperdrive Companion Unit",
+    "Description": "An augmentation for the colossal hyperdrive engine of an interstellar freighter.\n\nUncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
+  },
+  {
+    "Id": "tech139",
+    "Name": "Amplified Warp Shielding",
+    "Group": "Hyperdrive Upgrade: Red Systems",
+    "Description": "Upgrades the hyperdrive's core bounding magnets, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
+  },
+  {
+    "Id": "tech140",
+    "Name": "Chromatic Warp Shielding",
+    "Group": "Hyperdrive Upgrade: Green Systems",
+    "Description": "Upgrades the hyperdrive's shield integrity, preventing reality glitches when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
+  },
+  {
+    "Id": "tech141",
+    "Name": "Temporal Warp Computer",
+    "Group": "Hyperdrive Upgrade: Blue Systems",
+    "Description": "Upgrades the hyperdrive's computational matrix,  preventing temporal anomalies when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   }
 ]

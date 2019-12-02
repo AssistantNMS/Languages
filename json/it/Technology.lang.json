@@ -222,12 +222,6 @@
     "Description": "Arma devastante, che permette una rapida distruzione negli scontri aerei.\n\nPremi SHIPFIRE per attivare."
   },
   {
-    "Id": "tech38",
-    "Name": "Ottiche non lineari",
-    "Group": "Potenziamento cannone fotonico",
-    "Description": "Sostituisce le tradizionali ottiche del cannone fotonico con lenti sperimentali che migliorano la resa in combattimento.\n\nMigliora notevolmente la capacità di dissipazione."
-  },
-  {
     "Id": "tech39",
     "Name": "Scanner economico",
     "Group": "Tecnologia di sensori a lungo raggio",
@@ -271,9 +265,9 @@
   },
   {
     "Id": "tech46",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
+    "Name": "Ottiche non lineari",
+    "Group": "Potenziamento cannone fotonico",
+    "Description": "Sostituisce le tradizionali ottiche del cannone fotonico con lenti sperimentali che migliorano la resa in combattimento.\n\nMigliora notevolmente la capacità di dissipazione."
   },
   {
     "Id": "tech47",
@@ -292,42 +286,6 @@
     "Name": "Iperguida mercantile",
     "Group": "Motore di curvatura alla velocità della luce",
     "Description": "Motore a propulsione iperluce, che permette all'astronave di raggiungere la velocità di curvatura e saltare fra sistemi attigui."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -808,5 +766,41 @@
     "Name": "Ologramma difettoso",
     "Group": "Componente danneggiato",
     "Description": "Questo modulo di miglioramento dell'exotuta è gravemente danneggiato. Ripara i sistemi per ripristinare la funzionalità di miglioramento.\n\nIn caso di riparazione, l'utente non pagherà per un miglioramento dell'exotuta."
+  },
+  {
+    "Id": "tech136",
+    "Name": "Risonatore nucleo di curvatura",
+    "Group": "Unità complementare per iperguida",
+    "Description": "Un potenziamento per la colossale iperguida di un mercantile interstellare.\n\nLa risonanza quantica migliora le prestazioni del propulsore durante il viaggio iperluce, permettendo di saltare verso stelle precedentemente fuori portata."
+  },
+  {
+    "Id": "tech137",
+    "Name": "Iniettore plasmatico di curvatura",
+    "Group": "Unità complementare per iperguida",
+    "Description": "Un potenziamento per la colossale iperguida di un mercantile interstellare.\n\nL'iperguida beneficia della fusione avanzata per spingere l'astronave a una maggiore velocità e intensità di curvatura. L'astronave può effettuare salti più lunghi nello spazio e raggiungere sistemi planetari più distanti."
+  },
+  {
+    "Id": "tech138",
+    "Name": "Decostruttore di realtà",
+    "Group": "Unità complementare per iperguida",
+    "Description": "Un potenziamento per la colossale iperguida di un mercantile interstellare.\n\nI sistemi di fusione, stabili e privi di limitazioni, si intrecciano con quelli dell'iperguida, permettendo alla nave di compiere salti più lunghi nelle profondità dello spazio."
+  },
+  {
+    "Id": "tech139",
+    "Name": "Scudo di curvatura amplificato",
+    "Group": "Potenziamento iperguida: sistemi rossi",
+    "Description": "Potenzia i magneti costrittori del nucleo in modo da impedire un disassemblamento rapido quando si cerca di raggiungere corpi celesti rossi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+  },
+  {
+    "Id": "tech140",
+    "Name": "Scudo di curvatura cromatico",
+    "Group": "Potenziamento iperguida: sistemi verdi",
+    "Description": "Migliora l'integrità della schermatura dell'iperguida in modo da impedire anomalie temporali quando si cerca di raggiungere corpi celesti verdi rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
+  },
+  {
+    "Id": "tech141",
+    "Name": "Computer di curvatura temporale",
+    "Group": "Potenziamento iperguida: sistemi blu",
+    "Description": "Migliora la matrice di calcolo dell'iperguida in modo da impedire errori nella realtà quando si cerca di raggiungere corpi celesti blu rari.\n\nSi consiglia di accedere ai sistemi di iperguida sulla mappa galattica."
   }
 ]

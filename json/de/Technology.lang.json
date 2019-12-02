@@ -222,12 +222,6 @@
     "Description": "Waffe mit großer Zerstörungskraft, die die schnelle Zerstörung anderer Schiffe ermöglicht.\n\nMit SHIPFIRE aktivieren."
   },
   {
-    "Id": "tech38",
-    "Name": "Nichtlineare Optik",
-    "Group": "Photonenkanonen-Upgrade",
-    "Description": "Ersetzt die gewöhnliche Optik der Photonenkanone durch eine experimentelle Glasanordnung und verbessert dadurch die Leistung im Kampf.\n\nErhöht die Wärmeableiterkapazität signifikant."
-  },
-  {
     "Id": "tech39",
     "Name": "Wirtschaftsscanner",
     "Group": "Fernsensor-Technologie",
@@ -271,9 +265,9 @@
   },
   {
     "Id": "tech46",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
+    "Name": "Nichtlineare Optik",
+    "Group": "Photonenkanonen-Upgrade",
+    "Description": "Ersetzt die gewöhnliche Optik der Photonenkanone durch eine experimentelle Glasanordnung und verbessert dadurch die Leistung im Kampf.\n\nErhöht die Wärmeableiterkapazität signifikant."
   },
   {
     "Id": "tech47",
@@ -292,42 +286,6 @@
     "Name": "Frachter-Hyperantrieb",
     "Group": "Lichtgeschwindigkeit-Warp-Antrieb",
     "Description": "Hyperlichtantrieb, der einem Raumschiff Warp-Geschwindigkeit und Sprünge zwischen benachbarten Systemen ermöglicht."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -808,5 +766,41 @@
     "Name": "Defektes Hologramm",
     "Group": "Beschädigte Komponente",
     "Description": "Dieses Exo-Anzug-Upgrade-Modul ist kritisch beschädigt. Repariere die Systeme, um die Upgrade-Funktionalität wiederherzustellen.\n\nNach der Reparatur muss der Benutzer für jegliche Exo-Anzug-Upgrades nichts bezahlen."
+  },
+  {
+    "Id": "tech136",
+    "Name": "Warpkernresonator",
+    "Group": "Hyperantrieb-Begleiteinheit",
+    "Description": "Eine Verstärkung für den riesigen Hyperantrieb eines interstellaren Frachters.\n\nDie Quanten-Resonanz verbessert die Robustheit des Antriebs während des Reisens mit Hyperlichtgeschwindigkeit und bietet dem Nutzer die Möglichkeit, zu Sternen zu springen, die bislang außerhalb seiner Reichweite lagen."
+  },
+  {
+    "Id": "tech137",
+    "Name": "Plasma-Warpinjektor",
+    "Group": "Hyperantrieb-Begleiteinheit",
+    "Description": "Eine Verstärkung für den riesigen Hyperantrieb eines interstellaren Frachters.\n\nDer Hyperantrieb profitiert von hochentwickelter Fusionstechnologie, die dem Raumschiff höhere Warp-Geschwindigkeiten und -Intensitäten ermöglicht. Das Schiff des Nutzers kann tiefer in den Weltraum springen und weiter entfernte Planetensysteme anfliegen."
+  },
+  {
+    "Id": "tech138",
+    "Name": "Realitätsentwirrer",
+    "Group": "Hyperantrieb-Begleiteinheit",
+    "Description": "Eine Verstärkung für den riesigen Hyperantrieb eines interstellaren Frachters.\n\nUngedrosselte, aber stabilisierte Fusionssysteme werden in den Hyperantrieb des Nutzers integriert. Ermöglicht dem Raumschiff noch weitere Sprungdistanzen in die Tiefen des Weltraums."
+  },
+  {
+    "Id": "tech139",
+    "Name": "Verstärkter Warp-Schild",
+    "Group": "Hyperantrieb-Upgrade: Rote Systeme",
+    "Description": "Verbessert die Kernbindemagneten des Hyperantriebs, was eine schnelle Zerlegung beim Versuch, seltene rote Sternenkörper zu erreichen, verhindert.\n\nEs wird empfohlen, dass der Nutzer über die galaktische Karte auf die Hyperantrieb-Systeme zugreift."
+  },
+  {
+    "Id": "tech140",
+    "Name": "Chromatischer Warp-Schild",
+    "Group": "Hyperantrieb-Upgrade: Grüne Systeme",
+    "Description": "Verbessert die Schildintegrität des Hyperantriebs, was Realitätsstörungen beim Versuch, seltene grüne Sternenkörper zu erreichen, verhindert.\n\nEs wird empfohlen, dass der Nutzer über die galaktische Karte auf die Hyperantrieb-Systeme zugreift."
+  },
+  {
+    "Id": "tech141",
+    "Name": "Temporaler Warp-Computer",
+    "Group": "Hyperantrieb-Upgrade: Blaue Systeme",
+    "Description": "Verbessert die Berechnungsmatrix des Hyperantriebs, was temporale Anomalien beim Versuch, seltene blaue Sternenkörper zu erreichen, verhindert.\n\nEs wird empfohlen, dass der Nutzer über die galaktische Karte auf die Hyperantrieb-Systeme zugreift."
   }
 ]

@@ -809,27 +809,6 @@
     ]
   },
   {
-    "Id": "tech38",
-    "Icon": "technology/38.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "Colour": "913030",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 120,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod33",
-        "Quantity": 3
-      },
-      {
-        "Id": "prod81",
-        "Quantity": 2
-      }
-    ]
-  },
-  {
     "Id": "tech39",
     "Icon": "technology/39.png",
     "BaseValueUnits": 1.0,
@@ -978,14 +957,24 @@
   },
   {
     "Id": "tech46",
+    "Icon": "technology/38.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": false,
-    "MaxStackSize": 0.0,
+    "Colour": "913030",
     "BlueprintSource": 0,
-    "BlueprintNaniteCost": 0,
+    "BlueprintNaniteCost": 120,
     "HideBlueprintNaniteCost": false,
-    "RequiredItems": []
+    "RequiredItems": [
+      {
+        "Id": "prod33",
+        "Quantity": 3
+      },
+      {
+        "Id": "prod81",
+        "Quantity": 2
+      }
+    ]
   },
   {
     "Id": "tech47",
@@ -1051,150 +1040,6 @@
       {
         "Id": "raw23",
         "Quantity": 500
-      }
-    ]
-  },
-  {
-    "Id": "tech50",
-    "Icon": "technology/50.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 4,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 4
-      },
-      {
-        "Id": "prod8",
-        "Quantity": 1
-      },
-      {
-        "Id": "raw20",
-        "Quantity": 250
-      }
-    ]
-  },
-  {
-    "Id": "tech51",
-    "Icon": "technology/51.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 8,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 5
-      },
-      {
-        "Id": "raw21",
-        "Quantity": 250
-      },
-      {
-        "Id": "prod10",
-        "Quantity": 1
-      }
-    ]
-  },
-  {
-    "Id": "tech52",
-    "Icon": "technology/52.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 12,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 6
-      },
-      {
-        "Id": "prod9",
-        "Quantity": 1
-      },
-      {
-        "Id": "raw22",
-        "Quantity": 250
-      }
-    ]
-  },
-  {
-    "Id": "tech53",
-    "Icon": "technology/50.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 4,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 2
-      },
-      {
-        "Id": "raw20",
-        "Quantity": 250
-      },
-      {
-        "Id": "prod35",
-        "Quantity": 2
-      }
-    ]
-  },
-  {
-    "Id": "tech54",
-    "Icon": "technology/51.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 8,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 2
-      },
-      {
-        "Id": "raw21",
-        "Quantity": 250
-      },
-      {
-        "Id": "prod32",
-        "Quantity": 2
-      }
-    ]
-  },
-  {
-    "Id": "tech55",
-    "Icon": "technology/52.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": false,
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 12,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "prod2",
-        "Quantity": 2
-      },
-      {
-        "Id": "raw22",
-        "Quantity": 250
-      },
-      {
-        "Id": "prod36",
-        "Quantity": 2
       }
     ]
   },
@@ -2830,6 +2675,156 @@
     "RequiredItems": [
       {
         "Id": "prod1",
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": "tech136",
+    "Icon": "technology/136.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "2177C7",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 4,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 4
+      },
+      {
+        "Id": "prod8",
+        "Quantity": 1
+      },
+      {
+        "Id": "raw20",
+        "Quantity": 250
+      }
+    ]
+  },
+  {
+    "Id": "tech137",
+    "Icon": "technology/137.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "2177C7",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 8,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 5
+      },
+      {
+        "Id": "raw21",
+        "Quantity": 250
+      },
+      {
+        "Id": "prod10",
+        "Quantity": 1
+      }
+    ]
+  },
+  {
+    "Id": "tech138",
+    "Icon": "technology/138.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "2177C7",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 12,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 6
+      },
+      {
+        "Id": "prod9",
+        "Quantity": 1
+      },
+      {
+        "Id": "raw22",
+        "Quantity": 250
+      }
+    ]
+  },
+  {
+    "Id": "tech139",
+    "Icon": "technology/136.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "7A0000",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 4,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 2
+      },
+      {
+        "Id": "raw20",
+        "Quantity": 250
+      },
+      {
+        "Id": "prod35",
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": "tech140",
+    "Icon": "technology/137.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "485745",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 8,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 2
+      },
+      {
+        "Id": "raw21",
+        "Quantity": 250
+      },
+      {
+        "Id": "prod32",
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": "tech141",
+    "Icon": "technology/138.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "Colour": "095B77",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 12,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod2",
+        "Quantity": 2
+      },
+      {
+        "Id": "raw22",
+        "Quantity": 250
+      },
+      {
+        "Id": "prod36",
         "Quantity": 2
       }
     ]

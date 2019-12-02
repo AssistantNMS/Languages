@@ -222,12 +222,6 @@
     "Description": "신속한 대함 파괴력을 자랑하는 매우 파괴적인 무기입니다.\n\nSHIPFIRE을 눌러 작동합니다."
   },
   {
-    "Id": "tech38",
-    "Name": "비선형 광학장치",
-    "Group": "광자포 업그레이드",
-    "Description": "기존의 광자포 광학장치를 실험적인 유리 배열로 교체해, 전투 능력을 증폭시켜 줍니다.\n\n방열판의 용량이 크게 향상됩니다."
-  },
-  {
     "Id": "tech39",
     "Name": "경제 스캐너",
     "Group": "장거리 센서 기술",
@@ -271,9 +265,9 @@
   },
   {
     "Id": "tech46",
-    "Name": "Nonlinear Optics",
-    "Group": "Photon Cannon Upgrade",
-    "Description": "Replaces the conventional Photon Cannon optics with an experimental glass array, boosting combat performance.\n\nSignificantly improves heat sink capacity."
+    "Name": "비선형 광학장치",
+    "Group": "광자포 업그레이드",
+    "Description": "기존의 광자포 광학장치를 실험적인 유리 배열로 교체해, 전투 능력을 증폭시켜 줍니다.\n\n방열판의 용량이 크게 향상됩니다."
   },
   {
     "Id": "tech47",
@@ -292,42 +286,6 @@
     "Name": "화물선 하이퍼드라이브",
     "Group": "광속 워프 드라이브",
     "Description": "FTL 추진 드라이브로 함선의 워프 속도 도달과 인근 행성계로의 이동을 가능하게 만들어 줍니다."
-  },
-  {
-    "Id": "tech50",
-    "Name": "Freighter Warp Reactor Sigma",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive is granted more robust deep space exploration capabilities and ability to leap to stars previously out of reach."
-  },
-  {
-    "Id": "tech51",
-    "Name": "Freighter Warp Reactor Tau",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Hyperdrive benefits from advanced fusion that brings starship to higher warp speed and intensity. User's craft will become able to leap deeper into space, and into more distant planetary systems."
-  },
-  {
-    "Id": "tech52",
-    "Name": "Freighter Warp Reactor Theta",
-    "Group": "Hyperdrive Companion Unit",
-    "Description": "Uncapped, yet stabilised, fusion systems are threaded into user's hyperdrive. Allows starship to jump ever longer distances in deep space."
-  },
-  {
-    "Id": "tech53",
-    "Name": "Warp Shielding Sigma",
-    "Group": "Hyperdrive Upgrade: Red Systems",
-    "Description": "Hyperdrive computational matrix is upgraded, preventing rapid disassembly when attempting to reach rare-class red stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech54",
-    "Name": "Warp Shielding Tau",
-    "Group": "Hyperdrive Upgrade: Green Systems",
-    "Description": "Hyperdrive shield matrix is upgraded, preventing temporal anomalies when attempting to reach rare-class green stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
-  },
-  {
-    "Id": "tech55",
-    "Name": "Warp Shielding Theta",
-    "Group": "Hyperdrive Upgrade: Blue Systems",
-    "Description": "Hyperdrive protection matrix is upgraded, preventing reality glitches when attempting to reach rare-class blue stellar bodies.\n\nUser is advised to access Hyperdrive systems via the Galactic Map."
   },
   {
     "Id": "tech56",
@@ -808,5 +766,41 @@
     "Name": "불량 홀로그램",
     "Group": "파손된 부품",
     "Description": "이 엑소슈트 업그레이드 모듈은 치명적인 손상을 입었습니다. 업그레이드의 기능을 복구하려면 시스템을 수리하십시오.\n\n수리하면 사용자에게 엑소슈트 업그레이드의 비용이 청구되지 않습니다."
+  },
+  {
+    "Id": "tech136",
+    "Name": "화물선 워프 반응로",
+    "Group": "하이퍼드라이브 보조 유닛",
+    "Description": "성간 화물선의 거대 하이퍼드라이브 엔진 전용 강화\n\n양자 공명으로 FTL 이동 중 드라이브를 견고하게 하여 이전에는 가지 못했던 행성으로 도약하는 능력을 부여합니다."
+  },
+  {
+    "Id": "tech137",
+    "Name": "플라즈마 워프 인젝터",
+    "Group": "하이퍼드라이브 보조 유닛",
+    "Description": "성간 화물선의 거대 하이퍼드라이브 엔진 전용 강화\n\n하이퍼드라이브를 첨단 융합 기술로 향상하여 더 높은 워프 속도와 강도를 지니게 합니다. 사용자의 함선이 더 깊은 우주, 그리고 더 먼 행성계로 도약할 수 있을 것입니다. "
+  },
+  {
+    "Id": "tech138",
+    "Name": "현실 디스레더",
+    "Group": "하이퍼드라이브 보조 유닛",
+    "Description": "성간 화물선의 거대 하이퍼드라이브 엔진 전용 강화\n\n제한이 제거되었지만, 그래도 안정성을 유지하는 융합 시스템이 사용자의 FTL 워프 드라이브에 적용됩니다. 함선이 심우주의 더욱 먼 거리를 이동할 수 있습니다."
+  },
+  {
+    "Id": "tech139",
+    "Name": "증폭된 워프 실드",
+    "Group": "하이퍼드라이브 업그레이드: 적색 성계",
+    "Description": "하이퍼드라이브의 경계 자력이 업그레이드되어 희귀 등급의 적색 천체로 접근 시도 시의 급속 해체 현상을 방지합니다.\n\n하이퍼드라이브 시스템은 은하계 지도를 통해 이용하기를 권장합니다."
+  },
+  {
+    "Id": "tech140",
+    "Name": "크로마틱 워프 실드",
+    "Group": "하이퍼드라이브 업그레이드: 녹색 성계",
+    "Description": "하이퍼드라이브 실드 상태가 업그레이드되어 희귀 등급의 녹색 천체로 접근 시도 시의 시간적 아노말리 발생을 방지합니다.\n\n하이퍼드라이브 시스템은 은하계 지도를 통해 이용하기를 권장합니다."
+  },
+  {
+    "Id": "tech141",
+    "Name": "시간 워프 컴퓨터",
+    "Group": "하이퍼드라이브 업그레이드: 청색 성계",
+    "Description": "하이퍼드라이브 컴퓨터 매트릭스가 업그레이드되어 희귀 등급의 청색 천체로 접근 시도 시의 시간 이상 현상을 방지합니다.\n\n하이퍼드라이브 시스템은 은하계 지도를 통해 이용하기를 권장합니다."
   }
 ]
