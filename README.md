@@ -1,9 +1,9 @@
-# No Man's Sky Assistant Languages
-### Language "packs" for the No Man's Sky Assistant App
+# Assistant for No Man's Sky Languages
+### Language "packs" for the Assistant for No Man's Sky Apps
 
 This repo holds the json files used to display the app in different languages. I only know English, Afrikaans and a tiny bit of French. So your help will really be appreciated!!.
 
-Everyone that contributes will be mentioned on [the App's website](https://nomanssky.kurtlourens.com "No Man's Sky Recipe website"). If you do not want to be featured on the website just let me know 😁.
+Everyone that contributes will be mentioned on [the App's website](https://nmsassistant.com "Assistant for No Man's Sky website"). If you do not want to be featured on the website just let me know 😁.
 
 Contributors details:
 - Name
