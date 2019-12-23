@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Luz de color",
+    "Name": "Luz blanca",
     "Group": "Decoración",
     "Description": "Luz de color que sirve para iluminar la base del usuario."
   },
@@ -934,12 +934,6 @@
     "Name": "Escalera",
     "Group": "Objeto de construcción",
     "Description": "Una escalera resistente y ligera con puntos de anclaje reforzados para fijarla a los muros."
-  },
-  {
-    "Id": "build216",
-    "Name": "Escalera para cuarto cuboide",
-    "Group": "Objeto de construcción",
-    "Description": "Una escalera fuerte y ligera con accesorios diseñados para cuartos cuboides."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Puerta eléctrica metálica",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente metálico de construcción",
     "Description": "Una puerta que funciona con energía eléctrica. Se puede conectar a una cuadrícula de energía y operar con ella usando varios interruptores.\n\nConfeccionada a partir de aleaciones de metales de alta resistencia."
   },
   {
     "Id": "build327",
     "Name": "Puerta eléctrica metálica grande",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente metálico de construcción",
     "Description": "Una puerta que funciona con energía eléctrica de ancho doble. Se puede conectar a una cuadrícula de energía y operar con ella usando varios interruptores.\n\nConfeccionada a partir de aleaciones de metales de alta resistencia."
   },
   {
     "Id": "build328",
     "Name": "Esquina interior de tejado metálica",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente metálico de construcción",
     "Description": "Una pieza esencial de la estructura del tejado, fundamental a la hora de construir tejados angulares.\n\nConfeccionada a partir de aleaciones de metales de alta resistencia."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Puerta eléctrica de concreto",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente de construcción de hormigón",
     "Description": "Una puerta que funciona con energía eléctrica. Se puede conectar a una cuadrícula de energía y operar con ella usando varios interruptores.\n\nConfeccionada a partir de bloques de concreto reforzados."
   },
   {
     "Id": "build331",
     "Name": "Puerta eléctrica de concreto grande",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente de construcción de hormigón",
     "Description": "Una puerta que funciona con energía eléctrica de ancho doble. Se puede conectar a una cuadrícula de energía y operar con ella usando varios interruptores.\n\nConfeccionada a partir de bloques de concreto reforzados."
   },
   {
     "Id": "build332",
     "Name": "Esquina interior de tejado de concreto",
-    "Group": "Componente de construcción de madera",
+    "Group": "Componente de construcción de hormigón",
     "Description": "Una pieza esencial de la estructura del tejado, fundamental a la hora de construir tejados angulares.\n\nConfeccionada a partir de bloques de concreto reforzados."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Calcomanía de anomalía",
     "Group": "Decoración",
     "Description": "Una exclusiva calcomanía decorativa, para adornar y dar estilo a las bases.\nEsta calcomanía representa una anomalía de Viajero."
+  },
+  {
+    "Id": "build338",
+    "Name": "Triángulo de madera",
+    "Group": "Componente de construcción de madera",
+    "Description": "Una pieza de suelo básica construida en madera. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build339",
+    "Name": "Triángulo de madera pequeño",
+    "Group": "Componente de construcción de madera",
+    "Description": "Una pieza de suelo básica construida en madera. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build340",
+    "Name": "Triángulo metálico",
+    "Group": "Componente metálico de construcción",
+    "Description": "Una pieza de suelo básica construida en metal. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build341",
+    "Name": "Triángulo metálico pequeño",
+    "Group": "Componente metálico de construcción",
+    "Description": "Una pieza de suelo básica construida en metal. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build342",
+    "Name": "Triángulo de hormigón",
+    "Group": "Componente de construcción de hormigón",
+    "Description": "Una pieza de suelo básica construida en hormigón. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build343",
+    "Name": "Triángulo de hormigón pequeño",
+    "Group": "Componente de construcción de hormigón",
+    "Description": "Una pieza de suelo básica construida en hormigón. Esta sencilla forma permite la creación de una gran variedad de diversas estructuras."
+  },
+  {
+    "Id": "build344",
+    "Name": "Luz azul",
+    "Group": "Decoración",
+    "Description": "Luz de color que sirve para iluminar la base del usuario."
+  },
+  {
+    "Id": "build345",
+    "Name": "Luz rosa",
+    "Group": "Decoración",
+    "Description": "Luz de color que sirve para iluminar la base del usuario."
+  },
+  {
+    "Id": "build346",
+    "Name": "Luz amarilla",
+    "Group": "Decoración",
+    "Description": "Luz de color que sirve para iluminar la base del usuario."
+  },
+  {
+    "Id": "build347",
+    "Name": "Luz verde",
+    "Group": "Decoración",
+    "Description": "Luz de color que sirve para iluminar la base del usuario."
+  },
+  {
+    "Id": "build348",
+    "Name": "Luz roja",
+    "Group": "Decoración",
+    "Description": "Luz de color que sirve para iluminar la base del usuario."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Aumento de almacenamiento",
+    "Group": "Módulo de expansión de nave",
+    "Description": "Un módulo de tecnología recuperado de los restos de una nave saqueada. También puede recogerse de lugares de accidentes de cargueros o recuperarse durante expediciones de fragatas.\n\nSe puede usar para ampliar la capacidad de almacenamiento desde la unidad de equipamiento de la nave de la estación espacial."
+  },
+  {
+    "Id": "build351",
+    "Name": "Paneles térmicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build352",
+    "Name": "Depósito de refrigerante",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build353",
+    "Name": "Bobina de nanocables",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build354",
+    "Name": "Circuitería reciclada",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build355",
+    "Name": "Reguladores subatómicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build356",
+    "Name": "Restos de indio comprimido",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build357",
+    "Name": "Válvulas de IA de nave",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "build358",
+    "Name": "Dispositivo de ondas",
+    "Group": "Sintetizador de sonido",
+    "Description": "Un generador de audio avanzado que permite al usuario sintetizar composiciones musicales complejas.\n\nEs posible colocar varios dispositivos en sucesión o conectados a la iluminación para generar presentaciones espectaculares."
   }
 ]

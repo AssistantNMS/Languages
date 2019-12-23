@@ -380,6 +380,6 @@
     "Id": "conTech62",
     "Name": "Short-Range Teleporter",
     "Group": "Instantaneous Transport Network",
-    "Description": "A low-powered teleporter, construction for instantaneous travel across short distances.\n\nWhen wired to both a power source and another short-range teleporter, allow near-instant travel between nearby locations."
+    "Description": "A low-powered teleporter, construction for instantaneous travel across short distances.\n\nWhen wired to both a power source and another short-range teleporter, allows near-instant travel between nearby locations."
   }
 ]

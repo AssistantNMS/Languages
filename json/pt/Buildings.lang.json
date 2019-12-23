@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Luz colorida",
+    "Name": "Luz Branca",
     "Group": "Decoração",
     "Description": "Uma luz colorida para iluminar a base de um utilizador."
   },
@@ -934,12 +934,6 @@
     "Name": "Escada",
     "Group": "Item de construção",
     "Description": "Uma escada forte e leve com pontos de ancoragem reforçados para fixação em paredes."
-  },
-  {
-    "Id": "build216",
-    "Name": "Escada de Salas Cuboides",
-    "Group": "Item de construção",
-    "Description": "Uma escada forte e leve com acessórios adaptados para salas cuboides."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Porta Elétrica em Metal",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Metal",
     "Description": "Uma porta operada eletricamente. Pode ser ligada a uma rede elétrica e operada com vários interruptores.\n\nConstruída com alumínios de metal resistente."
   },
   {
     "Id": "build327",
     "Name": "Grande Porta Elétrica em Metal",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Metal",
     "Description": "Uma porta operada eletricamente de largura dupla. Pode ser ligada a uma rede elétrica e operada com vários interruptores.\n\nConstruída com alumínios de metal resistente."
   },
   {
     "Id": "build328",
     "Name": "Canto de Telhado Interior em Metal",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Metal",
     "Description": "Uma peça vital de estrutura de telhado, essencial para construir telhados angulares.\n\nFormada a partir de ligas de metal resistente."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Porta Elétrica em Cimento",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Cimento",
     "Description": "Uma porta operada eletricamente. Pode ser ligada a uma rede elétrica e operada com vários interruptores.\n\nConstruída com lajes de betão armado."
   },
   {
     "Id": "build331",
     "Name": "Grande Porta Elétrica em Cimento",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Cimento",
     "Description": "Uma porta operada eletricamente com largura dupla. Pode ser ligada a uma rede elétrica e operada com vários interruptores.\n\nConstruída com lajes de betão armado."
   },
   {
     "Id": "build332",
     "Name": "Canto de Telhado Interior em Cimento",
-    "Group": "Componente de Construção de Madeira",
+    "Group": "Componente de Construção de Cimento",
     "Description": "Uma peça vital de estrutura de telhado, essencial para construir telhados angulares.\n\nFormada a partir de lajes de cimento reforçado ."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Decalque de Anomalia",
     "Group": "Decoração",
     "Description": "Um decalque exclusivo para colocar, decorar e dar estilo às bases.\nEste decalque mostra uma Anomalia de Viajante."
+  },
+  {
+    "Id": "build338",
+    "Name": "Triângulo de Madeira",
+    "Group": "Componente de Construção de Madeira",
+    "Description": "Um soalho em madeira básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build339",
+    "Name": "Triângulo de Madeira Pequeno",
+    "Group": "Componente de Construção de Madeira",
+    "Description": "Um soalho em madeira básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build340",
+    "Name": "Triângulo de Metal",
+    "Group": "Componente de Construção de Metal",
+    "Description": "Um soalho em metal básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build341",
+    "Name": "Triângulo de Metal Pequeno",
+    "Group": "Componente de Construção de Metal",
+    "Description": "Um soalho em metal básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build342",
+    "Name": "Triângulo de Cimento",
+    "Group": "Componente de Construção de Cimento",
+    "Description": "Um soalho em cimento básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build343",
+    "Name": "Triângulo de Cimento Pequeno",
+    "Group": "Componente de Construção de Cimento",
+    "Description": "Um soalho em cimento básico, esta forma simples permite a criação de um vasto número de estruturas diversas."
+  },
+  {
+    "Id": "build344",
+    "Name": "Luz Azul",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base de um utilizador."
+  },
+  {
+    "Id": "build345",
+    "Name": "Luz Cor-de-rosa",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base de um utilizador."
+  },
+  {
+    "Id": "build346",
+    "Name": "Luz Amarela",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base de um utilizador."
+  },
+  {
+    "Id": "build347",
+    "Name": "Luz Verde",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base de um utilizador."
+  },
+  {
+    "Id": "build348",
+    "Name": "Luz Vermelha",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base de um utilizador."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Aumento de Armazenamento",
+    "Group": "Módulo de Expansão da Nave Espacial",
+    "Description": "Um módulo de tecnologia recolhido dos restos de uma nave espacial recuperada. Pode ser recolhido de locais de acidentes de cargueiros ou recuperado em expedições de fragatas.\n\nNas Lojas de Naves Espaciais apropriadas, pode ser usado para expandir a capacidade de armazenamento da nave."
+  },
+  {
+    "Id": "build351",
+    "Name": "Painéis Térmicos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build352",
+    "Name": "Tanque Refrigerador",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build353",
+    "Name": "Rolo de Nanocabos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build354",
+    "Name": "Circuitos Reciclados",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build355",
+    "Name": "Reguladores Subatómicos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build356",
+    "Name": "Sobras de Índio Comprimido",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build357",
+    "Name": "Válculas AI da Nave",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "build358",
+    "Name": "Dispositivo Forma de Onda",
+    "Group": "Sintetizador de Áudio",
+    "Description": "Um gerador de áudio avançado que permite ao utilizador sintetizar arranjos musicais complexos.\n\nÉ possível colocar vários dispositivos em sequência ou ligados a luzes para gerar exibições espetaculares."
   }
 ]

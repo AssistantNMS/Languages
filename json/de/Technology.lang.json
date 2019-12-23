@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Rumpfbruch",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech57",
     "Name": "Verrostete Schaltkreise",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech58",
     "Name": "Geborstenes Bollwerk",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech59",
     "Name": "Strahlungsleck",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech60",
     "Name": "Versagen des Sicherheitssystems",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech61",
     "Name": "Beschädigte Getriebe",
     "Group": "Beschädigte Raumschiffkomponente",
-    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Raumschiff-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht zur Lagerung oder für Technologie genutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Kurzer Schaltkreis",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech85",
     "Name": "Durchgebrannter Transistor",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech86",
     "Name": "Beschädigte Verkabelung",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech87",
     "Name": "Verrosteter Energiekern",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech88",
     "Name": "Beschädigtes Modul",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech89",
     "Name": "Kabelstrangschaden",
     "Group": "Beschädigte Multiwerkzeug-Komponente",
-    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten."
+    "Description": "Multiwerkzeug-Teilsystem kritisch beschädigt.\n\nPlatz kann nicht benutzt werden, bis der Schaden repariert ist. Verwende REPAIR, um den Reparaturprozess zu starten.\n\nDurch die Reparatur wird ein Platz für den allgemeinen Gebrauch frei."
   },
   {
     "Id": "tech90",

@@ -12,9 +12,10 @@
     "RequiredItems": [
       {
         "Id": "raw23",
-        "Quantity": 40
+        "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech2",
@@ -39,7 +40,8 @@
         "Id": "prod20",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech3",
@@ -60,7 +62,8 @@
         "Id": "raw10",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech4",
@@ -85,7 +88,8 @@
         "Id": "raw27",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech5",
@@ -110,7 +114,8 @@
         "Id": "raw29",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech6",
@@ -131,7 +136,8 @@
         "Id": "raw13",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech7",
@@ -152,7 +158,8 @@
         "Id": "prod11",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech8",
@@ -177,7 +184,8 @@
         "Id": "raw12",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech9",
@@ -202,7 +210,8 @@
         "Id": "prod6",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech10",
@@ -227,7 +236,8 @@
         "Id": "raw12",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech11",
@@ -252,7 +262,8 @@
         "Id": "raw33",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech12",
@@ -273,7 +284,8 @@
         "Id": "raw10",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech13",
@@ -294,7 +306,8 @@
         "Id": "prod6",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech14",
@@ -315,7 +328,8 @@
         "Id": "prod11",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech15",
@@ -340,7 +354,8 @@
         "Id": "raw23",
         "Quantity": 200
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech16",
@@ -357,7 +372,8 @@
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech17",
@@ -382,7 +398,8 @@
         "Id": "raw12",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech18",
@@ -407,7 +424,8 @@
         "Id": "cook122",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech19",
@@ -432,7 +450,8 @@
         "Id": "prod52",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech20",
@@ -453,7 +472,8 @@
         "Id": "prod6",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech21",
@@ -470,7 +490,8 @@
         "Id": "raw9",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech22",
@@ -495,7 +516,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech23",
@@ -520,7 +542,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech24",
@@ -545,7 +568,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech25",
@@ -570,7 +594,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech26",
@@ -595,7 +620,8 @@
         "Id": "raw16",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech27",
@@ -620,7 +646,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech28",
@@ -641,7 +668,8 @@
         "Id": "raw23",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech29",
@@ -662,7 +690,8 @@
         "Id": "raw23",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech30",
@@ -683,7 +712,8 @@
         "Id": "raw31",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech31",
@@ -704,7 +734,8 @@
         "Id": "raw23",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech32",
@@ -725,7 +756,8 @@
         "Id": "raw23",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech33",
@@ -750,7 +782,8 @@
         "Id": "prod6",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech34",
@@ -775,7 +808,8 @@
         "Id": "prod6",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech35",
@@ -796,7 +830,8 @@
         "Id": "prod20",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech36",
@@ -817,7 +852,8 @@
         "Id": "raw12",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech37",
@@ -842,7 +878,8 @@
         "Id": "prod20",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech38",
@@ -863,7 +900,8 @@
         "Id": "prod11",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech39",
@@ -880,7 +918,8 @@
         "Id": "prod6",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech40",
@@ -905,7 +944,8 @@
         "Id": "prod20",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech41",
@@ -930,7 +970,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech42",
@@ -955,7 +996,8 @@
         "Id": "prod20",
         "Quantity": 4
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech43",
@@ -970,17 +1012,18 @@
     "RequiredItems": [
       {
         "Id": "prod6",
-        "Quantity": 5
+        "Quantity": 2
       },
       {
-        "Id": "raw24",
-        "Quantity": 100
+        "Id": "raw29",
+        "Quantity": 40
       },
       {
         "Id": "prod20",
-        "Quantity": 4
+        "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech44",
@@ -1006,7 +1049,8 @@
         "Id": "prod24",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech45",
@@ -1032,7 +1076,8 @@
         "Id": "prod21",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech46",
@@ -1054,7 +1099,8 @@
         "Id": "raw23",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech47",
@@ -1076,7 +1122,8 @@
         "Id": "raw23",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech48",
@@ -1094,7 +1141,8 @@
         "Id": "prod6",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech49",
@@ -1116,7 +1164,8 @@
         "Id": "raw8",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech50",
@@ -1132,17 +1181,18 @@
     "RequiredItems": [
       {
         "Id": "prod6",
-        "Quantity": 2
+        "Quantity": 1
       },
       {
         "Id": "raw23",
-        "Quantity": 75
+        "Quantity": 50
       },
       {
         "Id": "raw33",
-        "Quantity": 50
+        "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech51",
@@ -1168,7 +1218,8 @@
         "Id": "raw23",
         "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech52",
@@ -1184,13 +1235,14 @@
     "RequiredItems": [
       {
         "Id": "raw3",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "prod6",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech53",
@@ -1203,7 +1255,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 0,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech54",
@@ -1216,7 +1269,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 0,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech55",
@@ -1238,7 +1292,8 @@
         "Id": "raw15",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech56",
@@ -1260,7 +1315,8 @@
         "Id": "raw15",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech57",
@@ -1282,7 +1338,8 @@
         "Id": "raw10",
         "Quantity": 60
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech58",
@@ -1300,7 +1357,8 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech59",
@@ -1318,7 +1376,8 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech60",
@@ -1340,7 +1399,8 @@
         "Id": "raw15",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech61",
@@ -1362,7 +1422,8 @@
         "Id": "raw15",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "conTech62",
@@ -1378,16 +1439,17 @@
     "RequiredItems": [
       {
         "Id": "prod6",
-        "Quantity": 5
+        "Quantity": 2
       },
       {
         "Id": "raw23",
-        "Quantity": 100
+        "Quantity": 40
       },
       {
-        "Id": "raw34",
-        "Quantity": 25
+        "Id": "raw33",
+        "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   }
 ]

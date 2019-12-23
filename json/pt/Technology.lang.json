@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Fratura do casco",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech57",
     "Name": "Circuitos enferrujados",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech58",
     "Name": "Baluarte destruído",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech59",
     "Name": "Fuga de Radiação",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech60",
     "Name": "Falha na contenção",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech61",
     "Name": "Mecanismos danificados",
     "Group": "Componente nave espacial danificado",
-    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da nave espacial com danos críticos.\n\nO espaço não pode ser usado para armazenamento ou tecnologia enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Curto-circuito",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech85",
     "Name": "Transístor explodido",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech86",
     "Name": "Cabos danificados",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech87",
     "Name": "Núcleo de energia enferrujado",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech88",
     "Name": "Módulo corrupto",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech89",
     "Name": "Dano no feixe",
     "Group": "Componente multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação."
+    "Description": "Subsistema da Multiferramenta com danos críticos.\n\nO espaço não pode ser usado enquanto o dano não estiver reparado. Usa REPAIR para iniciar o processo de reparação.\n\nA reparação irá vagar um espaço para uso geral."
   },
   {
     "Id": "tech90",

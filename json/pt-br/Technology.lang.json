@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Quebra na fuselagem",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech57",
     "Name": "Circuitos enferrujados",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech58",
     "Name": "Anteparo estilhaçado",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech59",
     "Name": "Vazamento de radiação",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech60",
     "Name": "Falha na contenção",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech61",
     "Name": "Engrenagens danificadas",
     "Group": "Componente da nave danificado",
-    "Description": "Subsistema da nave com dano crítico.\n\nO espaço não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da nave com dano crítico.\n\nO slot não poderá ser usado para armazenamento ou para receber tecnologia enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech62",
@@ -423,13 +423,13 @@
     "Id": "tech78",
     "Name": "Dardo flamejante",
     "Group": "Arma com raio de energia",
-    "Description": "Acessório agressivo de arma para a multiferramenta. Acesse o modo de disparo pressionando CYCLEWEAPON e dispare a arma com ATTACK.\n\nA arma de precisão causa dano instantâneo aos alvos.\n\nO processo de carga de plasma cria um arco de gás ionizado para lançar projéteis em alta velocidade. O usuário causará destruição simultânea ao puxar do gatilho."
+    "Description": "Acessório agressivo de arma para a multiferramenta. Acesse o modo de disparo pressionando CYCLEWEAPON e dispare a arma com ATTACK.\n\nO dardo flamejante causa dano instantâneo aos alvos.\n\nO processo de carga de plasma cria um arco de gás ionizado para lançar projéteis em alta velocidade. O usuário causará destruição simultânea ao puxar do gatilho."
   },
   {
     "Id": "tech79",
     "Name": "Acelerador de massa",
-    "Group": "Atualização da arma de precisão",
-    "Description": "Estende a câmara de disparo da arma de precisão, permitindo que os aceleradores de partículas internos aumentem de volume e tenham maior velocidade.\n\nMelhora significativamente o dano da arma."
+    "Group": "Atualização do dardo flamejante",
+    "Description": "Estende a câmara de disparo do dardo flamejante, permitindo que os aceleradores de partículas internos aumentem de volume e tenham maior velocidade.\n\nMelhora significativamente o dano da arma."
   },
   {
     "Id": "tech80",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Curto-circuito",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech85",
     "Name": "Transistor explodido",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech86",
     "Name": "Fio danificado",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech87",
     "Name": "Núcleo de energia enferrujado",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech88",
     "Name": "Módulo corrompido",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech89",
     "Name": "Dano à fiação",
     "Group": "Componente da multiferramenta danificado",
-    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO espaço não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto."
+    "Description": "Subsistema da multiferramenta com dano crítico.\n\nO slot não poderá ser usado enquanto o dano não for reparado. Use REPAIR para iniciar o conserto.\n\nEsse conserto vai liberar o slot para uso geral."
   },
   {
     "Id": "tech90",

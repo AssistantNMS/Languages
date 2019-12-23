@@ -14,12 +14,12 @@
 			"items": [
 				{
 					"type": "text",
-					"content": "È bello che tu voglia aiutare i tuoi compagni di viaggio ! Questa App può visualizzare Guide create tramite il sito Web nomanssky.kurtlourens.com."
+					"content": "È bello che tu voglia aiutare i tuoi compagni di viaggio ! Questa App può visualizzare Guide create tramite il sito Web nmsassistant.com."
 				},
 				{
 					"type": "link",
 					"name": "Sito Web",
-					"content": "https://nomanssky.kurtlourens.com/guide"
+					"content": "https://nmsassistant.com/guide"
 				},
 				{
 					"type": "text",

@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Fractura en el casco",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech57",
     "Name": "Circuitos oxidados",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech58",
     "Name": "Bastión destrozado",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech59",
     "Name": "Fuga de radiación",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech60",
     "Name": "Fallo de contención",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech61",
     "Name": "Engranajes dañados",
     "Group": "Componente de nave dañado",
-    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de nave con daños graves.\n\nEl espacio no se puede usar para almacenamiento o tecnología hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech62",
@@ -421,15 +421,15 @@
   },
   {
     "Id": "tech78",
-    "Name": "Jabalina ígnea",
+    "Name": "Jabalina ardiente",
     "Group": "Arma de rayo de energía",
-    "Description": "Accesorio de arma agresivo para la multiherramienta. Entra en el modo de disparo pulsando CYCLEWEAPON y activa el arma con ATTACK.\n\nLa jabalina ígnea produce un daño instantáneo en el objetivo.\n\nEl proceso de carga de plasma crea un arco de gas ionizado que propulsa proyectiles a gran velocidad. El usuario percibirá resultados devastadores al momento de apretar el gatillo."
+    "Description": "Accesorio de arma agresivo para la multiherramienta. Entra en el modo de disparo pulsando CYCLEWEAPON y activa el arma con ATTACK.\n\nLa jabalina ardiente produce un daño instantáneo en el objetivo.\n\nEl proceso de carga de plasma crea un arco de gas ionizado que propulsa proyectiles a gran velocidad. El usuario percibirá resultados devastadores al momento de apretar el gatillo."
   },
   {
     "Id": "tech79",
     "Name": "Acelerador de masa",
-    "Group": "Mejora de la jabalina ígnea",
-    "Description": "Amplía la cámara de disparo de la jabalina ígnea, permitiendo que los aceleradores de partículas internos alcancen una mayor masa y velocidad.\n\nAumenta significativamente el daño de las armas."
+    "Group": "Mejora de la jabalina ardiente",
+    "Description": "Amplía la cámara de disparo de la jabalina ardiente, permitiendo que los aceleradores de partículas internos alcancen una mayor masa y velocidad.\n\nAumenta significativamente el daño de las armas."
   },
   {
     "Id": "tech80",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Cortocircuito",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech85",
     "Name": "Transistor estropeado",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech86",
     "Name": "Cableado dañado",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech87",
     "Name": "Núcleo de energía oxidado",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech88",
     "Name": "Módulo corrupto",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech89",
     "Name": "Panel dañado",
     "Group": "Componente de multiherramienta dañado",
-    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación."
+    "Description": "Subsistema de multiherramienta con daños graves.\n\nEl espacio no se puede usar hasta que se reparen los daños. Usa REPAIR para comenzar el proceso de reparación.\n\nReparar liberará espacio para uso general."
   },
   {
     "Id": "tech90",

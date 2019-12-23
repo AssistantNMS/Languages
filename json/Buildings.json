@@ -18,7 +18,8 @@
         "Id": "raw32",
         "Quantity": 120
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build2",
@@ -39,7 +40,8 @@
         "Id": "raw32",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build3",
@@ -60,7 +62,8 @@
         "Id": "raw32",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build4",
@@ -81,7 +84,8 @@
         "Id": "raw32",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build5",
@@ -98,7 +102,8 @@
         "Id": "raw32",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build6",
@@ -119,7 +124,8 @@
         "Id": "raw32",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build8",
@@ -135,9 +141,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build9",
@@ -153,9 +160,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build10",
@@ -171,9 +179,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build11",
@@ -189,9 +198,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build12",
@@ -207,9 +217,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build13",
@@ -225,13 +236,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build14",
@@ -247,9 +259,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build15",
@@ -265,9 +278,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build16",
@@ -283,13 +297,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build17",
@@ -305,9 +320,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build18",
@@ -323,9 +339,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build19",
@@ -341,9 +358,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build20",
@@ -359,13 +377,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 50
+        "Quantity": 35
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build21",
@@ -381,13 +400,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 25
+        "Quantity": 15
       },
       {
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build22",
@@ -403,13 +423,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build23",
@@ -425,13 +446,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build24",
@@ -447,13 +469,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build25",
@@ -469,9 +492,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build26",
@@ -487,9 +511,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build27",
@@ -505,9 +530,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build28",
@@ -523,9 +549,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build29",
@@ -541,9 +568,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build30",
@@ -559,9 +587,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build31",
@@ -577,9 +606,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build32",
@@ -595,13 +625,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build33",
@@ -617,9 +648,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build34",
@@ -635,9 +667,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build35",
@@ -653,13 +686,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build36",
@@ -675,9 +709,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build37",
@@ -693,9 +728,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build38",
@@ -711,9 +747,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build39",
@@ -729,13 +766,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 50
+        "Quantity": 35
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build40",
@@ -751,13 +789,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 25
+        "Quantity": 15
       },
       {
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build41",
@@ -773,9 +812,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build42",
@@ -791,9 +831,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 25
+        "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build43",
@@ -809,9 +850,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 30
+        "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build44",
@@ -827,9 +869,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build45",
@@ -845,9 +888,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build46",
@@ -863,9 +907,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build47",
@@ -881,9 +926,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build48",
@@ -899,9 +945,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build49",
@@ -917,9 +964,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build50",
@@ -935,9 +983,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build51",
@@ -953,13 +1002,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build52",
@@ -975,9 +1025,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build53",
@@ -993,9 +1044,10 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build54",
@@ -1011,13 +1063,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build55",
@@ -1033,9 +1086,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build56",
@@ -1051,9 +1105,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build57",
@@ -1069,9 +1124,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build58",
@@ -1087,13 +1143,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 50
+        "Quantity": 35
       },
       {
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build59",
@@ -1109,13 +1166,14 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 25
+        "Quantity": 15
       },
       {
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build60",
@@ -1131,9 +1189,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build61",
@@ -1149,13 +1208,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build62",
@@ -1171,13 +1231,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build63",
@@ -1193,9 +1254,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build64",
@@ -1211,9 +1273,10 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build65",
@@ -1228,9 +1291,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 350
+        "Quantity": 250
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build66",
@@ -1245,9 +1309,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 200
+        "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build67",
@@ -1262,9 +1327,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build68",
@@ -1279,9 +1345,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build69",
@@ -1296,9 +1363,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build70",
@@ -1313,9 +1381,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build71",
@@ -1330,9 +1399,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build72",
@@ -1347,13 +1417,14 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       },
       {
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build73",
@@ -1374,7 +1445,8 @@
         "Id": "prod54",
         "Quantity": 3
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build74",
@@ -1395,7 +1467,8 @@
         "Id": "prod54",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build75",
@@ -1410,9 +1483,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 200
+        "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build76",
@@ -1429,7 +1503,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build77",
@@ -1444,13 +1519,14 @@
     "RequiredItems": [
       {
         "Id": "raw32",
-        "Quantity": 100
+        "Quantity": 75
       },
       {
         "Id": "prod54",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build78",
@@ -1465,9 +1541,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build79",
@@ -1482,13 +1559,14 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 100
+        "Quantity": 75
       },
       {
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build80",
@@ -1507,9 +1585,10 @@
       },
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build81",
@@ -1524,9 +1603,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build82",
@@ -1541,9 +1621,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build83",
@@ -1558,9 +1639,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build84",
@@ -1575,9 +1657,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build85",
@@ -1596,13 +1679,14 @@
       },
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build86",
-    "Icon": "building/91.png",
+    "Icon": "building/86.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -1615,7 +1699,8 @@
         "Id": "raw9",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build87",
@@ -1632,7 +1717,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build88",
@@ -1647,9 +1733,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 150
+        "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build89",
@@ -1664,9 +1751,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 200
+        "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build90",
@@ -1681,9 +1769,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build91",
@@ -1700,7 +1789,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build92",
@@ -1715,9 +1805,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build93",
@@ -1732,9 +1823,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build94",
@@ -1755,7 +1847,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build95",
@@ -1772,7 +1865,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build96",
@@ -1793,7 +1887,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build97",
@@ -1814,7 +1909,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build98",
@@ -1835,7 +1931,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build106",
@@ -1852,7 +1949,8 @@
         "Id": "raw9",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build118",
@@ -1878,7 +1976,8 @@
         "Id": "raw26",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build129",
@@ -1900,7 +1999,8 @@
         "Id": "raw44",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build130",
@@ -1922,7 +2022,8 @@
         "Id": "raw42",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build131",
@@ -1944,7 +2045,8 @@
         "Id": "raw43",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build132",
@@ -1965,7 +2067,8 @@
         "Id": "raw33",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build133",
@@ -1987,7 +2090,8 @@
         "Id": "raw46",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build134",
@@ -2004,7 +2108,8 @@
         "Id": "raw50",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build135",
@@ -2029,7 +2134,8 @@
         "Id": "raw32",
         "Quantity": 120
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build136",
@@ -2046,7 +2152,8 @@
         "Id": "raw30",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build137",
@@ -2068,7 +2175,8 @@
         "Id": "raw45",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build138",
@@ -2090,7 +2198,8 @@
         "Id": "raw47",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build139",
@@ -2111,7 +2220,8 @@
         "Id": "raw24",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build140",
@@ -2132,7 +2242,8 @@
         "Id": "raw50",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build141",
@@ -2149,7 +2260,8 @@
         "Id": "raw1",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build142",
@@ -2166,7 +2278,8 @@
         "Id": "raw1",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build145",
@@ -2187,7 +2300,8 @@
         "Id": "prod6",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build146",
@@ -2208,7 +2322,8 @@
         "Id": "raw15",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build147",
@@ -2229,7 +2344,8 @@
         "Id": "raw15",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build150",
@@ -2246,7 +2362,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build151",
@@ -2263,7 +2380,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build152",
@@ -2284,7 +2402,8 @@
         "Id": "raw14",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build153",
@@ -2305,7 +2424,8 @@
         "Id": "trade26",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build154",
@@ -2326,7 +2446,8 @@
         "Id": "trade26",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build155",
@@ -2347,7 +2468,8 @@
         "Id": "trade26",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build156",
@@ -2364,7 +2486,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build157",
@@ -2381,7 +2504,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build158",
@@ -2402,7 +2526,8 @@
         "Id": "raw12",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build159",
@@ -2419,7 +2544,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build160",
@@ -2436,7 +2562,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build161",
@@ -2454,7 +2581,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build162",
@@ -2472,7 +2600,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build163",
@@ -2490,7 +2619,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build164",
@@ -2508,7 +2638,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build165",
@@ -2526,7 +2657,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build166",
@@ -2544,7 +2676,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build167",
@@ -2562,7 +2695,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build168",
@@ -2580,7 +2714,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build169",
@@ -2598,7 +2733,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build170",
@@ -2616,7 +2752,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build171",
@@ -2634,7 +2771,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build172",
@@ -2649,9 +2787,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 350
+        "Quantity": 180
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build173",
@@ -2666,9 +2805,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 350
+        "Quantity": 180
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build174",
@@ -2683,7 +2823,7 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 350
+        "Quantity": 80
       },
       {
         "Id": "cur17",
@@ -2691,9 +2831,10 @@
       },
       {
         "Id": "cur32",
-        "Quantity": 6
+        "Quantity": 3
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build175",
@@ -2714,7 +2855,8 @@
         "Id": "cur32",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build176",
@@ -2739,7 +2881,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build177",
@@ -2764,7 +2907,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build178",
@@ -2789,7 +2933,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build179",
@@ -2814,7 +2959,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build180",
@@ -2839,7 +2985,8 @@
         "Id": "prod54",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build181",
@@ -2856,7 +3003,8 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build182",
@@ -2873,7 +3021,8 @@
         "Id": "raw12",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build204",
@@ -2888,9 +3037,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build205",
@@ -2905,9 +3055,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build206",
@@ -2922,9 +3073,10 @@
     "RequiredItems": [
       {
         "Id": "raw9",
-        "Quantity": 80
+        "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build207",
@@ -2947,9 +3099,10 @@
       },
       {
         "Id": "raw33",
-        "Quantity": 50
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build213",
@@ -2966,7 +3119,8 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build214",
@@ -2987,7 +3141,8 @@
         "Id": "raw12",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build215",
@@ -3004,24 +3159,8 @@
         "Id": "raw9",
         "Quantity": 30
       }
-    ]
-  },
-  {
-    "Id": "build216",
-    "Icon": "building/216.png",
-    "BaseValueUnits": 1.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 1,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw9",
-        "Quantity": 10
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build217",
@@ -3038,7 +3177,8 @@
         "Id": "raw9",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build219",
@@ -3055,7 +3195,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build220",
@@ -3072,7 +3213,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build221",
@@ -3089,7 +3231,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build222",
@@ -3110,7 +3253,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build223",
@@ -3127,7 +3271,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build224",
@@ -3148,7 +3293,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build225",
@@ -3169,7 +3315,8 @@
         "Id": "raw14",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build226",
@@ -3186,7 +3333,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build227",
@@ -3207,7 +3355,8 @@
         "Id": "raw14",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build228",
@@ -3224,7 +3373,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build229",
@@ -3241,7 +3391,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build230",
@@ -3258,7 +3409,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build231",
@@ -3275,7 +3427,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build232",
@@ -3292,7 +3445,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build233",
@@ -3313,7 +3467,8 @@
         "Id": "raw12",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build234",
@@ -3334,7 +3489,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build235",
@@ -3355,7 +3511,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build236",
@@ -3376,7 +3533,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build237",
@@ -3397,7 +3555,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build238",
@@ -3418,7 +3577,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build239",
@@ -3439,7 +3599,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build240",
@@ -3460,7 +3621,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build241",
@@ -3481,7 +3643,8 @@
         "Id": "raw9",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build242",
@@ -3502,7 +3665,8 @@
         "Id": "raw14",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build243",
@@ -3523,7 +3687,8 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build244",
@@ -3544,7 +3709,8 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build245",
@@ -3565,7 +3731,8 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build246",
@@ -3586,7 +3753,8 @@
         "Id": "raw14",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build247",
@@ -3603,7 +3771,8 @@
         "Id": "raw2",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build248",
@@ -3620,7 +3789,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build249",
@@ -3641,7 +3811,8 @@
         "Id": "raw12",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build250",
@@ -3658,7 +3829,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build251",
@@ -3675,7 +3847,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build252",
@@ -3692,7 +3865,8 @@
         "Id": "raw9",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build253",
@@ -3709,7 +3883,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build254",
@@ -3726,7 +3901,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build255",
@@ -3743,7 +3919,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build256",
@@ -3760,7 +3937,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build257",
@@ -3777,7 +3955,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build258",
@@ -3794,7 +3973,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build259",
@@ -3811,7 +3991,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build260",
@@ -3828,7 +4009,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build261",
@@ -3845,7 +4027,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build262",
@@ -3862,7 +4045,8 @@
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build263",
@@ -3879,7 +4063,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build264",
@@ -3896,7 +4081,8 @@
         "Id": "raw8",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build265",
@@ -3913,7 +4099,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build266",
@@ -3930,7 +4117,8 @@
         "Id": "raw32",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build270",
@@ -3947,11 +4135,12 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build272",
-    "Icon": "building/273.png",
+    "Icon": "building/272.png",
     "BaseValueUnits": 1000.0,
     "CurrencyType": "None",
     "IsCraftable": false,
@@ -3960,11 +4149,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "build273",
-    "Icon": "building/274.png",
+    "Icon": "building/273.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -3982,11 +4172,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build274",
-    "Icon": "building/275.png",
+    "Icon": "building/274.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4004,11 +4195,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build275",
-    "Icon": "building/276.png",
+    "Icon": "building/275.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4026,11 +4218,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build276",
-    "Icon": "building/277.png",
+    "Icon": "building/276.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4048,11 +4241,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build277",
-    "Icon": "building/278.png",
+    "Icon": "building/277.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4070,11 +4264,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build278",
-    "Icon": "building/279.png",
+    "Icon": "building/278.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4092,11 +4287,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build279",
-    "Icon": "building/280.png",
+    "Icon": "building/279.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4114,11 +4310,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build280",
-    "Icon": "building/281.png",
+    "Icon": "building/280.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4136,11 +4333,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build281",
-    "Icon": "building/282.png",
+    "Icon": "building/281.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4158,11 +4356,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build282",
-    "Icon": "building/283.png",
+    "Icon": "building/282.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4180,11 +4379,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build283",
-    "Icon": "building/284.png",
+    "Icon": "building/283.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4202,11 +4402,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build284",
-    "Icon": "building/285.png",
+    "Icon": "building/284.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4224,11 +4425,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build285",
-    "Icon": "building/286.png",
+    "Icon": "building/285.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4246,11 +4448,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build286",
-    "Icon": "building/287.png",
+    "Icon": "building/286.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4268,11 +4471,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build287",
-    "Icon": "building/288.png",
+    "Icon": "building/287.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4290,11 +4494,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build288",
-    "Icon": "building/289.png",
+    "Icon": "building/288.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4312,11 +4517,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build289",
-    "Icon": "building/290.png",
+    "Icon": "building/289.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4334,11 +4540,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build290",
-    "Icon": "building/291.png",
+    "Icon": "building/290.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4356,11 +4563,12 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build291",
-    "Icon": "building/292.png",
+    "Icon": "building/291.png",
     "BaseValueUnits": 300.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4378,11 +4586,12 @@
         "Id": "raw19",
         "Quantity": 15
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build292",
-    "Icon": "building/293.png",
+    "Icon": "building/292.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4400,11 +4609,12 @@
         "Id": "raw32",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build293",
-    "Icon": "building/294.png",
+    "Icon": "building/293.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4422,10 +4632,30 @@
         "Id": "raw33",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build294",
+    "Icon": "building/294.png",
+    "BaseValueUnits": 400.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 20
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build295",
     "Icon": "building/295.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4440,10 +4670,11 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build295",
+    "Id": "build296",
     "Icon": "building/296.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4458,10 +4689,11 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build296",
+    "Id": "build297",
     "Icon": "building/297.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4476,10 +4708,11 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build297",
+    "Id": "build298",
     "Icon": "building/298.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4494,10 +4727,11 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build298",
+    "Id": "build299",
     "Icon": "building/299.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4512,10 +4746,11 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build299",
+    "Id": "build300",
     "Icon": "building/300.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "None",
@@ -4530,29 +4765,12 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
-  },
-  {
-    "Id": "build300",
-    "Icon": "building/301.png",
-    "BaseValueUnits": 400.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 1,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw1",
-        "Quantity": 20
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build301",
-    "Icon": "building/302.png",
+    "Icon": "building/301.png",
     "BaseValueUnits": 800.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4570,10 +4788,34 @@
         "Id": "raw34",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build302",
+    "Icon": "building/302.png",
+    "BaseValueUnits": 800.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw9",
+        "Quantity": 30
+      },
+      {
+        "Id": "raw34",
+        "Quantity": 30
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build303",
     "Icon": "building/303.png",
     "BaseValueUnits": 800.0,
     "CurrencyType": "None",
@@ -4592,12 +4834,13 @@
         "Id": "raw34",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build303",
+    "Id": "build304",
     "Icon": "building/304.png",
-    "BaseValueUnits": 800.0,
+    "BaseValueUnits": 500.0,
     "CurrencyType": "None",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
@@ -4607,17 +4850,14 @@
     "HideBlueprintNaniteCost": false,
     "RequiredItems": [
       {
-        "Id": "raw9",
-        "Quantity": 30
-      },
-      {
-        "Id": "raw34",
-        "Quantity": 30
+        "Id": "raw1",
+        "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build304",
+    "Id": "build305",
     "Icon": "building/305.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4632,10 +4872,11 @@
         "Id": "raw1",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build305",
+    "Id": "build306",
     "Icon": "building/306.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4650,10 +4891,11 @@
         "Id": "raw1",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build306",
+    "Id": "build307",
     "Icon": "building/307.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4666,12 +4908,13 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 80
+        "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build307",
+    "Id": "build308",
     "Icon": "building/308.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4686,10 +4929,11 @@
         "Id": "raw1",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build308",
+    "Id": "build309",
     "Icon": "building/309.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4704,29 +4948,12 @@
         "Id": "raw1",
         "Quantity": 40
       }
-    ]
-  },
-  {
-    "Id": "build309",
-    "Icon": "building/310.png",
-    "BaseValueUnits": 500.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 1,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw1",
-        "Quantity": 40
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build310",
-    "Icon": "building/311.png",
+    "Icon": "building/310.png",
     "BaseValueUnits": 800.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4744,10 +4971,30 @@
         "Id": "prod54",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build311",
+    "Icon": "building/311.png",
+    "BaseValueUnits": 500.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw18",
+        "Quantity": 80
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build312",
     "Icon": "building/312.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4762,10 +5009,11 @@
         "Id": "raw18",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build312",
+    "Id": "build313",
     "Icon": "building/313.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4780,10 +5028,11 @@
         "Id": "raw18",
         "Quantity": 80
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build313",
+    "Id": "build314",
     "Icon": "building/314.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4798,29 +5047,12 @@
         "Id": "raw18",
         "Quantity": 80
       }
-    ]
-  },
-  {
-    "Id": "build314",
-    "Icon": "building/315.png",
-    "BaseValueUnits": 500.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 1,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw18",
-        "Quantity": 80
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build315",
-    "Icon": "building/316.png",
+    "Icon": "building/315.png",
     "BaseValueUnits": 50.0,
     "CurrencyType": "None",
     "IsCraftable": false,
@@ -4829,11 +5061,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "build316",
-    "Icon": "building/317.png",
+    "Icon": "building/316.png",
     "BaseValueUnits": 800.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4855,11 +5088,12 @@
         "Id": "raw34",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build317",
-    "Icon": "building/318.png",
+    "Icon": "building/317.png",
     "BaseValueUnits": 800.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -4881,10 +5115,30 @@
         "Id": "prod54",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build318",
+    "Icon": "building/318.png",
+    "BaseValueUnits": 500.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 40
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build319",
     "Icon": "building/319.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4899,10 +5153,11 @@
         "Id": "raw1",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build319",
+    "Id": "build320",
     "Icon": "building/320.png",
     "BaseValueUnits": 500.0,
     "CurrencyType": "None",
@@ -4917,28 +5172,30 @@
         "Id": "raw1",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build320",
+    "Id": "build321",
     "Icon": "building/321.png",
-    "BaseValueUnits": 500.0,
+    "BaseValueUnits": 2.0,
     "CurrencyType": "None",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
     "Colour": "2B7B9E",
     "BlueprintSource": 0,
-    "BlueprintNaniteCost": 1,
+    "BlueprintNaniteCost": 2,
     "HideBlueprintNaniteCost": false,
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build321",
+    "Id": "build322",
     "Icon": "building/322.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
@@ -4951,12 +5208,13 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
-    "Id": "build322",
+    "Id": "build323",
     "Icon": "building/323.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
@@ -4969,31 +5227,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
-  },
-  {
-    "Id": "build323",
-    "Icon": "building/324.png",
-    "BaseValueUnits": 2.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 2,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw1",
-        "Quantity": 40
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build324",
-    "Icon": "building/325.png",
+    "Icon": "building/324.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5005,17 +5246,18 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build325",
-    "Icon": "building/326.png",
+    "Icon": "building/325.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5027,12 +5269,32 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build326",
+    "Icon": "building/326.png",
+    "BaseValueUnits": 2.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 2,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 25
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build327",
     "Icon": "building/327.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
@@ -5045,31 +5307,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
-  },
-  {
-    "Id": "build327",
-    "Icon": "building/328.png",
-    "BaseValueUnits": 2.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 2,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw1",
-        "Quantity": 40
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build328",
-    "Icon": "building/329.png",
+    "Icon": "building/328.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5081,17 +5326,18 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build329",
-    "Icon": "building/330.png",
+    "Icon": "building/329.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5103,12 +5349,32 @@
     "RequiredItems": [
       {
         "Id": "raw8",
-        "Quantity": 20
+        "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build330",
+    "Icon": "building/330.png",
+    "BaseValueUnits": 2.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 2,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 25
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build331",
     "Icon": "building/331.png",
     "BaseValueUnits": 2.0,
     "CurrencyType": "None",
@@ -5121,31 +5387,14 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 40
+        "Quantity": 25
       }
-    ]
-  },
-  {
-    "Id": "build331",
-    "Icon": "building/332.png",
-    "BaseValueUnits": 2.0,
-    "CurrencyType": "None",
-    "IsCraftable": true,
-    "MaxStackSize": 5.0,
-    "Colour": "2B7B9E",
-    "BlueprintSource": 0,
-    "BlueprintNaniteCost": 2,
-    "HideBlueprintNaniteCost": false,
-    "RequiredItems": [
-      {
-        "Id": "raw1",
-        "Quantity": 40
-      }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build332",
-    "Icon": "building/333.png",
+    "Icon": "building/332.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5157,17 +5406,18 @@
     "RequiredItems": [
       {
         "Id": "raw1",
-        "Quantity": 20
+        "Quantity": 10
       },
       {
         "Id": "raw8",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build336",
-    "Icon": "building/337.png",
+    "Icon": "building/336.png",
     "BaseValueUnits": 1.0,
     "CurrencyType": "None",
     "IsCraftable": true,
@@ -5180,11 +5430,12 @@
         "Id": "raw12",
         "Quantity": 5
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "build337",
-    "Icon": "building/338.png",
+    "Icon": "building/337.png",
     "BaseValueUnits": 400.0,
     "CurrencyType": "Quicksilver",
     "IsCraftable": true,
@@ -5198,6 +5449,367 @@
         "Id": "raw1",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build338",
+    "Icon": "building/338.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 10
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build339",
+    "Icon": "building/339.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw1",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build340",
+    "Icon": "building/340.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw8",
+        "Quantity": 10
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build341",
+    "Icon": "building/341.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw8",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build342",
+    "Icon": "building/342.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw8",
+        "Quantity": 10
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build343",
+    "Icon": "building/343.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 5.0,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw8",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build344",
+    "Icon": "building/344.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build345",
+    "Icon": "building/345.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build346",
+    "Icon": "building/346.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build347",
+    "Icon": "building/347.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build348",
+    "Icon": "building/348.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build349",
+    "Icon": "building/349.png",
+    "BaseValueUnits": 1.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "raw12",
+        "Quantity": 5
+      }
+    ],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build350",
+    "Icon": "building/350.png",
+    "BaseValueUnits": 95000.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "MaxStackSize": 15.0,
+    "Colour": "1A2733",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build351",
+    "Icon": "building/351.png",
+    "BaseValueUnits": 100000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 25.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build352",
+    "Icon": "building/352.png",
+    "BaseValueUnits": 200000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 25.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build353",
+    "Icon": "building/353.png",
+    "BaseValueUnits": 400000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 20.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build354",
+    "Icon": "building/354.png",
+    "BaseValueUnits": 600000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 15.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build355",
+    "Icon": "building/355.png",
+    "BaseValueUnits": 800000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 10.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build356",
+    "Icon": "building/356.png",
+    "BaseValueUnits": 3000000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 5.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build357",
+    "Icon": "building/357.png",
+    "BaseValueUnits": 50000000.0,
+    "CurrencyType": "None",
+    "IsCraftable": false,
+    "MaxStackSize": 5.0,
+    "Colour": "CCCCCC",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 1,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [],
+    "ConsumableRewards": []
+  },
+  {
+    "Id": "build358",
+    "Icon": "building/358.png",
+    "BaseValueUnits": 10.0,
+    "CurrencyType": "None",
+    "IsCraftable": true,
+    "Colour": "2B7B9E",
+    "BlueprintSource": 0,
+    "BlueprintNaniteCost": 10,
+    "HideBlueprintNaniteCost": false,
+    "RequiredItems": [
+      {
+        "Id": "prod1",
+        "Quantity": 1
+      },
+      {
+        "Id": "prod6",
+        "Quantity": 3
+      },
+      {
+        "Id": "raw33",
+        "Quantity": 50
+      }
+    ],
+    "ConsumableRewards": []
   }
 ]

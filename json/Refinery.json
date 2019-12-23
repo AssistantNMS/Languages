@@ -1578,7 +1578,7 @@
     ],
     "Output": {
       "Id": "raw20",
-      "Quantity": 4
+      "Quantity": 2
     }
   },
   {
@@ -1595,7 +1595,7 @@
     ],
     "Output": {
       "Id": "raw22",
-      "Quantity": 4
+      "Quantity": 2
     }
   },
   {
@@ -1612,7 +1612,7 @@
     ],
     "Output": {
       "Id": "raw21",
-      "Quantity": 4
+      "Quantity": 2
     }
   },
   {
@@ -1629,7 +1629,7 @@
     ],
     "Output": {
       "Id": "raw19",
-      "Quantity": 4
+      "Quantity": 2
     }
   },
   {

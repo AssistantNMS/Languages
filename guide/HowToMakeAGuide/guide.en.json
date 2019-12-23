@@ -14,12 +14,12 @@
 			"items": [
 				{
 					"type": "text",
-					"content": "It is great that you want to help your fellow Travellers,! This App can display Guides that are created via the website nomanssky.kurtlourens.com."
+					"content": "It is great that you want to help your fellow Travellers,! This App can display Guides that are created via the website nmsassistant.com."
 				},
 				{
 					"type": "link",
 					"name": "Website",
-					"content": "https://nomanssky.kurtlourens.com/guide"
+					"content": "https://nmsassistant.com/tools/guide"
 				},
 				{
 					"type": "text",
@@ -32,7 +32,7 @@
 				},
 				{
 					"type": "text",
-					"content": "Before you start writing your article, consider asking ask on Discord if anyone else is busy writing a similar Guide. Or ask for ideas on what to write."
+					"content": "Before you start writing your article, consider asking on the Discord server if anyone else is busy writing a similar Guide. Or ask for ideas on what to write."
 				}
 			]
 		},

@@ -369,6 +369,6 @@
     "Id": "conTech62",
     "Name": "Teletransportador de corto alcance",
     "Group": "Red de transporte instantáneo",
-    "Description": "Un teletransportador de baja energía, diseñado para viajes instantáneos de cortas distancias.\n\nCuando está conectado a una fuente de energía y a otro teletransportador de corto alcance, permite viajar de forma casi instantánea entre ubicaciones cercanas."
+    "Description": "Un teletransportador de baja energía, diseñado para viajes instantáneos a cortas distancias.\n\nCuando está conectado a una fuente de energía y a otro teletransportador de corto alcance permite viajar de forma casi instantánea entre ubicaciones cercanas."
   }
 ]

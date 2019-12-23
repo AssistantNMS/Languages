@@ -18,5 +18,25 @@
     {
         "folder": "MultiToolHunting",
         "file": "guide.en"
+    },
+    {
+        "folder": "FastUnitsAndNanites",
+        "file": "guide.en"
+    },
+    {
+        "folder": "MultiToolGuide",
+        "file": "guide.en"
+    },
+    {
+        "folder": "EverythingAboutStarships",
+        "file": "guide.en"
+    },
+    {
+        "folder": "EverythingAboutNanites",
+        "file": "guide.en"
+    },
+    {
+        "folder": "EverythingAboutUnits",
+        "file": "guide.en"
     }
 ]

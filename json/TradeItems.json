@@ -10,7 +10,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade2",
@@ -23,7 +24,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade3",
@@ -36,7 +38,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade4",
@@ -49,7 +52,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade5",
@@ -62,7 +66,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade6",
@@ -75,7 +80,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade7",
@@ -88,7 +94,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade8",
@@ -101,7 +108,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade9",
@@ -114,7 +122,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade10",
@@ -127,7 +136,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade11",
@@ -140,7 +150,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade12",
@@ -153,7 +164,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade13",
@@ -166,7 +178,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade14",
@@ -179,7 +192,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade15",
@@ -192,7 +206,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade16",
@@ -205,7 +220,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade17",
@@ -218,7 +234,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade18",
@@ -231,7 +248,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade19",
@@ -244,7 +262,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade20",
@@ -257,7 +276,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade21",
@@ -270,7 +290,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade22",
@@ -283,7 +304,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade23",
@@ -296,7 +318,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade24",
@@ -309,7 +332,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade25",
@@ -322,7 +346,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade26",
@@ -335,7 +360,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade27",
@@ -348,7 +374,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade28",
@@ -361,7 +388,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade29",
@@ -374,7 +402,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade30",
@@ -387,7 +416,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade31",
@@ -400,7 +430,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade32",
@@ -413,7 +444,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade33",
@@ -426,7 +458,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade34",
@@ -439,7 +472,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "trade35",
@@ -452,6 +486,7 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   }
 ]

@@ -97,7 +97,7 @@
   },
   {
     "Id": "build18",
-    "Name": "Szklany panel oprawny w drewno.",
+    "Name": "Rama oprawna w drewno.",
     "Group": "Drewniany element budowlany",
     "Description": "Szklany panel podłogowy/sufitowy w drewnianej ramie."
   },
@@ -211,7 +211,7 @@
   },
   {
     "Id": "build37",
-    "Name": "Szklany panel oprawny w beton",
+    "Name": "Rama oprawna w beton",
     "Group": "Betonowy element budowlany",
     "Description": "Szklany panel podłogowy/sufitowy w betonowej ramie."
   },
@@ -325,7 +325,7 @@
   },
   {
     "Id": "build56",
-    "Name": "Szklany panel oprawny w metal",
+    "Name": "Rama oprawna w metal",
     "Group": "Metalowy element budowlany",
     "Description": "Szklany panel podłogowy/sufitowy w metalowej ramie."
   },
@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Kolorowe lampki",
+    "Name": "Białe światło",
     "Group": "Dekoracja",
     "Description": "Kolorowe lampki oświetlające bazę użytkownika."
   },
@@ -934,12 +934,6 @@
     "Name": "Drabina",
     "Group": "Moduł budowlany",
     "Description": "Wytrzymała, lekka drabina ze wzmocnionymi punktami zakotwiczenia, które można przytwierdzić do ścian."
-  },
-  {
-    "Id": "build216",
-    "Name": "Drabina do sali sześciennej",
-    "Group": "Element budowlany",
-    "Description": "Wytrzymała, lekka drabina ze wzmocnionymi punktami zakotwiczenia, które można przytwierdzić do ścian sali sześciennej."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Zasilane drzwi z metalu",
-    "Group": "Drewniany element budowlany",
+    "Group": "Metalowy element budowlany",
     "Description": "Elektrycznie sterowane drzwi. Można podłączyć do sieci zasilania i kontrolować przy użyciu różnych przycisków.\n\nWykonane ze stopów metali o dużej wytrzymałości."
   },
   {
     "Id": "build327",
     "Name": "Duże zasilane drzwi z metalu",
-    "Group": "Drewniany element budowlany",
+    "Group": "Metalowy element budowlany",
     "Description": "Elektrycznie sterowane drzwi o podwójnej szerokości. Można podłączyć do sieci zasilania i kontrolować przy użyciu różnych przycisków.\n\nWykonane ze stopów metali o dużej wytrzymałości."
   },
   {
     "Id": "build328",
     "Name": "Metalowe wewnętrzne naroże dachowe",
-    "Group": "Drewniany element budowlany",
+    "Group": "Metalowy element budowlany",
     "Description": "Kluczowy element dachowy, szczególnie przy budowie dachów kanciastych.\n\nWykonany ze stopów metali o dużej wytrzymałości."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Zasilane drzwi z betonu",
-    "Group": "Drewniany element budowlany",
+    "Group": "Betonowy element budowlany",
     "Description": "Elektrycznie sterowane drzwi. Można podłączyć do sieci zasilania i kontrolować przy użyciu różnych przycisków.\n\nWykonane ze wzmocnionych płyt betonowych."
   },
   {
     "Id": "build331",
     "Name": "Duże zasilane drzwi z betonu",
-    "Group": "Drewniany element budowlany",
+    "Group": "Betonowy element budowlany",
     "Description": "Elektrycznie sterowane drzwi o podwójnej szerokości. Można podłączyć do sieci zasilania i kontrolować przy użyciu różnych przycisków.\n\nWykonane ze wzmocnionych płyt betonowych."
   },
   {
     "Id": "build332",
     "Name": "Betonowe wewnętrzne naroże dachowe",
-    "Group": "Drewniany element budowlany",
+    "Group": "Betonowy element budowlany",
     "Description": "Kluczowy element dachowy, szczególnie przy budowie dachów kanciastych.\n\nWykonany ze wzmocnionych płyt betonowych."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Naklejka z anomalią",
     "Group": "Dekoracja",
     "Description": "Wyjątkowa naklejka, którą możesz umieścić na bazach, by je udekorować i dodać im szyku.\nPrzedstawia anomalię podróżnika."
+  },
+  {
+    "Id": "build338",
+    "Name": "Drewniany trójkąt",
+    "Group": "Drewniany element budowlany",
+    "Description": "Podstawowy element podłogi obiektu drewnianego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build339",
+    "Name": "Mały drewniany trójkąt",
+    "Group": "Drewniany element budowlany",
+    "Description": "Podstawowy element podłogi obiektu drewnianego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build340",
+    "Name": "Metalowy trójkąt",
+    "Group": "Metalowy element budowlany",
+    "Description": "Podstawowy element podłogi obiektu metalowego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build341",
+    "Name": "Mały metalowy trójkąt",
+    "Group": "Metalowy element budowlany",
+    "Description": "Podstawowy element podłogi obiektu metalowego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build342",
+    "Name": "Betonowy trójkąt",
+    "Group": "Betonowy element budowlany",
+    "Description": "Podstawowy element podłogi obiektu betonowego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build343",
+    "Name": "Mały betonowy trójkąt",
+    "Group": "Betonowy element budowlany",
+    "Description": "Podstawowy element podłogi obiektu betonowego. Ten prosty kształt pozwala tworzyć różnego rodzaju obiekty."
+  },
+  {
+    "Id": "build344",
+    "Name": "Niebieskie światło",
+    "Group": "Dekoracja",
+    "Description": "Kolorowe lampki oświetlające bazę użytkownika."
+  },
+  {
+    "Id": "build345",
+    "Name": "Różowe światło",
+    "Group": "Dekoracja",
+    "Description": "Kolorowe lampki oświetlające bazę użytkownika."
+  },
+  {
+    "Id": "build346",
+    "Name": "Żółte światło",
+    "Group": "Dekoracja",
+    "Description": "Kolorowe lampki oświetlające bazę użytkownika."
+  },
+  {
+    "Id": "build347",
+    "Name": "Zielone światło",
+    "Group": "Dekoracja",
+    "Description": "Kolorowe lampki oświetlające bazę użytkownika."
+  },
+  {
+    "Id": "build348",
+    "Name": "Czerwone światło",
+    "Group": "Dekoracja",
+    "Description": "Kolorowe lampki oświetlające bazę użytkownika."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Modyfikacja magazynu",
+    "Group": "Moduł rozszerzenia statku gwiezdnego",
+    "Description": "Moduł technologiczny zebrany ze szczątków odzyskanego statku gwiezdnego. Można go też zebrać z wraków frachtowców albo podczas ekspedycji fregat.\n\nMoże zostać użyty, aby rozszerzyć pojemność magazynową statku gwiezdnego u dealera statków gwiezdnych na stacji kosmicznej."
+  },
+  {
+    "Id": "build351",
+    "Name": "Panele termiczne",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build352",
+    "Name": "Zbiornik chłodziwa",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build353",
+    "Name": "Szpula nanokabli",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build354",
+    "Name": "Recyklowane obwody",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build355",
+    "Name": "Regulatory subatomowe",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build356",
+    "Name": "Skompresowane skrawki indu",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build357",
+    "Name": "Zawory SI statku gwiezdnego",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "build358",
+    "Name": "Urządzenie kształtu fali",
+    "Group": "Syntezator dźwięku",
+    "Description": "Zaawansowany generator dźwięku, pozwalający użytkownikowi syntezować złożone aranżacje muzyczne.\n\nKilka urządzeń można ułożyć kolejno albo połączyć z oświetleniem, aby stworzyć spektakularne pokazy."
   }
 ]

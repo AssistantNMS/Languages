@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Luce colorata",
+    "Name": "Luce bianca",
     "Group": "Decorazione",
     "Description": "Una luce colorata per illuminare una base."
   },
@@ -934,12 +934,6 @@
     "Name": "Scala",
     "Group": "Elemento di costruzione",
     "Description": "Una scala robusta e leggera, con punti d'ancoraggio rinforzati per agganciarla alle pareti."
-  },
-  {
-    "Id": "build216",
-    "Name": "Scala stanza cubica",
-    "Group": "Elemento di costruzione",
-    "Description": "Una scala robusta e leggera, con agganci adattati alle stanze cubiche."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Porta di metallo servocomandata",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in metallo",
     "Description": "Una porta servocomandata. Può essere collegata a una rete energetica e attivata usando diversi tipi di interruttore.\n\nCreata con leghe metalliche ad alta resistenza."
   },
   {
     "Id": "build327",
     "Name": "Porta di metallo servocomandata grande",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in metallo",
     "Description": "Una porta servocomandata doppia. Può essere collegata a una rete energetica e attivata usando diversi tipi di interruttore.\n\nCreata con leghe metalliche ad alta resistenza."
   },
   {
     "Id": "build328",
     "Name": "Angolo per tetto di metallo interno",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in metallo",
     "Description": "Una componente costruttiva fondamentale per la costruzione di tetti angolari.\n\nCreata con leghe metalliche ad alta resistenza."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Porta di cemento servocomandata",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in cemento",
     "Description": "Una porta servocomandata. Può essere collegata a una rete energetica e attivata usando diversi tipi di interruttore.\n\nCreata con lastre di cemento rinforzate."
   },
   {
     "Id": "build331",
     "Name": "Porta di cemento servocomandata grande",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in cemento",
     "Description": "Una porta servocomandata doppia. Può essere collegata a una rete energetica e attivata usando diversi tipi di interruttore.\n\nCreata con lastre di cemento rinforzate."
   },
   {
     "Id": "build332",
     "Name": "Angolo per tetto di cemento interno",
-    "Group": "Componente di costruzione in legno",
+    "Group": "Componente di costruzione in cemento",
     "Description": "Una componente costruttiva fondamentale per la costruzione di tetti angolari.\n\nCreata con lastre di cemento rinforzate."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Decalcomania anomalia",
     "Group": "Decorazione",
     "Description": "Una decalcomania esclusiva posizionabile con cui aggiungere stile alla base e decorarla.\nRaffigura un'anomalia Viaggiatore."
+  },
+  {
+    "Id": "build338",
+    "Name": "Triangolo di legno",
+    "Group": "Componente di costruzione in legno",
+    "Description": "Un semplice componente di pavimentazione in legno. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build339",
+    "Name": "Triangolo di legno piccolo",
+    "Group": "Componente di costruzione in legno",
+    "Description": "Un semplice componente di pavimentazione in legno. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build340",
+    "Name": "Triangolo di metallo",
+    "Group": "Componente di costruzione in metallo",
+    "Description": "Un semplice componente di pavimentazione in metallo. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build341",
+    "Name": "Triangolo di metallo piccolo",
+    "Group": "Componente di costruzione in metallo",
+    "Description": "Un semplice componente di pavimentazione in metallo. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build342",
+    "Name": "Triangolo di cemento",
+    "Group": "Componente di costruzione in cemento",
+    "Description": "Un semplice componente di pavimentazione in cemento. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build343",
+    "Name": "Triangolo di cemento piccolo",
+    "Group": "Componente di costruzione in cemento",
+    "Description": "Un semplice componente di pavimentazione in cemento. La sua forma semplice permette di creare un'ampia serie di strutture."
+  },
+  {
+    "Id": "build344",
+    "Name": "Luce blu",
+    "Group": "Decorazione",
+    "Description": "Una luce colorata per illuminare una base."
+  },
+  {
+    "Id": "build345",
+    "Name": "Luce rosa",
+    "Group": "Decorazione",
+    "Description": "Una luce colorata per illuminare una base."
+  },
+  {
+    "Id": "build346",
+    "Name": "Luce gialla",
+    "Group": "Decorazione",
+    "Description": "Una luce colorata per illuminare una base."
+  },
+  {
+    "Id": "build347",
+    "Name": "Luce verde",
+    "Group": "Decorazione",
+    "Description": "Una luce colorata per illuminare una base."
+  },
+  {
+    "Id": "build348",
+    "Name": "Luce rossa",
+    "Group": "Decorazione",
+    "Description": "Una luce colorata per illuminare una base."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Miglioramento deposito",
+    "Group": "Modulo espansione astronave",
+    "Description": "Un modulo tecnologico recuperato dai resti di un'astronave. Può essere recuperato anche dai luoghi di impatto dei mercantili o durante le spedizioni delle fregate.\n\nPuò essere utilizzato presso l'area preposta all'allestimento dell'astronave della stazione spaziale per espandere la capienza di carico dell'astronave."
+  },
+  {
+    "Id": "build351",
+    "Name": "Pannelli termici",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build352",
+    "Name": "Serbatoio di refrigerante",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build353",
+    "Name": "Rotoli di nanocavi",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build354",
+    "Name": "Circuiti riciclati",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build355",
+    "Name": "Regolatori subatomici",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build356",
+    "Name": "Scarti di indio compressi",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build357",
+    "Name": "Sfiati IA astronave",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "build358",
+    "Name": "Dispositivo di forma d'onda",
+    "Group": "Sintetizzatore audio",
+    "Description": "Un generatore audio all'avanguardia, utilizzabile per sintetizzare complessi arrangiamenti musicali.\n\nÈ possibile posizionare più dispositivi in sequenza e collegarli alle luci per dare vita ad affascinanti spettacoli."
   }
 ]

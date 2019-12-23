@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Breccia nello scafo",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech57",
     "Name": "Circuiti arrugginiti",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech58",
     "Name": "Sostegno frantumato",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech59",
     "Name": "Fuga di radiazioni",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech60",
     "Name": "Avaria di contenimento",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech61",
     "Name": "Meccanismi danneggiati",
     "Group": "Componente astronave danneggiato",
-    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema dell'astronave gravemente danneggiato.\n\nLo slot non può essere usato per lo stoccaggio o per la tecnologia fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Cortocircuito",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech85",
     "Name": "Transistor bruciato",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech86",
     "Name": "Cablaggio danneggiato",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech87",
     "Name": "Nucleo energetico arrugginito",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech88",
     "Name": "Modulo guasto",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech89",
     "Name": "Telaio in avaria",
     "Group": "Componente multi-tool danneggiato",
-    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni."
+    "Description": "Sottosistema del multi-tool gravemente danneggiato.\n\nLo slot non può essere usato fino alla riparazione del danno. Usa REPAIR per dare inizio alle riparazioni.\n\nLa riparazione libererà slot utilizzabili."
   },
   {
     "Id": "tech90",

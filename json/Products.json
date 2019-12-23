@@ -19,7 +19,8 @@
         "Id": "raw23",
         "Quantity": 25
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod2",
@@ -41,7 +42,8 @@
         "Id": "raw8",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod3",
@@ -60,7 +62,8 @@
         "Id": "raw1",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod4",
@@ -78,7 +81,8 @@
         "Id": "raw15",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod5",
@@ -96,7 +100,8 @@
         "Id": "raw2",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod6",
@@ -114,7 +119,8 @@
         "Id": "raw8",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod7",
@@ -136,7 +142,8 @@
         "Id": "raw23",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod8",
@@ -158,7 +165,8 @@
         "Id": "raw9",
         "Quantity": 30
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod9",
@@ -176,7 +184,8 @@
         "Id": "raw16",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod10",
@@ -198,7 +207,8 @@
         "Id": "raw13",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod11",
@@ -216,7 +226,8 @@
         "Id": "raw5",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod12",
@@ -238,7 +249,8 @@
         "Id": "raw33",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod13",
@@ -260,7 +272,8 @@
         "Id": "raw33",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod14",
@@ -282,7 +295,8 @@
         "Id": "raw33",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod15",
@@ -304,7 +318,8 @@
         "Id": "prod10",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod16",
@@ -326,7 +341,8 @@
         "Id": "raw33",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod17",
@@ -348,7 +364,8 @@
         "Id": "prod2",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod18",
@@ -370,7 +387,8 @@
         "Id": "prod1",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod19",
@@ -392,7 +410,8 @@
         "Id": "prod6",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod20",
@@ -414,7 +433,8 @@
         "Id": "raw14",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod21",
@@ -436,7 +456,8 @@
         "Id": "raw15",
         "Quantity": 10
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod22",
@@ -458,7 +479,8 @@
         "Id": "raw33",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod23",
@@ -480,7 +502,8 @@
         "Id": "prod11",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod24",
@@ -502,7 +525,8 @@
         "Id": "raw8",
         "Quantity": 20
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod25",
@@ -524,7 +548,8 @@
         "Id": "raw7",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod26",
@@ -546,7 +571,8 @@
         "Id": "raw7",
         "Quantity": 100
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod27",
@@ -568,7 +594,8 @@
         "Id": "raw7",
         "Quantity": 200
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod28",
@@ -590,7 +617,8 @@
         "Id": "prod6",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod29",
@@ -616,7 +644,8 @@
         "Id": "raw18",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod30",
@@ -625,7 +654,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5000.0,
-    "Colour": "CCCCCC",
+    "Colour": "1A2733",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
@@ -634,7 +663,8 @@
         "Id": "raw8",
         "Quantity": 2
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod31",
@@ -643,7 +673,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "BA3730",
+    "Colour": "F3A922",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -652,7 +682,8 @@
         "Id": "raw2",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod32",
@@ -661,7 +692,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "1E8A41",
+    "Colour": "F3A922",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -670,7 +701,8 @@
         "Id": "raw17",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod33",
@@ -679,7 +711,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "F16D14",
+    "Colour": "F3A922",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -688,7 +720,8 @@
         "Id": "raw13",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod34",
@@ -697,7 +730,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "8A7E71",
+    "Colour": "F3A922",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -706,7 +739,8 @@
         "Id": "raw9",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod35",
@@ -715,7 +749,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "BA3730",
+    "Colour": "F3A922",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -724,7 +758,8 @@
         "Id": "raw3",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod36",
@@ -733,7 +768,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "005B83",
+    "Colour": "F3A922",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -742,7 +777,8 @@
         "Id": "raw15",
         "Quantity": 150
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod49",
@@ -751,7 +787,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -764,7 +800,8 @@
         "Id": "raw42",
         "Quantity": 600
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod51",
@@ -773,7 +810,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -786,7 +823,8 @@
         "Id": "raw46",
         "Quantity": 200
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod52",
@@ -795,7 +833,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -808,7 +846,8 @@
         "Id": "raw47",
         "Quantity": 200
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod53",
@@ -817,7 +856,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -830,7 +869,8 @@
         "Id": "prod52",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod54",
@@ -839,7 +879,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -848,7 +888,8 @@
         "Id": "raw43",
         "Quantity": 40
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod55",
@@ -857,7 +898,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -866,7 +907,8 @@
         "Id": "raw45",
         "Quantity": 200
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod56",
@@ -875,7 +917,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -888,7 +930,8 @@
         "Id": "prod55",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod57",
@@ -897,7 +940,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 20.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -910,7 +953,8 @@
         "Id": "raw50",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod58",
@@ -919,7 +963,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -932,7 +976,8 @@
         "Id": "prod57",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod59",
@@ -941,7 +986,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "507851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -954,7 +999,8 @@
         "Id": "raw36",
         "Quantity": 250
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod60",
@@ -963,7 +1009,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "507851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -976,7 +1022,8 @@
         "Id": "raw37",
         "Quantity": 250
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod61",
@@ -985,7 +1032,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "507851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -998,7 +1045,8 @@
         "Id": "raw35",
         "Quantity": 250
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod62",
@@ -1007,7 +1055,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1020,7 +1068,8 @@
         "Id": "prod60",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod63",
@@ -1029,7 +1078,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1042,7 +1091,8 @@
         "Id": "prod62",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod64",
@@ -1051,7 +1101,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1064,7 +1114,8 @@
         "Id": "prod61",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod65",
@@ -1073,7 +1124,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1086,7 +1137,8 @@
         "Id": "prod61",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod66",
@@ -1095,7 +1147,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1108,7 +1160,8 @@
         "Id": "prod64",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod67",
@@ -1117,7 +1170,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "207851",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1130,7 +1183,8 @@
         "Id": "prod65",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod68",
@@ -1139,7 +1193,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1152,7 +1206,8 @@
         "Id": "prod63",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod69",
@@ -1161,7 +1216,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1174,7 +1229,8 @@
         "Id": "prod67",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod70",
@@ -1183,7 +1239,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1196,7 +1252,8 @@
         "Id": "prod66",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod71",
@@ -1218,7 +1275,8 @@
         "Id": "raw24",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod72",
@@ -1240,7 +1298,8 @@
         "Id": "raw25",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod73",
@@ -1262,7 +1321,8 @@
         "Id": "raw28",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod74",
@@ -1284,7 +1344,8 @@
         "Id": "raw26",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod75",
@@ -1306,7 +1367,8 @@
         "Id": "raw29",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod76",
@@ -1328,7 +1390,8 @@
         "Id": "raw27",
         "Quantity": 50
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod77",
@@ -1354,7 +1417,8 @@
         "Id": "prod76",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod78",
@@ -1380,7 +1444,8 @@
         "Id": "prod75",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod79",
@@ -1389,7 +1454,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1406,7 +1471,8 @@
         "Id": "prod77",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod80",
@@ -1415,7 +1481,7 @@
     "CurrencyType": "Credits",
     "IsCraftable": true,
     "MaxStackSize": 5.0,
-    "Colour": "0063B7",
+    "Colour": "CCCCCC",
     "BlueprintSource": 1,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": false,
@@ -1432,11 +1498,12 @@
         "Id": "prod78",
         "Quantity": 1
       }
-    ]
+    ],
+    "ConsumableRewards": []
   },
   {
     "Id": "prod81",
-    "Icon": "products/82.png",
+    "Icon": "products/81.png",
     "BaseValueUnits": 25000.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -1445,6 +1512,7 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   }
 ]

@@ -6,11 +6,12 @@
     "CurrencyType": "Credits",
     "IsCraftable": false,
     "MaxStackSize": 20.0,
-    "Colour": "0063B7",
+    "Colour": "1A2733",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other3",
@@ -19,11 +20,12 @@
     "CurrencyType": "Credits",
     "IsCraftable": false,
     "MaxStackSize": 5.0,
-    "Colour": "672400",
+    "Colour": "4D2857",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other4",
@@ -32,11 +34,12 @@
     "CurrencyType": "Credits",
     "IsCraftable": false,
     "MaxStackSize": 5.0,
-    "Colour": "672400",
+    "Colour": "4D2857",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other5",
@@ -49,7 +52,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other6",
@@ -58,15 +62,16 @@
     "CurrencyType": "Credits",
     "IsCraftable": false,
     "MaxStackSize": 20.0,
-    "Colour": "CCCCCC",
+    "Colour": "1A2733",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other7",
-    "Icon": "other/6.png",
+    "Icon": "other/7.png",
     "BaseValueUnits": 1500.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -75,7 +80,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other8",
@@ -84,11 +90,12 @@
     "CurrencyType": "Credits",
     "IsCraftable": false,
     "MaxStackSize": 5.0,
-    "Colour": "F3A922",
+    "Colour": "1A2733",
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other9",
@@ -101,7 +108,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other10",
@@ -114,7 +122,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other11",
@@ -127,7 +136,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other12",
@@ -140,7 +150,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other13",
@@ -153,7 +164,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other14",
@@ -166,7 +178,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other15",
@@ -179,7 +192,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other16",
@@ -192,7 +206,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other17",
@@ -205,7 +220,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other18",
@@ -218,7 +234,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other19",
@@ -231,7 +248,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other20",
@@ -244,7 +262,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other21",
@@ -257,7 +276,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other22",
@@ -270,7 +290,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other23",
@@ -283,7 +304,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other24",
@@ -296,7 +318,8 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other25",
@@ -309,11 +332,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other26",
-    "Icon": "unknown.png",
+    "Icon": "other/26.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -322,11 +346,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other27",
-    "Icon": "unknown.png",
+    "Icon": "other/27.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -335,11 +360,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other28",
-    "Icon": "unknown.png",
+    "Icon": "other/28.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -348,11 +374,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other29",
-    "Icon": "unknown.png",
+    "Icon": "other/29.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -361,11 +388,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other30",
-    "Icon": "unknown.png",
+    "Icon": "other/30.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -374,11 +402,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other31",
-    "Icon": "unknown.png",
+    "Icon": "other/31.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -387,11 +416,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other32",
-    "Icon": "unknown.png",
+    "Icon": "other/32.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -400,11 +430,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other33",
-    "Icon": "unknown.png",
+    "Icon": "other/33.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -413,11 +444,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other34",
-    "Icon": "unknown.png",
+    "Icon": "other/34.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -426,11 +458,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other35",
-    "Icon": "unknown.png",
+    "Icon": "other/35.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -439,11 +472,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other36",
-    "Icon": "unknown.png",
+    "Icon": "other/36.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -452,11 +486,12 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   },
   {
     "Id": "other37",
-    "Icon": "unknown.png",
+    "Icon": "other/37.png",
     "BaseValueUnits": 3200.0,
     "CurrencyType": "Credits",
     "IsCraftable": false,
@@ -465,6 +500,7 @@
     "BlueprintSource": 0,
     "BlueprintNaniteCost": 1,
     "HideBlueprintNaniteCost": true,
-    "RequiredItems": []
+    "RequiredItems": [],
+    "ConsumableRewards": []
   }
 ]

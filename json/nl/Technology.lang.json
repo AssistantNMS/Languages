@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Rompbreuk",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech57",
     "Name": "Verroeste circuits",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech58",
     "Name": "Verbrijzeld bolwerk",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech59",
     "Name": "Stralingslek",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech60",
     "Name": "Beveiligingsfout",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech61",
     "Name": "Beschadigde tandwielen",
     "Group": "Beschadigd ruimteschiponderdeel",
-    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem ruimteschip heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt voor opslag of technologie tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Kortsluiting",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech85",
     "Name": "Opgeblazen transistor",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech86",
     "Name": "Beschadigde bedrading",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech87",
     "Name": "Verroeste energiekern",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech88",
     "Name": "Corrupte module",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech89",
     "Name": "Beschadigde kabels",
     "Group": "Beschadigd multitool-onderdeel",
-    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren."
+    "Description": "Subsysteem multitool heeft kritische schade opgelopen.\n\nVak kan niet worden gebruikt tot de schade is gerepareerd. Gebruik REPAIR om te beginnen met repareren.\n\nReparatie maakt vak beschikbaar voor algemeen gebruik."
   },
   {
     "Id": "tech90",

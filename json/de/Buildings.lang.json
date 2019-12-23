@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Farbige Leuchte",
+    "Name": "Weiße Leuchte",
     "Group": "Dekoration",
     "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
   },
@@ -934,12 +934,6 @@
     "Name": "Leiter",
     "Group": "Konstruktionsgegenstand",
     "Description": "Eine stabile, leichtgewichtige Leiter mit verstärkten Ankerpunkten zur Anbringung an Wänden."
-  },
-  {
-    "Id": "build216",
-    "Name": "Würfelförmiger Raum – Leiter",
-    "Group": "Konstruktionsgegenstand",
-    "Description": "Eine stabile, leichtgewichtige Leiter zur Montage für würfelförmige Räume."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Elektrische Metalltür",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Metall-Konstruktionskomponente",
     "Description": "Eine mit Strom betriebene Tür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus hochfesten Metalllegierungen hergestellt."
   },
   {
     "Id": "build327",
     "Name": "Große elektrische Metalltür",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Metall-Konstruktionskomponente",
     "Description": "Eine mit Strom betriebene Doppeltür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus hochfesten Metalllegierungen hergestellt."
   },
   {
     "Id": "build328",
     "Name": "Dachinneneckteil aus Metall",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Metall-Konstruktionskomponente",
     "Description": "Ein wesentliches Dachstück. Unerlässlich beim Bau von abgewinkelten Dächern.\n\nWird aus hochfesten Metalllegierungen hergestellt."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Elektrische Betontür",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Beton-Konstruktionskomponente",
     "Description": "Eine mit Strom betriebene Tür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus verstärkten Betonplatten hergestellt."
   },
   {
     "Id": "build331",
     "Name": "Große elektrische Betontür",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Beton-Konstruktionskomponente",
     "Description": "Eine mit Strom betriebene Doppeltür. Kann mit einem Stromnetz verbunden und über diverse Schalter bedient werden.\n\nWird aus verstärkten Betonplatten hergestellt."
   },
   {
     "Id": "build332",
     "Name": "Dachinneneckteil aus Beton",
-    "Group": "Holz-Konstruktionskomponente",
+    "Group": "Beton-Konstruktionskomponente",
     "Description": "Ein wesentliches Dachstück. Unerlässlich beim Bau von abgewinkelten Dächern.\n\nWird aus verstärkten Betonplatten hergestellt."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Anomalie-Motiv",
     "Group": "Dekoration",
     "Description": "Ein exklusives, platzierbares Motiv zur Verzierung und Dekoration von Basen.\nDieses Motiv stellt eine Reisendenanomalie dar."
+  },
+  {
+    "Id": "build338",
+    "Name": "Holzdreieck",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Holzkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build339",
+    "Name": "Kleines Holzdreieck",
+    "Group": "Holz-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Holzkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build340",
+    "Name": "Metalldreieck",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Metallkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build341",
+    "Name": "Kleines Metalldreieck",
+    "Group": "Metall-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Metallkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build342",
+    "Name": "Betondreieck",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Betonkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build343",
+    "Name": "Kleines Betondreieck",
+    "Group": "Beton-Konstruktionskomponente",
+    "Description": "Ein einfaches Bodenteil einer Betonkonstruktion mit einer simplen Form, mit dem man eine riesige Palette an unterschiedlichen Strukturen erschaffen kann."
+  },
+  {
+    "Id": "build344",
+    "Name": "Blaue Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
+  },
+  {
+    "Id": "build345",
+    "Name": "Pinke Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
+  },
+  {
+    "Id": "build346",
+    "Name": "Gelbe Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
+  },
+  {
+    "Id": "build347",
+    "Name": "Grüne Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
+  },
+  {
+    "Id": "build348",
+    "Name": "Rote Leuchte",
+    "Group": "Dekoration",
+    "Description": "Eine farbige Leuchte, die die Basis des Benutzers erhellt."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Lagererweiterung",
+    "Group": "Raumschiff-Erweiterungsmodul",
+    "Description": "Ein Technologiemodul, das aus den Überresten eines geretteten Raumschiffs geborgen wurde. Kann auch an Frachter-Absturzstellen gesammelt oder während Fregattenexpeditionen geborgen werden.\n\nMan kann damit bei der Raumschiffausstattung einer Raumstation die Lagerkapazität des Raumschiffs erweitern."
+  },
+  {
+    "Id": "build351",
+    "Name": "Thermalmodule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build352",
+    "Name": "Kühlmitteltank",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build353",
+    "Name": "Nanokabel-Spule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build354",
+    "Name": "Wiederverwerter Schaltkreis",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build355",
+    "Name": "Subatomare Regler",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build356",
+    "Name": "Verdichtete Indiumreste",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build357",
+    "Name": "Raumschiff-KI-Ventile",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "build358",
+    "Name": "Wellenformgerät",
+    "Group": "Audio-Synthesizer",
+    "Description": "Ein fortgeschrittener Audiogenerator, mit dem der Benutzer komplexe musikalische Arrangements erzeugen kann.\n\nMehrere Geräte können hintereinander platziert oder mit Leuchten verbunden werden, um spektakuläre Vorführungen zu ermöglichen."
   }
 ]

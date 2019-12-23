@@ -157,7 +157,7 @@
   },
   {
     "Id": "tech27",
-    "Name": "Ładowarka układu startowego",
+    "Name": "System układu startowego",
     "Group": "Ulepszenie systemu startowego statku gwiezdnego",
     "Description": "Fotowoltaiczne panele, przytwierdzone do silników startowych, pozwalają na powolne ładowanie w czasie, gdy statek nie jest używany.\n\nPobrane światło pozyskuje diwodór z atmosfery i z czasem automatycznie napełnia paliwem silniki startowe."
   },
@@ -254,7 +254,7 @@
   {
     "Id": "tech44",
     "Name": "Superładowarka cząstek",
-    "Group": "Ulepszenie strumienicy pozytronów statku gwiezdnego",
+    "Group": "Ulepszenie pozytronów statku gwiezdnego",
     "Description": "Modernizuje mechanizm spustowy strumienicy pozytronów, co przekłada się na szybsze i celniejsze wystrzeliwanie cząstek.\n\nUlepsza zasięg i celność."
   },
   {
@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Wyłom w kadłubie",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech57",
     "Name": "Przerdzewiałe obwody",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech58",
     "Name": "Rozbita tama",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech59",
     "Name": "Wyciek radioaktywny",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech60",
     "Name": "Awaria pola",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech61",
     "Name": "Uszkodzone zębatki",
     "Group": "Uszkodzony komponent statku gwiezdnego",
-    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem statku krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane jako magazyn ani miejsce na technologię, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Krótkie spięcie",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech85",
     "Name": "Przepalony tranzystor",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech86",
     "Name": "Uszkodzone okablowanie",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech87",
     "Name": "Przerdzewiały rdzeń zasilający",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech88",
     "Name": "Uszkodzony moduł",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech89",
     "Name": "Uszkodzenie wiązki",
     "Group": "Uszkodzony komponent multinarzędzia",
-    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, póki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć."
+    "Description": "Podsystem multinarzędzia krytycznie uszkodzony.\n\nPole nie może zostać wykorzystane, dopóki nie przeprowadzisz naprawy. Użyj REPAIR, by ją rozpocząć.\n\nNaprawa zwolni pole do ogólnego użytkowania."
   },
   {
     "Id": "tech90",

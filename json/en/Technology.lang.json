@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Hull Fracture",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech57",
     "Name": "Rusted Circuits",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech58",
     "Name": "Shattered Bulwark",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech59",
     "Name": "Radiation Leak",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech60",
     "Name": "Containment Failure",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech61",
     "Name": "Damaged Gears",
     "Group": "Damaged Starship Component",
-    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Starship subsystem critically damaged.\n\nSlot cannot be used for storage or technology until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech62",
@@ -460,37 +460,37 @@
     "Id": "tech84",
     "Name": "Short Circuit",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech85",
     "Name": "Blown Transistor",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech86",
     "Name": "Damaged Wiring",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech87",
     "Name": "Rusted Power Core",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech88",
     "Name": "Corrupt Module",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech89",
     "Name": "Loom Damage",
     "Group": "Damaged Multi-Tool Component",
-    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process."
+    "Description": "Multi-Tool subsystem critically damaged.\n\nSlot cannot be used until damage is repaired. Use REPAIR to begin repair process.\n\nRepairing will free slot up for general use."
   },
   {
     "Id": "tech90",

@@ -103,7 +103,7 @@
   },
   {
     "Id": "other19",
-    "Name": "Olho do capacete korvax",
+    "Name": "Olho do capacete Korvax",
     "Group": "Capacete desbloqueável",
     "Description": "Uma sobreposição de aparência do exotraje exclusiva.\nTransforme o aspecto do seu exotraje em um modificador de aparência."
   },
@@ -111,7 +111,7 @@
     "Id": "other20",
     "Name": "Máscara de batalha dos Primeiros Filhos",
     "Group": "Capacete desbloqueável",
-    "Description": "Uma sobreposição de aparência do exotraje inspirada nos capacetes militares dos geks ancestrais.\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+    "Description": "Uma sobreposição de aparência do exotraje inspirada nos capacetes militares dos Geks ancestrais.\nTransforme o aspecto do seu exotraje em um modificador de aparência."
   },
   {
     "Id": "other21",
@@ -142,5 +142,77 @@
     "Name": "Botas blindadas",
     "Group": "Botas desbloqueáveis",
     "Description": "Proteção reforçada para os pés com giroscópios balanceadores de passada integrados.\n\nSão centenas de anos de pesquisa tecnológica aplicadas a um calçado."
+  },
+  {
+    "Id": "other26",
+    "Name": "Iteração: rosto de Ariadne",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other27",
+    "Name": "Iteração: rosto de Gêmeos",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other28",
+    "Name": "Iteração: rosto de Mercúrio",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other29",
+    "Name": "Iteração: rosto de Cronos",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other30",
+    "Name": "Iteração: rosto de Selene",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other31",
+    "Name": "Iteração: rosto de Hélio",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other32",
+    "Name": "Iteração: rosto de Hipérion",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other33",
+    "Name": "Iteração: rosto de Tétis",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other34",
+    "Name": "Iteração: rosto de Perses",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other35",
+    "Name": "Iteração: rosto de Ares",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other36",
+    "Name": "Iteração: rosto de Héspero",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other37",
+    "Name": "Iteração: rosto de Eos",
+    "Group": "Transformação de face anômala",
+    "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
   }
 ]

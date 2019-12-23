@@ -142,5 +142,77 @@
     "Name": "Bottes blindées",
     "Group": "Bottes à débloquer",
     "Description": "Un système de renforcement plantaire doté de gyroscopes équilibrant vos pas.\n\nDes siècles de recherches en technologie de haut vol appliqués à une paire de chaussures."
+  },
+  {
+    "Id": "other26",
+    "Name": "Itération : visage d'Ariane",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other27",
+    "Name": "Itération : visage de Gémeaux",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other28",
+    "Name": "Itération : visage de Mercure",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other29",
+    "Name": "Itération : visage de Cronos",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other30",
+    "Name": "Itération : visage de Sélène",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other31",
+    "Name": "Itération : visage d'Hélios",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other32",
+    "Name": "Itération : visage d'Hypérion",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other33",
+    "Name": "Itération : visage de Téthys",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other34",
+    "Name": "Itération : visage de Persée",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other35",
+    "Name": "Itération : visage d'Arès",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other36",
+    "Name": "Itération : visage d'Hespéros",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other37",
+    "Name": "Itération : visage d'Éos",
+    "Group": "Transformation faciale anormale",
+    "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
   }
 ]

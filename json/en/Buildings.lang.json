@@ -955,13 +955,6 @@
     "Additional": ""
   },
   {
-    "Id": "build216",
-    "Name": "Cuboid Room Ladder",
-    "Group": "Construction item",
-    "Description": "A strong, lightweight ladder with fittings tailored for cuboid rooms.",
-    "Additional": ""
-  },
-  {
     "Id": "build217",
     "Name": "Shutter Door",
     "Group": "Wall Access Route",
@@ -1692,21 +1685,21 @@
   {
     "Id": "build326",
     "Name": "Metal Power Door",
-    "Group": "Wooden Construction Component",
+    "Group": "Metal Construction Component",
     "Description": "A power-operated door. Can be connected to a power grid and operated using various switches.\n\nFashioned from high-strength metal alloys.",
     "Additional": ""
   },
   {
     "Id": "build327",
     "Name": "Large Metal Power Door",
-    "Group": "Wooden Construction Component",
+    "Group": "Metal Construction Component",
     "Description": "A double-width power-operated door. Can be connected to a power grid and operated using various switches.\n\nFashioned from high-strength metal alloys.",
     "Additional": ""
   },
   {
     "Id": "build328",
     "Name": "Metal Inner Roof Corner",
-    "Group": "Wooden Construction Component",
+    "Group": "Metal Construction Component",
     "Description": "A vital structure roof piece, critical when building angular roofs.\n\nFashioned from high-strength metal alloys.",
     "Additional": ""
   },
@@ -1720,21 +1713,21 @@
   {
     "Id": "build330",
     "Name": "Concrete Power Door",
-    "Group": "Wooden Construction Component",
+    "Group": "Concrete Construction Component",
     "Description": "A power-operated door. Can be connected to a power grid and operated using various switches.\n\nFashioned from reinforced concrete slabs.",
     "Additional": ""
   },
   {
     "Id": "build331",
     "Name": "Large Concrete Power Door",
-    "Group": "Wooden Construction Component",
+    "Group": "Concrete Construction Component",
     "Description": "A double-width power-operated door. Can be connected to a power grid and operated using various switches.\n\nFashioned from reinforced concrete slabs.",
     "Additional": ""
   },
   {
     "Id": "build332",
     "Name": "Concrete Inner Roof Corner",
-    "Group": "Wooden Construction Component",
+    "Group": "Concrete Construction Component",
     "Description": "A vital structure roof piece, critical when building angular roofs.\n\nFashioned from reinforced concrete slabs.",
     "Additional": ""
   },
@@ -1751,5 +1744,131 @@
     "Group": "Decoration",
     "Description": "An exclusive placeable decal, to add flair and decoration to bases.\nThis decal depicts a Traveller Anomaly.",
     "Additional": ""
+  },
+  {
+    "Id": "build338",
+    "Name": "Wooden Triangle",
+    "Group": "Wooden Construction Component",
+    "Description": "A basic flooring piece of wooden construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build339",
+    "Name": "Small Wooden Triangle",
+    "Group": "Wooden Construction Component",
+    "Description": "A basic flooring piece of wooden construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build340",
+    "Name": "Metal Triangle",
+    "Group": "Metal Construction Component",
+    "Description": "A basic flooring piece of metal construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build341",
+    "Name": "Small Metal Triangle",
+    "Group": "Metal Construction Component",
+    "Description": "A basic flooring piece of metal construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build342",
+    "Name": "Concrete Triangle",
+    "Group": "Concrete Construction Component",
+    "Description": "A basic flooring piece of concrete construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build343",
+    "Name": "Small Concrete Triangle",
+    "Group": "Concrete Construction Component",
+    "Description": "A basic flooring piece of concrete construction, this simple shape allows the creation of a huge array of diverse structures."
+  },
+  {
+    "Id": "build344",
+    "Name": "Blue Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build345",
+    "Name": "Pink Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build346",
+    "Name": "Yellow Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build347",
+    "Name": "Green Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build348",
+    "Name": "Red Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Storage Augmentation",
+    "Group": "Starship Expansion Module",
+    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
+  },
+  {
+    "Id": "build351",
+    "Name": "Thermal Panels",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build352",
+    "Name": "Tank of Coolant",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build353",
+    "Name": "Spool of Nano-Cables",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build354",
+    "Name": "Recycled Circuitry",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build355",
+    "Name": "Subatomic Regulators",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build356",
+    "Name": "Compressed Indium Scraps",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build357",
+    "Name": "Starship AI Valves",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "build358",
+    "Name": "Waveform Device",
+    "Group": "Audio Synthesiser",
+    "Description": "An advanced audio generator, allowing the user to synthesise complex musical arrangements.\n\nMultiple devices may be placed in sequence or connected to lights to generate spectacular displays."
   }
 ]

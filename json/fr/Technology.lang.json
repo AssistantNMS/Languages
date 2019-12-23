@@ -291,37 +291,37 @@
     "Id": "tech56",
     "Name": "Fracture de la coque",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech57",
     "Name": "Circuits rouillés",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech58",
     "Name": "Rempart brisé",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech59",
     "Name": "Fuite de radiations",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech60",
     "Name": "Panne de confinement",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech61",
     "Name": "Engrenages endommagés",
     "Group": "Composant du vaisseau endommagé",
-    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système du vaisseau gravement endommagé.\n\nL'emplacement ne peut pas être utilisé en tant que stockage ou technologie jusqu'à ce que les dégâts soient réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech62",
@@ -459,37 +459,37 @@
     "Id": "tech84",
     "Name": "Court-circuit",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech85",
     "Name": "Transistor grillé",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech86",
     "Name": "Câblage endommagé",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech87",
     "Name": "Noyau d'énergie rouillé",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech88",
     "Name": "Module corrompu",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech89",
     "Name": "Circuit endommagé",
     "Group": "Composant pour multi-outil endommagé",
-    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation."
+    "Description": "Système multi-outil gravement endommagé.\n\nL'emplacement ne peut pas être utilisé tant que les dégâts ne sont pas réparés. Utilisez REPAIR pour lancer le processus de réparation.\n\nLa réparation libérera un emplacement."
   },
   {
     "Id": "tech90",

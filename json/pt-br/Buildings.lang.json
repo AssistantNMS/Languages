@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Luz colorida",
+    "Name": "Luz branca",
     "Group": "Decoração",
     "Description": "Uma luz colorida para iluminar a base do usuário."
   },
@@ -934,12 +934,6 @@
     "Name": "Escada",
     "Group": "Item de construção",
     "Description": "Uma escada leve e resistente com pontos de fixação reforçados para ser presa a paredes."
-  },
-  {
-    "Id": "build216",
-    "Name": "Escada de cômodo cuboide",
-    "Group": "Item de construção",
-    "Description": "Uma escada leve e resistente com partes feitas para cômodos cuboides."
   },
   {
     "Id": "build217",
@@ -1285,21 +1279,21 @@
   },
   {
     "Id": "build279",
-    "Name": "Estátua de gek de bronze",
+    "Name": "Estátua de Gek de bronze",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
+    "Description": "Um ornamento de base construível, exclusivo e moldado em bronze.\nEssa estátua representa um Gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build280",
-    "Name": "Estátua de gek de prata",
+    "Name": "Estátua de Gek de prata",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
+    "Description": "Um ornamento de base construível, exclusivo e moldado em prata.\nEssa estátua representa um Gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build281",
-    "Name": "Estátua de gek de ouro",
+    "Name": "Estátua de Gek de ouro",
     "Group": "Decoração desbloqueável",
-    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa um gek fazendo um gesto em direção ao céu."
+    "Description": "Um ornamento de base construível, exclusivo e moldado em ouro.\nEssa estátua representa um Gek fazendo um gesto em direção ao céu."
   },
   {
     "Id": "build282",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Porta elétrica de metal",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção metálico",
     "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
     "Id": "build327",
     "Name": "Porta elétrica grande de metal",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção metálico",
     "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
     "Id": "build328",
     "Name": "Canto de teto interno de metal",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção metálico",
     "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de ligas metálicas de alta resistência."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Porta elétrica de concreto",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção de concreto",
     "Description": "Uma porta elétrica. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
     "Id": "build331",
     "Name": "Porta elétrica grande de concreto",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção de concreto",
     "Description": "Uma porta elétrica de largura dupla. Pode ser conectada a uma rede de energia e operada por meio de vários interruptores.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
     "Id": "build332",
     "Name": "Canto de teto interno de concreto",
-    "Group": "Componente de construção de madeira",
+    "Group": "Componente de construção de concreto",
     "Description": "Uma peça essencial para a construção de tetos angulares.\n\nÉ fabricada a partir de placas reforçadas de concreto."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Decalque de anomalia",
     "Group": "Decoração",
     "Description": "Um decalque aplicável exclusivo para decorar bases.\nRepresenta uma anomalia viajante."
+  },
+  {
+    "Id": "build338",
+    "Name": "Triângulo de madeira",
+    "Group": "Componente de construção de madeira",
+    "Description": "Uma peça básica de madeira para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build339",
+    "Name": "Triângulo de madeira pequeno",
+    "Group": "Componente de construção de madeira",
+    "Description": "Uma peça básica de madeira para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build340",
+    "Name": "Triângulo metálico",
+    "Group": "Componente de construção metálico",
+    "Description": "Uma peça básica de metal para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build341",
+    "Name": "Triângulo metálico pequeno",
+    "Group": "Componente de construção metálico",
+    "Description": "Uma peça básica de metal para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build342",
+    "Name": "Triângulo de concreto",
+    "Group": "Componente de construção de concreto",
+    "Description": "Uma peça básica de concreto para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build343",
+    "Name": "Triângulo de concreto pequeno",
+    "Group": "Componente de construção de concreto",
+    "Description": "Uma peça básica de concreto para pisos. A forma simples permite a criação de uma enorme variedade de estruturas."
+  },
+  {
+    "Id": "build344",
+    "Name": "Luz azul",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base do usuário."
+  },
+  {
+    "Id": "build345",
+    "Name": "Luz rosa",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base do usuário."
+  },
+  {
+    "Id": "build346",
+    "Name": "Luz amarela",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base do usuário."
+  },
+  {
+    "Id": "build347",
+    "Name": "Luz verde",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base do usuário."
+  },
+  {
+    "Id": "build348",
+    "Name": "Luz vermelha",
+    "Group": "Decoração",
+    "Description": "Uma luz colorida para iluminar a base do usuário."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Aprimoramento de armazenamento",
+    "Group": "Módulo de expansão de nave",
+    "Description": "Um módulo de tecnologia obtido dos restos de uma nave recuperada. Também pode ser coletado em locais de acidente de naves cargueiras ou recuperado durante expedições de fragatas.\n\nPode ser usado para expandir a capacidade de armazenamento da nave no equipador de nave da estação espacial."
+  },
+  {
+    "Id": "build351",
+    "Name": "Painéis térmicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build352",
+    "Name": "Tanque de líquido refrigerante",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build353",
+    "Name": "Bobina de nanocabos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build354",
+    "Name": "Circuitos reciclados",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build355",
+    "Name": "Reguladores subatômicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build356",
+    "Name": "Fragmentos comprimidos de índio",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build357",
+    "Name": "Válvulas de IA de nave",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "build358",
+    "Name": "Dispositivo de forma de onda",
+    "Group": "Sintetizador de áudio",
+    "Description": "Um gerador de áudio avançado que permite que o usuário sintetize arranjos musicais complexos.\n\nVários dispositivos podem ser posicionados em sequência ou conectados a luzes para fazerem exibições espetaculares."
   }
 ]

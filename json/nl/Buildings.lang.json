@@ -919,7 +919,7 @@
   },
   {
     "Id": "build213",
-    "Name": "Gekleurde verlichting",
+    "Name": "Witte verlichting",
     "Group": "Decoratie",
     "Description": "Gekleurde verlichting voor je basis."
   },
@@ -934,12 +934,6 @@
     "Name": "Ladder",
     "Group": "Constructievoorwerp",
     "Description": "Een stevige en lichte ladder met versterkte bevestigingspunten voor muren."
-  },
-  {
-    "Id": "build216",
-    "Name": "Ladder kubusvormige ruimte",
-    "Group": "Constructievoorwerp",
-    "Description": "Een sterke, lichte ladder die speciaal geschikt is voor kubusvormige ruimten."
   },
   {
     "Id": "build217",
@@ -1568,19 +1562,19 @@
   {
     "Id": "build326",
     "Name": "Metalen automatische deur",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Metalen constructieonderdeel",
     "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
     "Id": "build327",
     "Name": "Grote metalen automatische deur",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Metalen constructieonderdeel",
     "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
     "Id": "build328",
     "Name": "Metalen binnendakhoek",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Metalen constructieonderdeel",
     "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van zeer sterke metaallegeringen."
   },
   {
@@ -1592,19 +1586,19 @@
   {
     "Id": "build330",
     "Name": "Betonnen automatische deur",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Betonnen constructieonderdeel",
     "Description": "Een automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton."
   },
   {
     "Id": "build331",
     "Name": "Grote betonnen automatische deur",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Betonnen constructieonderdeel",
     "Description": "Een dubbel zo brede automatische deur. Kan worden aangesloten op een elektriciteitsnetwerk en wordt bediend door allerlei schakelaars.\n\nGemaakt van gewapend beton."
   },
   {
     "Id": "build332",
     "Name": "Betonnen binnendakhoek",
-    "Group": "Houten constructieonderdeel",
+    "Group": "Betonnen constructieonderdeel",
     "Description": "Een belangrijk onderdeel van het dak dat onmisbaar is voor schuine daken.\n\nGemaakt van gewapend beton."
   },
   {
@@ -1618,5 +1612,131 @@
     "Name": "Sticker anomalie",
     "Group": "Decoratie",
     "Description": "Een exclusieve sticker om je basis wat te verfraaien.\nOp deze sticker staat een Reiziger-anomalie."
+  },
+  {
+    "Id": "build338",
+    "Name": "Houten driehoek",
+    "Group": "Houten constructieonderdeel",
+    "Description": "Een eenvoudig houten vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build339",
+    "Name": "Kleine houten driehoek",
+    "Group": "Houten constructieonderdeel",
+    "Description": "Een eenvoudig houten vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build340",
+    "Name": "Metalen driehoek",
+    "Group": "Metalen constructieonderdeel",
+    "Description": "Een eenvoudig metalen vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build341",
+    "Name": "Kleine metalen driehoek",
+    "Group": "Metalen constructieonderdeel",
+    "Description": "Een eenvoudig metalen vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build342",
+    "Name": "Betonnen driehoek",
+    "Group": "Betonnen constructieonderdeel",
+    "Description": "Een eenvoudig betonnen vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build343",
+    "Name": "Kleine betonnen driehoek",
+    "Group": "Betonnen constructieonderdeel",
+    "Description": "Een eenvoudig betonnen vloeronderdeel. Met deze simpele vorm kun je een groot aantal verschillende constructies creëren."
+  },
+  {
+    "Id": "build344",
+    "Name": "Blauwe verlichting",
+    "Group": "Decoratie",
+    "Description": "Gekleurde verlichting voor je basis."
+  },
+  {
+    "Id": "build345",
+    "Name": "Roze verlichting",
+    "Group": "Decoratie",
+    "Description": "Gekleurde verlichting voor je basis."
+  },
+  {
+    "Id": "build346",
+    "Name": "Gele verlichting",
+    "Group": "Decoratie",
+    "Description": "Gekleurde verlichting voor je basis."
+  },
+  {
+    "Id": "build347",
+    "Name": "Groene verlichting",
+    "Group": "Decoratie",
+    "Description": "Gekleurde verlichting voor je basis."
+  },
+  {
+    "Id": "build348",
+    "Name": "Rode verlichting",
+    "Group": "Decoratie",
+    "Description": "Gekleurde verlichting voor je basis."
+  },
+  {
+    "Id": "build349",
+    "Name": "White Light",
+    "Group": "Decoration",
+    "Description": "A coloured light for illuminating a user's base."
+  },
+  {
+    "Id": "build350",
+    "Name": "Opslaguitbreiding",
+    "Group": "Ruimteschip-uitbreidingsmodule",
+    "Description": "Een technologiemodule die afkomstig is uit de restanten van een geborgen ruimteschip. Kan ook worden gevonden op crashlocaties van vrachtschepen of worden geborgen tijdens fregatexpedities.\n\nKan worden gebruikt om de opslagcapaciteit van een ruimteschip te vergroten bij een terminal voor ruimteschipbenodigdheden in een ruimtestation."
+  },
+  {
+    "Id": "build351",
+    "Name": "Thermische panelen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build352",
+    "Name": "Tank met koelvloeistof",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build353",
+    "Name": "Spoel met nanokabels",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build354",
+    "Name": "Gerecycled printplaat",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build355",
+    "Name": "Subatomische regulators",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build356",
+    "Name": "Gecomprimeerd indiumafval",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build357",
+    "Name": "AI-kleppen voor ruimteschepen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "build358",
+    "Name": "Golfapparaat",
+    "Group": "Geluidssynthesizer",
+    "Description": "Een geavanceerde geluidsgenerator waarmee je complexe muzikale arrangementen kunt maken.\n\nVerbind meerdere apparaten in serie of sluit ze aan op lichten voor spectaculaire visuele effecten."
   }
 ]
