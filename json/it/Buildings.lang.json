@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Miglioramento deposito",
-    "Group": "Modulo espansione astronave",
-    "Description": "Un modulo tecnologico recuperato dai resti di un'astronave. Può essere recuperato anche dai luoghi di impatto dei mercantili o durante le spedizioni delle fregate.\n\nPuò essere utilizzato presso l'area preposta all'allestimento dell'astronave della stazione spaziale per espandere la capienza di carico dell'astronave."
-  },
-  {
-    "Id": "build351",
-    "Name": "Pannelli termici",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build352",
-    "Name": "Serbatoio di refrigerante",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build353",
-    "Name": "Rotoli di nanocavi",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build354",
-    "Name": "Circuiti riciclati",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build355",
-    "Name": "Regolatori subatomici",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build356",
-    "Name": "Scarti di indio compressi",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
-    "Id": "build357",
-    "Name": "Sfiati IA astronave",
-    "Group": "Componente secondario astronave",
-    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
-  },
-  {
     "Id": "build358",
     "Name": "Dispositivo di forma d'onda",
     "Group": "Sintetizzatore audio",

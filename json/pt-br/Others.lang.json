@@ -214,5 +214,53 @@
     "Name": "Iteração: rosto de Eos",
     "Group": "Transformação de face anômala",
     "Description": "Uma sobreposição de aparência do exotraje exclusiva.\n\nEste capacete, parte silicone e parte material biológico, pode detectar e replicar os movimentos dos músculos faciais do usuário, gerando a aparência natural de uma cabeça. É totalmente compatível com a tecnologia do exotraje e oferece toda a proteção de um capacete tradicional.\n\nTransforme o aspecto do seu exotraje em um modificador de aparência."
+  },
+  {
+    "Id": "other38",
+    "Name": "Aprimoramento de armazenamento",
+    "Group": "Módulo de expansão de nave",
+    "Description": "Um módulo de tecnologia obtido dos restos de uma nave recuperada. Também pode ser coletado em locais de acidente de naves cargueiras ou recuperado durante expedições de fragatas.\n\nPode ser usado para expandir a capacidade de armazenamento da nave no equipador de nave da estação espacial."
+  },
+  {
+    "Id": "other39",
+    "Name": "Painéis térmicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other40",
+    "Name": "Tanque de líquido refrigerante",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other41",
+    "Name": "Bobina de nanocabos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other42",
+    "Name": "Circuitos reciclados",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other43",
+    "Name": "Reguladores subatômicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other44",
+    "Name": "Fragmentos comprimidos de índio",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
+  },
+  {
+    "Id": "other45",
+    "Name": "Válvulas de IA de nave",
+    "Group": "Subcomponente de nave",
+    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
   }
 ]

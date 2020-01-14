@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Lagererweiterung",
-    "Group": "Raumschiff-Erweiterungsmodul",
-    "Description": "Ein Technologiemodul, das aus den Überresten eines geretteten Raumschiffs geborgen wurde. Kann auch an Frachter-Absturzstellen gesammelt oder während Fregattenexpeditionen geborgen werden.\n\nMan kann damit bei der Raumschiffausstattung einer Raumstation die Lagerkapazität des Raumschiffs erweitern."
-  },
-  {
-    "Id": "build351",
-    "Name": "Thermalmodule",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build352",
-    "Name": "Kühlmitteltank",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build353",
-    "Name": "Nanokabel-Spule",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build354",
-    "Name": "Wiederverwerter Schaltkreis",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build355",
-    "Name": "Subatomare Regler",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build356",
-    "Name": "Verdichtete Indiumreste",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
-    "Id": "build357",
-    "Name": "Raumschiff-KI-Ventile",
-    "Group": "Raumschiff-Unterkomponente",
-    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
-  },
-  {
     "Id": "build358",
     "Name": "Wellenformgerät",
     "Group": "Audio-Synthesizer",

@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Augmentation de stockage",
-    "Group": "Module d'expansion de vaisseau",
-    "Description": "Module technologique récolté dans les vestiges d'un vaisseau récupéré. Peut être obtenu sur les sites de crash de cargos ou au cours d'expéditions de frégates.\n\n\nPeut être utilisé pour améliorer la capacité de stockage du vaisseau auprès de l'unité d'améliorations de vaisseau dans une station spatiale."
-  },
-  {
-    "Id": "build351",
-    "Name": "Panneaux thermiques",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build352",
-    "Name": "Réservoir à liquide de refroidissement",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build353",
-    "Name": "Bobine de nano-câbles",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build354",
-    "Name": "Circuit recyclé",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build355",
-    "Name": "Régulateurs subatomiques",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build356",
-    "Name": "Extraits d'indium compressés",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
-    "Id": "build357",
-    "Name": "IA de soupape de vaisseau",
-    "Group": "Élément secondaire de vaisseau",
-    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
-  },
-  {
     "Id": "build358",
     "Name": "Appareil de forme d'onde",
     "Group": "Synthétiseur audio",

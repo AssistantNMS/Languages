@@ -214,5 +214,53 @@
     "Name": "Iteratie: Eos-aangezicht",
     "Group": "Abnormale gezichtstransformatie",
     "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
+  },
+  {
+    "Id": "other38",
+    "Name": "Opslaguitbreiding",
+    "Group": "Ruimteschip-uitbreidingsmodule",
+    "Description": "Een technologiemodule die afkomstig is uit de restanten van een geborgen ruimteschip. Kan ook worden gevonden op crashlocaties van vrachtschepen of worden geborgen tijdens fregatexpedities.\n\nKan worden gebruikt om de opslagcapaciteit van een ruimteschip te vergroten bij een terminal voor ruimteschipbenodigdheden in een ruimtestation."
+  },
+  {
+    "Id": "other39",
+    "Name": "Thermische panelen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other40",
+    "Name": "Tank met koelvloeistof",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other41",
+    "Name": "Spoel met nanokabels",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other42",
+    "Name": "Gerecycled printplaat",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other43",
+    "Name": "Subatomische regulators",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other44",
+    "Name": "Gecomprimeerd indiumafval",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
+  },
+  {
+    "Id": "other45",
+    "Name": "AI-kleppen voor ruimteschepen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   }
 ]

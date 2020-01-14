@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Aumento de Armazenamento",
-    "Group": "Módulo de Expansão da Nave Espacial",
-    "Description": "Um módulo de tecnologia recolhido dos restos de uma nave espacial recuperada. Pode ser recolhido de locais de acidentes de cargueiros ou recuperado em expedições de fragatas.\n\nNas Lojas de Naves Espaciais apropriadas, pode ser usado para expandir a capacidade de armazenamento da nave."
-  },
-  {
-    "Id": "build351",
-    "Name": "Painéis Térmicos",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build352",
-    "Name": "Tanque Refrigerador",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build353",
-    "Name": "Rolo de Nanocabos",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build354",
-    "Name": "Circuitos Reciclados",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build355",
-    "Name": "Reguladores Subatómicos",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build356",
-    "Name": "Sobras de Índio Comprimido",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
-    "Id": "build357",
-    "Name": "Válculas AI da Nave",
-    "Group": "Subcomponente da Nave Espacial",
-    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
-  },
-  {
     "Id": "build358",
     "Name": "Dispositivo Forma de Onda",
     "Group": "Sintetizador de Áudio",

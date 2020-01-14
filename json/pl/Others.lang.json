@@ -214,5 +214,53 @@
     "Name": "Iteracja: Oblicze Eos",
     "Group": "Anormalna transformacja twarzy",
     "Description": "Unikatowe unieważnienie wyglądu egzokombinezonu.\n\nTen częściowo krzemowy, częściowo biologiczny hełm, potrafi wykrywać i odtwarzać ruchy mięśni twarzy noszącego, co wywołuje efekt naturalnej głowy. Jest w pełni zgodny z technologią egzokombinezonu i zapewnia ochronę tradycyjnego hełmu.\n\nZmień wygląd swojego egzokombinezonu w modyfikatorze wyglądu."
+  },
+  {
+    "Id": "other38",
+    "Name": "Modyfikacja magazynu",
+    "Group": "Moduł rozszerzenia statku gwiezdnego",
+    "Description": "Moduł technologiczny zebrany ze szczątków odzyskanego statku gwiezdnego. Można go też zebrać z wraków frachtowców albo podczas ekspedycji fregat.\n\nMoże zostać użyty, aby rozszerzyć pojemność magazynową statku gwiezdnego u dealera statków gwiezdnych na stacji kosmicznej."
+  },
+  {
+    "Id": "other39",
+    "Name": "Panele termiczne",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other40",
+    "Name": "Zbiornik chłodziwa",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other41",
+    "Name": "Szpula nanokabli",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other42",
+    "Name": "Recyklowane obwody",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other43",
+    "Name": "Regulatory subatomowe",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other44",
+    "Name": "Skompresowane skrawki indu",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
+  },
+  {
+    "Id": "other45",
+    "Name": "Zawory SI statku gwiezdnego",
+    "Group": "Subkomponent statku gwiezdnego",
+    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
   }
 ]

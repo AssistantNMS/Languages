@@ -250,5 +250,53 @@
     "Group": "Anomalous Face Transformation",
     "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
     "Additional": ""
+  },
+  {
+    "Id": "other38",
+    "Name": "Storage Augmentation",
+    "Group": "Starship Expansion Module",
+    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
+  },
+  {
+    "Id": "other39",
+    "Name": "Thermal Panels",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other40",
+    "Name": "Tank of Coolant",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other41",
+    "Name": "Spool of Nano-Cables",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other42",
+    "Name": "Recycled Circuitry",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other43",
+    "Name": "Subatomic Regulators",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other44",
+    "Name": "Compressed Indium Scraps",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
+  },
+  {
+    "Id": "other45",
+    "Name": "Starship AI Valves",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
   }
 ]

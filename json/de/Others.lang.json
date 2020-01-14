@@ -214,5 +214,53 @@
     "Name": "Iteration: Eos-Gesicht",
     "Group": "Anormale Gesichtsveränderung",
     "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
+  },
+  {
+    "Id": "other38",
+    "Name": "Lagererweiterung",
+    "Group": "Raumschiff-Erweiterungsmodul",
+    "Description": "Ein Technologiemodul, das aus den Überresten eines geretteten Raumschiffs geborgen wurde. Kann auch an Frachter-Absturzstellen gesammelt oder während Fregattenexpeditionen geborgen werden.\n\nMan kann damit bei der Raumschiffausstattung einer Raumstation die Lagerkapazität des Raumschiffs erweitern."
+  },
+  {
+    "Id": "other39",
+    "Name": "Thermalmodule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other40",
+    "Name": "Kühlmitteltank",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other41",
+    "Name": "Nanokabel-Spule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other42",
+    "Name": "Wiederverwerter Schaltkreis",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other43",
+    "Name": "Subatomare Regler",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other44",
+    "Name": "Verdichtete Indiumreste",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
+  },
+  {
+    "Id": "other45",
+    "Name": "Raumschiff-KI-Ventile",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   }
 ]

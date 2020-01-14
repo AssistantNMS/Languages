@@ -214,5 +214,53 @@
     "Name": "Iterazione: viso di Eos",
     "Group": "Trasformazione anomala volto",
     "Description": "Un esclusivo override di aspetto dell'exotuta.\n\nQuesto casco, composto in parte da silicone e in parte da materia biologica, replica i movimenti dei muscoli facciali di chi lo indossa, creando l'illusione di essere una vera testa. È pienamente compatibile con la tecnologia e fornisce la stessa protezione di un normale casco.\n\nTrasforma l'aspetto dell'exotuta presso un modificatore aspetto."
+  },
+  {
+    "Id": "other38",
+    "Name": "Miglioramento deposito",
+    "Group": "Modulo espansione astronave",
+    "Description": "Un modulo tecnologico recuperato dai resti di un'astronave. Può essere recuperato anche dai luoghi di impatto dei mercantili o durante le spedizioni delle fregate.\n\nPuò essere utilizzato presso l'area preposta all'allestimento dell'astronave della stazione spaziale per espandere la capienza di carico dell'astronave."
+  },
+  {
+    "Id": "other39",
+    "Name": "Pannelli termici",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other40",
+    "Name": "Serbatoio di refrigerante",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other41",
+    "Name": "Rotoli di nanocavi",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other42",
+    "Name": "Circuiti riciclati",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other43",
+    "Name": "Regolatori subatomici",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other44",
+    "Name": "Scarti di indio compressi",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
+  },
+  {
+    "Id": "other45",
+    "Name": "Sfiati IA astronave",
+    "Group": "Componente secondario astronave",
+    "Description": "Un prezioso componente di un'astronave malridotta, creato dal deposito rottami di un avamposto commerciale.\n\nRealizzato con diversi componenti di un astronave. Dovresti venderlo."
   }
 ]

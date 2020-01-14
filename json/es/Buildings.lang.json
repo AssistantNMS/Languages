@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Aumento de almacenamiento",
-    "Group": "Módulo de expansión de nave",
-    "Description": "Un módulo de tecnología recuperado de los restos de una nave saqueada. También puede recogerse de lugares de accidentes de cargueros o recuperarse durante expediciones de fragatas.\n\nSe puede usar para ampliar la capacidad de almacenamiento desde la unidad de equipamiento para naves de la estación espacial."
-  },
-  {
-    "Id": "build351",
-    "Name": "Paneles térmicos",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build352",
-    "Name": "Depósito de refrigerante",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build353",
-    "Name": "Bobina de nanocables",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build354",
-    "Name": "Circuitería reciclada",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build355",
-    "Name": "Reguladores subatómicos",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build356",
-    "Name": "Restos de indio comprimido",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
-    "Id": "build357",
-    "Name": "Válvulas de IA de nave",
-    "Group": "Subcomponente de nave",
-    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
-  },
-  {
     "Id": "build358",
     "Name": "Dispositivo de ondas",
     "Group": "Sintetizador de sonido",

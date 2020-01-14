@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Aprimoramento de armazenamento",
-    "Group": "Módulo de expansão de nave",
-    "Description": "Um módulo de tecnologia obtido dos restos de uma nave recuperada. Também pode ser coletado em locais de acidente de naves cargueiras ou recuperado durante expedições de fragatas.\n\nPode ser usado para expandir a capacidade de armazenamento da nave no equipador de nave da estação espacial."
-  },
-  {
-    "Id": "build351",
-    "Name": "Painéis térmicos",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build352",
-    "Name": "Tanque de líquido refrigerante",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build353",
-    "Name": "Bobina de nanocabos",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build354",
-    "Name": "Circuitos reciclados",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build355",
-    "Name": "Reguladores subatômicos",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build356",
-    "Name": "Fragmentos comprimidos de índio",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
-    "Id": "build357",
-    "Name": "Válvulas de IA de nave",
-    "Group": "Subcomponente de nave",
-    "Description": "Uma peça valiosa de uma nave quebrada. Foi criada por um ferro-velho em um posto avançado comercial.\n\nÉ composta por todas as miudezas de uma nave. Você devia vendê-la."
-  },
-  {
     "Id": "build358",
     "Name": "Dispositivo de forma de onda",
     "Group": "Sintetizador de áudio",

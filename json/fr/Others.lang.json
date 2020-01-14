@@ -214,5 +214,53 @@
     "Name": "Itération : visage d'Éos",
     "Group": "Transformation faciale anormale",
     "Description": "Changement de l'apparence de l'exocombinaison exclusif.\n\nCe casque en silicone et matière organique peut détecter et répliquer les mouvements des muscles faciaux de son porteur, créant ainsi l'illusion d'une tête naturelle. Il est entièrement compatible avec la technologie de l'exocombinaison et fournit la même protection qu'un casque classique.\n\nChangez l'apparence de votre exocombinaison avec un modificateur d'apparence."
+  },
+  {
+    "Id": "other38",
+    "Name": "Augmentation de stockage",
+    "Group": "Module d'expansion de vaisseau",
+    "Description": "Module technologique récolté dans les vestiges d'un vaisseau récupéré. Peut être obtenu sur les sites de crash de cargos ou au cours d'expéditions de frégates.\n\n\nPeut être utilisé pour améliorer la capacité de stockage du vaisseau auprès de l'unité d'améliorations de vaisseau dans une station spatiale."
+  },
+  {
+    "Id": "other39",
+    "Name": "Panneaux thermiques",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other40",
+    "Name": "Réservoir à liquide de refroidissement",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other41",
+    "Name": "Bobine de nano-câbles",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other42",
+    "Name": "Circuit recyclé",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other43",
+    "Name": "Régulateurs subatomiques",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other44",
+    "Name": "Extraits d'indium compressés",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
+  },
+  {
+    "Id": "other45",
+    "Name": "IA de soupape de vaisseau",
+    "Group": "Élément secondaire de vaisseau",
+    "Description": "Une pièce de valeur venant d'un vaisseau démantelé, récupérée dans un chantier de récupération et trouvée dans un comptoir commercial.\n\nFabriqué à partir de toutes les pièces en caoutchouc d'un vaisseau. Vous devriez le vendre."
   }
 ]

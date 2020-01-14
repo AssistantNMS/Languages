@@ -214,5 +214,53 @@
     "Name": "Iteración: semblante de Eos",
     "Group": "Transformación facial anómala",
     "Description": "Una exclusiva manipulación de apariencia de exotraje.\n\nEste casco, en parte de silicona y en parte biológico, puede detectar y reproducir los movimientos musculares faciales del portador, simulando la apariencia de una cabeza natural. Es totalmente compatible con la tecnología del exotraje y ofrece la misma protección que un casco tradicional.\n\nTransforma la apariencia de tu exotraje en un modificador de apariencia."
+  },
+  {
+    "Id": "other38",
+    "Name": "Aumento de almacenamiento",
+    "Group": "Módulo de expansión de nave",
+    "Description": "Un módulo de tecnología recuperado de los restos de una nave saqueada. También puede recogerse de lugares de accidentes de cargueros o recuperarse durante expediciones de fragatas.\n\nSe puede usar para ampliar la capacidad de almacenamiento desde la unidad de equipamiento para naves de la estación espacial."
+  },
+  {
+    "Id": "other39",
+    "Name": "Paneles térmicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other40",
+    "Name": "Depósito de refrigerante",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other41",
+    "Name": "Bobina de nanocables",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other42",
+    "Name": "Circuitería reciclada",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other43",
+    "Name": "Reguladores subatómicos",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other44",
+    "Name": "Restos de indio comprimido",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
+  },
+  {
+    "Id": "other45",
+    "Name": "Válvulas de IA de nave",
+    "Group": "Subcomponente de nave",
+    "Description": "Una valiosa pieza de una nave derribada, creada en un desguace de un puesto comercial.\n\nFabricada a partir de todos los chismes de una nave. Deberías venderla."
   }
 ]

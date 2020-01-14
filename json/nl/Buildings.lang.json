@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Opslaguitbreiding",
-    "Group": "Ruimteschip-uitbreidingsmodule",
-    "Description": "Een technologiemodule die afkomstig is uit de restanten van een geborgen ruimteschip. Kan ook worden gevonden op crashlocaties van vrachtschepen of worden geborgen tijdens fregatexpedities.\n\nKan worden gebruikt om de opslagcapaciteit van een ruimteschip te vergroten bij een terminal voor ruimteschipbenodigdheden in een ruimtestation."
-  },
-  {
-    "Id": "build351",
-    "Name": "Thermische panelen",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build352",
-    "Name": "Tank met koelvloeistof",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build353",
-    "Name": "Spoel met nanokabels",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build354",
-    "Name": "Gerecycled printplaat",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build355",
-    "Name": "Subatomische regulators",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build356",
-    "Name": "Gecomprimeerd indiumafval",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
-    "Id": "build357",
-    "Name": "AI-kleppen voor ruimteschepen",
-    "Group": "Onderdeel ruimteschip",
-    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
-  },
-  {
     "Id": "build358",
     "Name": "Golfapparaat",
     "Group": "Geluidssynthesizer",

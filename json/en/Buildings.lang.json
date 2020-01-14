@@ -1818,54 +1818,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Storage Augmentation",
-    "Group": "Starship Expansion Module",
-    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
-  },
-  {
-    "Id": "build351",
-    "Name": "Thermal Panels",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build352",
-    "Name": "Tank of Coolant",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build353",
-    "Name": "Spool of Nano-Cables",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build354",
-    "Name": "Recycled Circuitry",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build355",
-    "Name": "Subatomic Regulators",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build356",
-    "Name": "Compressed Indium Scraps",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
-    "Id": "build357",
-    "Name": "Starship AI Valves",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Salvage Yard at a Trade Outpost.\n\nMade from all the gubbins in a spaceship. You should sell it."
-  },
-  {
     "Id": "build358",
     "Name": "Waveform Device",
     "Group": "Audio Synthesiser",

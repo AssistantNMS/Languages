@@ -38,5 +38,9 @@
     {
         "folder": "EverythingAboutUnits",
         "file": "guide.en"
+    },
+    {
+        "folder": "Economy",
+        "file": "guide.en"
     }
 ]

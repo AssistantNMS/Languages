@@ -1686,54 +1686,6 @@
     "Description": "A coloured light for illuminating a user's base."
   },
   {
-    "Id": "build350",
-    "Name": "Modyfikacja magazynu",
-    "Group": "Moduł rozszerzenia statku gwiezdnego",
-    "Description": "Moduł technologiczny zebrany ze szczątków odzyskanego statku gwiezdnego. Można go też zebrać z wraków frachtowców albo podczas ekspedycji fregat.\n\nMoże zostać użyty, aby rozszerzyć pojemność magazynową statku gwiezdnego u dealera statków gwiezdnych na stacji kosmicznej."
-  },
-  {
-    "Id": "build351",
-    "Name": "Panele termiczne",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build352",
-    "Name": "Zbiornik chłodziwa",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build353",
-    "Name": "Szpula nanokabli",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build354",
-    "Name": "Recyklowane obwody",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build355",
-    "Name": "Regulatory subatomowe",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build356",
-    "Name": "Skompresowane skrawki indu",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
-    "Id": "build357",
-    "Name": "Zawory SI statku gwiezdnego",
-    "Group": "Subkomponent statku gwiezdnego",
-    "Description": "Cenny element zniszczonego statku gwiezdnego, uzyskany na złomowisku na posterunku handlowym.\n\nWykonany z różnych części statku. Sprzedaj go."
-  },
-  {
     "Id": "build358",
     "Name": "Urządzenie kształtu fali",
     "Group": "Syntezator dźwięku",

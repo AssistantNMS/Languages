@@ -214,5 +214,53 @@
     "Name": "Iteração: Semblante de Eos",
     "Group": "Transformação de Rosto Anómala",
     "Description": "Uma exclusiva Substituição da aparência do exofato.\n\nEste capacete, parte silicone, parte biológico, pode detetar e replicar os movimentos dos músculos faciais do seu portador, criando a aparência de uma cabeça natural. É totalmente compatível com a tecnologia de exofato e oferece toda a proteção de um capacete tradicional.\n\nTransforme a aparência do seu Exofato num Modificador de Aparência."
+  },
+  {
+    "Id": "other38",
+    "Name": "Aumento de Armazenamento",
+    "Group": "Módulo de Expansão da Nave Espacial",
+    "Description": "Um módulo de tecnologia recolhido dos restos de uma nave espacial recuperada. Pode ser recolhido de locais de acidentes de cargueiros ou recuperado em expedições de fragatas.\n\nNas Lojas de Naves Espaciais apropriadas, pode ser usado para expandir a capacidade de armazenamento da nave."
+  },
+  {
+    "Id": "other39",
+    "Name": "Painéis Térmicos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other40",
+    "Name": "Tanque Refrigerador",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other41",
+    "Name": "Rolo de Nanocabos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other42",
+    "Name": "Circuitos Reciclados",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other43",
+    "Name": "Reguladores Subatómicos",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other44",
+    "Name": "Sobras de Índio Comprimido",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
+  },
+  {
+    "Id": "other45",
+    "Name": "Válculas AI da Nave",
+    "Group": "Subcomponente da Nave Espacial",
+    "Description": "Uma peça valiosa de uma nave espacial avariada, criada por uma Sucata num Entreposto Comercial.\n\nCriado a partir de todas as bugigangas de uma nave. Devias vendê-la."
   }
 ]
