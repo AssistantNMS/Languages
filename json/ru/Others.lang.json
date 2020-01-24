@@ -1,266 +1,337 @@
 [
   {
     "Id": "other2",
-    "Name": "Планетарная карта",
-    "Group": "Картографические данные",
-    "Description": "Карта близлежащей планеты. На ней отмечены координаты сигнала бедствия.\n\nВыберите карту и используйте Проложить маршрут (FE_ALT1) , чтобы отметить координаты на экране вашего экзокостюма.\n\nДобыть новые карты можно, обмениваясь навигационными данными с картографом на космической станции."
+    "Name": "Planetary Chart",
+    "Group": "Cartographic Data",
+    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
+    "Additional": ""
   },
   {
     "Id": "other3",
-    "Name": "Древний ключ",
-    "Group": "Вечный артефакт",
-    "Description": "Тяжелый ключ из кованого железа. Вероятно, подходит к какому-то замку поблизости..."
+    "Name": "Ancient Key",
+    "Group": "Timeless Artifact",
+    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
+    "Additional": ""
   },
   {
     "Id": "other4",
     "Name": "Ключ-трезубец",
-    "Group": "Водяная реликвия",
-    "Description": "Необычный зубчатый ключ с ультрафиолетовым свечением.\n\nНесмотря на примитивную форму ключа, сканер экзокостюма обнаружил на его зубцах следы нанитной пены."
+    "Group": "Подношение морю",
+    "Description": "Этому сундуку нужен ключ-трезубец, который дается тем, кто изучает загадочные места в глубинах океана."
   },
   {
     "Id": "other5",
-    "Name": "Навигационные данные",
-    "Group": "Зашифрованные навигационные данные",
-    "Description": "Зашифрованные навигационные данные. Это портативный блок данных, содержащий всю важную картографическую информацию о планетарном регионе.\n\nЕго можно купить у картографа на космической станции за ценные звездные карты."
+    "Name": "Navigation Data",
+    "Group": "Encrypted Navigation Data",
+    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
+    "Additional": ""
   },
   {
     "Id": "other6",
-    "Name": "Координаты капсулы",
-    "Group": "Зашифрованные навигационные данные",
-    "Description": "Зашифрованные навигационные данные для ввода в усилитель сигнала.\n\nПри правильной расшифровке сообщат координаты капсулы или улучшений для экзокостюма."
+    "Name": "Drop Pod Coordinate Data",
+    "Group": "Encrypted Navigation Data",
+    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
+    "Additional": ""
   },
   {
     "Id": "other7",
-    "Name": "Ключ шифрования журнала",
-    "Group": "Неполная последовательность",
-    "Description": "Фрагмент программы-дешифратора для аварийного журнала грузового корабля.\n\nЧтобы получить полный доступ ко всем записанным данным, может потребоваться несколько частей последовательности."
+    "Name": "Log Encryption Key",
+    "Group": "Incomplete Data Sequence",
+    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
+    "Additional": ""
   },
   {
     "Id": "other8",
-    "Name": "Защитный маяк",
-    "Group": "Подтверждение договоренности с местными властями",
-    "Description": "Символ того, что в случае столкновения с пиратами, представители местных властей непременно придут к вам на помощь."
+    "Name": "Defence Chit",
+    "Group": "System Authority Payment Substitute",
+    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
+    "Additional": ""
   },
   {
     "Id": "other9",
-    "Name": "Взрыв мозга",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nЕго можно выбрать в быстром меню, чтобы поделиться неподдельным удивлением и радостью с другими исследователями."
+    "Name": "Mind Blown",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other10",
-    "Name": "Празднуем!",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nЕго можно выбрать в быстром меню, чтобы отпраздновать приятный момент с другими исследователями."
+    "Name": "Celebrate!",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other11",
-    "Name": "Ха!",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nЕго можно выбрать в быстром меню, чтобы поделиться веселым настроением с другими исследователями."
+    "Name": "Ha!",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other12",
-    "Name": "Чудо",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nМожет быть выбран в быстром меню. Взгляните на огромные строения, фауну, флору или даже звезды и задумайтесь о незначительности одной жизни во Вселенной."
+    "Name": "Wonder",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
+    "Additional": ""
   },
   {
     "Id": "other13",
-    "Name": "Все в порядке",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nЕго можно выбрать в быстром меню и с помощью него дать понять другим исследователям глубин, что у вас все в порядке."
+    "Name": "No Problem",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
+    "Additional": ""
   },
   {
     "Id": "other14",
-    "Name": "Взгляд вдаль",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nМожет быть выбран в быстром меню. Вглядитесь в горизонт в поисках новых приключений."
+    "Name": "Distant Gaze",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
+    "Additional": ""
   },
   {
     "Id": "other15",
-    "Name": "Героическая поза",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nМожет быть выбран в быстром меню. Встаньте в эффектную позу на фоне заброшенных зданий, высоченных залежей минералов и колоссальных хищников."
+    "Name": "Heroic Pose",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
+    "Additional": ""
   },
   {
     "Id": "other16",
-    "Name": "Неверие",
-    "Group": "Жест (открываемый)",
-    "Description": "Эксклюзивный жест.\nМожет быть выбран в быстром меню. Упадите на колени, отказываясь поверить в увиденные вами чудеса."
+    "Name": "Disbelief",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
+    "Additional": ""
   },
   {
     "Id": "other17",
-    "Name": "Шлем «Пустой горизонт»",
-    "Group": "Шлем (открываемый)",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Sparse Horizon Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other18",
-    "Name": "Шлем «Пламенная орбита»",
-    "Group": "Шлем (открываемый)",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Blazing Orbit Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other19",
-    "Name": "Шлем «Глаз корвакса»",
-    "Group": "Шлем (открываемый)",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Eye of the Korvax Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other20",
-    "Name": "Боевая маска Перворода",
-    "Group": "Шлем (открываемый)",
-    "Description": "Агрессивное изменение внешнего вида экзокостюма, изготовленное в стиле боевых шлемов древних геков.\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "First Spawn Battle Mask",
+    "Group": "Unlockable Helmet",
+    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other21",
-    "Name": "Бронированные наплечники",
-    "Group": "Броня (открываемая)",
-    "Description": "Крепкая наплечная броня для экзокостюма. Оснащена высоковольтными разъемами для подключения к костной системе носителя. Этот ток воздействует на тело носителя, переводя мускулы в оптимальное защитное положение."
+    "Name": "Armoured Shoulderpads",
+    "Group": "Unlockable Armour",
+    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
+    "Additional": ""
   },
   {
     "Id": "other22",
-    "Name": "Бронированный нагрудник",
-    "Group": "Изменение внешнего вида торса (открываемое)",
-    "Description": "Усиленная и одновременно стильная нагрудная броня экзокостюма. Отлично защищает грудь и живот, при этом красиво выглядит."
+    "Name": "Armoured Chestpiece",
+    "Group": "Unlockable Torso Customisation",
+    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
+    "Additional": ""
   },
   {
     "Id": "other23",
-    "Name": "Бронированные экзоперчатки",
-    "Group": "Перчатки (открываемые)",
-    "Description": "Бронированные перчатки, способные впечатлить любителей доспехов. Отлично подходят для использования оружия и выдирания особенно колючих растений."
+    "Name": "Armoured ExoGloves",
+    "Group": "Unlockable Gloves",
+    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
+    "Additional": ""
   },
   {
     "Id": "other24",
-    "Name": "Бронированные штаны",
-    "Group": "Изменение внешнего вида ног (открываемое)",
-    "Description": "Аккуратно сплетенное нановолокно делает эти штаны гибкими и достаточно прочными, чтобы отражать мелкокалиберные пули.\n\nДля стирки требуется особое оборудование."
+    "Name": "Armoured Leggings",
+    "Group": "Unlockable Leg Customisation",
+    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
+    "Additional": ""
   },
   {
     "Id": "other25",
-    "Name": "Бронированные ботинки",
-    "Group": "Ботинки (открываемые)",
-    "Description": "Усиленная система защиты стоп с интегрированными балансирующими гироскопами.\n\nЭти ботинки — результат столетий высокотехнологичных исследований."
+    "Name": "Armoured Boots",
+    "Group": "Unlockable Boots",
+    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
+    "Additional": ""
   },
   {
     "Id": "other26",
-    "Name": "Итерация: облик Ариадны",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Ariadne Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other27",
-    "Name": "Итерация: облик Геминия",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Gemini Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other28",
-    "Name": "Итерация: облик Меркурия",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Mercury Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other29",
-    "Name": "Итерация: облик Крона",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Cronus Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other30",
-    "Name": "Итерация: облик Селены",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Selene Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other31",
-    "Name": "Итерация: облик Гелиоса",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Helios Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other32",
-    "Name": "Итерация: облик Гипериона",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Hyperion Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other33",
-    "Name": "Итерация: облик Тефиды",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Tethys Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other34",
-    "Name": "Итерация: облик Персея",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Perses Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other35",
-    "Name": "Итерация: облик Ареса",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Ares Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other36",
-    "Name": "Итерация: облик Геспера",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Hesperus Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other37",
-    "Name": "Итерация: Облик Эос",
-    "Group": "Аномальная трансформация лица",
-    "Description": "Эксклюзивное изменение внешнего вида экзокостюма.\n\nЭтот частично кремниевый, частично органический шлем может определять и воспроизводить движения мышц лица пользователя, создавая иллюзию живой головы. Полностью совместим с технологией экзокостюма и обеспечивает уровень защиты обычного шлема.\n\nПоменяйте внешний вид экзокостюма в модификаторе внешности."
+    "Name": "Iteration: Eos Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other38",
-    "Name": "Улучшение хранилища",
-    "Group": "Модуль расширения звездолета",
-    "Description": "Технологический модуль, добытый из останков \nзвездолета. Такие можно найти на месте крушения грузового судна или добыть во время экспедиции фрегата.\n\nИх можно использовать, чтобы расширить хранилище звездолета в блоке оснащения звездолета на космической станции."
+    "Name": "Storage Augmentation",
+    "Group": "Starship Expansion Module",
+    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
   },
   {
     "Id": "other39",
-    "Name": "Термопанели",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Thermal Panels",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other40",
-    "Name": "Бак охладителя",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Tank of Coolant",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other41",
-    "Name": "Катушка нанокабелей",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Spool of Nano-Cables",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other42",
-    "Name": "Переработанная схема",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Recycled Circuitry",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other43",
-    "Name": "Субатомные регуляторы",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Subatomic Regulators",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other44",
-    "Name": "Обрезки сжатого индия",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Compressed Indium Scraps",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other45",
-    "Name": "Клапаны ИИ звездолета",
-    "Group": "Подкомпонент звездолета",
-    "Description": "Ценная деталь разобранного звездолета, созданная на станции разборкиторгового аванпоста.\n\nИзготовлена из мусора со звездолета. Вам стоит ее продать."
+    "Name": "Starship AI Valves",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+  },
+  {
+    "Id": "other46",
+    "Name": "Фигурка Аполлона",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия Странника Аполлона из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
+  },
+  {
+    "Id": "other47",
+    "Name": "Фигурка Артемиды",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия Странника Артемиды из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
+  },
+  {
+    "Id": "other48",
+    "Name": "Фигурка Атласа",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия Интерфейса Атласа из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
+  },
+  {
+    "Id": "other49",
+    "Name": "Фигурка Нада",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия сущности-священника Нада из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
+  },
+  {
+    "Id": "other50",
+    "Name": "Фигурка -пусто-",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия Странника -пусто- из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
+  },
+  {
+    "Id": "other51",
+    "Name": "Фигурка поло",
+    "Group": "Внутреннее украшение для звездолета",
+    "Description": "Декоративная копия специалиста Поло из синтетического полимера для кабины вашего звездолета.\n\nПоместите в ячейку инвентаря, чтобы украсить кабину вашего корабля."
   }
 ]

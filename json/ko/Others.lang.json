@@ -1,266 +1,337 @@
 [
   {
     "Id": "other2",
-    "Name": "행성 도표",
-    "Group": "지도 데이터",
-    "Description": "인근 행성의 지도입니다. 조난신호의 좌표가 표시되어 있습니다.\n\n지도를 선택하고 경로 구성 (FE_ALT1)을 사용해 엑소슈트 화면에 위치를 지정하세요.\n\n우주정거장의 지도제작자와 항법 데이터를 교환해 새로운 지도를 획득할 수 있습니다."
+    "Name": "Planetary Chart",
+    "Group": "Cartographic Data",
+    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
+    "Additional": ""
   },
   {
     "Id": "other3",
-    "Name": "고대 열쇠",
-    "Group": "변치 않는 유물",
-    "Description": "무게가 좀 나가는 열쇠입니다. 이 오래된 철 조각은 분명히 근처에 있는 자물쇠에 들어맞을 것입니다..."
+    "Name": "Ancient Key",
+    "Group": "Timeless Artifact",
+    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
+    "Additional": ""
   },
   {
     "Id": "other4",
     "Name": "삼지창 열쇠",
-    "Group": "해양 유물",
-    "Description": "자외선을 발하는 특이한 갈퀴 모양의 열쇠입니다.\n\n원시적인 형태에도 불구하고 엑소슈트 스캔 시스템으로 조사한 결과, 이빨 부분에서 나노로봇 거품의 흔적이 발견됐습니다."
+    "Group": "바다에 바치는 공물",
+    "Description": "깊은 바다 속에 있는 신비한 장소를 연구한 사람에게 주어지는 삼지창 열쇠가 필요한 상자입니다."
   },
   {
     "Id": "other5",
-    "Name": "항법 데이터",
-    "Group": "암호화된 항법 데이터",
-    "Description": "암호화된 항법 데이터입니다. 이 휴대성이 높은 데이터 유닛에는 행성의 지역들에 연관된 모든 지도 정보가 담겨 있습니다.\n\n우주정거장에 머물고 있는 지도제작자와 거래해 사용 가능한 별자리표로 교환할 수도 있습니다."
+    "Name": "Navigation Data",
+    "Group": "Encrypted Navigation Data",
+    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
+    "Additional": ""
   },
   {
     "Id": "other6",
-    "Name": "드롭 포드 좌표 데이터",
-    "Group": "암호화된 항법 데이터",
-    "Description": "신호 부스터에 입력할 수 있는 암호화 항법 데이터입니다.\n\n해독 시 엑소슈트 업그레이드가 있는 드롭 포드의 위치를 제공합니다."
+    "Name": "Drop Pod Coordinate Data",
+    "Group": "Encrypted Navigation Data",
+    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
+    "Additional": ""
   },
   {
     "Id": "other7",
-    "Name": "기록 암호화 키",
-    "Group": "불완전한 데이터 시퀀스",
-    "Description": "화물선 비상 기록의 암호화 오버라이드 시퀀스 조각입니다.\n\n기록된 데이터에 완전히 접근하려면 시퀀스의 여러 부분이 필요할 수도 있습니다."
+    "Name": "Log Encryption Key",
+    "Group": "Incomplete Data Sequence",
+    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
+    "Additional": ""
   },
   {
     "Id": "other8",
-    "Name": "방어 증명",
-    "Group": "성계 당국 납입 내역 대용품",
-    "Description": "이 물건을 소지한 자가 해적의 공격에 맞설 경우, 성계 당국의 지원을 받을 자격이 있다는 것을 나타내는 토큰입니다."
+    "Name": "Defence Chit",
+    "Group": "System Authority Payment Substitute",
+    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
+    "Additional": ""
   },
   {
     "Id": "other9",
-    "Name": "정신적 충격 받음",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 다른 탐험가들과 존재의 경의와 환희의 순간을 나눌 수 있습니다."
+    "Name": "Mind Blown",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other10",
-    "Name": "축하합니다!",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 다른 탐험가들과 축하의 순간을 나눌 수 있습니다."
+    "Name": "Celebrate!",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other11",
-    "Name": "하!",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 다른 탐험가들과 즐거운 순간을 나눌 수 있습니다."
+    "Name": "Ha!",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
+    "Additional": ""
   },
   {
     "Id": "other12",
-    "Name": "경이",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 사용할 수 있습니다. 대형 구조물이나 식물, 동물, 또는 별 자체를 올려다보며 우주 전체와 비교했을 때 하나의 작은 생명이란 얼마나 무의미한 것인지에 경탄합니다."
+    "Name": "Wonder",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
+    "Additional": ""
   },
   {
     "Id": "other13",
-    "Name": "문제 없음",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 수중에서 다른 해양 탐험가들에게 '문제 없음' 신호를 보낼 수 있습니다."
+    "Name": "No Problem",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
+    "Additional": ""
   },
   {
     "Id": "other14",
-    "Name": "먼 산 보기",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 사용할 수 있습니다. 지평선을 바라보며 자신의 다음 모험을 찾습니다."
+    "Name": "Distant Gaze",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
+    "Additional": ""
   },
   {
     "Id": "other15",
-    "Name": "영웅적인 포즈",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 사용할 수 있습니다. 버려진 구조물 및 우뚝 솟은 광물군, 거대한 포식성 생명체의 앞에서 극적인 자세를 취합니다."
+    "Name": "Heroic Pose",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
+    "Additional": ""
   },
   {
     "Id": "other16",
-    "Name": "불신",
-    "Group": "해제 가능한 제스쳐",
-    "Description": "독점 제스처입니다.\n빠른 메뉴에서 선택하여 사용할 수 있습니다. 자신의 눈으로 본 믿기지 않는 광경 앞에 무릎을 꿇고 불신감을 표출합니다."
+    "Name": "Disbelief",
+    "Group": "Unlockable Gesture",
+    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
+    "Additional": ""
   },
   {
     "Id": "other17",
-    "Name": "희소한 호라이즌 헬멧",
-    "Group": "해제 가능한 헬멧",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Sparse Horizon Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other18",
-    "Name": "불타는 궤도 헬멧",
-    "Group": "해제 가능한 헬멧",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Blazing Orbit Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other19",
-    "Name": "코백스의 눈 헬멧",
-    "Group": "해제 가능한 헬멧",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n엑소슈트의 외관을 외모 수정기에서 변형합니다."
+    "Name": "Eye of the Korvax Helmet",
+    "Group": "Unlockable Helmet",
+    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other20",
-    "Name": "퍼스트스폰 전투 마스크",
-    "Group": "해제 가능한 헬멧",
-    "Description": "고대 겍의 전투 헬멧을 본떠서 만든 공격적인 엑소슈트 외관 오버라이드입니다.\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "First Spawn Battle Mask",
+    "Group": "Unlockable Helmet",
+    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other21",
-    "Name": "장갑 어깨 보호대",
-    "Group": "해제 가능한 방어구",
-    "Description": "강력한 어깨 방어구인 이 엑소슈트 증가물은 착용자의 골격계와 고압으로 연결됩니다. 그리고 이 전류는 필요할 경우 사용자의 신체에 자극을 가해 최적의 방어 태세를 갖출 수 있도록 근육을 조절하는 역할을 합니다."
+    "Name": "Armoured Shoulderpads",
+    "Group": "Unlockable Armour",
+    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
+    "Additional": ""
   },
   {
     "Id": "other22",
-    "Name": "장갑 가슴 방어구",
-    "Group": "해제 가능한 몸통 커스텀",
-    "Description": "구조를 강화하면서도 멋을 잃지 않은 이 엑소슈트 가슴 방어구는 착용자의 맵시를 해치지 않으면서도 훌륭한 복부 방호 능력을 제공합니다."
+    "Name": "Armoured Chestpiece",
+    "Group": "Unlockable Torso Customisation",
+    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
+    "Additional": ""
   },
   {
     "Id": "other23",
-    "Name": "장갑 엑소글러브",
-    "Group": "해제 가능한 장갑",
-    "Description": "무기를 들거나, 무술 실력을 자랑하거나, 굉장히 뾰족한 식물을 채취할 때 딱 알맞는 장갑이 입혀진 글러브입니다."
+    "Name": "Armoured ExoGloves",
+    "Group": "Unlockable Gloves",
+    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
+    "Additional": ""
   },
   {
     "Id": "other24",
-    "Name": "장갑 레깅스",
-    "Group": "해제 가능한 다리 커스텀",
-    "Description": "나노섬유를 섬세하게 엮어 만들어, 유연하면서도 소화기 사격에 저항력을 지닌 레깅스입니다.\n\n세탁에 전문적인 장비가 필요하다는 점이 단점입니다."
+    "Name": "Armoured Leggings",
+    "Group": "Unlockable Leg Customisation",
+    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
+    "Additional": ""
   },
   {
     "Id": "other25",
-    "Name": "장갑 신발",
-    "Group": "해제 가능한 신발",
-    "Description": "균형 유지용 자이로스코프가 내장된 강화 발 보호 시스템입니다.\n\n수백년 간의 첨단 기술 연구의 정수가 적용된 신발입니다."
+    "Name": "Armoured Boots",
+    "Group": "Unlockable Boots",
+    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
+    "Additional": ""
   },
   {
     "Id": "other26",
-    "Name": "반복: 아리아드네 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Ariadne Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other27",
-    "Name": "반복: 제미니 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Gemini Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other28",
-    "Name": "반복: 머큐리 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Mercury Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other29",
-    "Name": "반복: 크로누스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Cronus Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other30",
-    "Name": "반복: 셀렌 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Selene Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other31",
-    "Name": "반복: 헬리오스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Helios Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other32",
-    "Name": "반복: 하이페리온 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Hyperion Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other33",
-    "Name": "반복: 테티스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Tethys Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other34",
-    "Name": "반복: 페르세스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Perses Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other35",
-    "Name": "반복: 아레스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Ares Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other36",
-    "Name": "반복: 헤스페루스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Hesperus Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other37",
-    "Name": "반복: 에오스 얼굴",
-    "Group": "변칙적인 얼굴 변형",
-    "Description": "독점 엑소슈트 외관 오버라이드입니다.\n\n실리콘과 생물학적 특성을 혼합한 이 헬멧은 착용자의 안면 근육 움직임을 감지하고 복사하여 자연스러운 머리 모양을 만들 수 있습니다. 엑소슈트 기술과 완전히 호환되며 기존 헬멧의 모든 보호 수준을 제공합니다.\n\n엑소슈트의 외관을 외모 수정기에 따라 변형합니다."
+    "Name": "Iteration: Eos Visage",
+    "Group": "Anomalous Face Transformation",
+    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
+    "Additional": ""
   },
   {
     "Id": "other38",
-    "Name": "보관소 증강물",
-    "Group": "함선 확장 모듈",
-    "Description": "노획 함선의 잔해에서 얻은 기술 모듈입니다. 화물선 추락 지점에서 얻거나, 호위함 원정 도중에 노획할 수도 있습니다.\n\n우주정거장의 함선 장비점에서 함선의 비축 용량을 확장하는 데 사용할 수 있습니다."
+    "Name": "Storage Augmentation",
+    "Group": "Starship Expansion Module",
+    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
   },
   {
     "Id": "other39",
-    "Name": "열전도판",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Thermal Panels",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other40",
-    "Name": "냉각제 탱크",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Tank of Coolant",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other41",
-    "Name": "나노케이블 타래",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Spool of Nano-Cables",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other42",
-    "Name": "재활용 회로",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Recycled Circuitry",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other43",
-    "Name": "아원자 조절기",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Subatomic Regulators",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other44",
-    "Name": "압축 인듐 조각",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Compressed Indium Scraps",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
   },
   {
     "Id": "other45",
-    "Name": "함선 AI 밸브",
-    "Group": "함선 보조 부품",
-    "Description": "무역 전초기지의 폐선장에서 만들어지는 망가진 함선의 값진 부품입니다.\n\n함선의 온갖 잡동사니로 만듭니다. 판매하는 게 좋습니다."
+    "Name": "Starship AI Valves",
+    "Group": "Starship Subcomponent",
+    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+  },
+  {
+    "Id": "other46",
+    "Name": "아폴로 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "여행자 아폴로의 외모를 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
+  },
+  {
+    "Id": "other47",
+    "Name": "아르테미스 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "여행자 아르테미스의 외모를 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
+  },
+  {
+    "Id": "other48",
+    "Name": "아틀라스 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "아틀라스 인터페이스의 모습을 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
+  },
+  {
+    "Id": "other49",
+    "Name": "나다 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "사제 엔티티인 나다의 외모를 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
+  },
+  {
+    "Id": "other50",
+    "Name": "-널- 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "여행자 -널-의 외모를 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
+  },
+  {
+    "Id": "other51",
+    "Name": "폴로 조각상",
+    "Group": "함선 내부 장식품",
+    "Description": "전문가 폴로의 외모를 본 따서 만들어진 함선 조종석용 합성고분자 재질의 장식품입니다.\n\n인벤토리 슬롯에 설치해 함선 내부를 장식합니다."
   }
 ]
