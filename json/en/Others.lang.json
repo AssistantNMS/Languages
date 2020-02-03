@@ -16,8 +16,8 @@
   {
     "Id": "other4",
     "Name": "Trident Key",
-    "Group": "Offering to the Sea",
-    "Description": "The chest requires a Trident Key, given to those who study the mysterious sites in the deep ocean.",
+    "Group": "Aquatic Relic",
+    "Description": "A strange forked key, glowing with an ultraviolet light.\n\nDespite its primitive appearance, Exosuit scanning systems reveal traces of nanite foam upon its teeth.",
     "Additional": ""
   },
   {

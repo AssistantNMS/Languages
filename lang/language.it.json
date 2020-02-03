@@ -92,6 +92,11 @@
   "guides": "Guide",
   "minutes": "min",
   "itemName": "Item Name",
+  "type": "Type",
+  "group": "Group",
+  "rarity": "Rarity",
+  "minValue": "Min Value",
+  "maxValue": "Max Value",
   "upgradeModule": "Upgrade Module",
   "homeUseCompactTiles": "Home: Use Compact Tiles",
   "settings": "Settings",
@@ -166,5 +171,9 @@
   "somethingWentWrong": "Something went wrong",
   "researchProgress": "Research Progress",
   "communityLinks": "Community Links",
+  "social": "Social",
+  "shareContent": "I'm using the Assistant for No Man's Sky App! Available on Google Play and iOS App Store #NoMansSky #NMSAssistant #AssistantForNMS #Android #IOS",
+  "shareTitle": "Assistant for No Man's Sky App!",
+  "share": "Share",
   "translatedBy": "Andrea Bodini & Loky"
 }

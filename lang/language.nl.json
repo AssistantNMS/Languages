@@ -103,6 +103,7 @@
   "appLanguage": "Huidige taal",
   "guidesUseCompactTiles": "Gidsen: gebruik compacte tegels",
   "darkModeEnabled": "donkere modus",
+  "tradeItems": "Trade Items",
   "tradeItem": "Trade Item",
   "clear": "verwijderen",
   "searchOptions": "zoek opties",
@@ -170,5 +171,9 @@
   "somethingWentWrong": "Something went wrong",
   "researchProgress": "Research Progress",
   "communityLinks": "Community Links",
+  "social": "Social",
+  "shareContent": "I'm using the Assistant for No Man's Sky App! Available on Google Play and iOS App Store #NoMansSky #NMSAssistant #AssistantForNMS #Android #IOS",
+  "shareTitle": "Assistant for No Man's Sky App!",
+  "share": "Share",
   "translatedBy": "Arnold van Ree"
 }

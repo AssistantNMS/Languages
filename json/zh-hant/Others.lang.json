@@ -1,302 +1,267 @@
 [
   {
     "Id": "other2",
-    "Name": "Planetary Chart",
-    "Group": "Cartographic Data",
-    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
-    "Additional": ""
+    "Name": "星系圖",
+    "Group": "地圖資料",
+    "Description": "附近行星的地圖，已標記一處求救訊號的座標。\n\n選取地圖後，使用規劃路徑功能（FE_ALT1）即可在你的強化套裝顯示器中釘選該地點。\n\n與太空站中的地圖學家交換導航資料，即可獲得新星系圖。"
   },
   {
     "Id": "other3",
-    "Name": "Ancient Key",
-    "Group": "Timeless Artifact",
-    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
-    "Additional": ""
+    "Name": "古老鑰匙",
+    "Group": "歷久彌新的器物",
+    "Description": "頗有重量的鑰匙。鍛鐵製成的老舊鑰匙，肯定能打開附近的鎖......"
   },
   {
     "Id": "other4",
     "Name": "三叉鑰匙",
-    "Group": "深海獻祭",
-    "Description": "寶箱需要三叉鑰匙方能開啟。研究深海中的神祕遺址方可獲得鑰匙。"
+    "Group": "水中遺物",
+    "Description": "分叉的古怪鑰匙，閃耀著紫外線。\n\n外型看起來古拙，不過強化套裝的掃瞄系統發現齒孔上有微量的奈米泡沫。"
   },
   {
     "Id": "other5",
-    "Name": "Navigation Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
-    "Additional": ""
+    "Name": "導航資料",
+    "Group": "加密導航資料",
+    "Description": "加密的導航資料。這款攜帶方便的資料裝置存有與星球區域相關的所有地圖資訊。\n\n也許能在太空站跟地圖學家交換可用星圖。"
   },
   {
     "Id": "other6",
-    "Name": "Drop Pod Coordinate Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
-    "Additional": ""
+    "Name": "空投艙座標資料",
+    "Group": "加密導航資料",
+    "Description": "用於訊號強化器的加密導航資訊。\n\n若正確解密，將顯示空投艙位置或強化套裝升級地點。"
   },
   {
     "Id": "other7",
-    "Name": "Log Encryption Key",
-    "Group": "Incomplete Data Sequence",
-    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
-    "Additional": ""
+    "Name": "日誌加密金鑰",
+    "Group": "未完成的資料程序",
+    "Description": "貨船緊急日誌的加密覆寫程序片段。\n\n若要取得紀錄資料的完整存取權限可能需要此程序中的許多部份。"
   },
   {
     "Id": "other8",
-    "Name": "Defence Chit",
-    "Group": "System Authority Payment Substitute",
-    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
-    "Additional": ""
+    "Name": "防衛信函",
+    "Group": "系統當局付費替代品",
+    "Description": "一個象徵，賦予持有者系統當局的支持來對付海盜攻擊。"
   },
   {
     "Id": "other9",
-    "Name": "Mind Blown",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
-    "Additional": ""
+    "Name": "大開眼界",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊的手勢。\n可以在快速選單中選擇這個手勢，和其他探險家分享存在的驚奇與喜悅。"
   },
   {
     "Id": "other10",
-    "Name": "Celebrate!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
-    "Additional": ""
+    "Name": "慶祝！",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊的手勢。\n可以在快速選單中選擇這個手勢，和其他探險家分享歡慶時光。"
   },
   {
     "Id": "other11",
-    "Name": "Ha!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
-    "Additional": ""
+    "Name": "哈！",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊的手勢。\n可以在快速選單中選擇這個手勢，和其他探險家分享趣味的心情。"
   },
   {
     "Id": "other12",
-    "Name": "Wonder",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
-    "Additional": ""
+    "Name": "驚嘆",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊的手勢。\n可以在快速選單中選擇這個手勢，抬頭望向大型結構、動物、植物或群星，讚嘆微小生命在整個宇宙裡是多麼微不足道。"
   },
   {
     "Id": "other13",
-    "Name": "No Problem",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
-    "Additional": ""
+    "Name": "沒問題",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊手勢。\n可在水中從快捷選單選取，對其他水中探險家示意「沒問題」。"
   },
   {
     "Id": "other14",
-    "Name": "Distant Gaze",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
-    "Additional": ""
+    "Name": "遠望",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊手勢。\n可從快捷選單選取，望向地平線，找尋下一場冒險。"
   },
   {
     "Id": "other15",
-    "Name": "Heroic Pose",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
-    "Additional": ""
+    "Name": "英姿",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊手勢。\n可從快捷選單選取，不論是在廢棄建築、高聳礦石和巨型獵食性生物前都能擺出這誇張的姿勢。"
   },
   {
     "Id": "other16",
-    "Name": "Disbelief",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
-    "Additional": ""
+    "Name": "不可置信",
+    "Group": "可解鎖的手勢",
+    "Description": "特殊手勢。\n可從快捷選單選取，雙膝跪下，不敢相信眼前的奇景。"
   },
   {
     "Id": "other17",
-    "Name": "Sparse Horizon Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "寂寥地平線頭盔",
+    "Group": "可解鎖的頭盔",
+    "Description": "特殊的強化套裝外觀覆寫。\n在外觀改造器裡變更你的強化套裝外觀。"
   },
   {
     "Id": "other18",
-    "Name": "Blazing Orbit Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "炙烈軌道頭盔",
+    "Group": "可解鎖的頭盔",
+    "Description": "特殊的強化套裝外觀覆寫。\n能在外觀改造器改變你強化套裝的外觀。"
   },
   {
     "Id": "other19",
-    "Name": "Eye of the Korvax Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "科瓦族之眼頭盔",
+    "Group": "可解鎖的頭盔",
+    "Description": "特殊的強化套裝外觀覆寫。\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other20",
-    "Name": "First Spawn Battle Mask",
-    "Group": "Unlockable Helmet",
-    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "第一世代戰鬥面罩",
+    "Group": "可解鎖的頭盔",
+    "Description": "外觀兇猛的強化套裝外觀覆寫，根據古老吉客族的戰鬥頭盔設計。\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other21",
-    "Name": "Armoured Shoulderpads",
-    "Group": "Unlockable Armour",
-    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
-    "Additional": ""
+    "Name": "裝甲墊肩",
+    "Group": "可解鎖的裝甲",
+    "Description": "此強大肩甲為強化套裝的改良配件，能以高電壓與使用者的骨骼系統連結。此電流能依需求振動使用者的身體，操縱肌肉達到最佳防備姿勢。"
   },
   {
     "Id": "other22",
-    "Name": "Armoured Chestpiece",
-    "Group": "Unlockable Torso Customisation",
-    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
-    "Additional": ""
+    "Name": "胸甲",
+    "Group": "可解鎖的客製化軀幹",
+    "Description": "此強化套裝的胸甲改良後仍不減時髦，能提供優良的腹部防護，又不失風采。"
   },
   {
     "Id": "other23",
-    "Name": "Armoured ExoGloves",
-    "Group": "Unlockable Gloves",
-    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
-    "Additional": ""
+    "Name": "裝甲強化手套",
+    "Group": "可解鎖的手套",
+    "Description": "裝甲手套，適合用來揮動武器，使尚武文化刮目相看，還可摘取多刺植物。"
   },
   {
     "Id": "other24",
-    "Name": "Armoured Leggings",
-    "Group": "Unlockable Leg Customisation",
-    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
-    "Additional": ""
+    "Name": "裝甲綁腿",
+    "Group": "可解鎖的客製化腿部",
+    "Description": "此綁腿採用精細編織的奈米纖維，不僅彈性十足，還能抵抗小型武器的火力。\n\n須使用專用配備清洗。"
   },
   {
     "Id": "other25",
-    "Name": "Armoured Boots",
-    "Group": "Unlockable Boots",
-    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
-    "Additional": ""
+    "Name": "裝甲靴",
+    "Group": "可解鎖的靴子",
+    "Description": "足部強化防護系統，內建步伐平衡陀螺儀。\n\n將數百年的高科技研究應用在鞋具中。"
   },
   {
     "Id": "other26",
-    "Name": "Iteration: Ariadne Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：阿里阿德涅外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other27",
-    "Name": "Iteration: Gemini Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：傑米奈外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other28",
-    "Name": "Iteration: Mercury Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：墨丘利外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other29",
-    "Name": "Iteration: Cronus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：克洛諾斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other30",
-    "Name": "Iteration: Selene Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：塞勒涅外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other31",
-    "Name": "Iteration: Helios Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：赫利奧斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other32",
-    "Name": "Iteration: Hyperion Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：許柏里翁外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other33",
-    "Name": "Iteration: Tethys Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：忒堤斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other34",
-    "Name": "Iteration: Perses Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：珀耳塞斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other35",
-    "Name": "Iteration: Ares Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：阿瑞斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other36",
-    "Name": "Iteration: Hesperus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：赫斯珀洛斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other37",
-    "Name": "Iteration: Eos Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "迭代：伊厄斯外觀",
+    "Group": "異常臉部變化",
+    "Description": "特殊的強化套裝外觀覆寫。\n\n這半矽半生物的頭盔能偵測並複製穿戴者臉部肌肉的移動，做出頭部的自然外觀。與強化套裝科技完全相容，能提供傳統頭盔的所有防護。\n\n能在外觀改造器改變強化套裝的外觀。"
   },
   {
     "Id": "other38",
-    "Name": "Storage Augmentation",
-    "Group": "Starship Expansion Module",
-    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
+    "Name": "倉儲擴充",
+    "Group": "太空船擴充模組",
+    "Description": "從一艘回收的太空船收集的科技模組。可以從貨船墜機地點收集，或在巡防艦探勘中回收。\n\n可在太空站的太空船改造站中，將其用於擴充太空船倉儲空間。"
   },
   {
     "Id": "other39",
-    "Name": "Thermal Panels",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "溫度板",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other40",
-    "Name": "Tank of Coolant",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "一槽冷卻劑",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other41",
-    "Name": "Spool of Nano-Cables",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "一卷奈米線材",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other42",
-    "Name": "Recycled Circuitry",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "回收電路",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other43",
-    "Name": "Subatomic Regulators",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "亞原子調節器",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other44",
-    "Name": "Compressed Indium Scraps",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "壓縮銦廢料",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other45",
-    "Name": "Starship AI Valves",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "太空船 AI 閥",
+    "Group": "太空船子元件",
+    "Description": "壞掉太空船的珍貴元件，由貿易基地的回收場製造。\n\n這是由太空船的所有雜物打造，你應該賣掉。"
   },
   {
     "Id": "other46",

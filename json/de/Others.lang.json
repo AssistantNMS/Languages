@@ -1,302 +1,267 @@
 [
   {
     "Id": "other2",
-    "Name": "Planetary Chart",
-    "Group": "Cartographic Data",
-    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
-    "Additional": ""
+    "Name": "Planetenkarte",
+    "Group": "Kartografische Daten",
+    "Description": "Eine Karte von einem Planeten in der Nähe. Es wurden Koordinaten markiert, von denen ein Notsignal ausgeht.\n\nWähle die Karte aus und nutze „Route planen“ (FE_ALT1), um den Ort in der Anzeige deines Exo-Anzugs einzustellen.\n\nNeue Karten erhält man, indem man Navigationsdaten mit einem Raumstation-Kartografen austauscht."
   },
   {
     "Id": "other3",
-    "Name": "Ancient Key",
-    "Group": "Timeless Artifact",
-    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
-    "Additional": ""
+    "Name": "Uralter Schlüssel",
+    "Group": "Zeitloses Artefakt",
+    "Description": "Ein schwerer Schlüssel aus altem Schmiedeeisen, der in ein Schloss in der Nähe passen muss ..."
   },
   {
     "Id": "other4",
     "Name": "Dreizackschlüssel",
-    "Group": "Darbringung an das Meer",
-    "Description": "Die Truhe erfordert einen Dreizackschlüssel, den jene erhalten, die die mysteriösen Orte in den Tiefen des Ozeans studieren."
+    "Group": "Wasserrelikt",
+    "Description": "Ein seltsamer, gezackter Schlüssel, der in einem ultravioletten Licht leuchtet.\n\nTrotz seines primitiven Aussehens offenbaren die Scansysteme des Exo-Anzugs auf seinen Zacken Spuren von Nanit-Schaum."
   },
   {
     "Id": "other5",
-    "Name": "Navigation Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
-    "Additional": ""
+    "Name": "Navigationsdaten",
+    "Group": "Verschlüsselte Navigationsdaten",
+    "Description": "Verschlüsselte Navigationsdaten. Diese tragbare Dateneinheit enthält alle relevanten kartografischen Informationen einer planetaren Region.\n\nKann mit einem Kartografen an Bord einer Raumstation im Austausch für brauchbare Sternenkarten gehandelt werden."
   },
   {
     "Id": "other6",
-    "Name": "Drop Pod Coordinate Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
-    "Additional": ""
+    "Name": "Absprungkapsel-Koordinatendaten",
+    "Group": "Verschlüsselte Navigationsdaten",
+    "Description": "Verschlüsselte Navigationsdaten zur Eingabe in einen Signalbooster.\n\nKorrekt entschlüsselt wird die Position einer Absprungkapsel mit Exo-Anzug-Upgrades enthüllt."
   },
   {
     "Id": "other7",
-    "Name": "Log Encryption Key",
-    "Group": "Incomplete Data Sequence",
-    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
-    "Additional": ""
+    "Name": "Protokoll-Entschlüsselungscode",
+    "Group": "Unvollständige Datensequenz",
+    "Description": "Ein Teil der Entschlüsselungssequenz für das Notfallprotokoll eines Frachters.\n\nWahrscheinlich bedarf es mehrerer Teile dieser Sequenz, um vollen Zugriff auf die aufgezeichneten Daten zu erhalten."
   },
   {
     "Id": "other8",
-    "Name": "Defence Chit",
-    "Group": "System Authority Payment Substitute",
-    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
-    "Additional": ""
+    "Name": "Verteidigungsbeleg",
+    "Group": "Systembehörden-Zahlungsersatz",
+    "Description": "Ein Zeichen, das dem Träger Unterstützung der Behörden des Systems im Kampf gegen Piratenangriffe gewährt."
   },
   {
     "Id": "other9",
-    "Name": "Mind Blown",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
-    "Additional": ""
+    "Name": "Total verblüfft",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um Momente existenzieller Verwunderung und Freude mit anderen Entdeckern zu teilen."
   },
   {
     "Id": "other10",
-    "Name": "Celebrate!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
-    "Additional": ""
+    "Name": "Feiern!",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um feierliche Momente mit anderen Entdeckern zu teilen."
   },
   {
     "Id": "other11",
     "Name": "Ha!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
-    "Additional": ""
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden, um amüsante Momente mit anderen Entdeckern zu teilen."
   },
   {
     "Id": "other12",
-    "Name": "Wonder",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
-    "Additional": ""
+    "Name": "Erstaunen",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Blicke zu riesigen Strukturen, Lebewesen, Pflanzen oder sogar den Sternen auf und denke über die Bedeutungslosigkeit eines einzelnen Lebens im Vergleich zum großen Universum nach."
   },
   {
     "Id": "other13",
-    "Name": "No Problem",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
-    "Additional": ""
+    "Name": "Kein Problem",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann unter Wasser im Schnellmenü ausgewählt werden, um anderen Unterwassererkundern das Signal „Kein Problem“ zu zeigen."
   },
   {
     "Id": "other14",
-    "Name": "Distant Gaze",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
-    "Additional": ""
+    "Name": "Abwesender Blick",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Schaue zum Horizont und suche nach deinem nächsten Abenteuer."
   },
   {
     "Id": "other15",
-    "Name": "Heroic Pose",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
-    "Additional": ""
+    "Name": "Heroische Pose",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Nimm vor verlassenen Strukturen, gewaltigen Mineralformationen und riesigen räuberischen Lebensformen eine dramatische Pose ein."
   },
   {
     "Id": "other16",
-    "Name": "Disbelief",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
-    "Additional": ""
+    "Name": "Ungläubigkeit",
+    "Group": "Freischaltbare Geste",
+    "Description": "Eine exklusive Geste.\nDies kann im Schnellmenü ausgewählt werden. Falle vor den Wundern, die du gesehen hast, ungläubig auf die Knie."
   },
   {
     "Id": "other17",
-    "Name": "Sparse Horizon Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "„Spärlicher Horizont“-Helm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other18",
-    "Name": "Blazing Orbit Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Lodernder Orbithelm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other19",
-    "Name": "Eye of the Korvax Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "„Auge der Korvax“-Helm",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other20",
-    "Name": "First Spawn Battle Mask",
-    "Group": "Unlockable Helmet",
-    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Erstgebrüteter-Kampfmaske",
+    "Group": "Freischaltbarer Helm",
+    "Description": "Eine aggressive Exo-Anzug-Aussehenüberschreibung, die auf den Kriegshelmen der alten Gek basiert.\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other21",
-    "Name": "Armoured Shoulderpads",
-    "Group": "Unlockable Armour",
-    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
-    "Additional": ""
+    "Name": "Gepanzerte Schulterplatten",
+    "Group": "Freischaltbare Panzerung",
+    "Description": "Diese mächtige Schulterpanzerung ist eine Exo-Anzug-Verstärkung, die Hochspannungsverbindungen zum Skelettsystem des Trägers herstellt. Der Strom stimuliert den Körper des Nutzers nach Bedarf, damit seine Muskeln eine optimale Verteidigungsposition einnehmen."
   },
   {
     "Id": "other22",
-    "Name": "Armoured Chestpiece",
-    "Group": "Unlockable Torso Customisation",
-    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
-    "Additional": ""
+    "Name": "Gepanzerte Brustrüstung",
+    "Group": "Freischaltbare Torso-Anpassung",
+    "Description": "Diese verstärkte und doch stilvolle Exo-Anzug-Brustpanzerung bietet exzellenten Schutz für die Körpermitte, ohne Abstriche beim Aussehen zu machen."
   },
   {
     "Id": "other23",
-    "Name": "Armoured ExoGloves",
-    "Group": "Unlockable Gloves",
-    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
-    "Additional": ""
+    "Name": "Gepanzerte Exo-Handschuhe",
+    "Group": "Freischaltbare Handschuhe",
+    "Description": "Diese gepanzerten Handschuhe eignen sich perfekt zum Tragen von Waffen, zum Beeindrucken von Kriegerkulturen und zum Abpflücken von sehr dornigen Pflanzen."
   },
   {
     "Id": "other24",
-    "Name": "Armoured Leggings",
-    "Group": "Unlockable Leg Customisation",
-    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
-    "Additional": ""
+    "Name": "Gepanzerte Gamaschen",
+    "Group": "Freischaltbare Bein-Anpassung",
+    "Description": "Sorgfältig gewobene Nanofasern machen diese Beinlinge sowohl flexibel als auch resistent gegen kleine Feuerwaffen.\n\nZum Reinigen wird eine spezielle Ausrüstung benötigt."
   },
   {
     "Id": "other25",
-    "Name": "Armoured Boots",
-    "Group": "Unlockable Boots",
-    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
-    "Additional": ""
+    "Name": "Gepanzerte Stiefel",
+    "Group": "Freischaltbare Stiefel",
+    "Description": "Verstärktes Fußschutzsystem mit integrierten Schrittbalance-Gyroskopen.\n\nIn diesem Schuhwerk stecken Jahrhunderte an Hightech-Forschung."
   },
   {
     "Id": "other26",
-    "Name": "Iteration: Ariadne Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Ariadne-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other27",
-    "Name": "Iteration: Gemini Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Gemini-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other28",
-    "Name": "Iteration: Mercury Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Merkur-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other29",
-    "Name": "Iteration: Cronus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Kronos-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other30",
-    "Name": "Iteration: Selene Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Selene-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other31",
-    "Name": "Iteration: Helios Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Helios-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other32",
-    "Name": "Iteration: Hyperion Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Hyperion-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other33",
-    "Name": "Iteration: Tethys Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Tethys-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other34",
-    "Name": "Iteration: Perses Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Perses-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other35",
-    "Name": "Iteration: Ares Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Ares-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other36",
-    "Name": "Iteration: Hesperus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Hesperos-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other37",
-    "Name": "Iteration: Eos Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteration: Eos-Gesicht",
+    "Group": "Anormale Gesichtsveränderung",
+    "Description": "Eine exklusive Exo-Anzug-Aussehenüberschreibung.\n\nDieser halb aus Silikon, halb aus biologischem Material gefertigte Helm kann die Bewegung der Gesichtsmuskulatur seines Trägers erkennen und reproduzieren. Er erzeugt dadurch das Aussehen eines normalen Kopfes. Er ist vollständig kompatibel mit der Exo-Anzug-Technologie und bietet denselben Schutz eines herkömmlichen Helms.\n\nÄndere das Aussehen deines Exo-Anzugs an einem Aussehenmodifikator."
   },
   {
     "Id": "other38",
-    "Name": "Storage Augmentation",
-    "Group": "Starship Expansion Module",
-    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
+    "Name": "Lagererweiterung",
+    "Group": "Raumschiff-Erweiterungsmodul",
+    "Description": "Ein Technologiemodul, das aus den Überresten eines geretteten Raumschiffs geborgen wurde. Kann auch an Frachter-Absturzstellen gesammelt oder während Fregattenexpeditionen geborgen werden.\n\nMan kann damit bei der Raumschiffausstattung einer Raumstation die Lagerkapazität des Raumschiffs erweitern."
   },
   {
     "Id": "other39",
-    "Name": "Thermal Panels",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Thermalmodule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other40",
-    "Name": "Tank of Coolant",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Kühlmitteltank",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other41",
-    "Name": "Spool of Nano-Cables",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Nanokabel-Spule",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other42",
-    "Name": "Recycled Circuitry",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Wiederverwerter Schaltkreis",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other43",
-    "Name": "Subatomic Regulators",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Subatomare Regler",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other44",
-    "Name": "Compressed Indium Scraps",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Verdichtete Indiumreste",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other45",
-    "Name": "Starship AI Valves",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Raumschiff-KI-Ventile",
+    "Group": "Raumschiff-Unterkomponente",
+    "Description": "Ein wertvolles Teil aus einem kaputten Raumschiff, das von einem Schrottplatz in einem Handelsaußenposten stammt.\n\nAus dem ganzen Zeug in einem Raumschiff hergestellt. Du solltest es verkaufen."
   },
   {
     "Id": "other46",

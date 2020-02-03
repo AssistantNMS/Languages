@@ -1,302 +1,267 @@
 [
   {
     "Id": "other2",
-    "Name": "Planetary Chart",
-    "Group": "Cartographic Data",
-    "Description": "A map of a nearby planet. The coordinates of a distress signal have been marked.\n\nSelect the map and use Plot Route (FE_ALT1) to pin the location in your Exosuit display.\n\nNew maps can be gained by exchanging Navigation Data with a Space Station Cartographer.",
-    "Additional": ""
+    "Name": "Planetaire kaart",
+    "Group": "Cartografische gegevens",
+    "Description": "Een kaart van een planeet in de buurt. De coördinaten van een noodsignaal zijn gemarkeerd.\n\nSelecteer de kaart en gebruik 'Route bepalen' (FE_ALT1) om de locatie weer te geven op het display van je exopak.\n\nJe kunt nieuwe kaarten verkrijgen door navigatiegegevens uit te wisselen met een cartograaf in een ruimtestation."
   },
   {
     "Id": "other3",
-    "Name": "Ancient Key",
-    "Group": "Timeless Artifact",
-    "Description": "A key of some weight, this aged piece of wrought iron must belong in a nearby lock...",
-    "Additional": ""
+    "Name": "Oude sleutel",
+    "Group": "Tijdloos artefact",
+    "Description": "Een vrij zware, verwrongen sleutel van ijzer uit lang vervlogen tijden. Er moet hier ergens een slot zijn..."
   },
   {
     "Id": "other4",
     "Name": "Drietandsleutel",
-    "Group": "Offer aan de zee",
-    "Description": "Voor deze kist heb je een drietandsleutel nodig. Deze vind je door de diepten van de oceaan te bestuderen."
+    "Group": "Aquatisch relikwie",
+    "Description": "Een vreemde, gevorkte sleutel die ultraviolet licht afgeeft.\n\nZiet er primitief uit, maar de scanners van het exopak geven aan dat er sporen van naniethoudend schuim op de tanden zitten."
   },
   {
     "Id": "other5",
-    "Name": "Navigation Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data. This highly portable data unit contains all relevant cartographical information for a planetary region.\n\nMay be traded with a Cartographer aboard a Space Station in exchange for usable star charts.",
-    "Additional": ""
+    "Name": "Navigatiegegevens",
+    "Group": "Versleutelde navigatiegegevens",
+    "Description": "Versleutelde navigatiegegevens. Deze zeer mobiele gegevens-unit bevat alle relevante cartografische informatie over een planetaire regio.\n\nKan worden geruild bij een cartograaf aan boord van een ruimtestation voor bruikbare sterrenkaarten."
   },
   {
     "Id": "other6",
-    "Name": "Drop Pod Coordinate Data",
-    "Group": "Encrypted Navigation Data",
-    "Description": "Encoded navigation data for input into a Signal Booster.\n\nWhen properly decrypted, will reveal the location of a Drop Pod containing Exosuit Upgrades.",
-    "Additional": ""
+    "Name": "Noodcapsule coördinaatgegevens",
+    "Group": "Versleutelde navigatiegegevens",
+    "Description": "Versleutelde navigatiegegevens die kunnen worden ingevoerd in een signaalversterker.\n\nNa ontcijfering onthullen ze de locatie van een noodcapsule met exopak-upgrades."
   },
   {
     "Id": "other7",
-    "Name": "Log Encryption Key",
-    "Group": "Incomplete Data Sequence",
-    "Description": "A fragment of the encryption override sequence for a freighter's emergency log.\n\nSeveral parts of the sequence may be required to gain full access to recorded data.",
-    "Additional": ""
+    "Name": "Encryptiecode logboek",
+    "Group": "Onvolledige gegevenssequentie",
+    "Description": "Een fragment van de sequentie voor het overschrijven van de encryptie voor het noodlogboek van een vrachtschip.\n\nEr kunnen meerdere delen van de sequentie nodig zijn om volledig toegang te krijgen tot de vastgelegde gegevens."
   },
   {
     "Id": "other8",
-    "Name": "Defence Chit",
-    "Group": "System Authority Payment Substitute",
-    "Description": "A token, entitling the bearer to support from the system authorities in dealing with pirate attacks.",
-    "Additional": ""
+    "Name": "Verdedigingscoupon",
+    "Group": "Betaalmiddel voor lokale overheid",
+    "Description": "Een coupon die de eigenaar recht geeft op de steun van de lokale autoriteiten bij aanvallen door piraten."
   },
   {
     "Id": "other9",
-    "Name": "Mind Blown",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of existential wonder and delight with other explorers.",
-    "Additional": ""
+    "Name": "Verbluft",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu om momenten van existentiële verwondering en opwinding te delen met andere verkenners."
   },
   {
     "Id": "other10",
-    "Name": "Celebrate!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of celebration with other explorers.",
-    "Additional": ""
+    "Name": "Feest!",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu om feestelijke momenten te delen met andere verkenners."
   },
   {
     "Id": "other11",
     "Name": "Ha!",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu to share moments of amusement with other explorers.",
-    "Additional": ""
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu om amusante momenten te delen met andere verkenners."
   },
   {
     "Id": "other12",
-    "Name": "Wonder",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Gaze up to large structures, fauna, flora, or the stars themselves, and marvel at the insignificance of one small life in all the universe.",
-    "Additional": ""
+    "Name": "Verwondering",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu. Staar verwonderd naar grote constructies, fauna, flora of de sterren zelf en sta stil bij de onbeduidendheid van één kleine levensvorm in dat grote universum."
   },
   {
     "Id": "other13",
-    "Name": "No Problem",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu while underwater to signal 'no problem' to other aquatic explorers.",
-    "Additional": ""
+    "Name": "Geen probleem",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu terwijl je onder water bent om 'geen probleem' te gebaren naar andere onderwaterverkenners."
   },
   {
     "Id": "other14",
-    "Name": "Distant Gaze",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Look to the horizon and search for your next adventure.",
-    "Additional": ""
+    "Name": "Staren in de verte",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu. Tuur naar de horizon, op zoek naar je volgende avontuur."
   },
   {
     "Id": "other15",
-    "Name": "Heroic Pose",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Strike a dramatic pose in front of abandoned structures, towering mineral formations, and colossal predatory lifeforms.",
-    "Additional": ""
+    "Name": "Heroïsche pose",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu. Neem een heldhaftige pose aan voor een verlaten gebouw, gigantische mineraalformaties en kolossale roofdieren."
   },
   {
     "Id": "other16",
-    "Name": "Disbelief",
-    "Group": "Unlockable Gesture",
-    "Description": "An exclusive gesture.\nThis can be selected from the Quick Menu. Fall to your knees in disbelief at the wonders you have seen.",
-    "Additional": ""
+    "Name": "Verbluft",
+    "Group": "Ontgrendelbaar gebaar",
+    "Description": "Een exclusief gebaar.\nSelecteer het in het snelmenu. Val op je knieën, verbluft over alle wonderen die je hebt aanschouwd."
   },
   {
     "Id": "other17",
-    "Name": "Sparse Horizon Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Helm 'Vage horizon'",
+    "Group": "Ontgrendelbare helm",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other18",
-    "Name": "Blazing Orbit Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Helm 'vlammende baan'",
+    "Group": "Ontgrendelbare helm",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other19",
-    "Name": "Eye of the Korvax Helmet",
-    "Group": "Unlockable Helmet",
-    "Description": "An exclusive Exosuit Appearance Override.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Oog van de Korvax-helm",
+    "Group": "Ontgrendelbare helm",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other20",
-    "Name": "First Spawn Battle Mask",
-    "Group": "Unlockable Helmet",
-    "Description": "An aggressive Exosuit Appearance Override, modeled on the war helmets of the ancient Gek.\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Strijdmasker van de Eerstgeborenen",
+    "Group": "Ontgrendelbare helm",
+    "Description": "Een agressieve uiterlijke aanpassing van het exopak, gemodelleerd naar de oorlogshelmen van de oude Gek.\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other21",
-    "Name": "Armoured Shoulderpads",
-    "Group": "Unlockable Armour",
-    "Description": "Powerful shoulder armour, this Exosuit augmentation comes with high-voltage connections into the user's skeletal system. This current jolts the user's body as required, manipulating the muscles into their optimal defensive posture.",
-    "Additional": ""
+    "Name": "Bepantserde schouderplaten",
+    "Group": "Ontgrendelbaar pantser",
+    "Description": "Deze sterke exopakbepantsering voor je schouders bevat aansluitingen met een hoog voltage die verbinding maken met je skelet. De stroomstoten zorgen ervoor dat je lichaam zoals vereist beweegt, zodat de spieren de optimale defensieve houding aannemen."
   },
   {
     "Id": "other22",
-    "Name": "Armoured Chestpiece",
-    "Group": "Unlockable Torso Customisation",
-    "Description": "Reinforced yet stylish, this Exosuit chest armour provides excellent abdominal protection without compromising on looks.",
-    "Additional": ""
+    "Name": "Bepantserd borststuk",
+    "Group": "Ontgrendelbare lichaamsaanpassing",
+    "Description": "Dit versterkte maar stijlvolle borstpantser voor het exopak biedt uitstekende bescherming en ziet er toch cool uit."
   },
   {
     "Id": "other23",
-    "Name": "Armoured ExoGloves",
-    "Group": "Unlockable Gloves",
-    "Description": "Armoured gloves, perfect for wielding weapons, impressing martial cultures, and picking really spiky plants.",
-    "Additional": ""
+    "Name": "Bepantserde exohandschoenen",
+    "Group": "Ontgrendelbare handschoenen",
+    "Description": "Bepantserde handschoenen. Ideaal voor het hanteren van wapens, het uitdagen van vijanden en het plukken van planten met scherpe doorns."
   },
   {
     "Id": "other24",
-    "Name": "Armoured Leggings",
-    "Group": "Unlockable Leg Customisation",
-    "Description": "Carefully woven nano-fibres make these leggings both flexible and resistant to small-arms fire.\n\nWashing requires specialist equipment.",
-    "Additional": ""
+    "Name": "Bepantserde leggings",
+    "Group": "Ontgrendelbare beenaanpassing",
+    "Description": "Deze met nanovezels geweven leggings zijn flexibel en bieden bescherming tegen laagkaliberwapens.\n\nVoor het wassen is gespecialiseerde apparatuur vereist."
   },
   {
     "Id": "other25",
-    "Name": "Armoured Boots",
-    "Group": "Unlockable Boots",
-    "Description": "Reinforced foot protection system with integrated tread-balancing gyroscopes.\n\nHundreds of years of high-tech research, as applied to footwear.",
-    "Additional": ""
+    "Name": "Bepantserde laarzen",
+    "Group": "Ontgrendelbare laarzen",
+    "Description": "Een verstevigd voetbeschermingssysteem met geïntegreerde gyroscopische tredbalansapparatuur.\n\nHonderden jaren aan hightechonderzoek komen tot uiting in dit schoeisel."
   },
   {
     "Id": "other26",
-    "Name": "Iteration: Ariadne Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Ariadne-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other27",
-    "Name": "Iteration: Gemini Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Gemini-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other28",
-    "Name": "Iteration: Mercury Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Mercury-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other29",
-    "Name": "Iteration: Cronus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Cronus-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other30",
-    "Name": "Iteration: Selene Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Selene-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other31",
-    "Name": "Iteration: Helios Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Helios-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other32",
-    "Name": "Iteration: Hyperion Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Hyperion-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other33",
-    "Name": "Iteration: Tethys Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Tethys-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other34",
-    "Name": "Iteration: Perses Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Perses-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other35",
-    "Name": "Iteration: Ares Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Ares-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other36",
-    "Name": "Iteration: Hesperus Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Hesperus-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other37",
-    "Name": "Iteration: Eos Visage",
-    "Group": "Anomalous Face Transformation",
-    "Description": "An exclusive Exosuit Appearance Override.\n\nThis part silicone, part biological helmet can detect and replicate the facial muscle movements of the wearer, creating the appearance of a natural head. It is fully compatible with exosuit technology and provides all protection of a traditional helmet.\n\nTransform the appearance of your Exosuit at an Appearance Modifier.",
-    "Additional": ""
+    "Name": "Iteratie: Eos-aangezicht",
+    "Group": "Abnormale gezichtstransformatie",
+    "Description": "Een exclusieve uiterlijke aanpassing van het exopak.\n\nDeze helm is deels van siliconen gemaakt en deels biologisch. Hij kan de bewegingen van de gezichtsspieren van de drager detecteren en reproduceren, waardoor de helm het uiterlijk van een natuurlijk hoofd krijgt. Hij is volledig compatibel met exopaktechnologie en is net zo veilig als een traditionele helm.\n\nVerander het uiterlijk van je exopak bij een gedaantemodulator."
   },
   {
     "Id": "other38",
-    "Name": "Storage Augmentation",
-    "Group": "Starship Expansion Module",
-    "Description": "A technology module harvested from the remains of a salvaged starship. May also be collected from freighter crash sites or salvaged during frigate expeditions.\n\nCan be used to expand starship storage capacity at the Space Station's Starship Outfitter."
+    "Name": "Opslaguitbreiding",
+    "Group": "Ruimteschip-uitbreidingsmodule",
+    "Description": "Een technologiemodule die afkomstig is uit de restanten van een geborgen ruimteschip. Kan ook worden gevonden op crashlocaties van vrachtschepen of worden geborgen tijdens fregatexpedities.\n\nKan worden gebruikt om de opslagcapaciteit van een ruimteschip te vergroten bij een terminal voor ruimteschipbenodigdheden in een ruimtestation."
   },
   {
     "Id": "other39",
-    "Name": "Thermal Panels",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Thermische panelen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other40",
-    "Name": "Tank of Coolant",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Tank met koelvloeistof",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other41",
-    "Name": "Spool of Nano-Cables",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Spoel met nanokabels",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other42",
-    "Name": "Recycled Circuitry",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Gerecycled printplaat",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other43",
-    "Name": "Subatomic Regulators",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Subatomische regulators",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other44",
-    "Name": "Compressed Indium Scraps",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "Gecomprimeerd indiumafval",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other45",
-    "Name": "Starship AI Valves",
-    "Group": "Starship Subcomponent",
-    "Description": "A valuable piece of broken down starship, created by a Starship Outfitting Terminal at a Space Station.\n\nComponent is useful only as scrap to be sold at a Trade Terminal."
+    "Name": "AI-kleppen voor ruimteschepen",
+    "Group": "Onderdeel ruimteschip",
+    "Description": "Een waardevol deel van een defect ruimteschip, gemaakt door een sloperij bij een handelsbuitenpost.\n\nGemaakt van rommel in een ruimteschip. Je zou het kunnen verkopen."
   },
   {
     "Id": "other46",

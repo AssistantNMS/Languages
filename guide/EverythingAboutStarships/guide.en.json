@@ -1,4 +1,5 @@
 {
+	"guid": "c9f0085c-4777-481c-965e-75d1d4feaa8d",
 	"title": "Everything about starships",
 	"shortTitle": "Starship guide",
 	"author": "Sphynxcolt",
@@ -87,7 +88,7 @@
 			]
 		},
 		{
-			"heading": "5.Upgade your starship inventory",
+			"heading": "4.Upgade your starship inventory",
 			"items": [
 				{
 					"type": "text",
