@@ -175,5 +175,11 @@
   "shareContent": "I'm using the Assistant for No Man's Sky App! Available on Google Play and iOS App Store #NoMansSky #NMSAssistant #AssistantForNMS #Android #IOS",
   "shareTitle": "Assistant for No Man's Sky App!",
   "share": "Share",
+  "feedback": "Feedback",
+  "yes": "Yes",
+  "no": "No",
+  "submit": "Submit",
+  "feedbackNotSubmitted": "Feedback was not submitted",
+  "feedbackSubmitted": "Feedback Submitted",
   "translatedBy": "Paul Olaru"
 }
