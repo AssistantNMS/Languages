@@ -24,7 +24,7 @@
   "kurtsBlog": "Blog Kurta",
   "donation": "Wpłata ",
   "donationDescrip": "Wszystkie treści tej apki są dostępne od razu dla każdego, bez dodatkowych płatności. Niestety prowadzenie takiego przedsięwzięcia jak i strony  www, wymaga funduszy. Dlatego wszelkie wpłaty będą mile widziane.\nJeśli podoba Ci się to co robię, daj znać i oceń apkę w sklepie Play lub w Appstore.\nWpłaty również mile widziane 👍",
-  "noticeContent": "Wesołych Świąt! Mam nadzieję, że miło spędzisz czas w te Święta! \nSpecjalne podziękowania dla Sphynxcolt za stworzenie świątecznych ikon dla aplikacji, a także za stworzenie podręczników i pomoc przy lokalizacji",
+  "noticeContent": "Szczęśliwych walentynek! Mam nadzieję, że Twój dzień jest pełen miłości z każdego zakątka wszystkich galaktyk! Specjalne podziękowania dla NMS_GalacticCorporate za tworzenie kart walentynkowych związanych z NMS!",
   "noticeAccept": "Zatwierdź",
   "buyMeACoffee": "Postaw mi Kawę ",
   "patreon": "Patreon",
@@ -182,6 +182,8 @@
   "feedbackNotSubmitted": "Feedback was not submitted",
   "feedbackSubmitted": "Feedback Submitted",
   "noticeReject": "Don't show again",
-  "valentines": "Valentines Day",
+  "valentines": "Valentine's Day",
+  "viewItemsAdded": "View items added",
+  "newItemsAdded": "New Items Added",
   "translatedBy": "Tlumaczenia:"
 }

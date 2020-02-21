@@ -24,7 +24,7 @@
   "kurtsBlog": "Blogul lui Kurt",
   "donation": "Donație",
   "donationDescrip": "Toate opțiunile din aplicație sunt disponibile, nu există niciun PayWall. Însă există costuri asociate creării de aplicații și pentru hosting, deci donațiile mă pot ajuta. Dacă îți place această aplicație dă-mi un review în Play/App Store și donează dacă poți",
-  "noticeContent": "Sărbători fericite! Sper că te-ai distrat în timpul sezonului festiv! Mulțumiri speciale pentru Sphynxcolt că a dedicat timp spre a crea icon-uri festive pentru aplicații, cât și pentru a crea ghiduri și ajutorul oferit în traducerea itemilor în aplicații!",
+  "noticeContent": "Ziua Indragostitilor fericita! Sper ca ziua ta să fie plină de dragoste din toate colțurile tuturor galaxiilor! Mulțumiri speciale NMS_GalacticCorporate pentru crearea de carduri de Ziua Îndrăgostiților legate de NMS!",
   "noticeAccept": "Acceptă",
   "buyMeACoffee": "Cumpără-mi o cafea",
   "patreon": "Patreon",
@@ -182,6 +182,8 @@
   "feedbackNotSubmitted": "Feedback was not submitted",
   "feedbackSubmitted": "Feedback Submitted",
   "noticeReject": "Don't show again",
-  "valentines": "Valentines Day",
+  "valentines": "Valentine's Day",
+  "viewItemsAdded": "View items added",
+  "newItemsAdded": "New Items Added",
   "translatedBy": "Paul Olaru"
 }

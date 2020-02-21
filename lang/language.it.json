@@ -24,7 +24,7 @@
   "kurtsBlog": "Blog di Kurt",
   "donation": "Donazione",
   "donationDescrip": "Tutte le funzionalita' dell'app sono disponibili senza alcun pagamento. Tuttavia sviluppare l'app e mantenere un sito comporta dei costi: le donazioni aiutano molto. Se ti piace quest'app lascia una recensione per favore e fa' una donazione, se puoi. Se non puoi, nessun problema 😋",
-  "noticeContent": "Buone vacanze! Spero che si stanno avendo un grande momento durante la stagione di festa! Un grazie speciale a Sphynxcolt per prendere il tempo per creare festive le icone delle Applicazioni, così come la creazione di Guide e di contribuire a tradurre gli articoli in App!",
+  "noticeContent": "Buon San Valentino! Spero che la tua giornata sia piena d'amore da ogni angolo di tutte le Galassie! Un ringraziamento speciale a NMS_GalacticCorporate per aver creato le carte di San Valentino relative agli NMS!",
   "noticeAccept": "Accetta",
   "buyMeACoffee": "Offrimi un caffe'",
   "patreon": "Patreon",
@@ -182,6 +182,8 @@
   "feedbackNotSubmitted": "Feedback was not submitted",
   "feedbackSubmitted": "Feedback Submitted",
   "noticeReject": "Don't show again",
-  "valentines": "Valentines Day",
+  "valentines": "Valentine's Day",
+  "viewItemsAdded": "View items added",
+  "newItemsAdded": "New Items Added",
   "translatedBy": "Andrea Bodini & Loky"
 }

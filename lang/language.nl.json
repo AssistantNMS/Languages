@@ -24,7 +24,7 @@
   "kurtsBlog": "Kurt's Blog",
   "donation": "Donatie",
   "donationDescrip": "Alle functies van de app zijn beschikbaar voor jou er is geen Betaalmuur. Er zijn echter wel kosten verbonden aan het maken van de app en het hosten van de websites dus donaties zijn van harte welkom. Als de app je goed bevalt geef me dan aub een review in de Play/App Store en geef een donatie indien mogelijk. Kun je geen bijdrage geven hoef je daar niet van wakker te liggen. ;-)",
-  "noticeContent": "Fijne feestdagen! Hoop dat je een geweldige tijd tijdens de feestelijke seizoen! Speciale dank aan Sphynxcolt voor het nemen van de tijd voor het maken van feestelijke pictogrammen van Apps, alsmede het creëren van Gidsen en helpen bij het vertalen van artikelen in de Apps!",
+  "noticeContent": "Fijne Valentijnsdag! Ik hoop dat je dag vol liefde is vanuit elke hoek van alle sterrenstelsels! Speciale dank aan de NMS_GalacticCorporate voor het maken van NMS-gerelateerde Valentijnsdagkaarten!",
   "noticeAccept": "Accepteer",
   "buyMeACoffee": "Koop een bakje koffie voor me!",
   "patreon": "Patreon",
@@ -172,7 +172,7 @@
   "researchProgress": "Vooruitgang onderzoek",
   "communityLinks": "Community Links",
   "social": "Social",
-  "shareContent": "Ik gebruik de Assistant for No Man's Sky-app!  Beschikbaar in Google Play en iOS App Store! #NoMansSky #NMSAssistant #AssistantForNMS #Android #IOS",
+  "shareContent": "Ik gebruik de Assistant for No Man's Sky-app! Beschikbaar in Google Play en iOS App Store! #NoMansSky #NMSAssistant #AssistantForNMS #Android #IOS",
   "shareTitle": "Assistent voor No Man's Sky-app!",
   "share": "delen",
   "feedback": "Feedback",
@@ -182,6 +182,8 @@
   "feedbackNotSubmitted": "Feedback is niet verzonden",
   "feedbackSubmitted": "Feedback verzonden",
   "noticeReject": "Don't show again",
-  "valentines": "Valentines Day",
+  "valentines": "Valentine's Day",
+  "viewItemsAdded": "View items added",
+  "newItemsAdded": "New Items Added",
   "translatedBy": "Arnold van Ree & Sphynxcolt"
 }
