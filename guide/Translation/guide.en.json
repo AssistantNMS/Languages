@@ -1,9 +1,10 @@
 {
-	"guid": "b9bbfe61-280a684e-37fb-25049be1bc86",
+	"guid": "b9bbfe61-280a-684e-37fb-25049be1bc86",
 	"title": "How to help translating",
 	"shortTitle": "Translating",
 	"author": "Sphynxcolt",
 	"minutes": 0,
+	"isNew": true,
 	"date": "2020-02-11T16:56:05.446Z",
 	"image": "assets/guide/Translation/guide.png",
 	"tags": [
@@ -95,7 +96,7 @@
 				{
 					"type": "link",
 					"name": "The dev's mail",
-					"content": "nms@kurtlourens.com"
+					"content": "support@nmsassistant.com"
 				}
 			]
 		},

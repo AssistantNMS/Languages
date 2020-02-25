@@ -28,5 +28,10 @@
         "name": "NMS Social",
         "icon": "nmsSocial.png",
         "link": "https://nomanssky.social/AssistantNMS"
+    },
+    {
+        "name": "Trello Roadmap",
+        "icon": "trello.png",
+        "link": "https://trello.com/b/zbnaIiVF/assistant-for-nms-public"
     }
 ]
