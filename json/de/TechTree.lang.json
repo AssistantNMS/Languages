@@ -1,0 +1,3595 @@
+[
+  {
+    "Id": "tree1",
+    "Name": "Grundkonstruktion",
+    "Trees": [
+      {
+        "Name": "Unterschlüpfe aus Holz",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Holzwand",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Holzbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glasplatte mit Holzrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Holzrampe",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halbe Holzrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Kleine Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Holzdreieck",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleines Holzdreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dünne Holzwand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Schräge Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine Holzwand",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Kurze Holzwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Holztürrahmen",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Holzfenster",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Holzfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Holztür",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine Holztür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Elektrische Holztür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Holzdach",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Holzdachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Holzdach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Dachinneneckteil aus Holz",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Holzbogen",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halber Holzbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Metall",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metallwand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metallbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glasplatte mit Metallrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metallrampe",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halbe Metallrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Kleine Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalldreieck",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleines Metalldreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Dünne Metallwand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Schräge Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine Metallwand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Kurze Metallwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalltürrahmen",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metallfenster",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metallfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalltür",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine Metalltür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Elektrische Metalltür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalldach",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalldachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalldach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Dachinneneckteil aus Metall",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metallbogen",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halber Metallbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Beton",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonwand",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glasplatte mit Betonrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonrampe",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halbe Betonrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Kleine Betonbodenplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betondreieck",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleines Betondreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dünne Betonwand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Schräge Betonplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine Betonwand",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Kurze Betonwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betontürrahmen",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonfenster",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betontür",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine Betontür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Elektrische Betontür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betondach",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betondachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betondach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Dachinneneckteil aus Beton",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonbogen",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halber Betonbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Zentrale Wohntechnologie",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Basisteleporter-Modul",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biotreibstoff-Reaktor",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Elektrische Verkabelung",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Batterie",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Solarmodul",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Gesundheitsstation",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Gefahrenschutz-Einheit",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Signalbooster",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Speichersignal",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree2",
+    "Name": "Unerlässliche Technologie",
+    "Trees": [
+      {
+        "Name": "Zentrale Wohntechnologie",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Basisteleporter-Modul",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biotreibstoff-Reaktor",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Elektrische Verkabelung",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Batterie",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Solarmodul",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Gesundheitsstation",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Gefahrenschutz-Einheit",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Signalbooster",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Speichersignal",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Holz",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Holzwand",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Holzbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glasplatte mit Holzrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Holzrampe",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halbe Holzrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Kleine Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Holzdreieck",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleines Holzdreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dünne Holzwand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Schräge Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine Holzwand",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Kurze Holzwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Holztürrahmen",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Holzfenster",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Holzfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Holztür",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine Holztür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Elektrische Holztür",
+                    "Children": [
+                      {
+                        "Id": "build323",
+                        "Title": "Große elektrische Holztür",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Holzdach",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Holzdachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Holzdach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Dachinneneckteil aus Holz",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Holzbogen",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halber Holzbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Metall",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metallwand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metallbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glasplatte mit Metallrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metallrampe",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halbe Metallrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Kleine Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalldreieck",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleines Metalldreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Dünne Metallwand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Schräge Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine Metallwand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Kurze Metallwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalltürrahmen",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metallfenster",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metallfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalltür",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine Metalltür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Elektrische Metalltür",
+                    "Children": [
+                      {
+                        "Id": "build327",
+                        "Title": "Große elektrische Metalltür",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalldach",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalldachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalldach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Dachinneneckteil aus Metall",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metallbogen",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halber Metallbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Beton",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonwand",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glasplatte mit Betonrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonrampe",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halbe Betonrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Kleine Betonbodenplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betondreieck",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleines Betondreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dünne Betonwand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Schräge Betonplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine Betonwand",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Kurze Betonwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betontürrahmen",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonfenster",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betontür",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine Betontür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Elektrische Betontür",
+                    "Children": [
+                      {
+                        "Id": "build331",
+                        "Title": "Große elektrische Betontür",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betondach",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betondachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betondach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Dachinneneckteil aus Beton",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonbogen",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halber Betonbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree3",
+    "Name": "Konstruktionsmodule",
+    "Trees": [
+      {
+        "Name": "Große Vorfertigungen",
+        "Children": [
+          {
+            "Id": "build65",
+            "Title": "Zylindrischer Raum",
+            "Children": [
+              {
+                "Id": "build66",
+                "Title": "Quadratischer Raum",
+                "Children": [
+                  {
+                    "Id": "build88",
+                    "Title": "Fundament",
+                    "Children": [
+                      {
+                        "Id": "build91",
+                        "Title": "Pflasterung",
+                        "Children": [
+                          {
+                            "Id": "build160",
+                            "Title": "Pflasterung",
+                            "Children": []
+                          },
+                          {
+                            "Id": "build86",
+                            "Title": "Pflasterung",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build204",
+                        "Title": "Viererfundamentstrebe",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build205",
+                        "Title": "Fundamentstrebe",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build89",
+                        "Title": "Zylindrischer Raumrahmen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build67",
+                "Title": "Gerader Korridor",
+                "Children": [
+                  {
+                    "Id": "build68",
+                    "Title": "L-förmiger Korridor",
+                    "Children": [
+                      {
+                        "Id": "build69",
+                        "Title": "T-förmiger Korridor",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build70",
+                        "Title": "X-förmiger Korridor",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build72",
+                    "Title": "Korridor mit Glasdach",
+                    "Children": [
+                      {
+                        "Id": "build94",
+                        "Title": "Fenster",
+                        "Children": [
+                          {
+                            "Id": "build95",
+                            "Title": "Großes Glaspaneel",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build74",
+                        "Title": "Bio-Kuppelraum",
+                        "Children": [
+                          {
+                            "Id": "build73",
+                            "Title": "Aussichtskugel",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build71",
+                        "Title": "Gebogener Korridor",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build84",
+                "Title": "Tür",
+                "Children": [
+                  {
+                    "Id": "build207",
+                    "Title": "Holo-Tür",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build85",
+                    "Title": "Zugangsrampe",
+                    "Children": [
+                      {
+                        "Id": "build215",
+                        "Title": "Leiter",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Kleine Vorfertigungen",
+        "Children": [
+          {
+            "Id": "build75",
+            "Title": "Würfelförmiger Raum",
+            "Children": [
+              {
+                "Id": "build93",
+                "Title": "Würfelraum – Fundamentstrebe",
+                "Children": [
+                  {
+                    "Id": "build90",
+                    "Title": "Würfelförmiger Raumrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build83",
+                    "Title": "Würfelförmiger Raum – Boden",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build92",
+                    "Title": "Würfelraum – Viererfundamentstrebe",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build78",
+                "Title": "Gewölbte, würfelförmige Wand",
+                "Children": [
+                  {
+                    "Id": "build80",
+                    "Title": "Innentreppen",
+                    "Children": [
+                      {
+                        "Id": "build87",
+                        "Title": "Infrastruktur-Leiter",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build82",
+                    "Title": "Würfelförmige Innenwand",
+                    "Children": [
+                      {
+                        "Id": "build81",
+                        "Title": "Würfelförmige Innentür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build206",
+                    "Title": "Würfelförmiger Dachaufsatz",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build77",
+                "Title": "Würfelförmiger Glasraum",
+                "Children": [
+                  {
+                    "Id": "build79",
+                    "Title": "Gewölbtes, würfelförmiges Dach",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build96",
+                    "Title": "Fenster",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build97",
+                    "Title": "Fenster",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Technologiemodule",
+        "Children": [
+          {
+            "Id": "conTech6",
+            "Title": "Speichersignal",
+            "Children": [
+              {
+                "Id": "conTech3",
+                "Title": "Terminal des galaktischen Marktes",
+                "Children": []
+              },
+              {
+                "Id": "conTech20",
+                "Title": "Nachrichtenmodul",
+                "Children": [
+                  {
+                    "Id": "conTech21",
+                    "Title": "Kommunikationsstation",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech4",
+                "Title": "Gesundheitsstation",
+                "Children": [
+                  {
+                    "Id": "conTech5",
+                    "Title": "Gefahrenschutz-Einheit",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech10",
+                "Title": "Basisteleporter-Modul",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech16",
+                    "Title": "Aussehenmodifikator",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech2",
+                    "Title": "Landefeld",
+                    "Children": [
+                      {
+                        "Id": "conTech62",
+                        "Title": "Kurzstrecken-Teleporter",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech54",
+                        "Title": "Teleportkabel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech13",
+                    "Title": "Tragbare Raffinerie",
+                    "Children": [
+                      {
+                        "Id": "conTech14",
+                        "Title": "Mittlere Raffinerie",
+                        "Children": [
+                          {
+                            "Id": "conTech15",
+                            "Title": "Große Raffinerie",
+                            "Children": []
+                          },
+                          {
+                            "Id": "conTech9",
+                            "Title": "Antimateriereaktor",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "conTech17",
+                "Title": "Nährstoffprozessor",
+                "Children": [
+                  {
+                    "Id": "conTech19",
+                    "Title": "Nutztiereinheit",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech18",
+                    "Title": "Automatischer Fütterer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build181",
+                "Title": "Lichtbox",
+                "Children": [
+                  {
+                    "Id": "build359",
+                    "Title": "Leuchtboden",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech43",
+                    "Title": "Geräuschbox",
+                    "Children": [
+                      {
+                        "Id": "build361",
+                        "Title": "ByteBeat-Kabel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build360",
+                        "Title": "Bytebeat-Gerät",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build362",
+                        "Title": "Bytebeat-Schaltung",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech42",
+                    "Title": "Kugelerzeuger",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Transportmodule",
+        "Children": [
+          {
+            "Id": "conTech23",
+            "Title": "Roamer-Geobucht",
+            "Children": [
+              {
+                "Id": "conTech27",
+                "Title": "Exo-Fahrzeug-Rufstation",
+                "Children": [
+                  {
+                    "Id": "build395",
+                    "Title": "Orbitaler Exo-Fahrzeug-Materialisierer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech22",
+                "Title": "Nomaden-Geobucht",
+                "Children": []
+              },
+              {
+                "Id": "conTech63",
+                "Title": "Minotaurus-Geobucht",
+                "Children": []
+              },
+              {
+                "Id": "conTech26",
+                "Title": "Nautilon-Kammer",
+                "Children": []
+              },
+              {
+                "Id": "conTech25",
+                "Title": "Pilger-Geobucht",
+                "Children": []
+              },
+              {
+                "Id": "conTech24",
+                "Title": "Koloss-Geobucht",
+                "Children": []
+              },
+              {
+                "Id": "conTech40",
+                "Title": "Renninitiator",
+                "Children": [
+                  {
+                    "Id": "conTech39",
+                    "Title": "Rennhindernis",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech38",
+                    "Title": "Rennkraftverstärker",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Wasser-Konstruktion",
+        "Children": [
+          {
+            "Id": "build172",
+            "Title": "Tiefseekammer",
+            "Children": [
+              {
+                "Id": "conTech41",
+                "Title": "Meeresunterschlupf",
+                "Children": []
+              },
+              {
+                "Id": "build176",
+                "Title": "Glastunnel",
+                "Children": [
+                  {
+                    "Id": "build95",
+                    "Title": "Großes Glaspaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build177",
+                    "Title": "L-förmiger Glastunnel",
+                    "Children": [
+                      {
+                        "Id": "build178",
+                        "Title": "T-förmiger Glastunnel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build179",
+                        "Title": "X-förmiger Glastunnel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build180",
+                    "Title": "Vertikaler Glastunnel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build173",
+                "Title": "Quadratische Tiefseekammer",
+                "Children": []
+              },
+              {
+                "Id": "build175",
+                "Title": "Wasserdichte Tür",
+                "Children": [
+                  {
+                    "Id": "build174",
+                    "Title": "Mondteichboden",
+                    "Children": [
+                      {
+                        "Id": "conTech26",
+                        "Title": "Nautilon-Kammer",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Motiv-Designs",
+        "Children": [
+          {
+            "Id": "build270",
+            "Title": "Motiv",
+            "Children": [
+              {
+                "Id": "build270",
+                "Title": "Motiv",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Motiv",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Motiv",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Motiv",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Motiv",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Motiv",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Dekorative Module",
+        "Children": [
+          {
+            "Id": "build244",
+            "Title": "Wandbildschirm",
+            "Children": [
+              {
+                "Id": "build243",
+                "Title": "Wandventilator",
+                "Children": [
+                  {
+                    "Id": "build227",
+                    "Title": "Wandeinheit",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build229",
+                    "Title": "Lagermodul",
+                    "Children": [
+                      {
+                        "Id": "build249",
+                        "Title": "Flaches Modul",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build233",
+                        "Title": "Seitenmodul",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build159",
+                        "Title": "Regalmodul",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build251",
+                "Title": "Grüner Wandbildschirm",
+                "Children": [
+                  {
+                    "Id": "build246",
+                    "Title": "Deckenpaneel",
+                    "Children": [
+                      {
+                        "Id": "build248",
+                        "Title": "Roboterarm",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build242",
+                    "Title": "Tech-Bedienfeld",
+                    "Children": [
+                      {
+                        "Id": "build152",
+                        "Title": "Waffenregal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build228",
+                "Title": "Schubladenschrank",
+                "Children": [
+                  {
+                    "Id": "build245",
+                    "Title": "Server",
+                    "Children": [
+                      {
+                        "Id": "build250",
+                        "Title": "Oszilloskop",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build247",
+                    "Title": "Kanisterregal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build151",
+                    "Title": "Kleine Kiste",
+                    "Children": [
+                      {
+                        "Id": "build230",
+                        "Title": "Achteck-Schrank",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build146",
+                        "Title": "Fassförmiger Fabrikator",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build232",
+                    "Title": "Schließfach",
+                    "Children": [
+                      {
+                        "Id": "build231",
+                        "Title": "Hoher Schrank",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build150",
+                    "Title": "Verschlossene Kiste",
+                    "Children": [
+                      {
+                        "Id": "build147",
+                        "Title": "Kistenförmiger Fabrikator",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Dekorative Module",
+        "Children": [
+          {
+            "Id": "build153",
+            "Title": "Stuhl",
+            "Children": [
+              {
+                "Id": "build154",
+                "Title": "Stuhl",
+                "Children": [
+                  {
+                    "Id": "build157",
+                    "Title": "Bett",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build155",
+                    "Title": "Stuhl",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build219",
+                    "Title": "Sofa",
+                    "Children": [
+                      {
+                        "Id": "build221",
+                        "Title": "Ergonomisches Sofa",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build220",
+                        "Title": "Ecksofa",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build235",
+                "Title": "Flagge 1",
+                "Children": [
+                  {
+                    "Id": "build236",
+                    "Title": "Flagge 2",
+                    "Children": [
+                      {
+                        "Id": "build237",
+                        "Title": "Flagge 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build238",
+                        "Title": "Flagge 4",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build239",
+                    "Title": "Wandflagge 1",
+                    "Children": [
+                      {
+                        "Id": "build241",
+                        "Title": "Wandflagge 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build240",
+                        "Title": "Wandflagge 2",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build156",
+                "Title": "Tisch",
+                "Children": [
+                  {
+                    "Id": "build156",
+                    "Title": "Tisch",
+                    "Children": [
+                      {
+                        "Id": "build234",
+                        "Title": "Bodenmatte",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build223",
+                    "Title": "Einfacher Schreibtisch",
+                    "Children": [
+                      {
+                        "Id": "build222",
+                        "Title": "Große Monitorstation",
+                        "Children": [
+                          {
+                            "Id": "build158",
+                            "Title": "Leichter Tisch",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build224",
+                        "Title": "Gewölbter Tisch",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build225",
+                        "Title": "Monitorstation",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build226",
+                        "Title": "Arbeitsplatte",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Beleuchtung",
+        "Children": [
+          {
+            "Id": "build336",
+            "Title": "Licht",
+            "Children": [
+              {
+                "Id": "build213",
+                "Title": "Weiße Leuchte",
+                "Children": [
+                  {
+                    "Id": "build344",
+                    "Title": "Blaue Leuchte",
+                    "Children": [
+                      {
+                        "Id": "build346",
+                        "Title": "Gelbe Leuchte",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build347",
+                        "Title": "Grüne Leuchte",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build348",
+                    "Title": "Rote Leuchte",
+                    "Children": [
+                      {
+                        "Id": "build345",
+                        "Title": "Pinke Leuchte",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build336",
+                "Title": "Licht",
+                "Children": [
+                  {
+                    "Id": "build336",
+                    "Title": "Licht",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build336",
+                    "Title": "Licht",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build214",
+                    "Title": "Deckenleuchte",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build182",
+                "Title": "Laborlampe",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Industriemodule",
+        "Children": [
+          {
+            "Id": "conTech53",
+            "Title": "Elektrische Verkabelung",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biotreibstoff-Reaktor",
+                "Children": [
+                  {
+                    "Id": "build396",
+                    "Title": "Elektrische Tarneinheit",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech50",
+                    "Title": "Solarmodul",
+                    "Children": [
+                      {
+                        "Id": "conTech51",
+                        "Title": "Elektromagnetischer Generator",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech57",
+                    "Title": "Batterie",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech46",
+                "Title": "Mineralienextraktor",
+                "Children": [
+                  {
+                    "Id": "conTech47",
+                    "Title": "Gas-Extraktor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech48",
+                    "Title": "Versorgungsdepot",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech49",
+                    "Title": "Versorgungsrohr",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech55",
+                "Title": "Wandschalter",
+                "Children": [
+                  {
+                    "Id": "conTech56",
+                    "Title": "Bodenschalter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech58",
+                    "Title": "Annäherungsschalter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech59",
+                    "Title": "Schalter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech60",
+                    "Title": "Energieumkehrer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech61",
+                    "Title": "Automatischer Schalter",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Landwirtschaftsmodule",
+        "Children": [
+          {
+            "Id": "conTech33",
+            "Title": "Hydrokultur-Trog",
+            "Children": [
+              {
+                "Id": "build142",
+                "Title": "Topfpflanze",
+                "Children": [
+                  {
+                    "Id": "build145",
+                    "Title": "Stehender Pflanzenbehälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Flora-Behälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Flora-Behälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Flora-Behälter",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech34",
+                "Title": "Großer Hydrokultur-Trog",
+                "Children": []
+              },
+              {
+                "Id": "build130",
+                "Title": "Pilzgeflecht",
+                "Children": [
+                  {
+                    "Id": "build132",
+                    "Title": "Giftigel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build131",
+                "Title": "Frostwurz",
+                "Children": [
+                  {
+                    "Id": "build135",
+                    "Title": "Gravitino-Wirt",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build129",
+                "Title": "Gammagras",
+                "Children": [
+                  {
+                    "Id": "build134",
+                    "Title": "Magenkrampfblume",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build137",
+                "Title": "Echinokaktus",
+                "Children": [
+                  {
+                    "Id": "build136",
+                    "Title": "Morditwurzel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build138",
+                "Title": "Sternendorn",
+                "Children": [
+                  {
+                    "Id": "build139",
+                    "Title": "Eiweißperlenkugel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build133",
+                "Title": "Sonnenrebe",
+                "Children": [
+                  {
+                    "Id": "build140",
+                    "Title": "NipNip",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Holz",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Holzwand",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Holzbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glasplatte mit Holzrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Holzrampe",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halbe Holzrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Kleine Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Holzdreieck",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleines Holzdreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dünne Holzwand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Schräge Holzplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine Holzwand",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Kurze Holzwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Holztürrahmen",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Holzfenster",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Holzfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Holztür",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine Holztür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Elektrische Holztür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Holzdach",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Holzdachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Holzdach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Dachinneneckteil aus Holz",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Holzbogen",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halber Holzbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Metall",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metallwand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metallbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glasplatte mit Metallrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metallrampe",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halbe Metallrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Kleine Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalldreieck",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleines Metalldreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Dünne Metallwand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Schräge Metallplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine Metallwand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Kurze Metallwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalltürrahmen",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metallfenster",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metallfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalltür",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine Metalltür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Elektrische Metalltür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalldach",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalldachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalldach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Dachinneneckteil aus Metall",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metallbogen",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halber Metallbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unterschlüpfe aus Beton",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonwand",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonbodenplatte",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glasplatte mit Betonrahmen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonrampe",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halbe Betonrampe",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Kleine Betonbodenplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betondreieck",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleines Betondreieck",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dünne Betonwand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Schräge Betonplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine Betonwand",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Kurze Betonwand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betontürrahmen",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonfenster",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonfassade",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betontür",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine Betontür",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Elektrische Betontür",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betondach",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betondachplatte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betondach-Eckstück",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Dachinneneckteil aus Beton",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonbogen",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halber Betonbogen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Primitive Formen",
+        "Children": [
+          {
+            "Id": "build253",
+            "Title": "Großer Keil",
+            "Children": [
+              {
+                "Id": "build254",
+                "Title": "Kleiner Keil",
+                "Children": [
+                  {
+                    "Id": "build255",
+                    "Title": "Pyramide",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build257",
+                "Title": "Rohr",
+                "Children": [
+                  {
+                    "Id": "build256",
+                    "Title": "Gebogenes Rohr",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build76",
+                    "Title": "Stabiler Würfel",
+                    "Children": [
+                      {
+                        "Id": "build259",
+                        "Title": "Würfel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build258",
+                    "Title": "Zylinder",
+                    "Children": [
+                      {
+                        "Id": "build260",
+                        "Title": "Kugel",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Lagereinheiten",
+        "Children": [
+          {
+            "Id": "conTech35",
+            "Title": "Lagerbehälter",
+            "Children": [
+              {
+                "Id": "conTech35",
+                "Title": "Lagerbehälter",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Lagerbehälter",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Lagerbehälter",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Lagerbehälter",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree5",
+    "Name": "Exo-Anzug-Upgrades",
+    "Trees": [
+      {
+        "Name": "Herstellbare Upgrade-Baupläne",
+        "Children": [
+          {
+            "Id": "tech3",
+            "Title": "Lebenserhaltung",
+            "Children": [
+              {
+                "Id": "tech13",
+                "Title": "Gefahrgut-Schutzhandschuh",
+                "Children": [
+                  {
+                    "Id": "tech143",
+                    "Title": "Persönliche Raffinerie",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech1",
+                "Title": "Gefahrenschutz",
+                "Children": [
+                  {
+                    "Id": "tech8",
+                    "Title": "Kühlmittelnetzwerk",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech9",
+                    "Title": "Wärmeschicht",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech10",
+                    "Title": "Toxindämpfer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech11",
+                    "Title": "Strahlungsdeflektor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech12",
+                    "Title": "Belüftungsmembran",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech2",
+                    "Title": "Schildgitter",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech4",
+                "Title": "Sauerstoffwiederverwerter",
+                "Children": [
+                  {
+                    "Id": "tech18",
+                    "Title": "Sauerstoffumleiter",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech5",
+                "Title": "Jetpack",
+                "Children": [
+                  {
+                    "Id": "tech6",
+                    "Title": "Neuralstimulator",
+                    "Children": [
+                      {
+                        "Id": "tech142",
+                        "Title": "Luftschubantrieb",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech7",
+                    "Title": "Raketenstiefel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech17",
+                    "Title": "Effiziente Wasserdüsen",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech19",
+                "Title": "Einfacher Übersetzer",
+                "Children": [
+                  {
+                    "Id": "tech20",
+                    "Title": "Verbesserter Übersetzer",
+                    "Children": [
+                      {
+                        "Id": "tech21",
+                        "Title": "Perfektionierter Übersetzer",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree6",
+    "Name": "Raumschiff-Upgrades",
+    "Trees": [
+      {
+        "Name": "Herstellbare Upgrade-Baupläne",
+        "Children": [
+          {
+            "Id": "tech23",
+            "Title": "Impulsantrieb",
+            "Children": [
+              {
+                "Id": "tech144",
+                "Title": "Instabilitätsantrieb",
+                "Children": [
+                  {
+                    "Id": "tech145",
+                    "Title": "Unterlichtverstärker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech28",
+                "Title": "Teleportempfänger",
+                "Children": [
+                  {
+                    "Id": "tech40",
+                    "Title": "Konfliktscanner",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech39",
+                    "Title": "Wirtschaftsscanner",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech29",
+                "Title": "Hyperantrieb",
+                "Children": [
+                  {
+                    "Id": "tech146",
+                    "Title": "Notfall-Warp-Einheit",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech30",
+                    "Title": "Cadmium-Antrieb",
+                    "Children": [
+                      {
+                        "Id": "tech31",
+                        "Title": "Emeril-Antrieb",
+                        "Children": [
+                          {
+                            "Id": "tech32",
+                            "Title": "Indium-Antrieb",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech25",
+                "Title": "Startschubdüse",
+                "Children": [
+                  {
+                    "Id": "tech26",
+                    "Title": "Effiziente Düsen",
+                    "Children": [
+                      {
+                        "Id": "tech27",
+                        "Title": "Startsystemladegerät",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech33",
+                "Title": "Deflektorschild",
+                "Children": [
+                  {
+                    "Id": "tech34",
+                    "Title": "Ablative Panzerung",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech37",
+                "Title": "Photonenkanone",
+                "Children": [
+                  {
+                    "Id": "tech46",
+                    "Title": "Nichtlineare Optik",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech35",
+                    "Title": "Raketenwerfer",
+                    "Children": [
+                      {
+                        "Id": "tech36",
+                        "Title": "Große Raketenrohre",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech41",
+                    "Title": "Phasenstrahler",
+                    "Children": [
+                      {
+                        "Id": "tech42",
+                        "Title": "Fourier-Begrenzer",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech43",
+                    "Title": "Positronenwerfer",
+                    "Children": [
+                      {
+                        "Id": "tech44",
+                        "Title": "Fragment-Superauflader",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech45",
+                    "Title": "Inframesser-Beschleuniger",
+                    "Children": [
+                      {
+                        "Id": "tech147",
+                        "Title": "Q-Resonator",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech47",
+                    "Title": "Zyklotron-Balliste",
+                    "Children": [
+                      {
+                        "Id": "tech48",
+                        "Title": "Dysonpumpe",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree7",
+    "Name": "Multiwerkzeug-Upgrades",
+    "Trees": [
+      {
+        "Name": "Herstellbare Upgrade-Baupläne",
+        "Children": [
+          {
+            "Id": "tech69",
+            "Title": "Minenlaser",
+            "Children": [
+              {
+                "Id": "tech72",
+                "Title": "Blitzwerfer",
+                "Children": [
+                  {
+                    "Id": "tech73",
+                    "Title": "Laufionisator",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech76",
+                    "Title": "Plasmawerfer",
+                    "Children": [
+                      {
+                        "Id": "tech77",
+                        "Title": "Geologiekanone",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech78",
+                    "Title": "Glutspeer",
+                    "Children": [
+                      {
+                        "Id": "tech79",
+                        "Title": "Massebeschleuniger",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech80",
+                    "Title": "Streublaster",
+                    "Children": [
+                      {
+                        "Id": "tech81",
+                        "Title": "Geschossschmierer",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech82",
+                    "Title": "Impulswerfer",
+                    "Children": [
+                      {
+                        "Id": "tech83",
+                        "Title": "Verstärkte Kartuschen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech67",
+                "Title": "Eigenes Kraftfeld",
+                "Children": [
+                  {
+                    "Id": "tech68",
+                    "Title": "Kampfvisier",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech70",
+                "Title": "Fortgeschrittener Minenlaser",
+                "Children": [
+                  {
+                    "Id": "tech71",
+                    "Title": "Optischer Bohrer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech64",
+                "Title": "Wellenformwiederverwerter",
+                "Children": [
+                  {
+                    "Id": "tech65",
+                    "Title": "Untersuchungsgerät",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree8",
+    "Name": "Exo-Fahrzeug-Upgrades",
+    "Trees": [
+      {
+        "Name": "Herstellbare Upgrade-Baupläne",
+        "Children": [
+          {
+            "Id": "tech90",
+            "Title": "Fusionsantrieb",
+            "Children": [
+              {
+                "Id": "tech101",
+                "Title": "Humboldt-Antrieb",
+                "Children": [
+                  {
+                    "Id": "tech104",
+                    "Title": "Hochleistungssonar",
+                    "Children": [
+                      {
+                        "Id": "tech105",
+                        "Title": "Osmotischer Generator",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech103",
+                        "Title": "Tethys-Strahl",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech102",
+                        "Title": "Nautilon-Kanone",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech170",
+                "Title": "Megawatt-Heizung",
+                "Children": []
+              },
+              {
+                "Id": "tech171",
+                "Title": "Luftfiltereinheit",
+                "Children": []
+              },
+              {
+                "Id": "tech172",
+                "Title": "Neutronenabschirmung",
+                "Children": []
+              },
+              {
+                "Id": "tech169",
+                "Title": "Thermalpuffer",
+                "Children": []
+              },
+              {
+                "Id": "tech94",
+                "Title": "Exo-Fahrzeug-Signalbooster",
+                "Children": [
+                  {
+                    "Id": "tech174",
+                    "Title": "Fortgeschrittener Signalbooster",
+                    "Children": [
+                      {
+                        "Id": "tech96",
+                        "Title": "Exo-Fahrzeug-Signalbooster-Upgrade Tau",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech97",
+                "Title": "Exo-Fahrzeug-Beschleunigungsmodul",
+                "Children": [
+                  {
+                    "Id": "tech173",
+                    "Title": "Ikarus-Treibstoffsystem",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech98",
+                "Title": "Exo-Fahrzeug-Minenlaser",
+                "Children": [
+                  {
+                    "Id": "tech99",
+                    "Title": "Exo-Fahrzeug-Minenlaser-Upgrade Sigma",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech100",
+                    "Title": "Exo-Fahrzeug-Bordkanone",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech175",
+                "Title": "Daidalos-Antrieb",
+                "Children": [
+                  {
+                    "Id": "tech183",
+                    "Title": "Umweltkontrolleinheit",
+                    "Children": [
+                      {
+                        "Id": "tech178",
+                        "Title": "Ariadnes Flamme",
+                        "Children": [
+                          {
+                            "Id": "tech176",
+                            "Title": "Selbstschmierende Servos",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech177",
+                    "Title": "Minotaurus-Radaranlage",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech179",
+                    "Title": "Minotaurus-Laser",
+                    "Children": [
+                      {
+                        "Id": "tech180",
+                        "Title": "Minotaurus-Präzisionslaser",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech181",
+                        "Title": "Minotaurus-Kanone",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech182",
+                        "Title": "Minotaurus-Bohrer",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree9",
+    "Name": "Produktrezepte",
+    "Trees": [
+      {
+        "Name": "Komponenten & Geräte",
+        "Children": [
+          {
+            "Id": "prod23",
+            "Title": "Lebenserhaltungsgel",
+            "Children": [
+              {
+                "Id": "prod11",
+                "Title": "Diwasserstoff-Gelee",
+                "Children": [
+                  {
+                    "Id": "prod31",
+                    "Title": "Kohlenstoff-Kristall",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod34",
+                    "Title": "Seltenes Metallelement",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod36",
+                    "Title": "Tetrakobalt",
+                    "Children": [
+                      {
+                        "Id": "prod4",
+                        "Title": "Kobalt-Spiegel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod32",
+                    "Title": "Chlor-Gitter",
+                    "Children": [
+                      {
+                        "Id": "prod9",
+                        "Title": "Salz-Refraktor",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod33",
+                    "Title": "Instabiles Natrium",
+                    "Children": [
+                      {
+                        "Id": "prod10",
+                        "Title": "Natrium-Diode",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod35",
+                    "Title": "Superoxid-Kristall",
+                    "Children": [
+                      {
+                        "Id": "prod8",
+                        "Title": "Sauerstofffilter",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod20",
+                "Title": "Ionenakku",
+                "Children": [
+                  {
+                    "Id": "prod28",
+                    "Title": "Raumschiffstart-Treibstoff",
+                    "Children": [
+                      {
+                        "Id": "prod24",
+                        "Title": "Sauerstoffkapsel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod29",
+                        "Title": "Hydrothermale Treibstoffzelle",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod19",
+                        "Title": "Instabiles Plasma",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod21",
+                    "Title": "Fortschrittlicher Ionenakku",
+                    "Children": [
+                      {
+                        "Id": "prod22",
+                        "Title": "Sternenschildbatterie",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod17",
+                "Title": "Warp-Zelle",
+                "Children": [
+                  {
+                    "Id": "cur41",
+                    "Title": "Atlas-Pass V1",
+                    "Children": [
+                      {
+                        "Id": "cur42",
+                        "Title": "Atlas-Pass V2",
+                        "Children": [
+                          {
+                            "Id": "prod18",
+                            "Title": "Warp-Hyperkern",
+                            "Children": []
+                          },
+                          {
+                            "Id": "cur43",
+                            "Title": "Atlas-Pass V3",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Wertvolle Produkte",
+        "Children": [
+          {
+            "Id": "prod49",
+            "Title": "Säure",
+            "Children": [
+              {
+                "Id": "prod57",
+                "Title": "Schmiermittel",
+                "Children": [
+                  {
+                    "Id": "prod55",
+                    "Title": "Instabiles Gel",
+                    "Children": [
+                      {
+                        "Id": "prod56",
+                        "Title": "Flüssigsprengstoff",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod54",
+                    "Title": "Glas",
+                    "Children": [
+                      {
+                        "Id": "prod58",
+                        "Title": "Lebendes Glas",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod52",
+                    "Title": "Polyfaser",
+                    "Children": [
+                      {
+                        "Id": "prod51",
+                        "Title": "Hitzekondensator",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod53",
+                        "Title": "Schaltplatte",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod61",
+                "Title": "Thermisches Kondensat",
+                "Children": [
+                  {
+                    "Id": "prod59",
+                    "Title": "Angereicherter Kohlenstoff",
+                    "Children": [
+                      {
+                        "Id": "prod65",
+                        "Title": "Organischer Katalysator",
+                        "Children": [
+                          {
+                            "Id": "prod67",
+                            "Title": "Fusionsbeschleuniger",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod60",
+                    "Title": "Stickstoffsalz",
+                    "Children": [
+                      {
+                        "Id": "prod64",
+                        "Title": "Halbleiter",
+                        "Children": [
+                          {
+                            "Id": "prod66",
+                            "Title": "Supraleiter",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod62",
+                        "Title": "Heißes Eis",
+                        "Children": [
+                          {
+                            "Id": "prod63",
+                            "Title": "Kryopumpe",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod71",
+                    "Title": "Aronium",
+                    "Children": [
+                      {
+                        "Id": "prod72",
+                        "Title": "Straßenköterbronze",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod74",
+                        "Title": "Herox",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod76",
+                        "Title": "Lemmium",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod75",
+                        "Title": "Magno-Gold",
+                        "Children": [
+                          {
+                            "Id": "prod78",
+                            "Title": "Iridesit",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod73",
+                        "Title": "Grantine",
+                        "Children": [
+                          {
+                            "Id": "prod77",
+                            "Title": "Geodesit",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod69",
+                "Title": "Tragbarer Reaktor",
+                "Children": [
+                  {
+                    "Id": "prod70",
+                    "Title": "Quantumprozessor",
+                    "Children": [
+                      {
+                        "Id": "prod79",
+                        "Title": "Fusionszünder",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod68",
+                    "Title": "Kryogenkammer",
+                    "Children": [
+                      {
+                        "Id": "prod80",
+                        "Title": "Stasegerät",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree10",
+    "Name": "Hauptschiff-Forschung",
+    "Trees": [
+      {
+        "Name": "Herstellbare Upgrade-Baupläne",
+        "Children": [
+          {
+            "Id": "prod25",
+            "Title": "Fregattentreibstoff (50 Tonnen)",
+            "Children": [
+              {
+                "Id": "prod12",
+                "Title": "Treibstoff-Oxidant",
+                "Children": [
+                  {
+                    "Id": "prod15",
+                    "Title": "Gedankenkontrollgerät",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod14",
+                    "Title": "Holografischer Analysator",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod16",
+                    "Title": "Mineralkompressor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod13",
+                    "Title": "Sprengdrohnen",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech136",
+                "Title": "Warpkernresonator",
+                "Children": [
+                  {
+                    "Id": "tech139",
+                    "Title": "Verstärkter Warp-Schild",
+                    "Children": [
+                      {
+                        "Id": "tech140",
+                        "Title": "Chromatischer Warp-Schild",
+                        "Children": [
+                          {
+                            "Id": "tech141",
+                            "Title": "Temporaler Warp-Computer",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech137",
+                    "Title": "Plasma-Warpinjektor",
+                    "Children": [
+                      {
+                        "Id": "tech138",
+                        "Title": "Realitätsentwirrer",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech166",
+                "Title": "Materiestrahl",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

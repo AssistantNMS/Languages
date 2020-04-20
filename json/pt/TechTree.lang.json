@@ -1,0 +1,3595 @@
+[
+  {
+    "Id": "tree1",
+    "Name": "Construção Básica",
+    "Trees": [
+      {
+        "Name": "Abrigos de Madeira",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Parede de Madeira",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Painel de Solo de Madeira",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Painel de Vidro com Estrutura de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Rampa de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Meia Rampa de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Pequeno Painel de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Triângulo de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Triângulo de Madeira Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Parede de madeira fina",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Painel Oblíquo de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Pequena Parede de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Parede de madeira curta",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Estrutura de Porta de Madeira",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Painel de Janela em Madeira",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Fachada de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Porta de madeira",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Pequena Porta de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Porta Elétrica em Madeira",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Telhado de Madeira",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Painel telhado de madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Canto telhado de madeira",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Canto de Telhado Interior em Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Arco de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Meio Arco de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de Metal",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Parede em Metal",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Painel de Solo de Metal",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Painel de Vidro com Estrutura de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Rampa de Metal",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Meia Rampa de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Painel Pequeno de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Triângulo de Metal",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Triângulo de Metal Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Parede fina de metal",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Painel Oblíquo de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Parede Pequena de Metal",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Parede curta de metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Estrutura de Porta de Metal",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Painel de Janela de Metal",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Fachada de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Porta de metal",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Porta Pequena de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Porta Elétrica em Metal",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Telhado de Metal",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Painel de telhado em metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Canto de telhado em metal",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Canto de Telhado Interior em Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Arco de Metal",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Meio Arco de Metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de cimento",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Parede de Cimento",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Painel de Solo de Cimento",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Painel de Vidro com Estrutura de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Rampa de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Meia Rampa de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Painel Pequeno de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Triângulo de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Triângulo de Cimento Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Parede fina de cimento",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Painel Oblíquo de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Parede Pequena de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Parede curta de cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Estrutura de Porta de Cimento",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Painel de Janela de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Fachada de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Porta de cimento",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Porta Pequena de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Porta Elétrica em Cimento",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Telhado de Cimento",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Painel telhado de cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Canto de telhado em cimento",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Canto de Telhado Interior em Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Arco de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Meio Arco de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Tecnologia de Habitação Central",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Módulo de Teletransporte da Base",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Reator de Biocombustível",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Cabos Elétricos",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Bateria",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Painel Solar",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Estação de Saúde",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Unidade de Proteção Contra Perigos",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Impulsionador de Sinal",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Sinalizador para Guardar Jogo",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree2",
+    "Name": "Tecnologia Vital",
+    "Trees": [
+      {
+        "Name": "Tecnologia de Habitação Central",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Módulo de Teletransporte da Base",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Reator de Biocombustível",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Cabos Elétricos",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Bateria",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Painel Solar",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Estação de Saúde",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Unidade de Proteção Contra Perigos",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Impulsionador de Sinal",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Sinalizador para Guardar Jogo",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de Madeira",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Parede de Madeira",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Painel de Solo de Madeira",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Painel de Vidro com Estrutura de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Rampa de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Meia Rampa de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Pequeno Painel de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Triângulo de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Triângulo de Madeira Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Parede de madeira fina",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Painel Oblíquo de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Pequena Parede de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Parede de madeira curta",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Estrutura de Porta de Madeira",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Painel de Janela em Madeira",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Fachada de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Porta de madeira",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Pequena Porta de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Porta Elétrica em Madeira",
+                    "Children": [
+                      {
+                        "Id": "build323",
+                        "Title": "Grande Porta Elétrica em Madeira",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Telhado de Madeira",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Painel telhado de madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Canto telhado de madeira",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Canto de Telhado Interior em Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Arco de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Meio Arco de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de Metal",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Parede em Metal",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Painel de Solo de Metal",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Painel de Vidro com Estrutura de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Rampa de Metal",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Meia Rampa de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Painel Pequeno de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Triângulo de Metal",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Triângulo de Metal Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Parede fina de metal",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Painel Oblíquo de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Parede Pequena de Metal",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Parede curta de metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Estrutura de Porta de Metal",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Painel de Janela de Metal",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Fachada de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Porta de metal",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Porta Pequena de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Porta Elétrica em Metal",
+                    "Children": [
+                      {
+                        "Id": "build327",
+                        "Title": "Grande Porta Elétrica em Metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Telhado de Metal",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Painel de telhado em metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Canto de telhado em metal",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Canto de Telhado Interior em Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Arco de Metal",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Meio Arco de Metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de cimento",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Parede de Cimento",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Painel de Solo de Cimento",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Painel de Vidro com Estrutura de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Rampa de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Meia Rampa de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Painel Pequeno de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Triângulo de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Triângulo de Cimento Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Parede fina de cimento",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Painel Oblíquo de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Parede Pequena de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Parede curta de cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Estrutura de Porta de Cimento",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Painel de Janela de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Fachada de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Porta de cimento",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Porta Pequena de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Porta Elétrica em Cimento",
+                    "Children": [
+                      {
+                        "Id": "build331",
+                        "Title": "Grande Porta Elétrica em Cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Telhado de Cimento",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Painel telhado de cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Canto de telhado em cimento",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Canto de Telhado Interior em Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Arco de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Meio Arco de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree3",
+    "Name": "Módulos de Construção",
+    "Trees": [
+      {
+        "Name": "Grandes Pré-fabricados",
+        "Children": [
+          {
+            "Id": "build65",
+            "Title": "Sala Cilíndrica",
+            "Children": [
+              {
+                "Id": "build66",
+                "Title": "Quarto Quadrado",
+                "Children": [
+                  {
+                    "Id": "build88",
+                    "Title": "Fundação",
+                    "Children": [
+                      {
+                        "Id": "build91",
+                        "Title": "Pavimentação",
+                        "Children": [
+                          {
+                            "Id": "build160",
+                            "Title": "Pavimentação",
+                            "Children": []
+                          },
+                          {
+                            "Id": "build86",
+                            "Title": "Pavimentação",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build204",
+                        "Title": "Cadeira de Suportes de Fundação",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build205",
+                        "Title": "Suporte da Fundação",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build89",
+                        "Title": "Moldura de Sala Cilíndrica ",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build67",
+                "Title": "Corredor Direito",
+                "Children": [
+                  {
+                    "Id": "build68",
+                    "Title": "Corredor em forma de L",
+                    "Children": [
+                      {
+                        "Id": "build69",
+                        "Title": "Corredor em forma de T",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build70",
+                        "Title": "Corredor em forma de X",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build72",
+                    "Title": "Corredor com Teto de Vidro",
+                    "Children": [
+                      {
+                        "Id": "build94",
+                        "Title": "Janela",
+                        "Children": [
+                          {
+                            "Id": "build95",
+                            "Title": "Grande Painel de Vidro",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build74",
+                        "Title": "Cúpula Bio",
+                        "Children": [
+                          {
+                            "Id": "build73",
+                            "Title": "Esfera de Visão",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build71",
+                        "Title": "Corredor Curvo",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build84",
+                "Title": "Porta",
+                "Children": [
+                  {
+                    "Id": "build207",
+                    "Title": "Porta Holográfica",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build85",
+                    "Title": "Rampa de Acesso",
+                    "Children": [
+                      {
+                        "Id": "build215",
+                        "Title": "Escada",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Pequenos Pré-fabricados",
+        "Children": [
+          {
+            "Id": "build75",
+            "Title": "Sala Cuboide",
+            "Children": [
+              {
+                "Id": "build93",
+                "Title": "Fundação para Salas Cuboides",
+                "Children": [
+                  {
+                    "Id": "build90",
+                    "Title": "Estrutura de Sala Cuboide",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build83",
+                    "Title": "Pavimentação de Salas Cuboides",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build92",
+                    "Title": "Conj. de Fundações para Salas Cuboides",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build78",
+                "Title": "Parede Curva Cuboide",
+                "Children": [
+                  {
+                    "Id": "build80",
+                    "Title": "Escadas Interiores",
+                    "Children": [
+                      {
+                        "Id": "build87",
+                        "Title": "Escada de infraestrutura",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build82",
+                    "Title": "Parede Interior Cuboide",
+                    "Children": [
+                      {
+                        "Id": "build81",
+                        "Title": "Porta Interior Cuboide",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build206",
+                    "Title": "Teto Cuboide",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build77",
+                "Title": "Sala Cuboide de Vidro",
+                "Children": [
+                  {
+                    "Id": "build79",
+                    "Title": "Teto Curvo cuboide",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build96",
+                    "Title": "Janela",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build97",
+                    "Title": "Janela",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos de Tecnologia",
+        "Children": [
+          {
+            "Id": "conTech6",
+            "Title": "Sinalizador para Guardar Jogo",
+            "Children": [
+              {
+                "Id": "conTech3",
+                "Title": "Terminal Galáctico Comercial",
+                "Children": []
+              },
+              {
+                "Id": "conTech20",
+                "Title": "Módulo de Mensagens",
+                "Children": [
+                  {
+                    "Id": "conTech21",
+                    "Title": "Estação de Comunicações",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech4",
+                "Title": "Estação de Saúde",
+                "Children": [
+                  {
+                    "Id": "conTech5",
+                    "Title": "Unidade de Proteção Contra Perigos",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech10",
+                "Title": "Módulo de Teletransporte da Base",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech16",
+                    "Title": "Modificador de Aparência",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech2",
+                    "Title": "Pista de Aterragem",
+                    "Children": [
+                      {
+                        "Id": "conTech62",
+                        "Title": "Teletransportador de Curto Alcance",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech54",
+                        "Title": "Cabo de Teletransporte",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech13",
+                    "Title": "Refinador Portátil",
+                    "Children": [
+                      {
+                        "Id": "conTech14",
+                        "Title": "Refinaria Média",
+                        "Children": [
+                          {
+                            "Id": "conTech15",
+                            "Title": "Refinaria Grande",
+                            "Children": []
+                          },
+                          {
+                            "Id": "conTech9",
+                            "Title": "Reator de Antimatéria",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "conTech17",
+                "Title": "Processador de Nutrientes",
+                "Children": [
+                  {
+                    "Id": "conTech19",
+                    "Title": "Unidade de Gado",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech18",
+                    "Title": "Alimentador Automatizado",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build181",
+                "Title": "Caixa de Luz",
+                "Children": [
+                  {
+                    "Id": "build359",
+                    "Title": "Chão de luz",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech43",
+                    "Title": "Caixa de Ruído",
+                    "Children": [
+                      {
+                        "Id": "build361",
+                        "Title": "Cabo ByteBeat",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build360",
+                        "Title": "Dispositivo Bytebeat",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build362",
+                        "Title": "Alternador Bytebeat",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech42",
+                    "Title": "Criador de Esferas",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos de Transporte",
+        "Children": [
+          {
+            "Id": "conTech23",
+            "Title": "Geobaía Andarilho ",
+            "Children": [
+              {
+                "Id": "conTech27",
+                "Title": "Estação de convocação exonave",
+                "Children": [
+                  {
+                    "Id": "build395",
+                    "Title": "Materializador orbital da exonave",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech22",
+                "Title": "Geobaía Nómada",
+                "Children": []
+              },
+              {
+                "Id": "conTech63",
+                "Title": "Geobaía Minotauro",
+                "Children": []
+              },
+              {
+                "Id": "conTech26",
+                "Title": "Câmara Nautilon",
+                "Children": []
+              },
+              {
+                "Id": "conTech25",
+                "Title": "Geobaía Peregrino",
+                "Children": []
+              },
+              {
+                "Id": "conTech24",
+                "Title": "Geobaía Colosso",
+                "Children": []
+              },
+              {
+                "Id": "conTech40",
+                "Title": "Iniciador de Corridas",
+                "Children": [
+                  {
+                    "Id": "conTech39",
+                    "Title": "Obstáculo de Corrida",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech38",
+                    "Title": "Amplificador de Força de Corrida",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Construção Aquática",
+        "Children": [
+          {
+            "Id": "build172",
+            "Title": "Câmara de Águas Profundas",
+            "Children": [
+              {
+                "Id": "conTech41",
+                "Title": "Abrigo Marinho",
+                "Children": []
+              },
+              {
+                "Id": "build176",
+                "Title": "Túnel de Vidro",
+                "Children": [
+                  {
+                    "Id": "build95",
+                    "Title": "Grande Painel de Vidro",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build177",
+                    "Title": "Túnel de Vidro em L",
+                    "Children": [
+                      {
+                        "Id": "build178",
+                        "Title": "Túnel de Vidro em T",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build179",
+                        "Title": "Túnel de Vidro em X",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build180",
+                    "Title": "Túnel de Vidro Vertical",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build173",
+                "Title": "Câmara de Águas Profundas Quadrada",
+                "Children": []
+              },
+              {
+                "Id": "build175",
+                "Title": "Porta Estanque",
+                "Children": [
+                  {
+                    "Id": "build174",
+                    "Title": "Chão piscina da lua",
+                    "Children": [
+                      {
+                        "Id": "conTech26",
+                        "Title": "Câmara Nautilon",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Designs de Decalques",
+        "Children": [
+          {
+            "Id": "build270",
+            "Title": "Decalques",
+            "Children": [
+              {
+                "Id": "build270",
+                "Title": "Decalques",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Decalques",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Decalques",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Decalques",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Decalques",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Decalques",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos Decorativos",
+        "Children": [
+          {
+            "Id": "build244",
+            "Title": "Ecrã de Parede",
+            "Children": [
+              {
+                "Id": "build243",
+                "Title": "Ventoinha de Parede",
+                "Children": [
+                  {
+                    "Id": "build227",
+                    "Title": "Unidade de Parede",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build229",
+                    "Title": "Painel de Armazenamento",
+                    "Children": [
+                      {
+                        "Id": "build249",
+                        "Title": "Painel Plano",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build233",
+                        "Title": "Painel Lateral",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build159",
+                        "Title": "Painel de Estante",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build251",
+                "Title": "Ecrã de Parede Verde",
+                "Children": [
+                  {
+                    "Id": "build246",
+                    "Title": "Painel de Teto",
+                    "Children": [
+                      {
+                        "Id": "build248",
+                        "Title": "Braço Robótico",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build242",
+                    "Title": "Painel de tecnologia",
+                    "Children": [
+                      {
+                        "Id": "build152",
+                        "Title": "Estante de Armas",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build228",
+                "Title": "Gavetas",
+                "Children": [
+                  {
+                    "Id": "build245",
+                    "Title": "Bandeja",
+                    "Children": [
+                      {
+                        "Id": "build250",
+                        "Title": "Osciloscópio",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build247",
+                    "Title": "Prateleira de Recipientes",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build151",
+                    "Title": "Pequena Caixa",
+                    "Children": [
+                      {
+                        "Id": "build230",
+                        "Title": "Octarmário",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build146",
+                        "Title": "Fabricante de Barris",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build232",
+                    "Title": "Cacifo",
+                    "Children": [
+                      {
+                        "Id": "build231",
+                        "Title": "Armário Alto",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build150",
+                    "Title": "Caixa Fechada",
+                    "Children": [
+                      {
+                        "Id": "build147",
+                        "Title": "Fabricante de Caixas",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos Decorativos",
+        "Children": [
+          {
+            "Id": "build153",
+            "Title": "Cadeira",
+            "Children": [
+              {
+                "Id": "build154",
+                "Title": "Cadeira",
+                "Children": [
+                  {
+                    "Id": "build157",
+                    "Title": "Cama",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build155",
+                    "Title": "Cadeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build219",
+                    "Title": "Sofá",
+                    "Children": [
+                      {
+                        "Id": "build221",
+                        "Title": "Sofá Arrastado",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build220",
+                        "Title": "Sofá de Canto",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build235",
+                "Title": "Bandeira 1",
+                "Children": [
+                  {
+                    "Id": "build236",
+                    "Title": "Bandeira 2",
+                    "Children": [
+                      {
+                        "Id": "build237",
+                        "Title": "Bandeira 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build238",
+                        "Title": "Bandeira 4",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build239",
+                    "Title": "Bandeira de Mural 1",
+                    "Children": [
+                      {
+                        "Id": "build241",
+                        "Title": "Bandeira de Mural 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build240",
+                        "Title": "Bandeira de Mural 2",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build156",
+                "Title": "Mesa",
+                "Children": [
+                  {
+                    "Id": "build156",
+                    "Title": "Mesa",
+                    "Children": [
+                      {
+                        "Id": "build234",
+                        "Title": "Tapete",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build223",
+                    "Title": "Mesa Simples",
+                    "Children": [
+                      {
+                        "Id": "build222",
+                        "Title": "Estação Grande de Monitorização",
+                        "Children": [
+                          {
+                            "Id": "build158",
+                            "Title": "Mesa Leve",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build224",
+                        "Title": "Mesa Curva",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build225",
+                        "Title": "Estação de Monitorização",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build226",
+                        "Title": "Bancada",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Iluminação",
+        "Children": [
+          {
+            "Id": "build336",
+            "Title": "Luz",
+            "Children": [
+              {
+                "Id": "build213",
+                "Title": "Luz Branca",
+                "Children": [
+                  {
+                    "Id": "build344",
+                    "Title": "Luz Azul",
+                    "Children": [
+                      {
+                        "Id": "build346",
+                        "Title": "Luz Amarela",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build347",
+                        "Title": "Luz Verde",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build348",
+                    "Title": "Luz Vermelha",
+                    "Children": [
+                      {
+                        "Id": "build345",
+                        "Title": "Luz Cor-de-rosa",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build336",
+                "Title": "Luz",
+                "Children": [
+                  {
+                    "Id": "build336",
+                    "Title": "Luz",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build336",
+                    "Title": "Luz",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build214",
+                    "Title": "Luz de Teto",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build182",
+                "Title": "Lâmpada de Laboratório",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos Industriais",
+        "Children": [
+          {
+            "Id": "conTech53",
+            "Title": "Cabos Elétricos",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Reator de Biocombustível",
+                "Children": [
+                  {
+                    "Id": "build396",
+                    "Title": "Unidade de camuflagem elétrica",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech50",
+                    "Title": "Painel Solar",
+                    "Children": [
+                      {
+                        "Id": "conTech51",
+                        "Title": "Gerador Eletromagnético",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech57",
+                    "Title": "Bateria",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech46",
+                "Title": "Extrator de Minerais",
+                "Children": [
+                  {
+                    "Id": "conTech47",
+                    "Title": "Extrator de Gás",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech48",
+                    "Title": "Armazém de Abastecimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech49",
+                    "Title": "Cano de Abastecimento",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech55",
+                "Title": "Interruptor de Parede",
+                "Children": [
+                  {
+                    "Id": "conTech56",
+                    "Title": "Interruptor de Piso",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech58",
+                    "Title": "Interruptor de Proximidade",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech59",
+                    "Title": "Botão",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech60",
+                    "Title": "Inversor de Energia",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech61",
+                    "Title": "Interruptor Automático",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Módulos de Agricultura",
+        "Children": [
+          {
+            "Id": "conTech33",
+            "Title": "Tabuleiro Hidropónico",
+            "Children": [
+              {
+                "Id": "build142",
+                "Title": "Vaso de Planta",
+                "Children": [
+                  {
+                    "Id": "build145",
+                    "Title": "Produtor Permanente",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Contenção de Flora",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Contenção de Flora",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Contenção de Flora",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech34",
+                "Title": "Tabuleiro Hidropónico Grande",
+                "Children": []
+              },
+              {
+                "Id": "build130",
+                "Title": "Aglomerado Fúngico",
+                "Children": [
+                  {
+                    "Id": "build132",
+                    "Title": "Veneno de Ouriço",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build131",
+                "Title": "Mostogeado",
+                "Children": [
+                  {
+                    "Id": "build135",
+                    "Title": "Hóstia de Gravitino",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build129",
+                "Title": "Erva Gama",
+                "Children": [
+                  {
+                    "Id": "build134",
+                    "Title": "Flor de Gutrot",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build137",
+                "Title": "Echinocactus",
+                "Children": [
+                  {
+                    "Id": "build136",
+                    "Title": "Raiz de Mordite",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build138",
+                "Title": "Espinheiro Estelar",
+                "Children": [
+                  {
+                    "Id": "build139",
+                    "Title": "Orbe de Pérola Albumen",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build133",
+                "Title": "Vinha Solar",
+                "Children": [
+                  {
+                    "Id": "build140",
+                    "Title": "NipNip",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de Madeira",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Parede de Madeira",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Painel de Solo de Madeira",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Painel de Vidro com Estrutura de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Rampa de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Meia Rampa de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Pequeno Painel de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Triângulo de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Triângulo de Madeira Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Parede de madeira fina",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Painel Oblíquo de Madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Pequena Parede de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Parede de madeira curta",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Estrutura de Porta de Madeira",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Painel de Janela em Madeira",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Fachada de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Porta de madeira",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Pequena Porta de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Porta Elétrica em Madeira",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Telhado de Madeira",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Painel telhado de madeira",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Canto telhado de madeira",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Canto de Telhado Interior em Madeira",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Arco de Madeira",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Meio Arco de Madeira",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de Metal",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Parede em Metal",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Painel de Solo de Metal",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Painel de Vidro com Estrutura de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Rampa de Metal",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Meia Rampa de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Painel Pequeno de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Triângulo de Metal",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Triângulo de Metal Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Parede fina de metal",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Painel Oblíquo de Metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Parede Pequena de Metal",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Parede curta de metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Estrutura de Porta de Metal",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Painel de Janela de Metal",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Fachada de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Porta de metal",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Porta Pequena de Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Porta Elétrica em Metal",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Telhado de Metal",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Painel de telhado em metal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Canto de telhado em metal",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Canto de Telhado Interior em Metal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Arco de Metal",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Meio Arco de Metal",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Abrigos de cimento",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Parede de Cimento",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Painel de Solo de Cimento",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Painel de Vidro com Estrutura de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Rampa de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Meia Rampa de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Painel Pequeno de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Triângulo de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Triângulo de Cimento Pequeno",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Parede fina de cimento",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Painel Oblíquo de Cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Parede Pequena de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Parede curta de cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Estrutura de Porta de Cimento",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Painel de Janela de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Fachada de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Porta de cimento",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Porta Pequena de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Porta Elétrica em Cimento",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Telhado de Cimento",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Painel telhado de cimento",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Canto de telhado em cimento",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Canto de Telhado Interior em Cimento",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Arco de Cimento",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Meio Arco de Cimento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Formas Primitivas",
+        "Children": [
+          {
+            "Id": "build253",
+            "Title": "Cunha Grande",
+            "Children": [
+              {
+                "Id": "build254",
+                "Title": "Cunha Pequena",
+                "Children": [
+                  {
+                    "Id": "build255",
+                    "Title": "Pirâmide",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build257",
+                "Title": "Cano",
+                "Children": [
+                  {
+                    "Id": "build256",
+                    "Title": "Cano curvado",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build76",
+                    "Title": "Cubo Sólido",
+                    "Children": [
+                      {
+                        "Id": "build259",
+                        "Title": "Cubo",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build258",
+                    "Title": "Cilindro",
+                    "Children": [
+                      {
+                        "Id": "build260",
+                        "Title": "Esfera",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Unidades de Armazenamento",
+        "Children": [
+          {
+            "Id": "conTech35",
+            "Title": "Contentor",
+            "Children": [
+              {
+                "Id": "conTech35",
+                "Title": "Contentor",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Contentor",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Contentor",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Contentor",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree5",
+    "Name": "Atualizações do Exofato",
+    "Trees": [
+      {
+        "Name": "Diagramas de Atualização para Fabricar",
+        "Children": [
+          {
+            "Id": "tech3",
+            "Title": "Suporte de Vida",
+            "Children": [
+              {
+                "Id": "tech13",
+                "Title": "Luva Haz-Mat",
+                "Children": [
+                  {
+                    "Id": "tech143",
+                    "Title": "Refinador Pessoal",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech1",
+                "Title": "Proteção Contra Perigos",
+                "Children": [
+                  {
+                    "Id": "tech8",
+                    "Title": "Rede de Refrigeração",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech9",
+                    "Title": "Camada Térmica",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech10",
+                    "Title": "Supressor de Toxinas",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech11",
+                    "Title": "Defletor de Radiação",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech12",
+                    "Title": "Membrana de Ventilação",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech2",
+                    "Title": "Malha de Escudo",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech4",
+                "Title": "Reciclador de Oxigénio",
+                "Children": [
+                  {
+                    "Id": "tech18",
+                    "Title": "Redirecionador de oxigénio",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech5",
+                "Title": "Jetpack",
+                "Children": [
+                  {
+                    "Id": "tech6",
+                    "Title": "Estimulador Neural",
+                    "Children": [
+                      {
+                        "Id": "tech142",
+                        "Title": "Motor de Explosão",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech7",
+                    "Title": "Botas Foguetão",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech17",
+                    "Title": "Jatos de Água Eficientes",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech19",
+                "Title": "Tradutor Simples",
+                "Children": [
+                  {
+                    "Id": "tech20",
+                    "Title": "Tradutor Superior",
+                    "Children": [
+                      {
+                        "Id": "tech21",
+                        "Title": "Tradutor Avançado",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree6",
+    "Name": "Atualizações da Nave Espacial",
+    "Trees": [
+      {
+        "Name": "Diagramas de Atualização para Fabricar",
+        "Children": [
+          {
+            "Id": "tech23",
+            "Title": "Motor de Pulsação",
+            "Children": [
+              {
+                "Id": "tech144",
+                "Title": "Propulsor de Instabilidade",
+                "Children": [
+                  {
+                    "Id": "tech145",
+                    "Title": "Amplificador de Subluz",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech28",
+                "Title": "Recetor de Teletransporte",
+                "Children": [
+                  {
+                    "Id": "tech40",
+                    "Title": "Detetor de Conflitos",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech39",
+                    "Title": "Detetor de Economia",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech29",
+                "Title": "Hiperdrive",
+                "Children": [
+                  {
+                    "Id": "tech146",
+                    "Title": "Unidade Warp de Emergência",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech30",
+                    "Title": "Propulsor de Cádmio",
+                    "Children": [
+                      {
+                        "Id": "tech31",
+                        "Title": "Propulsor de Emeril",
+                        "Children": [
+                          {
+                            "Id": "tech32",
+                            "Title": "Propulsor de Índio",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech25",
+                "Title": "Propulsor de Lançamento",
+                "Children": [
+                  {
+                    "Id": "tech26",
+                    "Title": "Propulsores eficientes",
+                    "Children": [
+                      {
+                        "Id": "tech27",
+                        "Title": "Recarregador de sistemas de lançamento",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech33",
+                "Title": "Escudo Defletor",
+                "Children": [
+                  {
+                    "Id": "tech34",
+                    "Title": "Armadura Ablativa",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech37",
+                "Title": "Canhão de Fotões",
+                "Children": [
+                  {
+                    "Id": "tech46",
+                    "Title": "Óticas não lineares",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech35",
+                    "Title": "Lança-Mísseis",
+                    "Children": [
+                      {
+                        "Id": "tech36",
+                        "Title": "Tubos de Mísseis Grandes",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech41",
+                    "Title": "Laser Polifásico",
+                    "Children": [
+                      {
+                        "Id": "tech42",
+                        "Title": "Delimitador Fourier",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech43",
+                    "Title": "Ejetor de Positrões",
+                    "Children": [
+                      {
+                        "Id": "tech44",
+                        "Title": "Supercompressor de Fragmentos",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech45",
+                    "Title": "Acelerador Infra-Faca",
+                    "Children": [
+                      {
+                        "Id": "tech147",
+                        "Title": "Ressoador-Q",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech47",
+                    "Title": "Catapulta Ciclotron",
+                    "Children": [
+                      {
+                        "Id": "tech48",
+                        "Title": "Bomba de Dyson",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree7",
+    "Name": "Atualizações da Multiferramenta",
+    "Trees": [
+      {
+        "Name": "Diagramas de Atualização para Fabricar",
+        "Children": [
+          {
+            "Id": "tech69",
+            "Title": "Laser de Mineração",
+            "Children": [
+              {
+                "Id": "tech72",
+                "Title": "Boltcaster",
+                "Children": [
+                  {
+                    "Id": "tech73",
+                    "Title": "Barril Ionizador",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech76",
+                    "Title": "Lança-Plasma",
+                    "Children": [
+                      {
+                        "Id": "tech77",
+                        "Title": "Canhão Geológico",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech78",
+                    "Title": "Dardo de Arremesso Brilhante",
+                    "Children": [
+                      {
+                        "Id": "tech79",
+                        "Title": "Acelerador de Massa",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech80",
+                    "Title": "Detonador de Fragmentação",
+                    "Children": [
+                      {
+                        "Id": "tech81",
+                        "Title": "Lubrificador de Escudo",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech82",
+                    "Title": "Cuspidor de Pulsação",
+                    "Children": [
+                      {
+                        "Id": "tech83",
+                        "Title": "Cartuchos Ampliados",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech67",
+                "Title": "Campo de Força Pessoal",
+                "Children": [
+                  {
+                    "Id": "tech68",
+                    "Title": "Alcance de Combate",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech70",
+                "Title": "Laser de Mineração Avançado",
+                "Children": [
+                  {
+                    "Id": "tech71",
+                    "Title": "Broca Ótica",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech64",
+                "Title": "Reciclador de Formas de Ondas",
+                "Children": [
+                  {
+                    "Id": "tech65",
+                    "Title": "Dispositivo de Análise",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree8",
+    "Name": "Atualizações da Exonave",
+    "Trees": [
+      {
+        "Name": "Diagramas de Atualização para Fabricar",
+        "Children": [
+          {
+            "Id": "tech90",
+            "Title": "Motor de fusão",
+            "Children": [
+              {
+                "Id": "tech101",
+                "Title": "Propulsor de Humboldt",
+                "Children": [
+                  {
+                    "Id": "tech104",
+                    "Title": "Sonar de Alta Intensidade",
+                    "Children": [
+                      {
+                        "Id": "tech105",
+                        "Title": "Gerador de Osmose",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech103",
+                        "Title": "Feixe de Tétis",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech102",
+                        "Title": "Canhão do Nautilon",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech170",
+                "Title": "Aquecedor de Megawatts",
+                "Children": []
+              },
+              {
+                "Id": "tech171",
+                "Title": "Unidade de filtragem de ar",
+                "Children": []
+              },
+              {
+                "Id": "tech172",
+                "Title": "Blindagem de neutrões",
+                "Children": []
+              },
+              {
+                "Id": "tech169",
+                "Title": "Amortecedor térmico",
+                "Children": []
+              },
+              {
+                "Id": "tech94",
+                "Title": "Impulsionador de Sinal da Exonave",
+                "Children": [
+                  {
+                    "Id": "tech174",
+                    "Title": "Impulsionador Sigma Avançado",
+                    "Children": [
+                      {
+                        "Id": "tech96",
+                        "Title": "Atualização Tau do Impulsionador de Sinal da Exonave",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech97",
+                "Title": "Módulo de aceleração da Exonave",
+                "Children": [
+                  {
+                    "Id": "tech173",
+                    "Title": "Sistema de combustível Ícaro",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech98",
+                "Title": "Laser de Mineração da Exonave",
+                "Children": [
+                  {
+                    "Id": "tech99",
+                    "Title": "Atualização Sigma do Laser de Mineração da Exonave",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech100",
+                    "Title": "Canhão montado na Exonave",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech175",
+                "Title": "Motor de Dédalo",
+                "Children": [
+                  {
+                    "Id": "tech183",
+                    "Title": "Unidade de controlo ambiente",
+                    "Children": [
+                      {
+                        "Id": "tech178",
+                        "Title": "Chama de Ariadne",
+                        "Children": [
+                          {
+                            "Id": "tech176",
+                            "Title": "Servomecanismo autolubrificante",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech177",
+                    "Title": "Espetro de radar do Minotauro",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech179",
+                    "Title": "Laser do Minotauro",
+                    "Children": [
+                      {
+                        "Id": "tech180",
+                        "Title": "Laser de precisão do Minotauro",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech181",
+                        "Title": "Canhão do Minotauro",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech182",
+                        "Title": "Perfuração do Minotauro",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree9",
+    "Name": "Receitas de Produtos",
+    "Trees": [
+      {
+        "Name": "Componentes e Dispositivos",
+        "Children": [
+          {
+            "Id": "prod23",
+            "Title": "Gel de Suporte de Vida",
+            "Children": [
+              {
+                "Id": "prod11",
+                "Title": "Geleia de Di-hidrogénio",
+                "Children": [
+                  {
+                    "Id": "prod31",
+                    "Title": "Cristal de Carbono",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod34",
+                    "Title": "Elemento de Metal Raro",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod36",
+                    "Title": "TetraCobalto",
+                    "Children": [
+                      {
+                        "Id": "prod4",
+                        "Title": "Espelho de Cobalto",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod32",
+                    "Title": "Malha de Cloro",
+                    "Children": [
+                      {
+                        "Id": "prod9",
+                        "Title": "Refrator de sal",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod33",
+                    "Title": "Sódio Destabilizado",
+                    "Children": [
+                      {
+                        "Id": "prod10",
+                        "Title": "Díodo de sódio",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod35",
+                    "Title": "Cristal de Superóxido",
+                    "Children": [
+                      {
+                        "Id": "prod8",
+                        "Title": "Filtro de Oxigénio",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod20",
+                "Title": "Bateria de Iões",
+                "Children": [
+                  {
+                    "Id": "prod28",
+                    "Title": "Combustível de Lançamento de Nave",
+                    "Children": [
+                      {
+                        "Id": "prod24",
+                        "Title": "Cápsula de Oxigénio",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod29",
+                        "Title": "Célula de Combustível Hidrotérmica",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod19",
+                        "Title": "Plasma Instável",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod21",
+                    "Title": "Bateria de Iões Avançada",
+                    "Children": [
+                      {
+                        "Id": "prod22",
+                        "Title": "Bateria do Escudo Estelar",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod17",
+                "Title": "Célula de Velocidade Warp",
+                "Children": [
+                  {
+                    "Id": "cur41",
+                    "Title": "Passe Atlas v1",
+                    "Children": [
+                      {
+                        "Id": "cur42",
+                        "Title": "Passe Atlas v2",
+                        "Children": [
+                          {
+                            "Id": "prod18",
+                            "Title": "Hipernúcleo de Velocidade Warp",
+                            "Children": []
+                          },
+                          {
+                            "Id": "cur43",
+                            "Title": "Passe Atlas v3",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Produtos Valiosos",
+        "Children": [
+          {
+            "Id": "prod49",
+            "Title": "Ácido",
+            "Children": [
+              {
+                "Id": "prod57",
+                "Title": "Lubrificante",
+                "Children": [
+                  {
+                    "Id": "prod55",
+                    "Title": "Gel Instável",
+                    "Children": [
+                      {
+                        "Id": "prod56",
+                        "Title": "Liquido Explosivo",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod54",
+                    "Title": "Vidro",
+                    "Children": [
+                      {
+                        "Id": "prod58",
+                        "Title": "Vidro Vivo",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod52",
+                    "Title": "Polifibra",
+                    "Children": [
+                      {
+                        "Id": "prod51",
+                        "Title": "Condensador de Calor",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod53",
+                        "Title": "Quadro de Circuitos",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod61",
+                "Title": "Condensado Térmico",
+                "Children": [
+                  {
+                    "Id": "prod59",
+                    "Title": "Carbono Enriquecido",
+                    "Children": [
+                      {
+                        "Id": "prod65",
+                        "Title": "Catalisador orgânico",
+                        "Children": [
+                          {
+                            "Id": "prod67",
+                            "Title": "Acelerador de Fusão",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod60",
+                    "Title": "Sal de Nitrogénio",
+                    "Children": [
+                      {
+                        "Id": "prod64",
+                        "Title": "Semicondutor",
+                        "Children": [
+                          {
+                            "Id": "prod66",
+                            "Title": "Supercondutor",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod62",
+                        "Title": "Gelo Quente",
+                        "Children": [
+                          {
+                            "Id": "prod63",
+                            "Title": "Bomba-Crio",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod71",
+                    "Title": "Arónio",
+                    "Children": [
+                      {
+                        "Id": "prod72",
+                        "Title": "Bronze Sujo",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod74",
+                        "Title": "Herox",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod76",
+                        "Title": "Lémio",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod75",
+                        "Title": "Ouro Magno",
+                        "Children": [
+                          {
+                            "Id": "prod78",
+                            "Title": "Iridesite",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod73",
+                        "Title": "Grantine",
+                        "Children": [
+                          {
+                            "Id": "prod77",
+                            "Title": "Geodesite",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod69",
+                "Title": "Reator Portátil",
+                "Children": [
+                  {
+                    "Id": "prod70",
+                    "Title": "Processador Quântico",
+                    "Children": [
+                      {
+                        "Id": "prod79",
+                        "Title": "Ignição de Fusão",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod68",
+                    "Title": "Câmara Criogénica",
+                    "Children": [
+                      {
+                        "Id": "prod80",
+                        "Title": "Dispositivo Estase",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree10",
+    "Name": "Pesquisa de Nave Capital",
+    "Trees": [
+      {
+        "Name": "Diagramas de Atualização para Fabricar",
+        "Children": [
+          {
+            "Id": "prod25",
+            "Title": "Combustível de Fragata (50 Toneladas)",
+            "Children": [
+              {
+                "Id": "prod12",
+                "Title": "Oxidante de Combustível",
+                "Children": [
+                  {
+                    "Id": "prod15",
+                    "Title": "Aparelho de Controlo Mental",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod14",
+                    "Title": "Analisador Holográfico",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod16",
+                    "Title": "Compressor de Minerais",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod13",
+                    "Title": "Drones Explosivos",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech136",
+                "Title": "Ressoador do Núcleo de Velocidade Warp",
+                "Children": [
+                  {
+                    "Id": "tech139",
+                    "Title": "Blindagem Warp Amplificada",
+                    "Children": [
+                      {
+                        "Id": "tech140",
+                        "Title": "Blindagem Warp Cromática",
+                        "Children": [
+                          {
+                            "Id": "tech141",
+                            "Title": "Computador Warp Temporal",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech137",
+                    "Title": "Injetor Warp Plasmático",
+                    "Children": [
+                      {
+                        "Id": "tech138",
+                        "Title": "Devastador de Realidade",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech166",
+                "Title": "Laser de Matéria",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

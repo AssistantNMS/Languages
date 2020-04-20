@@ -1,0 +1,3595 @@
+[
+  {
+    "Id": "tree1",
+    "Name": "Basisconstructie",
+    "Trees": [
+      {
+        "Name": "Houten schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Houten muur",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Houten vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glaspaneel in houten frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Houten trap",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halve houten trap",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Klein houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Houten driehoek",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleine houten driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dunne houten wand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Aflopend houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine houten muur",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Korte houten wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Houten deurframe",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Houten raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Houten voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Houten doorgang",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine houten deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Houten automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Houten dak",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Houten dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Houten dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Houten binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Houten boog",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halve houten boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Metalen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metalen wand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metalen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glaspaneel met metalen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metalen schans",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halve metalen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Klein metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleine metalen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Smalle metalen wand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Aflopend metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine metalen wand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Korte metalen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalen deurframe",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metalen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metalen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine metalen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Metalen automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalen dak",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Metalen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metalen boog",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halve metalen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Betonnen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonnen muur",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonnen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glaspaneel met betonnen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonnen schans",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halve betonnen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Klein betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betonnen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleine betonnen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dunne betonnen wand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Aflopend betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine betonnen muur",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Korte betonnen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betonnen deurframe",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonnen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonnen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betonnen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine betonnen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Betonnen automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betonnen dak",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betonnen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betonnen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Betonnen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonnen boog",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halve betonnen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Basistechnologie voor bewoning",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Basisteleportatiemodule",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biobrandstofreactor",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Bedrading",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Accu",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Zonnepaneel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Gezondheidsstation",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Beschermingsunit",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Signaalversterker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Opslagbaken",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree2",
+    "Name": "Vitale technologie",
+    "Trees": [
+      {
+        "Name": "Basistechnologie voor bewoning",
+        "Children": [
+          {
+            "Id": "conTech10",
+            "Title": "Basisteleportatiemodule",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biobrandstofreactor",
+                "Children": [
+                  {
+                    "Id": "conTech53",
+                    "Title": "Bedrading",
+                    "Children": [
+                      {
+                        "Id": "conTech57",
+                        "Title": "Accu",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech50",
+                        "Title": "Zonnepaneel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech4",
+                    "Title": "Gezondheidsstation",
+                    "Children": [
+                      {
+                        "Id": "conTech5",
+                        "Title": "Beschermingsunit",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech8",
+                    "Title": "Signaalversterker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech6",
+                "Title": "Opslagbaken",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Houten schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Houten muur",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Houten vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glaspaneel in houten frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Houten trap",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halve houten trap",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Klein houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Houten driehoek",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleine houten driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dunne houten wand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Aflopend houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine houten muur",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Korte houten wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Houten deurframe",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Houten raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Houten voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Houten doorgang",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine houten deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Houten automatische deur",
+                    "Children": [
+                      {
+                        "Id": "build323",
+                        "Title": "Grote houten automatische deur",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Houten dak",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Houten dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Houten dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Houten binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Houten boog",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halve houten boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Metalen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metalen wand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metalen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glaspaneel met metalen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metalen schans",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halve metalen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Klein metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleine metalen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Smalle metalen wand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Aflopend metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine metalen wand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Korte metalen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalen deurframe",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metalen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metalen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine metalen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Metalen automatische deur",
+                    "Children": [
+                      {
+                        "Id": "build327",
+                        "Title": "Grote metalen automatische deur",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalen dak",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Metalen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metalen boog",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halve metalen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Betonnen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonnen muur",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonnen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glaspaneel met betonnen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonnen schans",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halve betonnen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Klein betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betonnen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleine betonnen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dunne betonnen wand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Aflopend betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine betonnen muur",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Korte betonnen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betonnen deurframe",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonnen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonnen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betonnen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine betonnen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Betonnen automatische deur",
+                    "Children": [
+                      {
+                        "Id": "build331",
+                        "Title": "Grote betonnen automatische deur",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betonnen dak",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betonnen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betonnen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Betonnen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonnen boog",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halve betonnen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree3",
+    "Name": "Constructiemodules",
+    "Trees": [
+      {
+        "Name": "Grote prefabs",
+        "Children": [
+          {
+            "Id": "build65",
+            "Title": "Cilindervormige ruimte",
+            "Children": [
+              {
+                "Id": "build66",
+                "Title": "Vierkante ruimte",
+                "Children": [
+                  {
+                    "Id": "build88",
+                    "Title": "Fundament",
+                    "Children": [
+                      {
+                        "Id": "build91",
+                        "Title": "Bestrating",
+                        "Children": [
+                          {
+                            "Id": "build160",
+                            "Title": "Bestrating",
+                            "Children": []
+                          },
+                          {
+                            "Id": "build86",
+                            "Title": "Bestrating",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build204",
+                        "Title": "Vierdelige steunconstructie",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build205",
+                        "Title": "Steunconstructie",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build89",
+                        "Title": "Frame voor cilindervormige ruimte",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build67",
+                "Title": "Rechte gang",
+                "Children": [
+                  {
+                    "Id": "build68",
+                    "Title": "L-vormige gang",
+                    "Children": [
+                      {
+                        "Id": "build69",
+                        "Title": "T-vormige gang",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build70",
+                        "Title": "X-vormige gang",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build72",
+                    "Title": "Gang met glazen dak",
+                    "Children": [
+                      {
+                        "Id": "build94",
+                        "Title": "Raam",
+                        "Children": [
+                          {
+                            "Id": "build95",
+                            "Title": "Groot glazen paneel",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build74",
+                        "Title": "Bio-koepel",
+                        "Children": [
+                          {
+                            "Id": "build73",
+                            "Title": "Observatiekoepel",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build71",
+                        "Title": "Gebogen gang",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build84",
+                "Title": "Deur",
+                "Children": [
+                  {
+                    "Id": "build207",
+                    "Title": "Holodeur",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build85",
+                    "Title": "Hellende oprit",
+                    "Children": [
+                      {
+                        "Id": "build215",
+                        "Title": "Ladder",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Kleine prefabs",
+        "Children": [
+          {
+            "Id": "build75",
+            "Title": "Kubusvormige ruimte",
+            "Children": [
+              {
+                "Id": "build93",
+                "Title": "Steunconstructie kubusvormige ruimte",
+                "Children": [
+                  {
+                    "Id": "build90",
+                    "Title": "Frame voor blokvormige ruimte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build83",
+                    "Title": "Vloer kubusvormige ruimte",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build92",
+                    "Title": "4-delige steunconstructie kubus ruimte",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build78",
+                "Title": "Gebogen blokvormige muur",
+                "Children": [
+                  {
+                    "Id": "build80",
+                    "Title": "Binnentrap",
+                    "Children": [
+                      {
+                        "Id": "build87",
+                        "Title": "Ladder",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build82",
+                    "Title": "Blokvormige binnenmuur",
+                    "Children": [
+                      {
+                        "Id": "build81",
+                        "Title": "Blokvormige binnendeur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build206",
+                    "Title": "Blokvormige dakrand",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build77",
+                "Title": "Glazen blokvormige ruimte",
+                "Children": [
+                  {
+                    "Id": "build79",
+                    "Title": "Gebogen blokvormig dak",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build96",
+                    "Title": "Raam",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build97",
+                    "Title": "Raam",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Technologiemodules",
+        "Children": [
+          {
+            "Id": "conTech6",
+            "Title": "Opslagbaken",
+            "Children": [
+              {
+                "Id": "conTech3",
+                "Title": "Galactische handelsterminal",
+                "Children": []
+              },
+              {
+                "Id": "conTech20",
+                "Title": "Berichtenmodule",
+                "Children": [
+                  {
+                    "Id": "conTech21",
+                    "Title": "Communicatiestation",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech4",
+                "Title": "Gezondheidsstation",
+                "Children": [
+                  {
+                    "Id": "conTech5",
+                    "Title": "Beschermingsunit",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech10",
+                "Title": "Basisteleportatiemodule",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech16",
+                    "Title": "Gedaantemodulator",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech2",
+                    "Title": "Landingsplatform",
+                    "Children": [
+                      {
+                        "Id": "conTech62",
+                        "Title": "Korteafstandsteleporter",
+                        "Children": []
+                      },
+                      {
+                        "Id": "conTech54",
+                        "Title": "Teleportatiekabel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech13",
+                    "Title": "Draagbare raffinaderij",
+                    "Children": [
+                      {
+                        "Id": "conTech14",
+                        "Title": "Middelgrote raffinaderij",
+                        "Children": [
+                          {
+                            "Id": "conTech15",
+                            "Title": "Grote raffinaderij",
+                            "Children": []
+                          },
+                          {
+                            "Id": "conTech9",
+                            "Title": "Antimateriereactor",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "conTech17",
+                "Title": "Bouwstoffenverwerker",
+                "Children": [
+                  {
+                    "Id": "conTech19",
+                    "Title": "Veeteeltrobot",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech18",
+                    "Title": "Automatische voeder-unit",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build181",
+                "Title": "Lichtblok",
+                "Children": [
+                  {
+                    "Id": "build359",
+                    "Title": "Lichtvloer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech43",
+                    "Title": "Ruisblok",
+                    "Children": [
+                      {
+                        "Id": "build361",
+                        "Title": "Bytebeat-kabel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build360",
+                        "Title": "Bytebeat-apparaat",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build362",
+                        "Title": "Bytebeat-schakelaar",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech42",
+                    "Title": "Bolmaker",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Transportmodules",
+        "Children": [
+          {
+            "Id": "conTech23",
+            "Title": "Roamer-garage",
+            "Children": [
+              {
+                "Id": "conTech27",
+                "Title": "Exocraft-oproepstation",
+                "Children": [
+                  {
+                    "Id": "build395",
+                    "Title": "Exocraft-materialiseerder",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech22",
+                "Title": "Nomad-garage",
+                "Children": []
+              },
+              {
+                "Id": "conTech63",
+                "Title": "Minotaur-garage",
+                "Children": []
+              },
+              {
+                "Id": "conTech26",
+                "Title": "Nautilon-ruimte",
+                "Children": []
+              },
+              {
+                "Id": "conTech25",
+                "Title": "Pilgrim-garage",
+                "Children": []
+              },
+              {
+                "Id": "conTech24",
+                "Title": "Colossus-garage",
+                "Children": []
+              },
+              {
+                "Id": "conTech40",
+                "Title": "Startplatform",
+                "Children": [
+                  {
+                    "Id": "conTech39",
+                    "Title": "Obstakel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech38",
+                    "Title": "Vermogensboost",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Aquatische constructie",
+        "Children": [
+          {
+            "Id": "build172",
+            "Title": "Diepzee-kamer",
+            "Children": [
+              {
+                "Id": "conTech41",
+                "Title": "Onderwaterschuilplaats",
+                "Children": []
+              },
+              {
+                "Id": "build176",
+                "Title": "Glazen tunnel",
+                "Children": [
+                  {
+                    "Id": "build95",
+                    "Title": "Groot glazen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build177",
+                    "Title": "L-vormige glazen tunnel",
+                    "Children": [
+                      {
+                        "Id": "build178",
+                        "Title": "T-vormige glazen tunnel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build179",
+                        "Title": "X-vormige glazen tunnel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build180",
+                    "Title": "Verticale glazen tunnel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build173",
+                "Title": "Vierkante diepzee-kamer",
+                "Children": []
+              },
+              {
+                "Id": "build175",
+                "Title": "Waterdichte deur",
+                "Children": [
+                  {
+                    "Id": "build174",
+                    "Title": "Moonpool",
+                    "Children": [
+                      {
+                        "Id": "conTech26",
+                        "Title": "Nautilon-ruimte",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Stickerontwerpen",
+        "Children": [
+          {
+            "Id": "build270",
+            "Title": "Sticker",
+            "Children": [
+              {
+                "Id": "build270",
+                "Title": "Sticker",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Sticker",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Sticker",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build270",
+                "Title": "Sticker",
+                "Children": [
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build270",
+                    "Title": "Sticker",
+                    "Children": [
+                      {
+                        "Id": "build270",
+                        "Title": "Sticker",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Decoratieve modules",
+        "Children": [
+          {
+            "Id": "build244",
+            "Title": "Muurscherm",
+            "Children": [
+              {
+                "Id": "build243",
+                "Title": "Muurventilator",
+                "Children": [
+                  {
+                    "Id": "build227",
+                    "Title": "Muureenheid",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build229",
+                    "Title": "Opslagpaneel",
+                    "Children": [
+                      {
+                        "Id": "build249",
+                        "Title": "Plat paneel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build233",
+                        "Title": "Zijpaneel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build159",
+                        "Title": "Plankpaneel",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build251",
+                "Title": "Groen muurscherm",
+                "Children": [
+                  {
+                    "Id": "build246",
+                    "Title": "Plafondelement",
+                    "Children": [
+                      {
+                        "Id": "build248",
+                        "Title": "Robotarm",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build242",
+                    "Title": "Techpaneel",
+                    "Children": [
+                      {
+                        "Id": "build152",
+                        "Title": "Wapenrek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build228",
+                "Title": "Laden",
+                "Children": [
+                  {
+                    "Id": "build245",
+                    "Title": "Server",
+                    "Children": [
+                      {
+                        "Id": "build250",
+                        "Title": "Oscilloscoop",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build247",
+                    "Title": "Flessenrek",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build151",
+                    "Title": "Kleine kist",
+                    "Children": [
+                      {
+                        "Id": "build230",
+                        "Title": "Achtzijdige ladekast",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build146",
+                        "Title": "Productievat",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build232",
+                    "Title": "Kluisje",
+                    "Children": [
+                      {
+                        "Id": "build231",
+                        "Title": "Hoge kast",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build150",
+                    "Title": "Vergrendelde kist",
+                    "Children": [
+                      {
+                        "Id": "build147",
+                        "Title": "Productiekist",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Decoratieve modules",
+        "Children": [
+          {
+            "Id": "build153",
+            "Title": "Stoel",
+            "Children": [
+              {
+                "Id": "build154",
+                "Title": "Stoel",
+                "Children": [
+                  {
+                    "Id": "build157",
+                    "Title": "Bed",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build155",
+                    "Title": "Stoel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build219",
+                    "Title": "Bank",
+                    "Children": [
+                      {
+                        "Id": "build221",
+                        "Title": "Sofa",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build220",
+                        "Title": "Hoekbank",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build235",
+                "Title": "Vlag 1",
+                "Children": [
+                  {
+                    "Id": "build236",
+                    "Title": "Vlag 2",
+                    "Children": [
+                      {
+                        "Id": "build237",
+                        "Title": "Vlag 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build238",
+                        "Title": "Vlag 4",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build239",
+                    "Title": "Muurvlag 1",
+                    "Children": [
+                      {
+                        "Id": "build241",
+                        "Title": "Muurvlag 3",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build240",
+                        "Title": "Muurvlag 2",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build156",
+                "Title": "Tafel",
+                "Children": [
+                  {
+                    "Id": "build156",
+                    "Title": "Tafel",
+                    "Children": [
+                      {
+                        "Id": "build234",
+                        "Title": "Vloermat",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build223",
+                    "Title": "Eenvoudig bureau",
+                    "Children": [
+                      {
+                        "Id": "build222",
+                        "Title": "Groot monitorstation",
+                        "Children": [
+                          {
+                            "Id": "build158",
+                            "Title": "Lichttafel",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "build224",
+                        "Title": "Gebogen bureau",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build225",
+                        "Title": "Monitorstation",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build226",
+                        "Title": "Werkblad",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Verlichting",
+        "Children": [
+          {
+            "Id": "build336",
+            "Title": "Licht",
+            "Children": [
+              {
+                "Id": "build213",
+                "Title": "Witte verlichting",
+                "Children": [
+                  {
+                    "Id": "build344",
+                    "Title": "Blauwe verlichting",
+                    "Children": [
+                      {
+                        "Id": "build346",
+                        "Title": "Gele verlichting",
+                        "Children": []
+                      },
+                      {
+                        "Id": "build347",
+                        "Title": "Groene verlichting",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build348",
+                    "Title": "Rode verlichting",
+                    "Children": [
+                      {
+                        "Id": "build345",
+                        "Title": "Roze verlichting",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build336",
+                "Title": "Licht",
+                "Children": [
+                  {
+                    "Id": "build336",
+                    "Title": "Licht",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build336",
+                    "Title": "Licht",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build214",
+                    "Title": "Plafondverlichting",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build182",
+                "Title": "Lablamp",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Industriële modules",
+        "Children": [
+          {
+            "Id": "conTech53",
+            "Title": "Bedrading",
+            "Children": [
+              {
+                "Id": "conTech52",
+                "Title": "Biobrandstofreactor",
+                "Children": [
+                  {
+                    "Id": "build396",
+                    "Title": "Elektrische verhullingsunit",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech50",
+                    "Title": "Zonnepaneel",
+                    "Children": [
+                      {
+                        "Id": "conTech51",
+                        "Title": "Elektromagnetische generator",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "conTech57",
+                    "Title": "Accu",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech46",
+                "Title": "Mineraalextractor",
+                "Children": [
+                  {
+                    "Id": "conTech47",
+                    "Title": "Gasextractor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech48",
+                    "Title": "Voorraaddepot",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech49",
+                    "Title": "Bevoorradingsleiding",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech55",
+                "Title": "Muurschakelaar",
+                "Children": [
+                  {
+                    "Id": "conTech56",
+                    "Title": "Vloerschakelaar",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech58",
+                    "Title": "Sensorschakelaar",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech59",
+                    "Title": "Knop",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech60",
+                    "Title": "Energie-inverteerder",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech61",
+                    "Title": "Automatische schakelaar",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Landbouwmodules",
+        "Children": [
+          {
+            "Id": "conTech33",
+            "Title": "Hydrocultuurbak",
+            "Children": [
+              {
+                "Id": "build142",
+                "Title": "Bloempot",
+                "Children": [
+                  {
+                    "Id": "build145",
+                    "Title": "Plantenbak",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Florahouder",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Florahouder",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build141",
+                    "Title": "Florahouder",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech34",
+                "Title": "Grote hydrocultuurbak",
+                "Children": []
+              },
+              {
+                "Id": "build130",
+                "Title": "Schimmelcluster",
+                "Children": [
+                  {
+                    "Id": "build132",
+                    "Title": "Gifdistel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build131",
+                "Title": "Winterkruid",
+                "Children": [
+                  {
+                    "Id": "build135",
+                    "Title": "Gravitino-gastheer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build129",
+                "Title": "Gammakruid",
+                "Children": [
+                  {
+                    "Id": "build134",
+                    "Title": "Buikrotbloem",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build137",
+                "Title": "Echinocactus",
+                "Children": [
+                  {
+                    "Id": "build136",
+                    "Title": "Mordietwortel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build138",
+                "Title": "Sterrenstruik",
+                "Children": [
+                  {
+                    "Id": "build139",
+                    "Title": "Proteïneparel",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build133",
+                "Title": "Zonnekruiper",
+                "Children": [
+                  {
+                    "Id": "build140",
+                    "Title": "NipNip",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Houten schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build8",
+            "Title": "Houten muur",
+            "Children": [
+              {
+                "Id": "build17",
+                "Title": "Houten vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build18",
+                    "Title": "Glaspaneel in houten frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build20",
+                    "Title": "Houten trap",
+                    "Children": [
+                      {
+                        "Id": "build21",
+                        "Title": "Halve houten trap",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build19",
+                    "Title": "Klein houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build338",
+                    "Title": "Houten driehoek",
+                    "Children": [
+                      {
+                        "Id": "build339",
+                        "Title": "Kleine houten driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build9",
+                "Title": "Dunne houten wand",
+                "Children": [
+                  {
+                    "Id": "build12",
+                    "Title": "Aflopend houten paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build10",
+                    "Title": "Kleine houten muur",
+                    "Children": [
+                      {
+                        "Id": "build11",
+                        "Title": "Korte houten wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build14",
+                "Title": "Houten deurframe",
+                "Children": [
+                  {
+                    "Id": "build13",
+                    "Title": "Houten raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build16",
+                        "Title": "Houten voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build15",
+                    "Title": "Houten doorgang",
+                    "Children": [
+                      {
+                        "Id": "build321",
+                        "Title": "Kleine houten deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build322",
+                    "Title": "Houten automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build22",
+                "Title": "Houten dak",
+                "Children": [
+                  {
+                    "Id": "build23",
+                    "Title": "Houten dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build24",
+                    "Title": "Houten dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build324",
+                        "Title": "Houten binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build25",
+                    "Title": "Houten boog",
+                    "Children": [
+                      {
+                        "Id": "build26",
+                        "Title": "Halve houten boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Metalen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build46",
+            "Title": "Metalen wand",
+            "Children": [
+              {
+                "Id": "build55",
+                "Title": "Metalen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build56",
+                    "Title": "Glaspaneel met metalen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build58",
+                    "Title": "Metalen schans",
+                    "Children": [
+                      {
+                        "Id": "build59",
+                        "Title": "Halve metalen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build57",
+                    "Title": "Klein metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build340",
+                    "Title": "Metalen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build341",
+                        "Title": "Kleine metalen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build47",
+                "Title": "Smalle metalen wand",
+                "Children": [
+                  {
+                    "Id": "build50",
+                    "Title": "Aflopend metalen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build48",
+                    "Title": "Kleine metalen wand",
+                    "Children": [
+                      {
+                        "Id": "build49",
+                        "Title": "Korte metalen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build52",
+                "Title": "Metalen deurframe",
+                "Children": [
+                  {
+                    "Id": "build51",
+                    "Title": "Metalen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build54",
+                        "Title": "Metalen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build53",
+                    "Title": "Metalen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build325",
+                        "Title": "Kleine metalen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build326",
+                    "Title": "Metalen automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build60",
+                "Title": "Metalen dak",
+                "Children": [
+                  {
+                    "Id": "build61",
+                    "Title": "Metalen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build62",
+                    "Title": "Metalen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build328",
+                        "Title": "Metalen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build63",
+                    "Title": "Metalen boog",
+                    "Children": [
+                      {
+                        "Id": "build64",
+                        "Title": "Halve metalen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Betonnen schuilplaatsen",
+        "Children": [
+          {
+            "Id": "build27",
+            "Title": "Betonnen muur",
+            "Children": [
+              {
+                "Id": "build36",
+                "Title": "Betonnen vloerpaneel",
+                "Children": [
+                  {
+                    "Id": "build37",
+                    "Title": "Glaspaneel met betonnen frame",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build39",
+                    "Title": "Betonnen schans",
+                    "Children": [
+                      {
+                        "Id": "build40",
+                        "Title": "Halve betonnen schans",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build38",
+                    "Title": "Klein betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build342",
+                    "Title": "Betonnen driehoek",
+                    "Children": [
+                      {
+                        "Id": "build343",
+                        "Title": "Kleine betonnen driehoek",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build28",
+                "Title": "Dunne betonnen wand",
+                "Children": [
+                  {
+                    "Id": "build31",
+                    "Title": "Aflopend betonnen paneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build29",
+                    "Title": "Kleine betonnen muur",
+                    "Children": [
+                      {
+                        "Id": "build30",
+                        "Title": "Korte betonnen wand",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "build33",
+                "Title": "Betonnen deurframe",
+                "Children": [
+                  {
+                    "Id": "build32",
+                    "Title": "Betonnen raampaneel",
+                    "Children": [
+                      {
+                        "Id": "build35",
+                        "Title": "Betonnen voorgevel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build34",
+                    "Title": "Betonnen doorgang",
+                    "Children": [
+                      {
+                        "Id": "build329",
+                        "Title": "Kleine betonnen deur",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build330",
+                    "Title": "Betonnen automatische deur",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build41",
+                "Title": "Betonnen dak",
+                "Children": [
+                  {
+                    "Id": "build42",
+                    "Title": "Betonnen dakpaneel",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build43",
+                    "Title": "Betonnen dakhoek",
+                    "Children": [
+                      {
+                        "Id": "build332",
+                        "Title": "Betonnen binnendakhoek",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build44",
+                    "Title": "Betonnen boog",
+                    "Children": [
+                      {
+                        "Id": "build45",
+                        "Title": "Halve betonnen boog",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Primitieve vormen",
+        "Children": [
+          {
+            "Id": "build253",
+            "Title": "Grote wig",
+            "Children": [
+              {
+                "Id": "build254",
+                "Title": "Kleine wig",
+                "Children": [
+                  {
+                    "Id": "build255",
+                    "Title": "Piramide",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "build257",
+                "Title": "Pijp",
+                "Children": [
+                  {
+                    "Id": "build256",
+                    "Title": "Gebogen pijp",
+                    "Children": []
+                  },
+                  {
+                    "Id": "build76",
+                    "Title": "Massieve kubus",
+                    "Children": [
+                      {
+                        "Id": "build259",
+                        "Title": "Kubus",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "build258",
+                    "Title": "Cilinder",
+                    "Children": [
+                      {
+                        "Id": "build260",
+                        "Title": "Globe",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Opslag-units",
+        "Children": [
+          {
+            "Id": "conTech35",
+            "Title": "Opslagcontainer",
+            "Children": [
+              {
+                "Id": "conTech35",
+                "Title": "Opslagcontainer",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Opslagcontainer",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "conTech35",
+                "Title": "Opslagcontainer",
+                "Children": [
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  },
+                  {
+                    "Id": "conTech35",
+                    "Title": "Opslagcontainer",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree5",
+    "Name": "Exopak-upgrades",
+    "Trees": [
+      {
+        "Name": "Blauwdrukken zelf te maken upgrades",
+        "Children": [
+          {
+            "Id": "tech3",
+            "Title": "Lifesupport",
+            "Children": [
+              {
+                "Id": "tech13",
+                "Title": "Veiligheidshandschoen",
+                "Children": [
+                  {
+                    "Id": "tech143",
+                    "Title": "Persoonlijke raffinaderij",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech1",
+                "Title": "Omgevingsbescherming",
+                "Children": [
+                  {
+                    "Id": "tech8",
+                    "Title": "Verkoelingsnetwerk",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech9",
+                    "Title": "Thermische laag",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech10",
+                    "Title": "Gifonderdrukker",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech11",
+                    "Title": "Stralingsdeflector",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech12",
+                    "Title": "Ventilatiemembraan",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech2",
+                    "Title": "Schildrooster",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech4",
+                "Title": "Zuurstofrecycler",
+                "Children": [
+                  {
+                    "Id": "tech18",
+                    "Title": "Zuurstofomleiding",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech5",
+                "Title": "Jetpack",
+                "Children": [
+                  {
+                    "Id": "tech6",
+                    "Title": "Neurale stimulator",
+                    "Children": [
+                      {
+                        "Id": "tech142",
+                        "Title": "Windstroommotor",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech7",
+                    "Title": "Raketlaarzen",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech17",
+                    "Title": "Efficiënte waterstralen",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech19",
+                "Title": "Eenvoudige vertaler",
+                "Children": [
+                  {
+                    "Id": "tech20",
+                    "Title": "Superieure vertaler",
+                    "Children": [
+                      {
+                        "Id": "tech21",
+                        "Title": "Geavanceerde vertaler",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree6",
+    "Name": "Ruimteschip-upgrades",
+    "Trees": [
+      {
+        "Name": "Blauwdrukken zelf te maken upgrades",
+        "Children": [
+          {
+            "Id": "tech23",
+            "Title": "Pulsmotor",
+            "Children": [
+              {
+                "Id": "tech144",
+                "Title": "Instabiliteitsmotor",
+                "Children": [
+                  {
+                    "Id": "tech145",
+                    "Title": "Sublichtversterker",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech28",
+                "Title": "Teleportontvanger",
+                "Children": [
+                  {
+                    "Id": "tech40",
+                    "Title": "Conflictscanner",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech39",
+                    "Title": "Economiescanner",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech29",
+                "Title": "Hyperdrive",
+                "Children": [
+                  {
+                    "Id": "tech146",
+                    "Title": "Noodwarp-module",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech30",
+                    "Title": "Cadmiummotor",
+                    "Children": [
+                      {
+                        "Id": "tech31",
+                        "Title": "Emerilmotor",
+                        "Children": [
+                          {
+                            "Id": "tech32",
+                            "Title": "Indiummotor",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech25",
+                "Title": "Stuwraket",
+                "Children": [
+                  {
+                    "Id": "tech26",
+                    "Title": "Efficiënte stuwraketten",
+                    "Children": [
+                      {
+                        "Id": "tech27",
+                        "Title": "Lanceersysteem-oplader",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech33",
+                "Title": "Afweerschild",
+                "Children": [
+                  {
+                    "Id": "tech34",
+                    "Title": "Ablatief pantser",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech37",
+                "Title": "Fotonkanon",
+                "Children": [
+                  {
+                    "Id": "tech46",
+                    "Title": "Niet-lineaire zoekers",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech35",
+                    "Title": "Raketwerper",
+                    "Children": [
+                      {
+                        "Id": "tech36",
+                        "Title": "Grote raketbuizen",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech41",
+                    "Title": "Faselaser",
+                    "Children": [
+                      {
+                        "Id": "tech42",
+                        "Title": "Fourierbegrenzer",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech43",
+                    "Title": "Positronuitwerper",
+                    "Children": [
+                      {
+                        "Id": "tech44",
+                        "Title": "Fragment-supercharger",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech45",
+                    "Title": "Infraversneller",
+                    "Children": [
+                      {
+                        "Id": "tech147",
+                        "Title": "Q-resonator",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech47",
+                    "Title": "Cyclotron-ballista",
+                    "Children": [
+                      {
+                        "Id": "tech48",
+                        "Title": "Dysonpomp",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree7",
+    "Name": "Multitool-upgrades",
+    "Trees": [
+      {
+        "Name": "Blauwdrukken zelf te maken upgrades",
+        "Children": [
+          {
+            "Id": "tech69",
+            "Title": "Mijnlaser",
+            "Children": [
+              {
+                "Id": "tech72",
+                "Title": "Boltcaster",
+                "Children": [
+                  {
+                    "Id": "tech73",
+                    "Title": "Loopionisatie",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech76",
+                    "Title": "Plasmagranaatwerper",
+                    "Children": [
+                      {
+                        "Id": "tech77",
+                        "Title": "Geologiekanon",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech78",
+                    "Title": "Vuurspeer",
+                    "Children": [
+                      {
+                        "Id": "tech79",
+                        "Title": "Massaversneller",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech80",
+                    "Title": "Energieblaster",
+                    "Children": [
+                      {
+                        "Id": "tech81",
+                        "Title": "Granaatvet",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech82",
+                    "Title": "Pulsspitter",
+                    "Children": [
+                      {
+                        "Id": "tech83",
+                        "Title": "Verbeterde patronen",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech67",
+                "Title": "Persoonlijk krachtveld",
+                "Children": [
+                  {
+                    "Id": "tech68",
+                    "Title": "Conflictvizier",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech70",
+                "Title": "Geavanceerde mijnlaser",
+                "Children": [
+                  {
+                    "Id": "tech71",
+                    "Title": "Optische boor",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech64",
+                "Title": "Golfrecycler",
+                "Children": [
+                  {
+                    "Id": "tech65",
+                    "Title": "Detector",
+                    "Children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree8",
+    "Name": "Exocraft-upgrades",
+    "Trees": [
+      {
+        "Name": "Blauwdrukken zelf te maken upgrades",
+        "Children": [
+          {
+            "Id": "tech90",
+            "Title": "Fusiemotor",
+            "Children": [
+              {
+                "Id": "tech101",
+                "Title": "Humboldt-motor",
+                "Children": [
+                  {
+                    "Id": "tech104",
+                    "Title": "Supersonar",
+                    "Children": [
+                      {
+                        "Id": "tech105",
+                        "Title": "Blauwe generator",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech103",
+                        "Title": "Tethyslaser",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech102",
+                        "Title": "Nautilon-kanon",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech170",
+                "Title": "Megawattverwarming",
+                "Children": []
+              },
+              {
+                "Id": "tech171",
+                "Title": "Luchtfilterunit",
+                "Children": []
+              },
+              {
+                "Id": "tech172",
+                "Title": "Neutronenschild",
+                "Children": []
+              },
+              {
+                "Id": "tech169",
+                "Title": "Thermische buffer",
+                "Children": []
+              },
+              {
+                "Id": "tech94",
+                "Title": "Exocraft-signaalversterker",
+                "Children": [
+                  {
+                    "Id": "tech174",
+                    "Title": "Geavanceerde signaalversterker",
+                    "Children": [
+                      {
+                        "Id": "tech96",
+                        "Title": "Upgrade Tau voor exocraft-signaalversterker",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech97",
+                "Title": "Exocraft-acceleratiemodule",
+                "Children": [
+                  {
+                    "Id": "tech173",
+                    "Title": "Icarus-energiesysteem",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech98",
+                "Title": "Exocraft-mijnlaser",
+                "Children": [
+                  {
+                    "Id": "tech99",
+                    "Title": "Upgrade Sigma voor exocraft-mijnlaser",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech100",
+                    "Title": "Exocraft-kanon",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech175",
+                "Title": "Daedalusmotor",
+                "Children": [
+                  {
+                    "Id": "tech183",
+                    "Title": "Omgevingscontrole-unit",
+                    "Children": [
+                      {
+                        "Id": "tech178",
+                        "Title": "Vlam van Ariadne",
+                        "Children": [
+                          {
+                            "Id": "tech176",
+                            "Title": "Zelfsmerende servo's",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech177",
+                    "Title": "Minotaur-radarapparatuur",
+                    "Children": []
+                  },
+                  {
+                    "Id": "tech179",
+                    "Title": "Minotaur-laser",
+                    "Children": [
+                      {
+                        "Id": "tech180",
+                        "Title": "Minotaur-precisielaser",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech181",
+                        "Title": "Minotaur-kanon",
+                        "Children": []
+                      },
+                      {
+                        "Id": "tech182",
+                        "Title": "Minotaur-boor",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree9",
+    "Name": "Productformules",
+    "Trees": [
+      {
+        "Name": "Onderdelen en apparaten",
+        "Children": [
+          {
+            "Id": "prod23",
+            "Title": "Lifesupport-gel",
+            "Children": [
+              {
+                "Id": "prod11",
+                "Title": "Diwaterstofgel",
+                "Children": [
+                  {
+                    "Id": "prod31",
+                    "Title": "Koolstofkristal",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod34",
+                    "Title": "Zeldzaam metaalelement",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod36",
+                    "Title": "Tetrakobalt",
+                    "Children": [
+                      {
+                        "Id": "prod4",
+                        "Title": "Kobaltspiegel",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod32",
+                    "Title": "Chloorrooster",
+                    "Children": [
+                      {
+                        "Id": "prod9",
+                        "Title": "Zoutrefractor",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod33",
+                    "Title": "Gedestabiliseerd natrium",
+                    "Children": [
+                      {
+                        "Id": "prod10",
+                        "Title": "Natriumdiode",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod35",
+                    "Title": "Superoxidekristal",
+                    "Children": [
+                      {
+                        "Id": "prod8",
+                        "Title": "Zuurstoffilter",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod20",
+                "Title": "Ionenaccu",
+                "Children": [
+                  {
+                    "Id": "prod28",
+                    "Title": "Lanceerbrandstof",
+                    "Children": [
+                      {
+                        "Id": "prod24",
+                        "Title": "Zuurstofcapsule",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod29",
+                        "Title": "Hydrothermale brandstofcel",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod19",
+                        "Title": "Onstabiel plasma",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod21",
+                    "Title": "Geavanceerde ionenaccu",
+                    "Children": [
+                      {
+                        "Id": "prod22",
+                        "Title": "Sterrenschildaccu",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod17",
+                "Title": "Warpcel",
+                "Children": [
+                  {
+                    "Id": "cur41",
+                    "Title": "Atlas-pas v1",
+                    "Children": [
+                      {
+                        "Id": "cur42",
+                        "Title": "Atlas-pas v2",
+                        "Children": [
+                          {
+                            "Id": "prod18",
+                            "Title": "Hyperwarpreactor",
+                            "Children": []
+                          },
+                          {
+                            "Id": "cur43",
+                            "Title": "Atlas-pas v3",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Name": "Waardevolle producten",
+        "Children": [
+          {
+            "Id": "prod49",
+            "Title": "Zuur",
+            "Children": [
+              {
+                "Id": "prod57",
+                "Title": "Smeermiddel",
+                "Children": [
+                  {
+                    "Id": "prod55",
+                    "Title": "Instabiele gel",
+                    "Children": [
+                      {
+                        "Id": "prod56",
+                        "Title": "Vloeibaar explosief",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod54",
+                    "Title": "Glas",
+                    "Children": [
+                      {
+                        "Id": "prod58",
+                        "Title": "Levend glas",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod52",
+                    "Title": "Polyvezel",
+                    "Children": [
+                      {
+                        "Id": "prod51",
+                        "Title": "Hittecondensator",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod53",
+                        "Title": "Printplaat",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod61",
+                "Title": "Thermisch condensaat",
+                "Children": [
+                  {
+                    "Id": "prod59",
+                    "Title": "Verrijkt koolstof",
+                    "Children": [
+                      {
+                        "Id": "prod65",
+                        "Title": "Organische katalysator",
+                        "Children": [
+                          {
+                            "Id": "prod67",
+                            "Title": "Fusieversneller",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod60",
+                    "Title": "Stikstofzout",
+                    "Children": [
+                      {
+                        "Id": "prod64",
+                        "Title": "Halfgeleider",
+                        "Children": [
+                          {
+                            "Id": "prod66",
+                            "Title": "Supergeleider",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod62",
+                        "Title": "Heet ijs",
+                        "Children": [
+                          {
+                            "Id": "prod63",
+                            "Title": "Cryogene pomp",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod71",
+                    "Title": "Aronium",
+                    "Children": [
+                      {
+                        "Id": "prod72",
+                        "Title": "Ruw brons",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod74",
+                        "Title": "Herox",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod76",
+                        "Title": "Lemmium",
+                        "Children": []
+                      },
+                      {
+                        "Id": "prod75",
+                        "Title": "Magno-goud",
+                        "Children": [
+                          {
+                            "Id": "prod78",
+                            "Title": "Iridesiet",
+                            "Children": []
+                          }
+                        ]
+                      },
+                      {
+                        "Id": "prod73",
+                        "Title": "Grantine",
+                        "Children": [
+                          {
+                            "Id": "prod77",
+                            "Title": "Geodesiet",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "prod69",
+                "Title": "Draagbare reactor",
+                "Children": [
+                  {
+                    "Id": "prod70",
+                    "Title": "Kwantumprocessor",
+                    "Children": [
+                      {
+                        "Id": "prod79",
+                        "Title": "Fusieontsteking",
+                        "Children": []
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "prod68",
+                    "Title": "Cryogene kamer",
+                    "Children": [
+                      {
+                        "Id": "prod80",
+                        "Title": "Stasisapparaat",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": "tree10",
+    "Name": "Onderzoek vlaggenschip",
+    "Trees": [
+      {
+        "Name": "Blauwdrukken zelf te maken upgrades",
+        "Children": [
+          {
+            "Id": "prod25",
+            "Title": "Fregatbrandstof (50 ton)",
+            "Children": [
+              {
+                "Id": "prod12",
+                "Title": "Brandstofoxidator",
+                "Children": [
+                  {
+                    "Id": "prod15",
+                    "Title": "Mindcontrol-apparaat",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod14",
+                    "Title": "Holografische analysator",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod16",
+                    "Title": "Mineralencompressor",
+                    "Children": []
+                  },
+                  {
+                    "Id": "prod13",
+                    "Title": "Explosieve drones",
+                    "Children": []
+                  }
+                ]
+              },
+              {
+                "Id": "tech136",
+                "Title": "Resonator warpkern",
+                "Children": [
+                  {
+                    "Id": "tech139",
+                    "Title": "Versterkt warpschild",
+                    "Children": [
+                      {
+                        "Id": "tech140",
+                        "Title": "Chromatisch warpschild",
+                        "Children": [
+                          {
+                            "Id": "tech141",
+                            "Title": "Temporale warpcomputer",
+                            "Children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "Id": "tech137",
+                    "Title": "Plasma-warpinjector",
+                    "Children": [
+                      {
+                        "Id": "tech138",
+                        "Title": "Realiteitsripper",
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Id": "tech166",
+                "Title": "Materielaser",
+                "Children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
