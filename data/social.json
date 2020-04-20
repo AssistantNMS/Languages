@@ -5,6 +5,11 @@
         "link": "https://discord.gg/q3aFBQM"
     },
     {
+      "name": "Reddit",
+      "icon": "reddit.png",
+      "link": "https://www.reddit.com/r/AssistantNMS"
+    },
+    {
         "name": "Twitter",
         "icon": "twitter.png",
         "link": "https://twitter.com/AssistantNMS"
