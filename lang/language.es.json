@@ -216,5 +216,8 @@
   "inventoryRestored": "Inventory was restored",
   "backupInventory": "Backup Inventory",
   "restoreInventory": "Restore Inventory",
+  "favourites": "Favourites",
+  "openCollective": "Open Collective",
+  "repairedUsing": "Repaired Using",
   "translatedBy": "Baltazar Beta & Adrian Ortiz & Héctor González"
 }
