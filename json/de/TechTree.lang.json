@@ -2588,56 +2588,7 @@
           {
             "Id": "conTech35",
             "Title": "Lagerbehälter",
-            "Children": [
-              {
-                "Id": "conTech35",
-                "Title": "Lagerbehälter",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Lagerbehälter",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Lagerbehälter",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Lagerbehälter",
-                    "Children": []
-                  }
-                ]
-              }
-            ]
+            "Children": []
           }
         ]
       }

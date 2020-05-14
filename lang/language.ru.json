@@ -219,5 +219,15 @@
   "favourites": "Favourites",
   "openCollective": "Open Collective",
   "repairedUsing": "Repaired Using",
+  "timers": "Timers",
+  "newTimer": "New Timer",
+  "renameTimer": "Rename Timer",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "errorStartDateShouldNotBeAfterEndDate": "Start Date should not be after End Date",
+  "hexCoordLabel": "Hex Coordinates",
+  "icons": "Icons",
+  "coordinatesCopied": "Coordinates copied!",
+  "galacticAddressCopied": "Galactic Address copied!",
   "translatedBy": "Kradre, SempKid"
 }

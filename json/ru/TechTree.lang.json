@@ -2588,56 +2588,7 @@
           {
             "Id": "conTech35",
             "Title": "Контейнер",
-            "Children": [
-              {
-                "Id": "conTech35",
-                "Title": "Контейнер",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Контейнер",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Контейнер",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Контейнер",
-                    "Children": []
-                  }
-                ]
-              }
-            ]
+            "Children": []
           }
         ]
       }

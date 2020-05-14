@@ -2588,56 +2588,7 @@
           {
             "Id": "conTech35",
             "Title": "Conteneur de rangement",
-            "Children": [
-              {
-                "Id": "conTech35",
-                "Title": "Conteneur de rangement",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Conteneur de rangement",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "Conteneur de rangement",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "Conteneur de rangement",
-                    "Children": []
-                  }
-                ]
-              }
-            ]
+            "Children": []
           }
         ]
       }

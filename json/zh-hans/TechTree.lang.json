@@ -2588,56 +2588,7 @@
           {
             "Id": "conTech35",
             "Title": "贮藏箱",
-            "Children": [
-              {
-                "Id": "conTech35",
-                "Title": "贮藏箱",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "贮藏箱",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  }
-                ]
-              },
-              {
-                "Id": "conTech35",
-                "Title": "贮藏箱",
-                "Children": [
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  },
-                  {
-                    "Id": "conTech35",
-                    "Title": "贮藏箱",
-                    "Children": []
-                  }
-                ]
-              }
-            ]
+            "Children": []
           }
         ]
       }
