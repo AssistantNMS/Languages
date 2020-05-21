@@ -229,5 +229,9 @@
   "icons": "Icons",
   "coordinatesCopied": "Coordinates copied!",
   "galacticAddressCopied": "Galactic Address copied!",
+  "privacyPolicy": "Privacy Policy",
+  "account": "Account",
+  "switchUser": "Switch User",
+  "logout": "Logout",
   "translatedBy": "Charl Meyers"
 }
