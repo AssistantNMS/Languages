@@ -148,5 +148,18 @@
         "ItemId": "build382"
       }
     ]
+  },
+  {
+    "MissionId": 36,
+    "Items": [
+      {
+        "Tier": 1,
+        "ItemId": "build370"
+      },
+      {
+        "Tier": 2,
+        "ItemId": "build369"
+      }
+    ]
   }
 ]
