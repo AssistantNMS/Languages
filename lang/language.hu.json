@@ -247,5 +247,16 @@
   "galacticAtlas": "Galactic Atlas",
   "legalNotice": "This App is not affiliated with Hello Games or No Man's Sky, its subsidiaries, or its parent companies, whose names, logos and products are displayed in this App.",
   "czech": "Czech",
+  "thankYou": "Thank you!",
+  "thankYouForSubmittingFriendCode": "Thank you for submitting your Friend Code.",
+  "weDoNotStoreEmails": "The Assistant for No Man's Sky apps does not store your email address. We use it for confirmation.",
+  "emailHashExample": "In our database your email address looks like this: ",
+  "confirmFriendCode": "Confirm Friend Code",
+  "emailBackupLink": "If that doesn't work, copy and paste the following link in your browser:",
+  "anyQuestionsReplyToThisEmail": "If you have any questions, just reply to this email. We are always happy to help.",
+  "emailSignOff": "Kind Regards,",
+  "emailSignOffTeam": "AssistantNMS Team",
+  "needMoreHelp": "Need more help?",
+  "weAreHereToHelp": "We are here to help you",
   "translatedBy": "Charl Meyers"
 }
