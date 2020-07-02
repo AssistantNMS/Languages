@@ -265,5 +265,7 @@
   "friendCodeNotSubmitted": "Friend Code was not submitted",
   "emailAddress": "Email Address",
   "solarPanelBatteryCalculator": "Solar/Battery Calculator",
+  "storeDescription": "Quickly and easily find out how to craft or refine items in No Man's Sky",
+  "storeFullDescription": "You no longer need to scroll through the menus in No Man's Sky to see how an item is crafted or guess how to refine a resource. This app will be your companion, with all the recipes you need. \n\rRoadmap: https://trello.com/b/zbnaIiVF/public\n\rDiscord: https://discord.gg/q3aFBQM\n\r- Save your data, everything is offline\n- All the recipes (for Resources, TradeItems, and Products)\n- Plan out what you need to farm\n- Blazing fast User Interface\n- Support for multiple languages (Your help would be appreciated)\n- No paywalls\n- Partially Open Source \n\rContributors listed on https://nmsassistant.com",
   "translatedBy": "Meridian & Sphynxcolt & SchwertAs"
 }
