@@ -258,5 +258,12 @@
   "emailSignOffTeam": "AssistantNMS Team",
   "needMoreHelp": "Need more help?",
   "weAreHereToHelp": "We are here to help you",
+  "friendCodes": "Friend Codes",
+  "friendCodeCopied": "Friend Code copied!",
+  "friendCode": "Friend Code",
+  "pleaseCheckMailForConfirmation": "Please check your mail {0}, for a confirmation link",
+  "friendCodeNotSubmitted": "Friend Code was not submitted",
+  "emailAddress": "Email Address",
+  "solarPanelBatteryCalculator": "Solar/Battery Calculator",
   "translatedBy": "Meridian & Sphynxcolt & SchwertAs"
 }
