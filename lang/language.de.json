@@ -265,19 +265,7 @@
   "friendCodeNotSubmitted": "Freundecode nicht hichgeladen.",
   "emailAddress": "E-mail adresse",
   "solarPanelBatteryCalculator": "Sonne/Batterie rechner",
-   "storeFullDescription": "Finde schnell und einfach heraus, wie du Gegenstände in No Man's Sky herstellen oder verfeinern kannst🔍
-Du musst nicht mehr durch die Menüs in No Man's Sky scrollen, um zu sehen, wie ein Gegenstand hergestellt wird, oder erraten, wie eine Ressource verfeinert werden kann. Diese App ist dein Begleiter mit allen Rezepten, die du benötigst. 
-
-\ n \ rRoadmap: https://trello.com/b/zbnaIiVF/public\n\rDiscord: https://discord.gg/q3aFBQM\n\r- Speichern Sie Ihre Daten, alles ist offline 
-
-\ n- Alle Rezepte (für Ressourcen)  , TradeItems und Produkte) 
-
-\ n- Planen Sie, was Sie für die Landwirtschaft benötigen 
-
-\ n- Blitzschnelle Benutzeroberfläche
-
-\ n- Unterstützung für mehrere Sprachen (Ihre Hilfe wäre willkommen) \ n- Keine Paywalls \ n- Teilweise Open Source 
-
-\ n \ rContributors auf https://nmsassistant.com aufgeführt",
+  "storeDescription": "Finde schnell und einfach heraus, wie du Gegenstände in No Man's Sky herstellen oder verfeinern kannst🔍",
+  "storeFullDescription": "Du musst nicht mehr durch die Menüs in No Man's Sky scrollen, um zu sehen, wie ein Gegenstand hergestellt wird, oder erraten, wie eine Ressource verfeinert werden kann. Diese App ist dein Begleiter mit allen Rezepten, die du benötigst. \n\rRoadmap: https://trello.com/b/zbnaIiVF/public \n\rDiscord: https://discord.gg/q3aFBQM \n\r- Speichern Sie Ihre Daten, alles ist offline \n- Alle Rezepte (für Ressourcen), TradeItems und Produkte) \n- Planen Sie, was Sie für die Landwirtschaft benötigen \n- Blitzschnelle Benutzeroberfläche\n- Unterstützung für mehrere Sprachen (Ihre Hilfe wäre willkommen) \n- Keine Paywalls \n- Teilweise Open Source \n\rContributors auf https://nmsassistant.com aufgeführt",
   "translatedBy": "Meridian & Sphynxcolt & SchwertAs"
 }
