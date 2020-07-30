@@ -119,16 +119,16 @@
     "MissionId": 34,
     "Items": [
       {
-        "Tier": 3,
-        "ItemId": "other75"
+        "Tier": 1,
+        "ItemId": "other54"
       },
       {
         "Tier": 2,
         "ItemId": "other52"
       },
       {
-        "Tier": 1,
-        "ItemId": "other54"
+        "Tier": 3,
+        "ItemId": "other75"
       }
     ]
   },
