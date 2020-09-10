@@ -304,5 +304,12 @@
   "spoilerAlert": "Spoiler Alert",
   "spoilersAhead": "You are about to view possible spoilers",
   "conversationEnded": "Conversation has ended",
+  "prevCommunityMission": "Previous Community Mission Rewards",
+  "weekendMissionVideo": "Weekend Mission video",
+  "nextWeekendMission": "Next Weekend Mission",
+  "previousWeekendMission": "Previous Weekend Mission",
+  "homepage": "Home Page",
+  "defaultHomepage": "Default Home Page",
+  "customHomepage": "Custom Home Page",
   "translatedBy": "Karym"
 }
