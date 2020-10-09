@@ -17,6 +17,7 @@
   "technologyModulesJson": "zh-hant/TechnologyModule.lang",
   "proceduralProductsJson": "zh-hant/ProceduralProducts.lang",
   "techTreeJson": "zh-hant/TechTree.lang",
+  "titlesJson": "zh-hant/Titles.lang",
   "weekendMissionSeason1Json": "zh-hant/WeekendMissionsSeason1.lang",
   "weekendMissionSeason2Json": "zh-hant/WeekendMissionsSeason2.lang",
   "weekendMissionSeason3Json": "zh-hant/WeekendMissionsSeason3.lang",
@@ -320,5 +321,10 @@
   "portalAddress": "Portal Address",
   "rechargeThisUsing": "Recharge this item fully using:",
   "useXToRecharge": "Use {0} to recharge:",
+  "communitySpotlight": "Community Spotlight",
+  "titles": "Titles",
+  "owned": "Owned",
+  "notOwned": "Not Owned",
+  "playerName": "Player Name",
   "translatedBy": ""
 }

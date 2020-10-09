@@ -17,6 +17,7 @@
   "technologyModulesJson": "pt/TechnologyModule.lang",
   "proceduralProductsJson": "pt/ProceduralProducts.lang",
   "techTreeJson": "pt/TechTree.lang",
+  "titlesJson": "pt/Titles.lang",
   "weekendMissionSeason1Json": "pt/WeekendMissionsSeason1.lang",
   "weekendMissionSeason2Json": "pt/WeekendMissionsSeason2.lang",
   "weekendMissionSeason3Json": "pt/WeekendMissionsSeason3.lang",
@@ -320,5 +321,10 @@
   "portalAddress": "Portal Address",
   "rechargeThisUsing": "Recharge this item fully using:",
   "useXToRecharge": "Use {0} to recharge:",
+  "communitySpotlight": "Community Spotlight",
+  "titles": "Titles",
+  "owned": "Owned",
+  "notOwned": "Not Owned",
+  "playerName": "Player Name",
   "translatedBy": "Gabriel Ubatuba & CaioOopora"
 }

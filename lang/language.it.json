@@ -17,6 +17,7 @@
   "technologyModulesJson": "it/TechnologyModule.lang",
   "proceduralProductsJson": "it/ProceduralProducts.lang",
   "techTreeJson": "it/TechTree.lang",
+  "titlesJson": "it/Titles.lang",
   "weekendMissionSeason1Json": "it/WeekendMissionsSeason1.lang",
   "weekendMissionSeason2Json": "it/WeekendMissionsSeason2.lang",
   "weekendMissionSeason3Json": "it/WeekendMissionsSeason3.lang",
@@ -320,5 +321,10 @@
   "portalAddress": "Portal Address",
   "rechargeThisUsing": "Recharge this item fully using:",
   "useXToRecharge": "Use {0} to recharge:",
+  "communitySpotlight": "Community Spotlight",
+  "titles": "Titles",
+  "owned": "Owned",
+  "notOwned": "Not Owned",
+  "playerName": "Player Name",
   "translatedBy": "Matteo && Andrea Bodini & Loky"
 }
