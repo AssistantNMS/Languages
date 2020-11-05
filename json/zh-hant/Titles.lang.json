@@ -4,7 +4,7 @@
     "Title": "受雇者{0}",
     "Description": "首次有吉客族對你感到佩服",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -14,7 +14,7 @@
     "Title": "吉客族苦工{0}",
     "Description": "達到吉客族階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -24,7 +24,7 @@
     "Title": "吉客族工人{0}",
     "Description": "達到吉客族階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -34,7 +34,7 @@
     "Title": "朋友{0}",
     "Description": "達到吉客族階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -44,7 +44,7 @@
     "Title": "監督者{0}",
     "Description": "達到吉客族階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -54,7 +54,7 @@
     "Title": "芳香親族{0}",
     "Description": "達到吉客族階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -64,7 +64,7 @@
     "Title": "最好的朋友{0}",
     "Description": "達到吉客族階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -74,7 +74,7 @@
     "Title": "備受寵愛的{0}",
     "Description": "達到吉客族階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -84,7 +84,7 @@
     "Title": "商王{0}",
     "Description": "達到吉客族階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -94,7 +94,7 @@
     "Title": "存在體{0}",
     "Description": "首次有科瓦族對你感到佩服",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -104,7 +104,7 @@
     "Title": "測試對象{0}",
     "Description": "達到科瓦族階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -114,7 +114,7 @@
     "Title": "技術員存在體{0}",
     "Description": "達到科瓦族階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -124,7 +124,7 @@
     "Title": "崇敬軀殼{0}",
     "Description": "達到科瓦族階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -134,7 +134,7 @@
     "Title": "{0}介面",
     "Description": "達到科瓦族階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -144,7 +144,7 @@
     "Title": "重要{0}",
     "Description": "達到科瓦族階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -154,7 +154,7 @@
     "Title": "純粹存在體{0}",
     "Description": "達到科瓦族階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -164,7 +164,7 @@
     "Title": "議會{0}",
     "Description": "達到科瓦族階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -174,7 +174,7 @@
     "Title": "{0}的回音",
     "Description": "達到科瓦族階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -184,7 +184,7 @@
     "Title": "應徵士兵{0}",
     "Description": "首次有維金族對你感到佩服",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -194,7 +194,7 @@
     "Title": "清算人{0}",
     "Description": "達到維金族階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -204,7 +204,7 @@
     "Title": "旗手{0}",
     "Description": "達到維金族階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -214,7 +214,7 @@
     "Title": "武裝維金族{0}",
     "Description": "達到維金族階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -224,7 +224,7 @@
     "Title": "弒敵者{0}",
     "Description": "達到維金族階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -234,7 +234,7 @@
     "Title": "指導教師{0}",
     "Description": "達到維金族階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -244,7 +244,7 @@
     "Title": "副官{0}",
     "Description": "達到維金族階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -254,7 +254,7 @@
     "Title": "聖殿騎士{0}",
     "Description": "達到維金族階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -264,7 +264,7 @@
     "Title": "維金族之手{0}",
     "Description": "達到維金族階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -274,7 +274,7 @@
     "Title": "差使{0}",
     "Description": "首次完成商人工會任務",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -284,7 +284,7 @@
     "Title": "專員{0}",
     "Description": "達到商人工會階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -294,7 +294,7 @@
     "Title": "使節{0}",
     "Description": "達到商人工會階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -304,7 +304,7 @@
     "Title": "經紀人{0}",
     "Description": "達到商人工會階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -314,7 +314,7 @@
     "Title": "經理{0}",
     "Description": "達到商人工會階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -324,7 +324,7 @@
     "Title": "外交官{0}",
     "Description": "達到商人工會階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -334,7 +334,7 @@
     "Title": "領事{0}",
     "Description": "達到商人工會階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -344,7 +344,7 @@
     "Title": "主管{0}",
     "Description": "達到商人工會階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -354,7 +354,7 @@
     "Title": "偉大的{0}",
     "Description": "達到商人工會階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -364,7 +364,7 @@
     "Title": "候選人{0}",
     "Description": "首次完成探險家工會任務",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -374,7 +374,7 @@
     "Title": "學生{0}",
     "Description": "達到探險家工會階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -384,7 +384,7 @@
     "Title": "學徒{0}",
     "Description": "達到探險家工會階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -394,7 +394,7 @@
     "Title": "學者{0}",
     "Description": "達到探險家工會階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -404,7 +404,7 @@
     "Title": "好學的{0}",
     "Description": "達到探險家工會階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -414,7 +414,7 @@
     "Title": "院士{0}",
     "Description": "達到探險家工會階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -424,7 +424,7 @@
     "Title": "講師{0}",
     "Description": "達到探險家工會階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -434,7 +434,7 @@
     "Title": "教授{0}",
     "Description": "達到探險家工會階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -444,7 +444,7 @@
     "Title": "知識守護者{0}",
     "Description": "達到探險家工會階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -454,7 +454,7 @@
     "Title": "傭兵{0}",
     "Description": "首次完成傭兵工會任務",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -464,7 +464,7 @@
     "Title": "少尉{0}",
     "Description": "達到傭兵工會階級 1",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -474,7 +474,7 @@
     "Title": "執行者{0}",
     "Description": "達到傭兵工會階級 2",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -484,7 +484,7 @@
     "Title": "戰士{0}",
     "Description": "達到傭兵工會階級 3",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -494,7 +494,7 @@
     "Title": "守衛{0}",
     "Description": "達到傭兵工會階級 4",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -504,7 +504,7 @@
     "Title": "長官{0}",
     "Description": "達到傭兵工會階級 5",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -514,7 +514,7 @@
     "Title": "指揮官{0}",
     "Description": "達到傭兵工會階級 6",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -524,7 +524,7 @@
     "Title": "元帥{0}",
     "Description": "達到傭兵工會階級 7",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -534,7 +534,7 @@
     "Title": "庇護{0}",
     "Description": "達到傭兵工會階級 8",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -544,7 +544,7 @@
     "Title": "歐幾里得的{0}",
     "Description": "-",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -554,7 +554,7 @@
     "Title": "希伯特的{0}",
     "Description": "抵達了希伯特",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -564,7 +564,7 @@
     "Title": "卡呂普索的{0}",
     "Description": "抵達了卡呂普索",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -574,7 +574,7 @@
     "Title": "赫斯珀洛斯的{0}",
     "Description": "抵達了赫斯珀洛斯",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -584,7 +584,7 @@
     "Title": "海亞蒂絲的{0}",
     "Description": "抵達了海亞蒂絲",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 4
@@ -594,7 +594,7 @@
     "Title": "伊克亞馬圖的{0}",
     "Description": "抵達了伊克亞馬圖",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 5
@@ -604,7 +604,7 @@
     "Title": "布德稜格的{0}",
     "Description": "抵達了布德稜格",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 6
@@ -614,7 +614,7 @@
     "Title": "齊可加勒的{0}",
     "Description": "抵達了齊可加勒",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7
@@ -624,7 +624,7 @@
     "Title": "埃提恩史林的{0}",
     "Description": "抵達了埃提恩史林",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -634,7 +634,7 @@
     "Title": "艾森坦的{0}",
     "Description": "抵達了艾森坦",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 9
@@ -644,7 +644,7 @@
     "Title": "朝聖者{0}",
     "Description": "曾前往銀河樞紐",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galacticHub.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -654,7 +654,7 @@
     "Title": "泰坦{0}",
     "Description": "追蹤到死去的旅行者",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -664,7 +664,7 @@
     "Title": "遠見大師{0}",
     "Description": "向吉客族巨石學習新知",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -674,7 +674,7 @@
     "Title": "邊境行者{0}",
     "Description": "發現了奇特的星球",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/planet.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -684,7 +684,7 @@
     "Title": "奇異點{0}",
     "Description": "遇見寰宇",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -694,7 +694,7 @@
     "Title": "永恆{0}",
     "Description": "受寰宇拯救",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -704,7 +704,7 @@
     "Title": "預言{0}",
     "Description": "向科瓦族巨石學習新知",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -714,7 +714,7 @@
     "Title": "預兆{0}",
     "Description": "向維金族巨石學習新知",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -724,7 +724,7 @@
     "Title": "{0}：玻璃長",
     "Description": "回想",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -734,7 +734,7 @@
     "Title": "航行者{0}",
     "Description": "曾前往罕見星系",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -744,7 +744,7 @@
     "Title": "{0}的倒影",
     "Description": "遇見亡靈",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -754,7 +754,7 @@
     "Title": "第 1 迭代{0}",
     "Description": "原始旅行者的一員",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/player.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -764,7 +764,7 @@
     "Title": "星際旅行者{0}",
     "Description": "通過黑洞",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/blackHole.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -774,7 +774,7 @@
     "Title": "異端{0}",
     "Description": "完成納達和波羅的故事",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/poloAndNada.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -784,7 +784,7 @@
     "Title": "寰宇旅行者{0}",
     "Description": "完成阿耳忒彌斯的故事",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/artemis.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -794,7 +794,7 @@
     "Title": "世界播種者",
     "Description": "完成寰宇之路",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlasPath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -804,7 +804,7 @@
     "Title": "永恆{0}",
     "Description": "拒絕重啟模擬",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -814,7 +814,7 @@
     "Title": "最後的{0}",
     "Description": "替寰宇重啟模擬",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -824,7 +824,7 @@
     "Title": "傳送門能手{0}",
     "Description": "首次穿越傳送門",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/portal.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -834,7 +834,7 @@
     "Title": "裂谷行者{0}",
     "Description": "加入其他旅行者進行特殊任務",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/weekendMission.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -844,7 +844,7 @@
     "Title": "慷慨的{0}",
     "Description": "送禮物給其他旅行者",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/friend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -854,7 +854,7 @@
     "Title": "聯盟{0}",
     "Description": "對社群研究計畫有所貢獻",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/community.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -864,7 +864,7 @@
     "Title": "求生專家{0}",
     "Description": "在求生模式中抵達銀河系中心",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/survival.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -874,7 +874,7 @@
     "Title": "永生{0}",
     "Description": "在永久死亡模式中抵達銀河系中心",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/permadeath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -884,7 +884,7 @@
     "Title": "寬宏大量的{0}",
     "Description": "藉由銘牌發現吉客族的故事",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -894,7 +894,7 @@
     "Title": "至尊{0}",
     "Description": "藉由紀錄發現科瓦族的故事",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -904,7 +904,7 @@
     "Title": "那爾牧師{0}",
     "Description": "了解那爾的異教行徑",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -914,7 +914,7 @@
     "Title": "赫克牧師{0}",
     "Description": "了解赫克的命運",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -924,7 +924,7 @@
     "Title": "保護者{0}",
     "Description": "拯救受困的駕駛員",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -934,7 +934,7 @@
     "Title": "玻璃{0}",
     "Description": "聆聽特拉蒙的故事",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -944,7 +944,7 @@
     "Title": "主廚{0}",
     "Description": "讓克洛諾斯感到佩服",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/cronus.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -954,7 +954,7 @@
     "Title": "流浪者{0}",
     "Description": "行走了 %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20000
@@ -964,7 +964,7 @@
     "Title": "行者{0}",
     "Description": "行走了 %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40000
@@ -974,7 +974,7 @@
     "Title": "引路人{0}",
     "Description": "行走了 %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000
@@ -984,7 +984,7 @@
     "Title": "賓客{0}",
     "Description": "遇見了 %NUM% 個生命體",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -994,7 +994,7 @@
     "Title": "特使{0}",
     "Description": "遇見了 %NUM% 個生命體",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1004,7 +1004,7 @@
     "Title": "大使{0}",
     "Description": "遇見了 %NUM% 個生命體",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1014,7 +1014,7 @@
     "Title": "文字收集者{0}",
     "Description": "學會 %NUM% 個文字",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1024,7 +1024,7 @@
     "Title": "博學的{0}",
     "Description": "學會 %NUM% 個文字",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 120
@@ -1034,7 +1034,7 @@
     "Title": "傳說守護者{0}",
     "Description": "學會 %NUM% 個文字",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 180
@@ -1044,7 +1044,7 @@
     "Title": "貿易商{0}",
     "Description": "持有 %NUM% 個貨幣",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10000000
@@ -1054,7 +1054,7 @@
     "Title": "商人{0}",
     "Description": "持有 %NUM% 個貨幣",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50000000
@@ -1064,7 +1064,7 @@
     "Title": "大亨{0}",
     "Description": "持有 %NUM% 個貨幣",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000000
@@ -1074,7 +1074,7 @@
     "Title": "主駕駛員{0}",
     "Description": "擊潰 %NUM% 艘敵對太空船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty1.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1084,7 +1084,7 @@
     "Title": "星戰士{0}",
     "Description": "擊潰 %NUM% 艘敵對太空船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty2.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1094,7 +1094,7 @@
     "Title": "側翼指揮官{0}",
     "Description": "擊潰 %NUM% 艘敵對太空船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty3.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1104,7 +1104,7 @@
     "Title": "遭通緝的{0}",
     "Description": "擊敗 %NUM% 個巡警",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1114,7 +1114,7 @@
     "Title": "巡警獵人{0}",
     "Description": "擊敗 %NUM% 個巡警",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1124,7 +1124,7 @@
     "Title": "太空強鞭{0}",
     "Description": "擊敗 %NUM% 個巡警",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1134,7 +1134,7 @@
     "Title": "強壯的{0}",
     "Description": "在一次不間斷的冒險中，在極端世界存活了 %NUM% 個太陽日",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7200
@@ -1144,7 +1144,7 @@
     "Title": "堅決的{0}",
     "Description": "在極端世界存活了 %NUM% 個太陽日",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 18000
@@ -1154,7 +1154,7 @@
     "Title": "無畏的{0}",
     "Description": "在極端世界存活了 %NUM% 個太陽日",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 28800
@@ -1164,7 +1164,7 @@
     "Title": "偵察兵{0}",
     "Description": "曾前往 %NUM% 個星系",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1174,7 +1174,7 @@
     "Title": "領航員{0}",
     "Description": "曾前往 %NUM% 個星系",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1184,7 +1184,7 @@
     "Title": "地圖學家{0}",
     "Description": "曾前往 %NUM% 個星系",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1194,7 +1194,7 @@
     "Title": "力場專員{0}",
     "Description": "發現了 %NUM% 個星球物種",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1204,7 +1204,7 @@
     "Title": "巡邏員{0}",
     "Description": "發現了 %NUM% 個星球物種",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1214,7 +1214,7 @@
     "Title": "外星生物學家{0}",
     "Description": "發現了 %NUM% 個星球物種",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1224,7 +1224,7 @@
     "Title": "農夫{0}",
     "Description": "採收了 %NUM% 種栽種植物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1234,7 +1234,7 @@
     "Title": "土壤大師{0}",
     "Description": "採收了 %NUM% 種植物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 80
@@ -1244,7 +1244,7 @@
     "Title": "分析者{0}",
     "Description": "掃描了 %NUM% 種罕見植物和動物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1254,7 +1254,7 @@
     "Title": "研究者{0}",
     "Description": "掃描了 %NUM% 種罕見植物和動物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1264,7 +1264,7 @@
     "Title": "檔案管理人{0}",
     "Description": "掃描了 %NUM% 種罕見植物和動物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1274,7 +1274,7 @@
     "Title": "探礦者{0}",
     "Description": "掃描了 %NUM% 種礦物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1284,7 +1284,7 @@
     "Title": "地質學家{0}",
     "Description": "掃描了 %NUM% 種礦物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1294,7 +1294,7 @@
     "Title": "育苗{0}",
     "Description": "掃描了 %NUM% 種獨特植物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1304,7 +1304,7 @@
     "Title": "植物學家{0}",
     "Description": "掃描了 %NUM% 種獨特植物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1314,7 +1314,7 @@
     "Title": "花朵族{0}",
     "Description": "掃描了 %NUM% 種獨特植物",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1324,7 +1324,7 @@
     "Title": "建築工{0}",
     "Description": "放置了 %NUM% 個基地部件",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1334,7 +1334,7 @@
     "Title": "建造者{0}",
     "Description": "放置了 %NUM% 個基地部件",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1344,7 +1344,7 @@
     "Title": "主建築師{0}",
     "Description": "放置了 %NUM% 個基地部件",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 200
@@ -1354,7 +1354,7 @@
     "Title": "船長{0}",
     "Description": "艦隊擁有 %NUM% 艘巡防艦",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -1364,7 +1364,7 @@
     "Title": "隊長{0}",
     "Description": "艦隊擁有 %NUM% 艘巡防艦",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1374,7 +1374,7 @@
     "Title": "將軍{0}",
     "Description": "艦隊擁有 %NUM% 艘巡防艦",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1384,7 +1384,7 @@
     "Title": "骨骸{0}",
     "Description": "挖掘了 %NUM% 個骸骨",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -1394,7 +1394,7 @@
     "Title": "收集者{0}",
     "Description": "挖掘了 %NUM% 個骸骨",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20
@@ -1404,7 +1404,7 @@
     "Title": "館長{0}",
     "Description": "挖掘了 %NUM% 個骸骨",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1414,7 +1414,7 @@
     "Title": "劫掠者{0}",
     "Description": "從遺址下取出 %NUM% 個寶藏",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1424,7 +1424,7 @@
     "Title": "歷史學家{0}",
     "Description": "取出 %NUM% 個寶藏",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1434,7 +1434,7 @@
     "Title": "考古學家{0}",
     "Description": "取出 %NUM% 個寶藏",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1444,7 +1444,7 @@
     "Title": "清道夫{0}",
     "Description": "回收了 %NUM% 艘棄守的貨船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1454,7 +1454,7 @@
     "Title": "廢料商人{0}",
     "Description": "回收了 %NUM% 艘棄船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1464,7 +1464,7 @@
     "Title": "回收者{0}",
     "Description": "回收了 %NUM% 艘棄船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1474,7 +1474,7 @@
     "Title": "探險家{0}",
     "Description": "擁有 S 級探險家號",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1484,7 +1484,7 @@
     "Title": "王牌{0}",
     "Description": "擁有 S 級戰鬥機",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1494,7 +1494,7 @@
     "Title": "吃苦耐勞的{0}",
     "Description": "擁有 S 級拖運船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1504,7 +1504,7 @@
     "Title": "可靠的{0}",
     "Description": "擁有 S 級太空梭",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1514,7 +1514,7 @@
     "Title": "完美的{0}",
     "Description": "擁有異星太空船",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1534,7 +1534,7 @@
     "Title": "星辰之子{0}",
     "Description": "與智慧太空船合作",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/voidEgg.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1544,7 +1544,7 @@
     "Title": "有深度的{0}",
     "Description": "解開深淵謎團",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/abyss.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1794,7 +1794,7 @@
     "Title": "焚燒的{0}",
     "Description": "迭代因極高溫重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/heat.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1804,7 +1804,7 @@
     "Title": "冰凍的{0}",
     "Description": "迭代因極低溫重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1814,7 +1814,7 @@
     "Title": "輻照的{0}",
     "Description": "迭代因過量輻射重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rad.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1824,7 +1824,7 @@
     "Title": "腐蝕的{0}",
     "Description": "迭代因攝入毒素重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/toxic.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1834,7 +1834,7 @@
     "Title": "遭獵捕的{0}",
     "Description": "迭代因遭逢兇猛動物重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1844,7 +1844,7 @@
     "Title": "溺斃的{0}",
     "Description": "迭代因窒息重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1854,7 +1854,7 @@
     "Title": "疲倦的{0}",
     "Description": "迭代因維生系統故障重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeSupport.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1864,7 +1864,7 @@
     "Title": "淨化的{0}",
     "Description": "迭代因巡警殲滅重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1874,7 +1874,7 @@
     "Title": "不幸的{0}",
     "Description": "迭代因重大意外重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/grenade.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1884,7 +1884,7 @@
     "Title": "魯莽的{0}",
     "Description": "迭代因自信過度重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/jetpack.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1894,7 +1894,7 @@
     "Title": "著迷的{0}",
     "Description": "迭代因莫名存在體重設",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fiend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1904,9 +1904,29 @@
     "Title": "受監視的{0}",
     "Description": "被科瓦族追蹤",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
+  },
+  {
+    "Id": "T_SPOOKY1",
+    "Title": "光之棟樑{0}",
+    "Description": "最陰暗的棄船也勇往直前",
+    "AppId": "other76",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'Pillar of Light'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
+  },
+  {
+    "Id": "T_SPOOKY2",
+    "Title": "走投無路{0}",
+    "Description": "最陰暗的棄船也勇往直前",
+    "AppId": "other77",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'The Doomed'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
   }
 ]

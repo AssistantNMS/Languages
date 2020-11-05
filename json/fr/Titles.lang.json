@@ -4,7 +4,7 @@
     "Title": "Correspondant {0}",
     "Description": "Votre premier Gek impressionné",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -14,7 +14,7 @@
     "Title": "ManargGek {0}",
     "Description": "Rang 1 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -24,7 +24,7 @@
     "Title": "TravaGek {0}",
     "Description": "Rang 2 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -34,7 +34,7 @@
     "Title": "Ami {0}",
     "Description": "Rang 3 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -44,7 +44,7 @@
     "Title": "Responsable {0}",
     "Description": "Rang 4 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -54,7 +54,7 @@
     "Title": "Odeur-Kin {0}",
     "Description": "Rang 5 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -64,7 +64,7 @@
     "Title": "Meilleur ami {0}",
     "Description": "Rang 6 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -74,7 +74,7 @@
     "Title": "{0}, le préféré",
     "Description": "Rang 7 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -84,7 +84,7 @@
     "Title": "Seigneur marchand {0}",
     "Description": "Rang 8 atteint avec les Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -94,7 +94,7 @@
     "Title": "Entité {0}",
     "Description": "Votre premier Korvax impressionné",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -104,7 +104,7 @@
     "Title": "Sujet test {0}",
     "Description": "Rang 1 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -114,7 +114,7 @@
     "Title": "Entité technicienne {0}",
     "Description": "Rang 2 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -124,7 +124,7 @@
     "Title": "Carapace respectée {0}",
     "Description": "Rang 3 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -134,7 +134,7 @@
     "Title": "L'interface {0}",
     "Description": "Rang 4 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -144,7 +144,7 @@
     "Title": "Importance {0}",
     "Description": "Rang 5 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -154,7 +154,7 @@
     "Title": "Entité pure {0}",
     "Description": "Rang 6 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -164,7 +164,7 @@
     "Title": "{0}, le Convergent",
     "Description": "Rang 7 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -174,7 +174,7 @@
     "Title": "L'écho de {0}",
     "Description": "Rang 8 atteint avec les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -184,7 +184,7 @@
     "Title": "Conscrit {0}",
     "Description": "Votre premier Vy'keen impressionné",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -194,7 +194,7 @@
     "Title": "Liquidateur {0}",
     "Description": "Rang 1 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -204,7 +204,7 @@
     "Title": "Porte-bannière {0}",
     "Description": "Rang 2 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -214,7 +214,7 @@
     "Title": "Vy'keen d'armes {0}",
     "Description": "Rang 3 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -224,7 +224,7 @@
     "Title": "Pourfendeur d'ennemis {0}",
     "Description": "Rang 4 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -234,7 +234,7 @@
     "Title": "Précepteur {0}",
     "Description": "Rang 5 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -244,7 +244,7 @@
     "Title": "Adjudant {0}",
     "Description": "Rang 6 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -254,7 +254,7 @@
     "Title": "Templier {0}",
     "Description": "Rang 7 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -264,7 +264,7 @@
     "Title": "{0}, main des Vy'keen",
     "Description": "Rang 8 atteint avec les Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -274,7 +274,7 @@
     "Title": "Messager, {0}",
     "Description": "Votre première tâche donnée par la Guilde des Marchands complétée",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -284,7 +284,7 @@
     "Title": "Agent {0}",
     "Description": "Rang 1 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -294,7 +294,7 @@
     "Title": "Envoyé {0}",
     "Description": "Rang 2 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -304,7 +304,7 @@
     "Title": "Courtier {0}",
     "Description": "Rang 3 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -314,7 +314,7 @@
     "Title": "Manager {0}",
     "Description": "Rang 4 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -324,7 +324,7 @@
     "Title": "Diplomate {0}",
     "Description": "Rang 5 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -334,7 +334,7 @@
     "Title": "Consul {0}",
     "Description": "Rang 6 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -344,7 +344,7 @@
     "Title": "Directeur {0}",
     "Description": "Rang 7 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -354,7 +354,7 @@
     "Title": "{0} le Magnifique",
     "Description": "Rang 8 atteint avec la Guilde des Marchands",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -364,7 +364,7 @@
     "Title": "Candidat {0}",
     "Description": "Votre première tâche donnée par la Guilde des Explorateurs complétée",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -374,7 +374,7 @@
     "Title": "Élève {0}",
     "Description": "Rang 1 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -384,7 +384,7 @@
     "Title": "Apprenti {0}",
     "Description": "Rang 2 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -394,7 +394,7 @@
     "Title": "Savant {0}",
     "Description": "Rang 3 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -404,7 +404,7 @@
     "Title": "{0} le Studieux",
     "Description": "Rang 4 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -414,7 +414,7 @@
     "Title": "Académicien {0}",
     "Description": "Rang 5 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -424,7 +424,7 @@
     "Title": "Instructeur {0}",
     "Description": "Rang 6 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -434,7 +434,7 @@
     "Title": "Professeur {0}",
     "Description": "Rang 7 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -444,7 +444,7 @@
     "Title": "{0}, Gardien de la connaissance",
     "Description": "Rang 8 atteint avec la Guilde des Explorateurs",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -454,7 +454,7 @@
     "Title": "Mercenaire {0}",
     "Description": "Votre première tâche donnée par la Guilde des Mercenaires complétée",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -464,7 +464,7 @@
     "Title": "Porte-drapeau {0}",
     "Description": "Rang 1 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -474,7 +474,7 @@
     "Title": "Exécuteur {0}",
     "Description": "Rang 2 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -484,7 +484,7 @@
     "Title": "Guerrier {0}",
     "Description": "Rang 3 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -494,7 +494,7 @@
     "Title": "Garde {0}",
     "Description": "Rang 4 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -504,7 +504,7 @@
     "Title": "Surveillant {0}",
     "Description": "Rang 5 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -514,7 +514,7 @@
     "Title": "Commandant {0}",
     "Description": "Rang 6 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -524,7 +524,7 @@
     "Title": "Maréchal {0}",
     "Description": "Rang 7 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -534,7 +534,7 @@
     "Title": "Égide {0}",
     "Description": "Rang 8 atteint avec la Guilde des Mercenaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -544,7 +544,7 @@
     "Title": "{0} d'Euclide",
     "Description": "-",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -554,7 +554,7 @@
     "Title": "{0} d'Hilbert",
     "Description": "Voyage effectué vers Hilbert",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -564,7 +564,7 @@
     "Title": "{0} de Calypso",
     "Description": "Voyage effectué vers Calypso",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -574,7 +574,7 @@
     "Title": "{0} d'Hespéris",
     "Description": "Voyage effectué vers Hespéris",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -584,7 +584,7 @@
     "Title": "{0} d'Hyades",
     "Description": "Voyage effectué vers Hyades",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 4
@@ -594,7 +594,7 @@
     "Title": "{0} d'Ickjamatew",
     "Description": "Voyage effectué vers Ickjamatew",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 5
@@ -604,7 +604,7 @@
     "Title": "{0} de Budullangr",
     "Description": "Voyage effectué vers Budullangr",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 6
@@ -614,7 +614,7 @@
     "Title": "{0} de Kikolgallr",
     "Description": "Voyage effectué vers Kikolgallr",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7
@@ -624,7 +624,7 @@
     "Title": "{0} d'Eltiensleen",
     "Description": "Voyage effectué vers Eltiensleen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -634,7 +634,7 @@
     "Title": "{0} d'Eissentam",
     "Description": "Voyage effectué vers Eissentam",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 9
@@ -644,7 +644,7 @@
     "Title": "Pèlerin {0}",
     "Description": "Hub Galactique visité",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galacticHub.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -654,7 +654,7 @@
     "Title": "Titan {0}",
     "Description": "A retrouvé la trace d'un Voyageur perdu",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -664,7 +664,7 @@
     "Title": "Maître-vision {0}",
     "Description": "A appris des monolithes gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -674,7 +674,7 @@
     "Title": "{0}, le Marcheur frontalier",
     "Description": "A découvert une étrange planète",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/planet.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -684,7 +684,7 @@
     "Title": "{0} la Singularité",
     "Description": "A rencontré l'Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -694,7 +694,7 @@
     "Title": "{0}, l'Intemporel",
     "Description": "A été sauvé par l'Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -704,7 +704,7 @@
     "Title": "Oracle {0}",
     "Description": "A appris des monolithes korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -714,7 +714,7 @@
     "Title": "Augure {0}",
     "Description": "A appris des monolithes vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -724,7 +724,7 @@
     "Title": "{0}, Gardien de verre",
     "Description": "S'est souvenu",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -734,7 +734,7 @@
     "Title": "Voyageur {0}",
     "Description": "A visité un système solaire rare",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -744,7 +744,7 @@
     "Title": "Le reflet de {0}",
     "Description": "A rencontré une apparition",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -754,7 +754,7 @@
     "Title": "{0}, Itération 1",
     "Description": "L'un des Voyageurs originels",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/player.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -764,7 +764,7 @@
     "Title": "Voyageur Interstellaire {0}",
     "Description": "A voyagé à travers un trou noir",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/blackHole.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -774,7 +774,7 @@
     "Title": "{0} le Divergent",
     "Description": "A achevé l'histoire de Nada & Polo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/poloAndNada.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -784,7 +784,7 @@
     "Title": "{0}, Voyageur de l'Atlas",
     "Description": "A achevé l'histoire d'Artémis",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/artemis.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -794,7 +794,7 @@
     "Title": "{0}, Semeur de mondes",
     "Description": "A complété le chemin de l'Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlasPath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -804,7 +804,7 @@
     "Title": "{0} l'Intemporel",
     "Description": "A refusé de réinitialiser la simulation",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -814,7 +814,7 @@
     "Title": "{0}, le Dernier",
     "Description": "A réinitialisé la simulation pour l'Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -824,7 +824,7 @@
     "Title": "Adepte du portail {0}",
     "Description": "Votre premier voyage à travers un portail",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/portal.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -834,7 +834,7 @@
     "Title": "{0}, Marcheur de faille",
     "Description": "S'est joint aux autres Voyageurs pour une mission spéciale",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/weekendMission.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -844,7 +844,7 @@
     "Title": "{0} le Généreux",
     "Description": "A donné un cadeau à un autre Voyageur",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/friend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -854,7 +854,7 @@
     "Title": "{0} du Collectif",
     "Description": "A contribué à un projet de recherche communautaire",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/community.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -864,7 +864,7 @@
     "Title": "{0} le Survivant",
     "Description": "A atteint le centre de la galaxie en mode survie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/survival.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -874,7 +874,7 @@
     "Title": "{0} l'Immortel",
     "Description": "A atteint le centre de la galaxie en mode mort définitive",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/permadeath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -884,7 +884,7 @@
     "Title": "{0} le Pardonné",
     "Description": "A découvert l'histoire des Gek à partir de leurs plaques",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -894,7 +894,7 @@
     "Title": "{0} Prime",
     "Description": "A découvert l'histoire des Korvax à partir de leurs archives",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -904,7 +904,7 @@
     "Title": "{0}, prêtre de Nal",
     "Description": "A compris l'hérésie de Nal",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -914,7 +914,7 @@
     "Title": "{0}, prêtre de Hirk",
     "Description": "A appris le destin de Hirk",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -924,7 +924,7 @@
     "Title": "Restaurateur {0}",
     "Description": "A secouru un pilote coincé",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -934,7 +934,7 @@
     "Title": "Le {0} de verre",
     "Description": "A écouté le conte de Telamon",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -944,7 +944,7 @@
     "Title": "Chef {0}",
     "Description": "A impressionné Cronos",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/cronus.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -954,7 +954,7 @@
     "Title": "Nomade {0}",
     "Description": "A marché %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20000
@@ -964,7 +964,7 @@
     "Title": "{0} le Marcheur",
     "Description": "A marché %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40000
@@ -974,7 +974,7 @@
     "Title": "Éclaireur {0}",
     "Description": "A marché %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000
@@ -984,7 +984,7 @@
     "Title": "Invité {0}",
     "Description": "A rencontré %NUM% formes de vie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -994,7 +994,7 @@
     "Title": "Émissaire {0}",
     "Description": "A rencontré %NUM% formes de vie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1004,7 +1004,7 @@
     "Title": "Ambassadeur {0}",
     "Description": "A rencontré %NUM% formes de vie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1014,7 +1014,7 @@
     "Title": "Collectionneur de mots {0}",
     "Description": "A appris %NUM% mots",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1024,7 +1024,7 @@
     "Title": "{0} l'Instruit",
     "Description": "A appris %NUM% mots",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 120
@@ -1034,7 +1034,7 @@
     "Title": "Gardien du savoir {0}",
     "Description": "A appris %NUM% mots",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 180
@@ -1044,7 +1044,7 @@
     "Title": "Commerçant {0}",
     "Description": "A possédé %NUM% unités",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10000000
@@ -1054,7 +1054,7 @@
     "Title": "Marchand {0}",
     "Description": "A possédé %NUM% unités",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50000000
@@ -1064,7 +1064,7 @@
     "Title": "Magnat {0}",
     "Description": "A possédé %NUM% unités",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000000
@@ -1074,7 +1074,7 @@
     "Title": "Pilote en chef {0}",
     "Description": "A vaincu %NUM% vaisseaux hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty1.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1084,7 +1084,7 @@
     "Title": "Combattant des étoiles {0}",
     "Description": "A vaincu %NUM% vaisseaux hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty2.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1094,7 +1094,7 @@
     "Title": "Commandant de l'aile {0}",
     "Description": "A vaincu %NUM% vaisseaux hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty3.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1104,7 +1104,7 @@
     "Title": "{0} le Recherché",
     "Description": "A vaincu %NUM% Sentinelles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1114,7 +1114,7 @@
     "Title": "Chasseur de Sentinelles {0}",
     "Description": "A vaincu %NUM% Sentinelles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1124,7 +1124,7 @@
     "Title": "Fléau d'Aeron {0}",
     "Description": "A vaincu %NUM% Sentinelles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1134,7 +1134,7 @@
     "Title": "{0} le Robuste",
     "Description": "A survécu %NUM% soleils dans un monde extrême dans une même aventure",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7200
@@ -1144,7 +1144,7 @@
     "Title": "{0} le Déterminé",
     "Description": "A survécu %NUM% soleils dans un monde extrême",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 18000
@@ -1154,7 +1154,7 @@
     "Title": "{0} l'Imperturbable",
     "Description": "A survécu %NUM% soleils dans un monde extrême",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 28800
@@ -1164,7 +1164,7 @@
     "Title": "Scout {0}",
     "Description": "A visité %NUM% systèmes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1174,7 +1174,7 @@
     "Title": "Navigateur {0}",
     "Description": "A visité %NUM% systèmes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1184,7 +1184,7 @@
     "Title": "{0} le Cartographe",
     "Description": "A visité %NUM% systèmes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1194,7 +1194,7 @@
     "Title": "Agent de terrain {0}",
     "Description": "A découvert %NUM% espèces planétaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1204,7 +1204,7 @@
     "Title": "Ranger {0}",
     "Description": "A découvert %NUM% espèces planétaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1214,7 +1214,7 @@
     "Title": "Xenobiologiste {0}",
     "Description": "A découvert %NUM% espèces planétaires",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1224,7 +1224,7 @@
     "Title": "Fermier {0}",
     "Description": "A récolté %NUM% plantes cultivées",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1234,7 +1234,7 @@
     "Title": "Maître du sol {0}",
     "Description": "A récolté %NUM% plantes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 80
@@ -1244,7 +1244,7 @@
     "Title": "Analyste {0}",
     "Description": "A scanné %NUM% plantes et animaux rares",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1254,7 +1254,7 @@
     "Title": "Chercheur {0}",
     "Description": "A scanné %NUM% plantes et animaux rares",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1264,7 +1264,7 @@
     "Title": "Archiviste {0}",
     "Description": "A scanné %NUM% plantes et animaux rares",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1274,7 +1274,7 @@
     "Title": "Prospecteur {0}",
     "Description": "A scanné %NUM% minerais",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1284,7 +1284,7 @@
     "Title": "Géologue {0}",
     "Description": "A scanné %NUM% minerais",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1294,7 +1294,7 @@
     "Title": "Planteur {0}",
     "Description": "A scanné %NUM% plantes uniques",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1304,7 +1304,7 @@
     "Title": "Botaniste {0}",
     "Description": "A scanné %NUM% plantes uniques",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1314,7 +1314,7 @@
     "Title": "Fleur-Kin {0}",
     "Description": "A scanné %NUM% plantes uniques",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1324,7 +1324,7 @@
     "Title": "{0} le Bâtisseur",
     "Description": "A placé %NUM% éléments de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1334,7 +1334,7 @@
     "Title": "{0} le Constructeur",
     "Description": "A placé %NUM% éléments de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1344,7 +1344,7 @@
     "Title": "Maître architecte {0}",
     "Description": "A placé %NUM% éléments de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 200
@@ -1354,7 +1354,7 @@
     "Title": "Capitaine {0}",
     "Description": "A possédé une flotte de %NUM% frégates",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -1364,7 +1364,7 @@
     "Title": "Commodore {0}",
     "Description": "A possédé une flotte de %NUM% frégates",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1374,7 +1374,7 @@
     "Title": "Amiral {0}",
     "Description": "A possédé une flotte de %NUM% frégates",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1384,7 +1384,7 @@
     "Title": "{0} les Os",
     "Description": "A extrait %NUM% squelettes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -1394,7 +1394,7 @@
     "Title": "{0} le Collectionneur",
     "Description": "A extrait %NUM% squelettes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20
@@ -1404,7 +1404,7 @@
     "Title": "Conservateur {0}",
     "Description": "A extrait %NUM% squelettes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1414,7 +1414,7 @@
     "Title": "Voleur {0}",
     "Description": "A revendiqué %NUM% trésors venant des ruines",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1424,7 +1424,7 @@
     "Title": "Historien {0}",
     "Description": "A revendiqué %NUM% trésors",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1434,7 +1434,7 @@
     "Title": "Archéologue {0}",
     "Description": "A revendiqué %NUM% trésors",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1444,7 +1444,7 @@
     "Title": "Charognard {0}",
     "Description": "A recyclé %NUM% cargos abandonnés",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1454,7 +1454,7 @@
     "Title": "Revendeur de pièces détachées {0}",
     "Description": "A recyclé %NUM% cargos abandonnés",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1464,7 +1464,7 @@
     "Title": "Sauveteur {0}",
     "Description": "A recyclé %NUM% cargos abandonnés",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1474,7 +1474,7 @@
     "Title": "{0} l'Explorateur",
     "Description": "Posséder un vaisseau explorateur de classe S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1484,7 +1484,7 @@
     "Title": "Champion {0}",
     "Description": "Posséder un vaisseau de combat de classe S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1494,7 +1494,7 @@
     "Title": "Robuste {0}",
     "Description": "Posséder un vaisseau de transport de classe S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1504,7 +1504,7 @@
     "Title": "Fiable {0}",
     "Description": "Posséder une navette de classe S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1514,7 +1514,7 @@
     "Title": "Parfait {0}",
     "Description": "Posséder un vaisseau exotique",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1534,7 +1534,7 @@
     "Title": "{0}, né d'une étoile",
     "Description": "Partenariat avec un vaisseau conscient",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/voidEgg.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1544,7 +1544,7 @@
     "Title": "{0} des Profondeurs",
     "Description": "A résolu un mystère abyssal",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/abyss.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1794,7 +1794,7 @@
     "Title": "{0} l'Incinéré",
     "Description": "Itération réinitialisée par chaleur extrême",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/heat.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1804,7 +1804,7 @@
     "Title": "{0} le Gelé",
     "Description": "Itération réinitialisée par froid extrême",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1814,7 +1814,7 @@
     "Title": "{0} l'Irradié",
     "Description": "Itération réinitialisée par irradiation écrasante",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rad.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1824,7 +1824,7 @@
     "Title": "{0} le Corrodé",
     "Description": "Itération réinitialisée par consommation de produits toxiques",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/toxic.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1834,7 +1834,7 @@
     "Title": "{0} le Traqué",
     "Description": "Itération réinitialisée par interaction néfaste avec la faune",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1844,7 +1844,7 @@
     "Title": "{0} le Noyé",
     "Description": "Itération réinitialisée par asphyxie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1854,7 +1854,7 @@
     "Title": "{0} le Fatigué",
     "Description": "Itération réinitialisée par défaillance du système de survie",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeSupport.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1864,7 +1864,7 @@
     "Title": "{0} le Purifié",
     "Description": "Itération réinitialisée par extermination sentinelle",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1874,7 +1874,7 @@
     "Title": "{0} l'Infortuné",
     "Description": "Itération réinitialisée par accident catastrophique",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/grenade.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1884,7 +1884,7 @@
     "Title": "{0} le Téméraire",
     "Description": "Itération réinitialisée par excès de confiance",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/jetpack.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1894,7 +1894,7 @@
     "Title": "{0} le Ravagé",
     "Description": "Itération réinitialisée par entité innommable",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fiend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1904,9 +1904,29 @@
     "Title": "{0} le Surveillé",
     "Description": "Suivi par les Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
+  },
+  {
+    "Id": "T_SPOOKY1",
+    "Title": "{0}, colonne de lumière",
+    "Description": "A bravé les cargos abandonnés les plus sombres",
+    "AppId": "other76",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'Pillar of Light'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
+  },
+  {
+    "Id": "T_SPOOKY2",
+    "Title": "{0} le Condamné",
+    "Description": "A bravé les cargos abandonnés les plus sombres",
+    "AppId": "other77",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'The Doomed'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
   }
 ]

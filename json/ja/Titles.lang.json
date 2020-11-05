@@ -4,7 +4,7 @@
     "Title": "雇い人 {0}",
     "Description": "初めてゲックを感心させた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -14,7 +14,7 @@
     "Title": "労働ゲック {0}",
     "Description": "ゲックとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -24,7 +24,7 @@
     "Title": "仕事人ゲック {0}",
     "Description": "ゲックとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -34,7 +34,7 @@
     "Title": "友人 {0}",
     "Description": "ゲックとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -44,7 +44,7 @@
     "Title": "監督官 {0}",
     "Description": "ゲックとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -54,7 +54,7 @@
     "Title": "芳香族 {0}",
     "Description": "ゲックとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -64,7 +64,7 @@
     "Title": "親友 {0}",
     "Description": "ゲックとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -74,7 +74,7 @@
     "Title": "愛されし {0}",
     "Description": "ゲックとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -84,7 +84,7 @@
     "Title": "有力トレーダー {0}",
     "Description": "ゲックとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -94,7 +94,7 @@
     "Title": "エンティティ {0}",
     "Description": "初めてコーバックスを感心させた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -104,7 +104,7 @@
     "Title": "被験者 {0}",
     "Description": "コーバックスとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -114,7 +114,7 @@
     "Title": "技術者 {0}",
     "Description": "コーバックスとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -124,7 +124,7 @@
     "Title": "一目置かれる外殻 {0}",
     "Description": "コーバックスとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -134,7 +134,7 @@
     "Title": "ザ・{0}・インターフェース",
     "Description": "コーバックスとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -144,7 +144,7 @@
     "Title": "有意な {0}",
     "Description": "コーバックスとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -154,7 +154,7 @@
     "Title": "純粋なる {0}",
     "Description": "コーバックスとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -164,7 +164,7 @@
     "Title": "集合体 {0}",
     "Description": "コーバックスとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -174,7 +174,7 @@
     "Title": "{0} の残響音",
     "Description": "コーバックスとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -184,7 +184,7 @@
     "Title": "徴集兵 {0}",
     "Description": "初めてヴァイキーンを感心させた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -194,7 +194,7 @@
     "Title": "清算人 {0}",
     "Description": "ヴァイキーンとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -204,7 +204,7 @@
     "Title": "旗手 {0}",
     "Description": "ヴァイキーンとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -214,7 +214,7 @@
     "Title": "ヴァイキーン歩兵 {0}",
     "Description": "ヴァイキーンとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -224,7 +224,7 @@
     "Title": "戦闘員 {0}",
     "Description": "ヴァイキーンとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -234,7 +234,7 @@
     "Title": "指導者 {0}",
     "Description": "ヴァイキーンとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -244,7 +244,7 @@
     "Title": "助手 {0}",
     "Description": "ヴァイキーンとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -254,7 +254,7 @@
     "Title": "テンプル騎士 {0}",
     "Description": "ヴァイキーンとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -264,7 +264,7 @@
     "Title": "ヴァイキーンの支配者 {0}",
     "Description": "ヴァイキーンとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -274,7 +274,7 @@
     "Title": "使者 {0}",
     "Description": "初めてトレーダーギルドの依頼を完了した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -284,7 +284,7 @@
     "Title": "エージェント {0}",
     "Description": "トレーダーギルドとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -294,7 +294,7 @@
     "Title": "特使 {0}",
     "Description": "トレーダーギルドとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -304,7 +304,7 @@
     "Title": "ブローカー {0}",
     "Description": "トレーダーギルドとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -314,7 +314,7 @@
     "Title": "管理者 {0}",
     "Description": "トレーダーギルドとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -324,7 +324,7 @@
     "Title": "外交官 {0}",
     "Description": "トレーダーギルドとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -334,7 +334,7 @@
     "Title": "領事 {0}",
     "Description": "トレーダーギルドとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -344,7 +344,7 @@
     "Title": "ディレクター {0}",
     "Description": "トレーダーギルドとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -354,7 +354,7 @@
     "Title": "壮大なる {0}",
     "Description": "トレーダーギルドとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -364,7 +364,7 @@
     "Title": "候補者 {0}",
     "Description": "初めて探検家ギルドの依頼を完了した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -374,7 +374,7 @@
     "Title": "弟子 {0}",
     "Description": "探検家ギルドとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -384,7 +384,7 @@
     "Title": "見習い {0}",
     "Description": "探検家ギルドとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -394,7 +394,7 @@
     "Title": "学者 {0}",
     "Description": "探検家ギルドとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -404,7 +404,7 @@
     "Title": "勉強家 {0}",
     "Description": "探検家ギルドとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -414,7 +414,7 @@
     "Title": "教養ある {0}",
     "Description": "探検家ギルドとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -424,7 +424,7 @@
     "Title": "{0} 講師",
     "Description": "探検家ギルドとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -434,7 +434,7 @@
     "Title": "{0} 教授",
     "Description": "探検家ギルドとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -444,7 +444,7 @@
     "Title": "知識の番人 {0}",
     "Description": "探検家ギルドとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -454,7 +454,7 @@
     "Title": "傭兵 {0}",
     "Description": "初めて傭兵ギルドの依頼を完了した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -464,7 +464,7 @@
     "Title": "少尉 {0}",
     "Description": "傭兵ギルドとの関係がランク1になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -474,7 +474,7 @@
     "Title": "執行者 {0}",
     "Description": "傭兵ギルドとの関係がランク2になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -484,7 +484,7 @@
     "Title": "戦士 {0}",
     "Description": "傭兵ギルドとの関係がランク3になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -494,7 +494,7 @@
     "Title": "衛兵 {0}",
     "Description": "傭兵ギルドとの関係がランク4になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -504,7 +504,7 @@
     "Title": "{0} 長官",
     "Description": "傭兵ギルドとの関係がランク5になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -514,7 +514,7 @@
     "Title": "司令官 {0}",
     "Description": "傭兵ギルドとの関係がランク6になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -524,7 +524,7 @@
     "Title": "{0} 元帥",
     "Description": "傭兵ギルドとの関係がランク7になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -534,7 +534,7 @@
     "Title": "盾なる者 {0}",
     "Description": "傭兵ギルドとの関係がランク8になった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -544,7 +544,7 @@
     "Title": "{0}・オブ・ユークリッド",
     "Description": "-",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -554,7 +554,7 @@
     "Title": "{0}・オブ・ヒルベルト",
     "Description": "ヒルベルトへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -564,7 +564,7 @@
     "Title": "{0}・オブ・カリプソ",
     "Description": "オブ・カリプソへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -574,7 +574,7 @@
     "Title": "{0}・オブ・ヘスぺリス",
     "Description": "オブ・ヘスぺリスへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -584,7 +584,7 @@
     "Title": "{0}・オブ・ヒヤデス",
     "Description": "オブ・ヒヤデスへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 4
@@ -594,7 +594,7 @@
     "Title": "{0}・オブ・イクジャマテュウ",
     "Description": "オブ・イクジャマテュウへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 5
@@ -604,7 +604,7 @@
     "Title": "{0}・オブ・ブドランガァ",
     "Description": "オブ・ブドランガァへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 6
@@ -614,7 +614,7 @@
     "Title": "{0}・オブ・キコルガーラァ",
     "Description": "オブ・キコルガーラァへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7
@@ -624,7 +624,7 @@
     "Title": "{0}・オブ・エルティエンスリーン",
     "Description": "エルティエンスリーンへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -634,7 +634,7 @@
     "Title": "{0}・オブ・アイセンタム",
     "Description": "アイセンタムへ旅した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 9
@@ -644,7 +644,7 @@
     "Title": "巡礼者 {0}",
     "Description": "銀河中心部を訪ねた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galacticHub.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -654,7 +654,7 @@
     "Title": "巨人 {0}",
     "Description": "死んだトラベラーの痕跡をたどった",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -664,7 +664,7 @@
     "Title": "ビジョンマスター {0}",
     "Description": "ゲックのモノリスから学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -674,7 +674,7 @@
     "Title": "境界を行く者 {0}",
     "Description": "奇妙な惑星を発見した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/planet.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -684,7 +684,7 @@
     "Title": "{0}・ザ・シンギュラリティ",
     "Description": "アトラスに会った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -694,7 +694,7 @@
     "Title": "不朽の {0}",
     "Description": "アトラスに救われた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -704,7 +704,7 @@
     "Title": "オラクル {0}",
     "Description": "コーバックスのモノリスから学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -714,7 +714,7 @@
     "Title": "易者 {0}",
     "Description": "ヴァイキーンのモノリスから学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -724,7 +724,7 @@
     "Title": "ガラスの番人 {0}",
     "Description": "思い出した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -734,7 +734,7 @@
     "Title": "航海者 {0}",
     "Description": "珍しい星系を訪ねた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -744,7 +744,7 @@
     "Title": "{0} の兆候",
     "Description": "幻影に会った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -754,7 +754,7 @@
     "Title": "{0}・イテレーション1",
     "Description": "初代トラベラーのひとり",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/player.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -764,7 +764,7 @@
     "Title": "星間トラベラー {0}",
     "Description": "ブラックホールを通過した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/blackHole.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -774,7 +774,7 @@
     "Title": "異端者 {0}",
     "Description": "ナーダとポーロの物語を終わらせた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/poloAndNada.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -784,7 +784,7 @@
     "Title": "アトラストラベラー {0}",
     "Description": "アルテミスの物語を終わらせた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/artemis.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -794,7 +794,7 @@
     "Title": "星に種まく {0}",
     "Description": "アトラスへの道筋を終わらせた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlasPath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -804,7 +804,7 @@
     "Title": "不朽の {0}",
     "Description": "シミュレーションのリセットを拒否した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -814,7 +814,7 @@
     "Title": "{0}・ザ・ラスト",
     "Description": "アトラスのために、シミュレーションをリセットした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -824,7 +824,7 @@
     "Title": "ポータルを知る者 {0}",
     "Description": "初めてポータルを通過した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/portal.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -834,7 +834,7 @@
     "Title": "裂け目を行く者 {0}",
     "Description": "他のトラベラーとスペシャルミッションに参加した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/weekendMission.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -844,7 +844,7 @@
     "Title": "寛大な {0}",
     "Description": "他のトラベラーにギフトを贈った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/friend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -854,7 +854,7 @@
     "Title": "集合体に属す {0}",
     "Description": "コミュニティリサーチプロジェクトに貢献した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/community.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -864,7 +864,7 @@
     "Title": "生存者 {0}",
     "Description": "サバイバルモードで、宇宙の中心に到達した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/survival.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -874,7 +874,7 @@
     "Title": "不死の {0}",
     "Description": "パーマネント・デスモードで、宇宙の中心に到達した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/permadeath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -884,7 +884,7 @@
     "Title": "許されし者 {0}",
     "Description": "ゲックの石碑から、彼らについて知る",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -894,7 +894,7 @@
     "Title": "{0} プライム",
     "Description": "コーバックスの記録から、彼らについて知る",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -904,7 +904,7 @@
     "Title": "ナルの司祭 {0}",
     "Description": "ナル信仰の異端者に理解を示す",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -914,7 +914,7 @@
     "Title": "ハークの司祭 {0}",
     "Description": "ハークの運命を知った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -924,7 +924,7 @@
     "Title": "保全の {0}",
     "Description": "遭難したパイロットを救出した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -934,7 +934,7 @@
     "Title": "ガラスの {0}",
     "Description": "テラモンの話を聞いた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -944,7 +944,7 @@
     "Title": "シェフ {0}",
     "Description": "初めてクロノスを感心させた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/cronus.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -954,7 +954,7 @@
     "Title": "放浪の民 {0}",
     "Description": "%NUM%U 歩いた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20000
@@ -964,7 +964,7 @@
     "Title": "ウォーカー {0}",
     "Description": "%NUM%U 歩いた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40000
@@ -974,7 +974,7 @@
     "Title": "道を拓く者 {0}",
     "Description": "%NUM%U 歩いた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000
@@ -984,7 +984,7 @@
     "Title": "客人 {0}",
     "Description": "%NUM% 種の生命体と出会った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -994,7 +994,7 @@
     "Title": "使節 {0}",
     "Description": "%NUM% 種の生命体と出会った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1004,7 +1004,7 @@
     "Title": "大使 {0}",
     "Description": "%NUM% 種の生命体と出会った",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1014,7 +1014,7 @@
     "Title": "ワードコレクター {0}",
     "Description": "%NUM% 個の単語を学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1024,7 +1024,7 @@
     "Title": "博学の {0}",
     "Description": "%NUM% 個の単語を学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 120
@@ -1034,7 +1034,7 @@
     "Title": "伝承の守護者 {0}",
     "Description": "%NUM% 個の単語を学んだ",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 180
@@ -1044,7 +1044,7 @@
     "Title": "トレーダー {0}",
     "Description": "%NUM% 個のユニットを入手した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10000000
@@ -1054,7 +1054,7 @@
     "Title": "商人 {0}",
     "Description": "%NUM% 個のユニットを入手した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50000000
@@ -1064,7 +1064,7 @@
     "Title": "豪商 {0}",
     "Description": "%NUM% 個のユニットを入手した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000000
@@ -1074,7 +1074,7 @@
     "Title": "マスターパイロット {0}",
     "Description": "%NUM% 隻の敵船を撃破した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty1.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1084,7 +1084,7 @@
     "Title": "スターファイター {0}",
     "Description": "%NUM% 隻の敵船を撃破した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty2.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1094,7 +1094,7 @@
     "Title": "船のコマンダー {0}",
     "Description": "%NUM% 隻の敵船を撃破した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty3.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1104,7 +1104,7 @@
     "Title": "{0}（使命手配中）",
     "Description": "%NUM% 体のセンチネルを破壊した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1114,7 +1114,7 @@
     "Title": "センチネルハンター {0}",
     "Description": "%NUM% 体のセンチネルを破壊した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1124,7 +1124,7 @@
     "Title": "エーロンの懲罰人 {0}",
     "Description": "%NUM% 体のセンチネルを破壊した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1134,7 +1134,7 @@
     "Title": "頑丈な {0}",
     "Description": "1回の冒険で、過酷な環境を %NUM% ソル生き延びた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7200
@@ -1144,7 +1144,7 @@
     "Title": "頑固な {0}",
     "Description": "過酷な環境で %NUM% ソル生き延びた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 18000
@@ -1154,7 +1154,7 @@
     "Title": "不屈の {0}",
     "Description": "過酷な環境で %NUM% ソル生き延びた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 28800
@@ -1164,7 +1164,7 @@
     "Title": "偵察 {0}",
     "Description": "%NUM% 個の星系を訪ねた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1174,7 +1174,7 @@
     "Title": "ナビゲーター{0}",
     "Description": "%NUM% 個の星系を訪ねた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1184,7 +1184,7 @@
     "Title": "地図製作者 {0}",
     "Description": "%NUM% 個の星系を訪ねた",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1194,7 +1194,7 @@
     "Title": "探索者 {0}",
     "Description": "%NUM% 種の惑星生物を発見した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1204,7 +1204,7 @@
     "Title": "レンジャー {0}",
     "Description": "%NUM% 種の惑星生物を発見した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1214,7 +1214,7 @@
     "Title": "宇宙生物学者 {0}",
     "Description": "%NUM% 種の惑星生物を発見した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1224,7 +1224,7 @@
     "Title": "ファーマー {0}",
     "Description": "%NUM% 種の栽培植物を収穫した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1234,7 +1234,7 @@
     "Title": "土壌を知る者 {0}",
     "Description": "%NUM% 種の植物を収穫した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 80
@@ -1244,7 +1244,7 @@
     "Title": "アナリスト {0}",
     "Description": "%NUM% 種の貴重な植物や動物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1254,7 +1254,7 @@
     "Title": "研究者 {0}",
     "Description": "%NUM% 種の貴重な植物や動物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1264,7 +1264,7 @@
     "Title": "記録官 {0}",
     "Description": "%NUM% 種の貴重な植物や動物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1274,7 +1274,7 @@
     "Title": "探鉱者 {0}",
     "Description": "%NUM% 種の鉱物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1284,7 +1284,7 @@
     "Title": "地質学者 {0}",
     "Description": "%NUM% 種の鉱物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1294,7 +1294,7 @@
     "Title": "幼苗 {0}",
     "Description": "%NUM% 種の固有植物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1304,7 +1304,7 @@
     "Title": "植物学者 {0}",
     "Description": "%NUM% 種の固有植物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1314,7 +1314,7 @@
     "Title": "花の一族 {0}",
     "Description": "%NUM% 種の固有植物をスキャンした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1324,7 +1324,7 @@
     "Title": "ビルダー {0}",
     "Description": "%NUM% 個の基地の部品を設置した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1334,7 +1334,7 @@
     "Title": "建設者 {0}",
     "Description": "%NUM% 個の基地の部品を設置した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1344,7 +1344,7 @@
     "Title": "熟練建築家 {0}",
     "Description": "%NUM% 個の基地の部品を設置した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 200
@@ -1354,7 +1354,7 @@
     "Title": "艦長 {0}",
     "Description": "フリゲート艦 %NUM% 隻の船団を所有した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -1364,7 +1364,7 @@
     "Title": "准将 {0}",
     "Description": "フリゲート艦 %NUM% 隻の船団を所有した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1374,7 +1374,7 @@
     "Title": "最高司令官 {0}",
     "Description": "フリゲート艦 %NUM% 隻の船団を所有した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1384,7 +1384,7 @@
     "Title": "骸骨 {0}",
     "Description": "%NUM% 個の骨を発掘した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -1394,7 +1394,7 @@
     "Title": "収集家 {0}",
     "Description": "%NUM% 個の骨を発掘した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20
@@ -1404,7 +1404,7 @@
     "Title": "学芸員 {0}",
     "Description": "%NUM% 個の骨を発掘した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1414,7 +1414,7 @@
     "Title": "侵略者 {0}",
     "Description": "%NUM% 個の宝物を遺跡の下から回収した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1424,7 +1424,7 @@
     "Title": "歴史家 {0}",
     "Description": "%NUM% 個の宝物を回収した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1434,7 +1434,7 @@
     "Title": "考古学者 {0}",
     "Description": "%NUM% 個の宝物を回収した",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1444,7 +1444,7 @@
     "Title": "ハイエナ {0}",
     "Description": "%NUM% 隻の遺棄貨物船をサルベージした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1454,7 +1454,7 @@
     "Title": "スクラップ業者 {0}",
     "Description": "%NUM% 隻の遺棄船をサルベージした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1464,7 +1464,7 @@
     "Title": "サルベージ屋 {0}",
     "Description": "%NUM% 隻の遺棄船をサルベージした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1474,7 +1474,7 @@
     "Title": "探検家 {0}",
     "Description": "S級 調査船を所有する",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1484,7 +1484,7 @@
     "Title": "エース {0}",
     "Description": "S級 艦船を所有する",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1494,7 +1494,7 @@
     "Title": "高耐久性 {0}",
     "Description": "S級 輸送船を所有する",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1504,7 +1504,7 @@
     "Title": "頼りになる {0}",
     "Description": "S級 シャトルを所有する",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1514,7 +1514,7 @@
     "Title": "{0}・ザ・パーフェクト",
     "Description": "珍しい宇宙船を所有する",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1534,7 +1534,7 @@
     "Title": "星に生まれし {0}",
     "Description": "知的生命船と同盟を組む",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/voidEgg.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1544,7 +1544,7 @@
     "Title": "深宇宙の {0}",
     "Description": "深海の謎を解き明かした",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/abyss.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1794,7 +1794,7 @@
     "Title": "焼かれた {0}",
     "Description": "灼熱によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/heat.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1804,7 +1804,7 @@
     "Title": "氷漬け {0}",
     "Description": "極寒によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1814,7 +1814,7 @@
     "Title": "放射線下の {0}",
     "Description": "放射線によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rad.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1824,7 +1824,7 @@
     "Title": "腐食した {0}",
     "Description": "被毒によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/toxic.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1834,7 +1834,7 @@
     "Title": "狩られる {0}",
     "Description": "捕食によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1844,7 +1844,7 @@
     "Title": "溺れる {0}",
     "Description": "窒息によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1854,7 +1854,7 @@
     "Title": "クタクタの {0}",
     "Description": "失策によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeSupport.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1864,7 +1864,7 @@
     "Title": "浄化された {0}",
     "Description": "センチネルによるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1874,7 +1874,7 @@
     "Title": "不運の {0}",
     "Description": "災害によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/grenade.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1884,7 +1884,7 @@
     "Title": "無鉄砲 {0}",
     "Description": "過信によるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/jetpack.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1894,7 +1894,7 @@
     "Title": "被食者 {0}",
     "Description": "言葉にできないものによるイテレーションリセット",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fiend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1904,9 +1904,29 @@
     "Title": "見届けた {0}",
     "Description": "コーバックスが追跡",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
+  },
+  {
+    "Id": "T_SPOOKY1",
+    "Title": "光の柱 {0}",
+    "Description": "闇の最も深い遺棄船を探索した",
+    "AppId": "other76",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'Pillar of Light'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
+  },
+  {
+    "Id": "T_SPOOKY2",
+    "Title": "呪われし者 {0}",
+    "Description": "闇の最も深い遺棄船を探索した",
+    "AppId": "other77",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'The Doomed'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
   }
 ]

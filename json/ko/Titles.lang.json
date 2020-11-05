@@ -4,7 +4,7 @@
     "Title": "하수인 {0}",
     "Description": "겍에게 처음으로 깊은 인상을 남김",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -14,7 +14,7 @@
     "Title": "토일겍 {0}",
     "Description": "겍과의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -24,7 +24,7 @@
     "Title": "워크겍 {0}",
     "Description": "겍과의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -34,7 +34,7 @@
     "Title": "친구 {0}",
     "Description": "겍과의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -44,7 +44,7 @@
     "Title": "감독관 {0}",
     "Description": "겍과의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -54,7 +54,7 @@
     "Title": "향기-종 {0}",
     "Description": "겍과의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -64,7 +64,7 @@
     "Title": "절친 {0}",
     "Description": "겍과의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -74,7 +74,7 @@
     "Title": "가장 인기 많은 {0}",
     "Description": "겍과의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -84,7 +84,7 @@
     "Title": "무역 군주 {0}",
     "Description": "겍과의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -94,7 +94,7 @@
     "Title": "엔티티 {0}",
     "Description": "코백스에게 처음으로 깊은 인상을 남김",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -104,7 +104,7 @@
     "Title": "실험체 {0}",
     "Description": "코백스와의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -114,7 +114,7 @@
     "Title": "기술자 엔티티 {0}",
     "Description": "코백스와의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -124,7 +124,7 @@
     "Title": "존중 받는 껍질 {0}",
     "Description": "코백스와의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -134,7 +134,7 @@
     "Title": "{0} 인터페이스",
     "Description": "코백스와의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -144,7 +144,7 @@
     "Title": "중요한 {0}",
     "Description": "코백스와의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -154,7 +154,7 @@
     "Title": "순수 엔티티 {0}",
     "Description": "코백스와의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -164,7 +164,7 @@
     "Title": "한 점에 수렴하는 {0}",
     "Description": "코백스와의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -174,7 +174,7 @@
     "Title": "{0}의 메아리",
     "Description": "코백스와의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -184,7 +184,7 @@
     "Title": "징집병 {0}",
     "Description": "바이-킨에게 처음으로 깊은 인상을 남김",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -194,7 +194,7 @@
     "Title": "청산자 {0}",
     "Description": "바이-킨과의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -204,7 +204,7 @@
     "Title": "기수 {0}",
     "Description": "바이-킨과의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -214,7 +214,7 @@
     "Title": "전사 바이-킨 {0}",
     "Description": "바이-킨과의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -224,7 +224,7 @@
     "Title": "적 살해자 {0}",
     "Description": "바이-킨과의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -234,7 +234,7 @@
     "Title": "지각 {0}",
     "Description": "바이-킨과의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -244,7 +244,7 @@
     "Title": "부관 {0}",
     "Description": "바이-킨과의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -254,7 +254,7 @@
     "Title": "템플러 {0}",
     "Description": "바이-킨과의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -264,7 +264,7 @@
     "Title": "바이-킨의 손 {0}",
     "Description": "바이-킨과의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -274,7 +274,7 @@
     "Title": "전령 {0}",
     "Description": "첫 상인 길드 임무 완수",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -284,7 +284,7 @@
     "Title": "에이전트 {0}",
     "Description": "상인 길드와의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -294,7 +294,7 @@
     "Title": "특사 {0}",
     "Description": "상인 길드와의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -304,7 +304,7 @@
     "Title": "브로커 {0}",
     "Description": "상인 길드와의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -314,7 +314,7 @@
     "Title": "매니저 {0}",
     "Description": "상인 길드와의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -324,7 +324,7 @@
     "Title": "외교관 {0}",
     "Description": "상인 길드와의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -334,7 +334,7 @@
     "Title": "영사 {0}",
     "Description": "상인 길드와의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -344,7 +344,7 @@
     "Title": "디렉터 {0}",
     "Description": "상인 길드와의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -354,7 +354,7 @@
     "Title": "장엄한 {0}",
     "Description": "상인 길드와의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -364,7 +364,7 @@
     "Title": "후보자 {0}",
     "Description": "첫 탐험가 길드 임무 완수",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -374,7 +374,7 @@
     "Title": "눈동자 {0}",
     "Description": "탐험가 길드와의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -384,7 +384,7 @@
     "Title": "견습 {0}",
     "Description": "탐험가 길드와의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -394,7 +394,7 @@
     "Title": "학자 {0}",
     "Description": "탐험가 길드와의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -404,7 +404,7 @@
     "Title": "학구적인 {0}",
     "Description": "탐험가 길드와의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -414,7 +414,7 @@
     "Title": "학술 위원 {0}",
     "Description": "탐험가 길드와의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -424,7 +424,7 @@
     "Title": "교관 {0}",
     "Description": "탐험가 길드와의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -434,7 +434,7 @@
     "Title": "교수 {0}",
     "Description": "탐험가 길드와의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -444,7 +444,7 @@
     "Title": "지식의 수호자 {0}",
     "Description": "탐험가 길드와의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -454,7 +454,7 @@
     "Title": "용병 {0}",
     "Description": "첫 용병 길드 임무 완수",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -464,7 +464,7 @@
     "Title": "소위 {0}",
     "Description": "용병 길드와의 우호도 등급 1 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -474,7 +474,7 @@
     "Title": "집행자 {0}",
     "Description": "용병 길드와의 우호도 등급 2 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -484,7 +484,7 @@
     "Title": "전사 {0}",
     "Description": "용병 길드와의 우호도 등급 3 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -494,7 +494,7 @@
     "Title": "경비병 {0}",
     "Description": "용병 길드와의 우호도 등급 4 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -504,7 +504,7 @@
     "Title": "장관 {0}",
     "Description": "용병 길드와의 우호도 등급 5 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -514,7 +514,7 @@
     "Title": "사령관 {0}",
     "Description": "용병 길드와의 우호도 등급 6 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -524,7 +524,7 @@
     "Title": "원수 {0}",
     "Description": "용병 길드와의 우호도 등급 7 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -534,7 +534,7 @@
     "Title": "이지스 {0}",
     "Description": "용병 길드와의 우호도 등급 8 도달",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -544,7 +544,7 @@
     "Title": "유클리드의 {0}",
     "Description": "-",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -554,7 +554,7 @@
     "Title": "힐버트의 {0}",
     "Description": "힐버트로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -564,7 +564,7 @@
     "Title": "칼립소의 {0}",
     "Description": "칼립소로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -574,7 +574,7 @@
     "Title": "헤스페리우스의 {0}",
     "Description": "헤스페리우스로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -584,7 +584,7 @@
     "Title": "히아데스의 {0}",
     "Description": "히아데스로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 4
@@ -594,7 +594,7 @@
     "Title": "이크자마튜의 {0}",
     "Description": "이크자마튜로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 5
@@ -604,7 +604,7 @@
     "Title": "부둘랑거의 {0}",
     "Description": "부둘랑거로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 6
@@ -614,7 +614,7 @@
     "Title": "키콜갈러의 {0}",
     "Description": "키콜갈러로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7
@@ -624,7 +624,7 @@
     "Title": "엘티엔슬린의 {0}",
     "Description": "엘티엔슬린으로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -634,7 +634,7 @@
     "Title": "아이센탐의 {0}",
     "Description": "아이센탐으로의 여정에 성공함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 9
@@ -644,7 +644,7 @@
     "Title": "순례자 {0}",
     "Description": "은하계 허브를 방문함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galacticHub.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -654,7 +654,7 @@
     "Title": "타이탄 {0}",
     "Description": "쓰러진 여행자를 추적함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -664,7 +664,7 @@
     "Title": "환영-주인 {0}",
     "Description": "겍 모노리스에서 뭔가를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -674,7 +674,7 @@
     "Title": "경계를 걷는 자 {0}",
     "Description": "특이한 행성을 발견함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/planet.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -684,7 +684,7 @@
     "Title": "특이점 {0}",
     "Description": "아틀라스와 만남",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -694,7 +694,7 @@
     "Title": "변하지 않는 {0}",
     "Description": "아틀라스에게 구조를 받음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -704,7 +704,7 @@
     "Title": "신탁의 {0}",
     "Description": "코백스 모노리스에서 뭔가를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -714,7 +714,7 @@
     "Title": "전조의 {0}",
     "Description": "바이-킨 모노리스에서 뭔가를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -724,7 +724,7 @@
     "Title": "유리의 파수꾼, {0}",
     "Description": "기억을 떠올림",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -734,7 +734,7 @@
     "Title": "여행자 {0}",
     "Description": "희귀한 성계를 방문함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -744,7 +744,7 @@
     "Title": "{0}의 반향",
     "Description": "유령과 만남",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -754,7 +754,7 @@
     "Title": "반복 1 {0}",
     "Description": "원래의 여행자들 중 한 명",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/player.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -764,7 +764,7 @@
     "Title": "성간 여행자 {0}",
     "Description": "블랙홀을 통과해 여행함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/blackHole.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -774,7 +774,7 @@
     "Title": "일탈자 {0}",
     "Description": "나다와 폴로의 이야기를 끝맺음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/poloAndNada.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -784,7 +784,7 @@
     "Title": "아틀라스의 여행자 {0}",
     "Description": "아르테미스의 이야기를 끝맺음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/artemis.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -794,7 +794,7 @@
     "Title": "세계에 씨앗을 뿌리는 자 {0}",
     "Description": "아틀라스의 길을 완료함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlasPath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -804,7 +804,7 @@
     "Title": "변하지 않는 {0}",
     "Description": "시뮬레이션의 초기화를 거부함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -814,7 +814,7 @@
     "Title": "최후의 {0}",
     "Description": "아틀라스를 위해 시뮬레이션을 초기화시킴",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -824,7 +824,7 @@
     "Title": "포털-전문가 {0}",
     "Description": "처음으로 포털을 통과해 여행을 함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/portal.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -834,7 +834,7 @@
     "Title": "균열을 거니는 자 {0}",
     "Description": "특수 임무를 위해 다른 여행자들과 합류함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/weekendMission.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -844,7 +844,7 @@
     "Title": "관대한 {0}",
     "Description": "다른 여행자에게 선물을 줌",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/friend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -854,7 +854,7 @@
     "Title": "공동체의 {0}",
     "Description": "커뮤니티 연구 프로젝트에 기여함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/community.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -864,7 +864,7 @@
     "Title": "생존자 {0}",
     "Description": "생존 모드로 은하계 중심에 도달함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/survival.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -874,7 +874,7 @@
     "Title": "불사자 {0}",
     "Description": "영구적 죽음 모드로 은하계 중심에 도달함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/permadeath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -884,7 +884,7 @@
     "Title": "용서 받은 자 {0}",
     "Description": "겍의 플랙에서 그들의 이야기를 밝혀냄",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -894,7 +894,7 @@
     "Title": "{0} 프라임",
     "Description": "코백스의 기록에서 그들의 이야기를 밝혀냄",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -904,7 +904,7 @@
     "Title": "날의 사제 {0}",
     "Description": "날의 이단 행위를 이해함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -914,7 +914,7 @@
     "Title": "허크의 사제 {0}",
     "Description": "허크의 운명에 대해 알아냄",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -924,7 +924,7 @@
     "Title": "관리 위원 {0}",
     "Description": "좌초된 파일럿을 한 명 구조함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -934,7 +934,7 @@
     "Title": "유리의 {0}",
     "Description": "텔라몬의 이야기를 들음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -944,7 +944,7 @@
     "Title": "주방장 {0}",
     "Description": "크로누스에게 깊은 인상을 남김",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/cronus.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -954,7 +954,7 @@
     "Title": "노매드 {0}",
     "Description": "도보로 %NUM%u 이동함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20000
@@ -964,7 +964,7 @@
     "Title": "걷는 자 {0}",
     "Description": "도보로 %NUM%u 이동함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40000
@@ -974,7 +974,7 @@
     "Title": "길을 찾는 자 {0}",
     "Description": "도보로 %NUM%u 이동함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000
@@ -984,7 +984,7 @@
     "Title": "손님 {0}",
     "Description": "생명체 %NUM%명과 만남",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -994,7 +994,7 @@
     "Title": "사절 {0}",
     "Description": "생명체 %NUM%명과 만남",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1004,7 +1004,7 @@
     "Title": "대사 {0}",
     "Description": "생명체 %NUM%명과 만남",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1014,7 +1014,7 @@
     "Title": "단어 수집가 {0}",
     "Description": "단어 %NUM%개를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1024,7 +1024,7 @@
     "Title": "학습자 {0}",
     "Description": "단어 %NUM%개를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 120
@@ -1034,7 +1034,7 @@
     "Title": "기록수호자 {0}",
     "Description": "단어 %NUM%개를 배움",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 180
@@ -1044,7 +1044,7 @@
     "Title": "교역업자 {0}",
     "Description": "%NUM%유닛을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10000000
@@ -1054,7 +1054,7 @@
     "Title": "상인 {0}",
     "Description": "%NUM%유닛을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50000000
@@ -1064,7 +1064,7 @@
     "Title": "사업가 {0}",
     "Description": "%NUM%유닛을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000000
@@ -1074,7 +1074,7 @@
     "Title": "마스터 파일럿 {0}",
     "Description": "적대적인 함선을 %NUM%대 격파함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty1.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1084,7 +1084,7 @@
     "Title": "스타파이터 {0}",
     "Description": "적대적인 함선을 %NUM%대 격파함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty2.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1094,7 +1094,7 @@
     "Title": "중령 {0}",
     "Description": "적대적인 함선을 %NUM%대 격파함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty3.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1104,7 +1104,7 @@
     "Title": "현상수배자 {0}",
     "Description": "센티널 %NUM%대 물리침",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1114,7 +1114,7 @@
     "Title": "센티널 사냥꾼 {0}",
     "Description": "센티널 %NUM%대 물리침",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1124,7 +1124,7 @@
     "Title": "애이론-골칫거리 {0}",
     "Description": "센티널 %NUM%대 물리침",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1134,7 +1134,7 @@
     "Title": "튼튼한 {0}",
     "Description": "극한의 세상에서 모험을 계속하며 %NUM% SOLS 동안 생존함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7200
@@ -1144,7 +1144,7 @@
     "Title": "단호한 {0}",
     "Description": "극한의 세상에서 %NUM% SOLS 동안 생존함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 18000
@@ -1154,7 +1154,7 @@
     "Title": "의연한 {0}",
     "Description": "극한의 세상에서 %NUM% SOLS 동안 생존함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 28800
@@ -1164,7 +1164,7 @@
     "Title": "수색병 {0}",
     "Description": "성계 %NUM%곳을 방문함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1174,7 +1174,7 @@
     "Title": "항법사 {0}",
     "Description": "성계 %NUM%곳을 방문함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1184,7 +1184,7 @@
     "Title": "지도제작자 {0}",
     "Description": "성계 %NUM%곳을 방문함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1194,7 +1194,7 @@
     "Title": "현장 요원 {0}",
     "Description": "행성에 서식하는 생물 %NUM%종을 발견함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1204,7 +1204,7 @@
     "Title": "레인저 {0}",
     "Description": "행성에 서식하는 생물 %NUM%종을 발견함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1214,7 +1214,7 @@
     "Title": "외계생물학자 {0}",
     "Description": "행성에 서식하는 생물 %NUM%종을 발견함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1224,7 +1224,7 @@
     "Title": "농부 {0}",
     "Description": "재배한 식물 %NUM%개를 채취함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1234,7 +1234,7 @@
     "Title": "땅 주인 {0}",
     "Description": "식물 %NUM%개를 채취함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 80
@@ -1244,7 +1244,7 @@
     "Title": "분석가 {0}",
     "Description": "희귀한 식물 및 동물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1254,7 +1254,7 @@
     "Title": "연구원 {0}",
     "Description": "희귀한 식물 및 동물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1264,7 +1264,7 @@
     "Title": "기록보관자 {0}",
     "Description": "희귀한 식물 및 동물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1274,7 +1274,7 @@
     "Title": "탐사자 {0}",
     "Description": "광물 %NUM%개를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1284,7 +1284,7 @@
     "Title": "지질학자 {0}",
     "Description": "광물 %NUM%개를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1294,7 +1294,7 @@
     "Title": "묘목 {0}",
     "Description": "고유한 식물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1304,7 +1304,7 @@
     "Title": "식물학자 {0}",
     "Description": "고유한 식물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1314,7 +1314,7 @@
     "Title": "화초-종 {0}",
     "Description": "고유한 식물 %NUM%가지를 스캔함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1324,7 +1324,7 @@
     "Title": "건설자 {0}",
     "Description": "기지 부품 %NUM%개를 배치함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1334,7 +1334,7 @@
     "Title": "제작자 {0}",
     "Description": "기지 부품 %NUM%개를 배치함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1344,7 +1344,7 @@
     "Title": "선임 건축가 {0}",
     "Description": "기지 부품 %NUM%개를 배치함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 200
@@ -1354,7 +1354,7 @@
     "Title": "선장 {0}",
     "Description": "호위함 %NUM%대로 구성된 함대를 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -1364,7 +1364,7 @@
     "Title": "준장 {0}",
     "Description": "호위함 %NUM%대로 구성된 함대를 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1374,7 +1374,7 @@
     "Title": "제독 {0}",
     "Description": "호위함 %NUM%대로 구성된 함대를 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1384,7 +1384,7 @@
     "Title": "뼈 애호가 {0}",
     "Description": "골격 %NUM%구를 발굴함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -1394,7 +1394,7 @@
     "Title": "수집가 {0}",
     "Description": "골격 %NUM%구를 발굴함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20
@@ -1404,7 +1404,7 @@
     "Title": "전시책임자 {0}",
     "Description": "골격 %NUM%구를 발굴함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1414,7 +1414,7 @@
     "Title": "급습자 {0}",
     "Description": "파묻힌 유적에서 %NUM%개의 보물을 얻음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1424,7 +1424,7 @@
     "Title": "역사가 {0}",
     "Description": "보물 %NUM%개를 얻음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1434,7 +1434,7 @@
     "Title": "고고학자 {0}",
     "Description": "보물 %NUM%개를 얻음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1444,7 +1444,7 @@
     "Title": "스캐빈저 {0}",
     "Description": "유기된 화물선 %NUM%대를 노획함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1454,7 +1454,7 @@
     "Title": "고철 거래상 {0}",
     "Description": "유기 함선 %NUM%대를 노획함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1464,7 +1464,7 @@
     "Title": "노획전문가 {0}",
     "Description": "유기 함선 %NUM%대를 노획함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1474,7 +1474,7 @@
     "Title": "탐험가 {0}",
     "Description": "S 클래스 탐험함을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1484,7 +1484,7 @@
     "Title": "에이스 {0}",
     "Description": "S 클래스 전투함을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1494,7 +1494,7 @@
     "Title": "튼튼한 {0}",
     "Description": "S 클래스 수송함을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1504,7 +1504,7 @@
     "Title": "믿음직한 {0}",
     "Description": "S 클래스 셔틀을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1514,7 +1514,7 @@
     "Title": "완벽한 {0}",
     "Description": "색다른 함선을 보유함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1534,7 +1534,7 @@
     "Title": "별에서 태어난 {0}",
     "Description": "지성체 함선과 파트너가 됨",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/voidEgg.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1544,7 +1544,7 @@
     "Title": "심연의 {0}",
     "Description": "심연의 수수께끼를 해결함",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/abyss.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1794,7 +1794,7 @@
     "Title": "소각된 {0}",
     "Description": "혹독한 더위로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/heat.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1804,7 +1804,7 @@
     "Title": "얼어붙은 {0}",
     "Description": "혹독한 추위로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1814,7 +1814,7 @@
     "Title": "방사능을 쬔 {0}",
     "Description": "극도의 방사선으로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rad.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1824,7 +1824,7 @@
     "Title": "부식된 {0}",
     "Description": "독성 섭취로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/toxic.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1834,7 +1834,7 @@
     "Title": "사냥 당한 {0}",
     "Description": "부정적인 동물과의 상호작용으로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1844,7 +1844,7 @@
     "Title": "익사한 {0}",
     "Description": "질식으로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1854,7 +1854,7 @@
     "Title": "탈진한 {0}",
     "Description": "생명 유지 장치 고장으로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeSupport.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1864,7 +1864,7 @@
     "Title": "정화된 {0}",
     "Description": "센티널 몰살로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1874,7 +1874,7 @@
     "Title": "불운한 {0}",
     "Description": "파멸적인 사고로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/grenade.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1884,7 +1884,7 @@
     "Title": "무모한 {0}",
     "Description": "자기 과신으로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/jetpack.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1894,7 +1894,7 @@
     "Title": "잡아먹힌 {0}",
     "Description": "말할 수 없는 엔티티로 인해 반복 초기화",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fiend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1904,9 +1904,29 @@
     "Title": "주시받는 {0}",
     "Description": "코백스의 추적을 받음",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
+  },
+  {
+    "Id": "T_SPOOKY1",
+    "Title": "빛의 기둥 {0}",
+    "Description": "가장 어두운 유기된 화물선 대면",
+    "AppId": "other76",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'Pillar of Light'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
+  },
+  {
+    "Id": "T_SPOOKY2",
+    "Title": "불운한 자 {0}",
+    "Description": "가장 어두운 유기된 화물선 대면",
+    "AppId": "other77",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'The Doomed'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
   }
 ]

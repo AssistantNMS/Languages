@@ -4,7 +4,7 @@
     "Title": "Mercenario {0}",
     "Description": "Impresionaste a tu primer Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -14,7 +14,7 @@
     "Title": "EsfuerzoGek {0}",
     "Description": "Llegaste al nivel 1 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -24,7 +24,7 @@
     "Title": "TrabajoGek {0}",
     "Description": "Llegaste al nivel 2 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -34,7 +34,7 @@
     "Title": "Amigo {0}",
     "Description": "Llegaste al nivel 3 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -44,7 +44,7 @@
     "Title": "Supervisor {0}",
     "Description": "Llegaste al nivel 4 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -54,7 +54,7 @@
     "Title": "Familia-aroma {0}",
     "Description": "Llegaste al nivel 5 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -64,7 +64,7 @@
     "Title": "Mejor amigo {0}",
     "Description": "Llegaste al nivel 6 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -74,7 +74,7 @@
     "Title": "{0}, el Preferido",
     "Description": "Llegaste al nivel 7 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -84,7 +84,7 @@
     "Title": "Señor del comercio {0}",
     "Description": "Llegaste al nivel 8 con los Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -94,7 +94,7 @@
     "Title": "Ente {0}",
     "Description": "Impresionaste a tu primer Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -104,7 +104,7 @@
     "Title": "Sujeto de prueba {0}",
     "Description": "Llegaste al nivel 1 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -114,7 +114,7 @@
     "Title": "Ente Técnico {0}",
     "Description": "Llegaste al nivel 2 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -124,7 +124,7 @@
     "Title": "Caparazón respetado {0}",
     "Description": "Llegaste al nivel 3 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -134,7 +134,7 @@
     "Title": "La interfaz {0}",
     "Description": "Llegaste al nivel 4 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -144,7 +144,7 @@
     "Title": "Importante {0}",
     "Description": "Llegaste al nivel 5 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -154,7 +154,7 @@
     "Title": "Ente Puro {0}",
     "Description": "Llegaste al nivel 6 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -164,7 +164,7 @@
     "Title": "{0}, el Convergente",
     "Description": "Llegaste al nivel 7 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -174,7 +174,7 @@
     "Title": "El eco de {0}",
     "Description": "Llegaste al nivel 8 con los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -184,7 +184,7 @@
     "Title": "Soldado {0}",
     "Description": "Impresionaste a tu primer Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -194,7 +194,7 @@
     "Title": "Liquidador {0}",
     "Description": "Llegaste al nivel 1 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -204,7 +204,7 @@
     "Title": "Portador de bandera {0}",
     "Description": "Llegaste al nivel 2 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -214,7 +214,7 @@
     "Title": "Vy'keen de armas {0}",
     "Description": "Llegaste al nivel 3 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -224,7 +224,7 @@
     "Title": "Asesino de enemigos {0}",
     "Description": "Llegaste al nivel 4 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -234,7 +234,7 @@
     "Title": "Preceptor {0}",
     "Description": "Llegaste al nivel 5 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -244,7 +244,7 @@
     "Title": "Coadjutor {0}",
     "Description": "Llegaste al nivel 6 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -254,7 +254,7 @@
     "Title": "Templario {0}",
     "Description": "Llegaste al nivel 7 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -264,7 +264,7 @@
     "Title": "{0}, mano de los Vy'keen",
     "Description": "Llegaste al nivel 8 con los Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -274,7 +274,7 @@
     "Title": "Mensajero {0}",
     "Description": "Completaste tu primer encargo para el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -284,7 +284,7 @@
     "Title": "Agente {0}",
     "Description": "Llegaste al nivel 1 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -294,7 +294,7 @@
     "Title": "Enviado {0}",
     "Description": "Llegaste al nivel 2 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -304,7 +304,7 @@
     "Title": "Bróker {0}",
     "Description": "Llegaste al nivel 3 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -314,7 +314,7 @@
     "Title": "Gerente {0}",
     "Description": "Llegaste al nivel 4 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -324,7 +324,7 @@
     "Title": "Diplomático {0}",
     "Description": "Llegaste al nivel 5 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -334,7 +334,7 @@
     "Title": "Cónsul {0}",
     "Description": "Llegaste al nivel 6 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -344,7 +344,7 @@
     "Title": "Director {0}",
     "Description": "Llegaste al nivel 7 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -354,7 +354,7 @@
     "Title": "{0}, el Magnífico",
     "Description": "Llegaste al nivel 8 con el gremio de mercaderes",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildGek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -364,7 +364,7 @@
     "Title": "Candidato {0}",
     "Description": "Completaste tu primer encargo para el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -374,7 +374,7 @@
     "Title": "Pupilo {0}",
     "Description": "Llegaste al nivel 1 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -384,7 +384,7 @@
     "Title": "Aprendiz {0}",
     "Description": "Llegaste al nivel 2 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -394,7 +394,7 @@
     "Title": "Erudito {0}",
     "Description": "Llegaste al nivel 3 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -404,7 +404,7 @@
     "Title": "{0}, el Estudioso",
     "Description": "Llegaste al nivel 4 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -414,7 +414,7 @@
     "Title": "Académico {0}",
     "Description": "Llegaste al nivel 5 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -424,7 +424,7 @@
     "Title": "Instructor {0}",
     "Description": "Llegaste al nivel 6 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -434,7 +434,7 @@
     "Title": "Profesor {0}",
     "Description": "Llegaste al nivel 7 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -444,7 +444,7 @@
     "Title": " {0}, guardián del Conocimiento",
     "Description": "Llegaste al nivel 8 con el gremio de exploradores",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildKorvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -454,7 +454,7 @@
     "Title": "Mercenario {0}",
     "Description": "Completaste tu primer encargo para el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -464,7 +464,7 @@
     "Title": "Alférez {0}",
     "Description": "Llegaste al nivel 1 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -474,7 +474,7 @@
     "Title": "Sicario {0}",
     "Description": "Llegaste al nivel 2 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -484,7 +484,7 @@
     "Title": "Guerrero {0}",
     "Description": "Llegaste al nivel 3 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 14
@@ -494,7 +494,7 @@
     "Title": "Guarda {0}",
     "Description": "Llegaste al nivel 4 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 21
@@ -504,7 +504,7 @@
     "Title": "Prefecto {0}",
     "Description": "Llegaste al nivel 5 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -514,7 +514,7 @@
     "Title": "Comandante {0}",
     "Description": "Llegaste al nivel 6 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -524,7 +524,7 @@
     "Title": "Mariscal {0}",
     "Description": "Llegaste al nivel 7 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -534,7 +534,7 @@
     "Title": "Égida {0}",
     "Description": "Llegaste al nivel 8 con el gremio de mercenarios",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/guildVykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -544,7 +544,7 @@
     "Title": "{0} de Euclides",
     "Description": "-",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -554,7 +554,7 @@
     "Title": "{0} de Hilbert",
     "Description": "Viajaste hasta Hilbert",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -564,7 +564,7 @@
     "Title": "{0} de Calipso",
     "Description": "Viajaste hasta Calipso",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -574,7 +574,7 @@
     "Title": "{0} de Héspero",
     "Description": "Viajaste hasta Héspero",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -584,7 +584,7 @@
     "Title": "{0} de Hades",
     "Description": "Viajaste hasta Hades",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 4
@@ -594,7 +594,7 @@
     "Title": "{0} de Ickjamatew",
     "Description": "Viajaste hasta Ickjamatew",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 5
@@ -604,7 +604,7 @@
     "Title": "{0} de Budullangr",
     "Description": "Viajaste hasta Budullangr",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 6
@@ -614,7 +614,7 @@
     "Title": "{0} de Kikolgallr",
     "Description": "Viajaste hasta Kikolgallr",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7
@@ -624,7 +624,7 @@
     "Title": "{0} de Eltiensleen",
     "Description": "Viajaste hasta Eltiensleen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 8
@@ -634,7 +634,7 @@
     "Title": "{0} de Eissentam",
     "Description": "Viajaste hasta Eissentam",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galaxyMap.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 9
@@ -644,7 +644,7 @@
     "Title": "Peregrino {0}",
     "Description": "Visita el centro galáctico",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/galacticHub.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -654,7 +654,7 @@
     "Title": "Titán {0}",
     "Description": "Rastreaste a un Viajero caído",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -664,7 +664,7 @@
     "Title": "Maestro de visión {0}",
     "Description": "Aprendiste de los monolitos Gek",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -674,7 +674,7 @@
     "Title": "{0}, el Caminante de fronteras",
     "Description": "Descubriste un planeta peculiar",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/planet.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -684,7 +684,7 @@
     "Title": "{0}, la Singularidad",
     "Description": "Conociste al Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -694,7 +694,7 @@
     "Title": "{0}, el Intemporal",
     "Description": "Te salvó el Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlas.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -704,7 +704,7 @@
     "Title": "Oráculo {0}",
     "Description": "Aprendiste de los monolitos Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -714,7 +714,7 @@
     "Title": "Augur {0}",
     "Description": "Aprendiste de los monolitos Vy'keen",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/vykeen.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -724,7 +724,7 @@
     "Title": "{0}, el Guardián de Cristal",
     "Description": "Recordaste",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -734,7 +734,7 @@
     "Title": "Navegante {0}",
     "Description": "Visitaste un sistema estelar extraño",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -744,7 +744,7 @@
     "Title": "Reflejo de {0}",
     "Description": "Te encontraste con una aparición",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -754,7 +754,7 @@
     "Title": "{0}, iteración 1",
     "Description": "Uno de los Viajeros originales",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/player.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -764,7 +764,7 @@
     "Title": "Viajero interestelar {0}",
     "Description": "Viajaste a través de un agujero negro",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/blackHole.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -774,7 +774,7 @@
     "Title": "{0}, el Divergente",
     "Description": "Terminaste la historia de Nada y Polo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/poloAndNada.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -784,7 +784,7 @@
     "Title": "{0}, Viajero del Atlas",
     "Description": "Terminaste la historia de Ártemis",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/artemis.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -794,7 +794,7 @@
     "Title": "{0}, Sembrador de mundos",
     "Description": "Completaste el camino del Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/atlasPath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -804,7 +804,7 @@
     "Title": "{0}, el Intemporal",
     "Description": "Te negaste a reiniciar la simulación",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -814,7 +814,7 @@
     "Title": "{0}, el Último",
     "Description": "Reiniciaste la simulación para el Atlas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/remembrance.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -824,7 +824,7 @@
     "Title": "Adepto a los portales {0}",
     "Description": "Hiciste tu primer viaje a través de un portal",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/portal.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -834,7 +834,7 @@
     "Title": "{0}, el Caminante de grietas",
     "Description": "Te uniste a otros Viajeros en una misión especial",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/weekendMission.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -844,7 +844,7 @@
     "Title": "{0}, el Generoso",
     "Description": "Diste un regalo a otro Viajero",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/friend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -854,7 +854,7 @@
     "Title": "{0} del Colectivo",
     "Description": "Contribuiste a un proyecto de investigación de la comunidad",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/community.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -864,7 +864,7 @@
     "Title": "{0}, el Superviviente",
     "Description": "Llegaste al centro de la galaxia en el modo supervivencia",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/survival.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -874,7 +874,7 @@
     "Title": "{0}, el Inmortal",
     "Description": "Llegaste al centro de la galaxia en el modo muerte permanente",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/permadeath.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -884,7 +884,7 @@
     "Title": "{0}, el Perdonado",
     "Description": "Descubriste la historia de los Gek a través de sus placas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/gek.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -894,7 +894,7 @@
     "Title": "{0} Prima",
     "Description": "Descubriste la historia de los Korvax a través de sus registros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -904,7 +904,7 @@
     "Title": "{0}, sacerdote de Nal",
     "Description": "Comprendiste la herejía de Nal",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -914,7 +914,7 @@
     "Title": "{0}, sacerdote de Hirk",
     "Description": "Averiguaste el destino de Hirk",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -924,7 +924,7 @@
     "Title": "Conservador {0}",
     "Description": "Rescataste a un piloto abandonado",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -934,7 +934,7 @@
     "Title": "El {0} de Cristal",
     "Description": "Escuchaste el relato de Telamon",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -944,7 +944,7 @@
     "Title": "Chef {0}",
     "Description": "Impresionaste a Cronos",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/cronus.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -954,7 +954,7 @@
     "Title": "Nómada {0}",
     "Description": "Caminaste %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20000
@@ -964,7 +964,7 @@
     "Title": "{0}, el Caminante",
     "Description": "Caminaste %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40000
@@ -974,7 +974,7 @@
     "Title": "Explorador {0}",
     "Description": "Caminaste %NUM%u",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/walking.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000
@@ -984,7 +984,7 @@
     "Title": "Invitado {0}",
     "Description": "Conociste a %NUM% formas de vida",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -994,7 +994,7 @@
     "Title": "Emisario {0}",
     "Description": "Conociste a %NUM% formas de vida",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1004,7 +1004,7 @@
     "Title": "Embajador {0}",
     "Description": "Conociste a %NUM% formas de vida",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeforms.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1014,7 +1014,7 @@
     "Title": "Coleccionista de palabras {0}",
     "Description": "Aprendiste %NUM% palabras",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1024,7 +1024,7 @@
     "Title": "{0}, el Ilustrado",
     "Description": "Aprendiste %NUM% palabras",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 120
@@ -1034,7 +1034,7 @@
     "Title": "Custodio {0}",
     "Description": "Aprendiste %NUM% palabras",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/words.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 180
@@ -1044,7 +1044,7 @@
     "Title": "Mercader {0}",
     "Description": "Tuviste %NUM% unidades",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10000000
@@ -1054,7 +1054,7 @@
     "Title": "Comerciante {0}",
     "Description": "Tuviste %NUM% unidades",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50000000
@@ -1064,7 +1064,7 @@
     "Title": "Magnate {0}",
     "Description": "Tuviste %NUM% unidades",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/units.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100000000
@@ -1074,7 +1074,7 @@
     "Title": "Piloto {0}",
     "Description": "Venciste a %NUM% naves hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty1.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1084,7 +1084,7 @@
     "Title": "Piloto maestro {0}",
     "Description": "Venciste a %NUM% naves hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty2.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1094,7 +1094,7 @@
     "Title": "Vicecomodoro {0}",
     "Description": "Venciste a %NUM% naves hostiles",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bounty3.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1104,7 +1104,7 @@
     "Title": "{0}, el Buscado",
     "Description": "Derrotaste a %NUM% Centinelas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1114,7 +1114,7 @@
     "Title": "Cazador de Centinelas {0}",
     "Description": "Derrotaste a %NUM% Centinelas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 75
@@ -1124,7 +1124,7 @@
     "Title": "Flagelo de Aeron {0}",
     "Description": "Derrotaste a %NUM% Centinelas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 150
@@ -1134,7 +1134,7 @@
     "Title": "{0}, el Robusto",
     "Description": "Sobreviviste %NUM% soles en un mundo extremo en una aventura continua",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 7200
@@ -1144,7 +1144,7 @@
     "Title": "{0}, el Resuelto",
     "Description": "Sobreviviste %NUM% soles en un mundo extremo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 18000
@@ -1154,7 +1154,7 @@
     "Title": "{0}, el Impávido",
     "Description": "Sobreviviste %NUM% soles en un mundo extremo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 28800
@@ -1164,7 +1164,7 @@
     "Title": "Buscador {0}",
     "Description": "Visitaste %NUM% sistemas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1174,7 +1174,7 @@
     "Title": "Navegador {0}",
     "Description": "Visitaste %NUM% sistemas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1184,7 +1184,7 @@
     "Title": "{0}, el Cartógrafo",
     "Description": "Visitaste %NUM% sistemas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/surviveExtreme.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1194,7 +1194,7 @@
     "Title": "Agente de campo {0}",
     "Description": "Descubriste %NUM% especies planetarias",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1204,7 +1204,7 @@
     "Title": "Guardabosques {0}",
     "Description": "Descubriste %NUM% especies planetarias",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1214,7 +1214,7 @@
     "Title": "Xenobiólogo {0}",
     "Description": "Descubriste %NUM% especies planetarias",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1224,7 +1224,7 @@
     "Title": "Granjero {0}",
     "Description": "Recolectaste %NUM% plantas cultivadas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 40
@@ -1234,7 +1234,7 @@
     "Title": "Maestro de terrenos {0}",
     "Description": "Recolecta %NUM% plantas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 80
@@ -1244,7 +1244,7 @@
     "Title": "Analista {0}",
     "Description": "Escaneaste %NUM% plantas y animales raros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1254,7 +1254,7 @@
     "Title": "Investigador {0}",
     "Description": "Escaneaste %NUM% plantas y animales raros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1264,7 +1264,7 @@
     "Title": "Archivista {0}",
     "Description": "Escaneaste %NUM% plantas y animales raros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1274,7 +1274,7 @@
     "Title": "Prospector {0}",
     "Description": "Escaneaste %NUM% minerales",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1284,7 +1284,7 @@
     "Title": "Geólogo {0}",
     "Description": "Escaneaste %NUM% minerales",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rock.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1294,7 +1294,7 @@
     "Title": "Plantón {0}",
     "Description": "Escaneaste %NUM% plantas únicas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1304,7 +1304,7 @@
     "Title": "Botánico {0}",
     "Description": "Escaneaste %NUM% plantas únicas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 60
@@ -1314,7 +1314,7 @@
     "Title": "Familia-flor {0}",
     "Description": "Escaneaste %NUM% plantas únicas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/plant.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1324,7 +1324,7 @@
     "Title": "{0}, el Fundador",
     "Description": "Colocaste %NUM% partes de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1334,7 +1334,7 @@
     "Title": "{0}, el Constructor",
     "Description": "Colocaste %NUM% partes de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 100
@@ -1344,7 +1344,7 @@
     "Title": "Maestro arquitecto {0}",
     "Description": "Colocaste %NUM% partes de base",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/build.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 200
@@ -1354,7 +1354,7 @@
     "Title": "Capitán {0}",
     "Description": "Tuviste una flota de %NUM% fragatas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 2
@@ -1364,7 +1364,7 @@
     "Title": "Comodoro {0}",
     "Description": "Tuviste una flota de %NUM% fragatas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 15
@@ -1374,7 +1374,7 @@
     "Title": "Almirante {0}",
     "Description": "Tuviste una flota de %NUM% fragatas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/frigate.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1384,7 +1384,7 @@
     "Title": "{0}, el Huesudo",
     "Description": "Excavaste %NUM% esqueletos",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 3
@@ -1394,7 +1394,7 @@
     "Title": "{0}, el Coleccionista",
     "Description": "Excavaste %NUM% esqueletos",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 20
@@ -1404,7 +1404,7 @@
     "Title": "Curador {0}",
     "Description": "Excavaste %NUM% esqueletos",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/bones.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 50
@@ -1414,7 +1414,7 @@
     "Title": "Asaltante {0}",
     "Description": "Encontraste %NUM% tesoros entre las ruinas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1424,7 +1424,7 @@
     "Title": "Historiador {0}",
     "Description": "Encontraste %NUM% tesoros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1434,7 +1434,7 @@
     "Title": "Arqueólogo {0}",
     "Description": "Encontraste %NUM% tesoros",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/treasure.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 30
@@ -1444,7 +1444,7 @@
     "Title": "Carroñero {0}",
     "Description": "Recuperaste %NUM% objetos de cargueros en ruinas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1454,7 +1454,7 @@
     "Title": "Chatarrero {0}",
     "Description": "Recuperaste %NUM% objetos de ruinas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 10
@@ -1464,7 +1464,7 @@
     "Title": "Rebuscador {0}",
     "Description": "Recuperaste %NUM% objetos de ruinas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/derelict.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 25
@@ -1474,7 +1474,7 @@
     "Title": "{0}, el Explorador",
     "Description": "Hazte con una nave de exploración de clase S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/unknown.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1484,7 +1484,7 @@
     "Title": "{0} experto",
     "Description": "Hazte con una nave de combate de clase S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1494,7 +1494,7 @@
     "Title": "{0} reforzado",
     "Description": "Hazte con una nave de transporte de clase S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1504,7 +1504,7 @@
     "Title": "{0} fiable",
     "Description": "Hazte con una nave transbordadora de clase S",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1514,7 +1514,7 @@
     "Title": "{0} perfecto",
     "Description": "Hazte con una nave exótica",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sclass.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1534,7 +1534,7 @@
     "Title": "{0}, Nacido en las estrellas",
     "Description": "Asóciate con una nave sensible",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/voidEgg.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1544,7 +1544,7 @@
     "Title": "{0} de las profundidades",
     "Description": "Resolviste un misterio abisal",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/abyss.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 0
@@ -1794,7 +1794,7 @@
     "Title": "{0}, el Incinerado",
     "Description": "Iteración reiniciada por calor extremo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/heat.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1804,7 +1804,7 @@
     "Title": "{0}, el Congelado",
     "Description": "Iteración reiniciada por frío extremo",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1814,7 +1814,7 @@
     "Title": "{0}, el Irradiado",
     "Description": "Iteración reiniciada por radiación abrumadora",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/rad.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1824,7 +1824,7 @@
     "Title": "{0}, el Corroído",
     "Description": "Iteración reiniciada por consumo tóxico",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/toxic.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1834,7 +1834,7 @@
     "Title": "{0}, el Perseguido",
     "Description": "Iteración reiniciada por interacción adversa con fauna",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fauna.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1844,7 +1844,7 @@
     "Title": "{0}, el Ahogado",
     "Description": "Iteración reiniciada por asfixia",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/water.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1854,7 +1854,7 @@
     "Title": "{0}, el Exhausto",
     "Description": "Iteración reiniciada por fallo de soporte vital",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/lifeSupport.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1864,7 +1864,7 @@
     "Title": "{0}, el Purificado",
     "Description": "Iteración reiniciada por exterminación de Centinelas",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/sentinel.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1874,7 +1874,7 @@
     "Title": "{0}, el Desafortunado",
     "Description": "Iteración reiniciada por accidente catastrófico",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/grenade.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1884,7 +1884,7 @@
     "Title": "{0}, el Temerario",
     "Description": "Iteración reiniciada por exceso de confianza",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/jetpack.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1894,7 +1894,7 @@
     "Title": "{0}, el Consumido",
     "Description": "Iteración reiniciada por entidad inefable",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/fiend.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
@@ -1904,9 +1904,29 @@
     "Title": "{0}, el Observado",
     "Description": "Te rastrearon los Korvax",
     "AppId": "",
-    "AppIcon": "",
+    "AppIcon": "titles/korvax.png",
     "AppName": "",
     "UnlockedByStatLocaleKey": "about",
     "UnlockedByStatValue": 1
+  },
+  {
+    "Id": "T_SPOOKY1",
+    "Title": "{0}, Pilar de Luz",
+    "Description": "Exploraste los derrelictos más oscuros del universo",
+    "AppId": "other76",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'Pillar of Light'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
+  },
+  {
+    "Id": "T_SPOOKY2",
+    "Title": "{0} la Maldita",
+    "Description": "Exploraste los derrelictos más oscuros del universo",
+    "AppId": "other77",
+    "AppIcon": "titles/spooky.png",
+    "AppName": "Title: 'The Doomed'",
+    "UnlockedByStatLocaleKey": "about",
+    "UnlockedByStatValue": 0
   }
 ]

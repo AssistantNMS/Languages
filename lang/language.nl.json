@@ -326,5 +326,8 @@
   "owned": "Owned",
   "notOwned": "Not Owned",
   "playerName": "Player Name",
+  "loadMore": "Load more",
+  "release": "Release {0}",
+  "pendingAppStoreRelease": "Pending App Store approval",
   "translatedBy": "Arnold van Ree & Sphynxcolt"
 }
